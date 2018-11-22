@@ -96,6 +96,13 @@
         <mark key="^" line="25" column="72" />
         <mark key="." line="25" column="72" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PsiPower/Whirlpool.cs" timestamp="1542888066497">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="148" column="12" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="147" column="9" />
+        <mark key="^" line="145" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1542816108837">
         <mark key="'" line="870" column="19" />
         <mark key="[" line="1714" column="0" />
@@ -152,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="180" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="50" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ActionsPlanner.cs" />
       <jump line="18" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/BaseAllyAbility.cs" />
@@ -252,49 +258,50 @@
       <jump line="10" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/GiveAllAllies.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/GiveAllAllies.cs" />
       <jump line="11" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/GiveAllAllies.cs" />
+      <jump line="92" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PsiPower/Whirlpool.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GetPosition());</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>GetPosition());</text>
+        <text encoding="base64">ID0gMC4yZjs=</text>
       </register>
       <register name="/" type="4">
         <text>G</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">R2l2ZUFsbEFsbGllcyA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfZGFtYWdlUGVyaW9kID0gMC4yZjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImEiLkNMb2coKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlNldEJvb2woImlzUmV2ZW5nZSIsIHNob3dSZXZlbmdlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgTW92ZUdyb3VuZEVmZmVjdCgpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cgo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTW92ZUVmZmVjdFRvVGhlR3JvdW4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImEiLkNMb2coKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlNldEJvb2woImlzUmV2ZW5nZSIsIHNob3dSZXZlbmdlKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
