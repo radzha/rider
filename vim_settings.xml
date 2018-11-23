@@ -45,12 +45,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1542973955940">
         <mark key="'" line="88" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1542967117018">
-        <mark key="'" line="493" column="28" />
-        <mark key="[" line="471" column="0" />
-        <mark key="]" line="471" column="0" />
-        <mark key="." line="471" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1542960149055">
         <mark key="'" line="317" column="0" />
         <mark key="[" line="306" column="17" />
@@ -84,6 +78,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionUpgradeVirtualList.cs" timestamp="1542970888971">
         <mark key="'" line="10" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ScreenModelWeaponLoader.cs" timestamp="1542976266074" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/AllyAbilitiesManager.cs" timestamp="1542815760847">
         <mark key="'" line="100" column="0" />
         <mark key="[" line="51" column="54" />
@@ -165,9 +160,6 @@
         <mark key="." line="42" column="59" />
         <mark key="^" line="42" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1542966939253">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1542972053619">
         <mark key="'" line="29" column="32" />
         <mark key="[" line="132" column="0" />
@@ -178,9 +170,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="86" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1542966783814">
-        <mark key="'" line="845" column="16" />
-        <mark key="^" line="838" column="128" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/WeaponScreenModelViewSettings.cs" timestamp="1542977018677">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="44" />
+        <mark key="." line="17" column="44" />
       </file>
       <file name="/PlayerBaseRewardItem.cs" timestamp="1542890940979" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1542967485814">
@@ -218,11 +213,9 @@
         <mark key="^" line="285" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1542971750634" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/WeaponScreenModelViewSettings.cs.meta" timestamp="1542976342273" />
     </filemarks>
     <jumps>
-      <jump line="302" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="312" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="316" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="39" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/AttackingAllyAbility.cs" />
       <jump line="53" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/GrenadesAllyAbility.cs" />
       <jump line="51" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/GrenadesAllyAbility.cs" />
@@ -320,6 +313,9 @@
       <jump line="90" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOfferInfo.cs" />
       <jump line="29" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOfferInfo.cs" />
       <jump line="44" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOfferInfo.cs" />
+      <jump line="17" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/WeaponScreenModelViewSettings.cs" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/WeaponScreenModelViewSettings.cs" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/WeaponScreenModelViewSettings.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
