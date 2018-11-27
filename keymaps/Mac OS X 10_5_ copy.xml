@@ -36,8 +36,12 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="IntroduceParameter" />
   <action id="ParameterInfo" />
   <action id="RunDashboard.Debug" />
+  <action id="TriggerPauseInUnityEditor">
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
   <action id="TriggerPlayInUnity">
     <keyboard-shortcut first-keystroke="meta p" />
   </action>
