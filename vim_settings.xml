@@ -133,12 +133,11 @@
         <mark key="." line="17" column="44" />
       </file>
       <file name="/PlayerBaseRewardItem.cs" timestamp="1542890940979" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" timestamp="1543322858860">
-        <mark key="'" line="38" column="79" />
-        <mark key="[" line="36" column="108" />
-        <mark key="]" line="36" column="122" />
-        <mark key="." line="36" column="122" />
-        <mark key="^" line="36" column="122" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" timestamp="1543327847117">
+        <mark key="[" line="41" column="91" />
+        <mark key="]" line="41" column="114" />
+        <mark key="." line="41" column="114" />
+        <mark key="^" line="41" column="114" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1542971750634" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/WeaponScreenModelViewSettings.cs.meta" timestamp="1542976342273" />
@@ -249,6 +248,9 @@
       <file name="/Dummy.txt" timestamp="1543320843585">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterStatRow.cs" timestamp="1543327135891">
+        <mark key="[" line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/HologramWeaponController.cs" timestamp="1543243065848">
         <mark key="'" line="121" column="0" />
         <mark key="[" line="52" column="40" />
@@ -306,8 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" />
-      <jump line="56" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" />
       <jump line="45" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" />
       <jump line="4" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ShieldInfoScreen.cs" />
       <jump line="87" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
@@ -406,52 +406,54 @@
       <jump line="98" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="301" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="302" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="38" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" />
+      <jump line="28" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GetModifiedDistance()</text>
+        <text>rightCompared.CurrentSpeed);</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>GetModifiedDistance()</text>
+        <text>rightCompared.CurrentSpeed);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxIZWxpY29wdGVyQ2FwYWNpdHlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgYm9vbCBJc0hlbGljb3B0ZXJSZXN0cmljdGlvblNhdGlzZmllZChPZmZlcnMgb2ZmZXIpCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmVzdHJpY3Rpb25DaGVja2VyID0gbmV3IFJlc3RyaWN0aW9uQ2hlY2tlcihVc2VySW5mby5HZXRVc2VySW5mbygpKTsKICAgICAgICAgICAgcmV0dXJuIHJlc3RyaWN0aW9uQ2hlY2tlci5Jc1NhdGlzZmllZChvZmZlci5SZXN0cmljdGlvbnMpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JhbmdlU3RhdFJvdy5NYXhWYWx1ZSA9IHJpZ2h0Q29tcGFyZWQuRGlzdGFuY2UuRGF0YS5NaW5WYWx1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgVW5pdHlCZWhhdmlvcjxpbnQ+IEhlbGljb3B0ZXJDYXBhY2l0eSB7IGdldCB7IHJldHVybiBHZXRTa2lsbChTS0lMTF9IRUxJQ09QVEVSX0NBUEFDSVRZKTsgfSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXIgYWxsSGVsaWNvcHRlcnMgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKS5IZWxpY29wdGVyczsKICAgICAgICAgICAgICAgIHZhciBuZXdIZWxpY29wdGVyID0gYWxsSGVsaWNvcHRlcnMKICAgICAgICAgICAgICAgICAgICAuRmlyc3RPckRlZmF1bHQoaCA9PiBoLlZhbHVlLlNjaWVudGlmaWNQcm9ncmVzc0xldmVsID09IGN1cnJlbnRTY2llbmNlTGV2ZWwpLlZhbHVlOwoKICAgICAgICAgICAgICAgIGlmIChuZXdIZWxpY29wdGVyICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGl0ZW0gPSBJbnRlcmZhY2VMb2NrZXJzU3RhdGUuVW5sb2NrYWJsZUl0ZW1zLkhhbmdhckJ1dHRvbjsKICAgICAgICAgICAgICAgICAgICB2YXIgdW5sb2NrZWQgPSBVc2VySW5mby5HZXRVc2VySW5mbygpLkludGVyYWNlTG9ja2VyU3RhdGUuSXNJdGVtVW5sb2NrZWQoaXRlbSk7CiAgICAgICAgICAgICAgICAgICAgdmFyIGhlbGljb3B0ZXJDb250ZXh0ID0gVXRpbHMuV3JhcFRvQ29udGV4dChuZXdIZWxpY29wdGVyLCBuZXdbXSB7IXVubG9ja2VkfSk7CiAgICAgICAgICAgICAgICAgICAgc2NyZWVucy5BZGQobmV3IFVJTWFuYWdlci5GbG93U2NyZWVuSXRlbShTY3JlZW5UeXBlLk5ld0hlbGljb3B0ZXJQb3B1cCwgaGVsaWNvcHRlckNvbnRleHQpKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5Eb0ZyYW1lTGF0ZXIoKCk9PlNob3dTdGF0cyhsZWZ0Q29tcGFyZWQsIHJpZ2h0Q29tcGFyZWQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzLkdldChvdXQgU2NpZW50aWZpY1Byb2dyZXNzTGV2ZWwsICJzY2llbnRpZmljUHJvZ3Jlc3NMZXZlbCIsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVW5pdHlCZWhhdmlvcjxpbnQ+IEhlbGljb3B0ZXJDYXBhY2l0eSB7IGdldCB7IHJldHVybiBHZXRTa2lsbChTS0lMTF9IRUxJQ09QVEVSX0NBUEFDSVRZKTsgfSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8g0KLRgNC10LHRg9C10LzRi9C5INGD0YDQvtCy0LXQvdGMINC90LDRg9GH0L3QvtCz0L4g0L/RgNC+0LPRgNC10YHRgdCwCiAgICAgICAgcHVibGljIHJlYWRvbmx5IGludCBTY2llbnRpZmljUHJvZ3Jlc3NMZXZlbDsKICAgICAgICAK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICB2YXIgYWxsSGVsaWNvcHRlcnMgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKS5IZWxpY29wdGVyczsKICAgICAgICAgICAgICAgIHZhciBuZXdIZWxpY29wdGVyID0gYWxsSGVsaWNvcHRlcnMKICAgICAgICAgICAgICAgICAgICAuRmlyc3RPckRlZmF1bHQoaCA9PiBoLlZhbHVlLlNjaWVudGlmaWNQcm9ncmVzc0xldmVsID09IGN1cnJlbnRTY2llbmNlTGV2ZWwpLlZhbHVlOwoKICAgICAgICAgICAgICAgIGlmIChuZXdIZWxpY29wdGVyICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGl0ZW0gPSBJbnRlcmZhY2VMb2NrZXJzU3RhdGUuVW5sb2NrYWJsZUl0ZW1zLkhhbmdhckJ1dHRvbjsKICAgICAgICAgICAgICAgICAgICB2YXIgdW5sb2NrZWQgPSBVc2VySW5mby5HZXRVc2VySW5mbygpLkludGVyYWNlTG9ja2VyU3RhdGUuSXNJdGVtVW5sb2NrZWQoaXRlbSk7CiAgICAgICAgICAgICAgICAgICAgdmFyIGhlbGljb3B0ZXJDb250ZXh0ID0gVXRpbHMuV3JhcFRvQ29udGV4dChuZXdIZWxpY29wdGVyLCBuZXdbXSB7IXVubG9ja2VkfSk7CiAgICAgICAgICAgICAgICAgICAgc2NyZWVucy5BZGQobmV3IFVJTWFuYWdlci5GbG93U2NyZWVuSXRlbShTY3JlZW5UeXBlLk5ld0hlbGljb3B0ZXJQb3B1cCwgaGVsaWNvcHRlckNvbnRleHQpKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBfcmVxdWlyZWRTY2llbmNlUHJvZ3Jlc3M7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWVzLkdldChvdXQgU2NpZW50aWZpY1Byb2dyZXNzTGV2ZWwsICJzY2llbnRpZmljUHJvZ3Jlc3NMZXZlbCIsIDApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlcXVpcmVkU2NpZW5jZVByb2dyZXNzLnRleHQgPSBuZXh0SGVsaWNvcHRlci5TY2llbnRpZmljUHJvZ3Jlc3NMZXZlbC5Ub1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8g0KLRgNC10LHRg9C10LzRi9C5INGD0YDQvtCy0LXQvdGMINC90LDRg9GH0L3QvtCz0L4g0L/RgNC+0LPRgNC10YHRgdCwCiAgICAgICAgcHVibGljIHJlYWRvbmx5IGludCBTY2llbnRpZmljUHJvZ3Jlc3NMZXZlbDsKICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmljYXRlIFJlc3RyaVNrago=</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBfcmVxdWlyZWRTY2llbmNlUHJvZ3Jlc3M7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JlcXVpcmVkU2NpZW5jZVByb2dyZXNzLnRleHQgPSBuZXh0SGVsaWNvcHRlci5TY2llbnRpZmljUHJvZ3Jlc3NMZXZlbC5Ub1N0cmluZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmljYXRlIFJlc3RyaVNrago=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -493,8 +495,8 @@
         <entry>va{:action ReformatCode</entry>
         <entry>action GoToFile()</entry>
         <entry>action GoToFile</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
