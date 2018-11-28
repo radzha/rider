@@ -187,6 +187,13 @@
         <mark key="^" line="150" column="11" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TechnologyPart.cs" timestamp="1543401451161">
+        <mark key="'" line="346" column="41" />
+        <mark key="[" line="203" column="96" />
+        <mark key="]" line="203" column="106" />
+        <mark key="." line="203" column="106" />
+        <mark key="^" line="203" column="106" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/PsiDeathController.cs" timestamp="1542981695341">
         <mark key="'" line="192" column="26" />
       </file>
@@ -232,7 +239,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" timestamp="1542806609392">
         <mark key="'" line="472" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543396795051">
+      <file name="/Dummy.txt" timestamp="1543400609820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterStatRow.cs" timestamp="1543400296121">
@@ -291,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
       <jump line="47" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
       <jump line="60" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
       <jump line="61" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
@@ -391,22 +397,23 @@
       <jump line="73" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/DeltaValue.cs" />
       <jump line="79" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/DeltaValue.cs" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/DeltaValue.cs" />
+      <jump line="346" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TechnologyPart.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;;</text>
+        <text>Helicopters</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;;</text>
+        <text>Helicopters</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXN0cmljdGlvbkNoZWNrZXJcPg==</text>
+        <text encoding="base64">XDxHZXRQcm9maXRzTGlzdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChfZGVsdGFWYWx1ZXMgIT0gbnVsbCAmJiBfZGVsdGFWYWx1ZXNbMF0gIT1udWxsKSBfZGVsdGFWYWx1ZXNbMF0uVXBkYXRlVmlldyhlcXVpcHBlZFZhbHVlLCBzZWxlY3RlZFZhbHVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUGFyc2VUZWNoUHJvZml0c0Zyb21FbnRpdHlSZXN0cmljdGlvbnMocHJvZml0c0RpY3QsIHN0b3JhZ2UsIEdldFByb2ZpdHNMaXN0KHN0b3JhZ2UuSXRlbXMpLCBQcm9maXRUeXBlLkl0ZW0sICJUZWNoUmV3YXJkSXRlbSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcHJlZml4ID0gIiI7Cg==</text>
@@ -440,17 +447,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXN0cmljdGlvbkNoZWNrZXJcPg==</last-search>
+      <last-search encoding="base64">XDxHZXRQcm9maXRzTGlzdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXN0cmljdGlvbkNoZWNrZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRQcm9maXRzTGlzdFw+</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTY2llbnRpZmljTGV2ZWxcPg==</entry>
         <entry encoding="base64">XDxHZXRTdGF0ZVw+</entry>
         <entry>userin</entry>
         <entry>useri</entry>
@@ -470,6 +476,7 @@
         <entry>restr</entry>
         <entry encoding="base64">XDxfcmVzdHJpY3Rpb25DaGVja2VyXD4=</entry>
         <entry encoding="base64">XDxSZXN0cmljdGlvbkNoZWNrZXJcPg==</entry>
+        <entry encoding="base64">XDxHZXRQcm9maXRzTGlzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
