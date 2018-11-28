@@ -116,12 +116,12 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="45" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1543336625444">
-        <mark key="'" line="108" column="39" />
-        <mark key="[" line="154" column="27" />
-        <mark key="]" line="154" column="73" />
-        <mark key="." line="154" column="73" />
-        <mark key="^" line="154" column="73" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1543391973021">
+        <mark key="'" line="194" column="12" />
+        <mark key="[" line="203" column="40" />
+        <mark key="]" line="214" column="65" />
+        <mark key="." line="214" column="65" />
+        <mark key="^" line="214" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/WeaponScreenModelViewSettings.cs" timestamp="1542977380747">
         <mark key="'" line="30" column="0" />
@@ -248,9 +248,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" timestamp="1542806609392">
         <mark key="'" line="472" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543336629052">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterStatRow.cs" timestamp="1543327135891">
         <mark key="[" line="18" column="17" />
       </file>
@@ -315,9 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/HelicopterUtils.cs" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/HelicopterUtils.cs" />
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/HelicopterUtils.cs" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/HelicopterUtils.cs" />
       <jump line="48" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/HelicopterUtils.cs" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" />
@@ -405,7 +399,6 @@
       <jump line="99" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="112" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="96" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="34" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="90" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="100" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
@@ -415,58 +408,62 @@
       <jump line="197" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="154" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="108" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
+      <jump line="200" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
+      <jump line="194" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbWF4SGVsaWNvcHRlciA9IEhlbGljb3B0ZXJVdGlscy5HZXRNYXhIZWxpY29wdGVyKF9zdG9yYWdlKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKG1heEhlbGljb3B0ZXIgPT0gY3VycmVudEhlbGljb3B0ZXIpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RhdGUuTWF4VXBncmFkZWQ7CiAgICAgICAgICAgICAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tYW5kID0gbmV3IEhlbGljb3B0ZXJVcGdyYWRlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBPblN1Y2Nlc3MgPSBkYXRhID0+IHsgT25TdWNjZXNzZnVsVXBncmFkZShuZXh0SGVsaWNvcHRlcik7IH0sCiAgICAgICAgICAgICAgICAgICAgICAgIE9uRXJyb3IgPSBEZWJ1Zy5Mb2dFcnJvcgogICAgICAgICAgICAgICAgICAgIH07</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>EnoughEvoMoney;</text>
+        <text>HelicopterUtils.GetUserHelicopter()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDcmVhdGVGcm9tU2VydmVyTW9uZXlDb3VudHNcPg==</text>
+        <text>current</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBfdXNlckluZm8uSGFzRW5vdWdoTW9uZXkodXBkYXRlUHJpY2UpID8gU3RhdGUuQ2FuQnV5TmV4dCA6IFN0YXRlLk5vdEVub3VnaE1vbmV5Owo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21tYW5kID0gbmV3IEhlbGljb3B0ZXJVcGdyYWRlCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICBPblN1Y2Nlc3MgPSBkYXRhID0+IHsgT25TdWNjZXNzZnVsVXBncmFkZShuZXh0SGVsaWNvcHRlcik7IH0sCiAgICAgICAgICAgICAgICAgICAgICAgIE9uRXJyb3IgPSBEZWJ1Zy5Mb2dFcnJvcgogICAgICAgICAgICAgICAgICAgIH07</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbWF4SGVsaWNvcHRlciA9IEhlbGljb3B0ZXJVdGlscy5HZXRNYXhIZWxpY29wdGVyKF9zdG9yYWdlKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKG1heEhlbGljb3B0ZXIgPT0gY3VycmVudEhlbGljb3B0ZXIpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RhdGUuTWF4VXBncmFkZWQ7CiAgICAgICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIZWxpY29wdGVyVXBncmFkZSBjb21tYW5kOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmljZSA9IFVzZXJJbmZvLk1vbmV5Q291bnQuQ3JlYXRlRnJvbVNlcnZlck1vbmV5Q291bnRzKG5leHRIZWxpY29wdGVyLlByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdmFyIG5leHRIZWxpY29wdGVyID0gSGVsaWNvcHRlclV0aWxzLkdldE5leHRIZWxpY29wdGVyKF91c2VySW5mbywgX3N0b3JhZ2UpOwogICAgICAgICAgICAgICAgICAgIHZhciBwcmljZSA9IFVzZXJJbmZvLk1vbmV5Q291bnQuQ3JlYXRlRnJvbVNlcnZlck1vbmV5Q291bnRzKG5leHRIZWxpY29wdGVyLlByaWNlKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKEhhc05vdFRlY2hub2xvZ3kobmV4dEhlbGljb3B0ZXIpKSByZXR1cm4gU3RhdGUuSGFzTm90VGVjaG5vbG9neTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByaWNlID0gVXNlckluZm8uTW9uZXlDb3VudC5DcmVhdGVGcm9tU2VydmVyTW9uZXlDb3VudHMobmV4dEhlbGljb3B0ZXIuUHJpY2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1heEhlbGljb3B0ZXIgPSBIZWxpY29wdGVyVXRpbHMuR2V0TWF4SGVsaWNvcHRlcihfc3RvcmFnZSk7CgogICAgICAgICAgICBpZiAobWF4SGVsaWNvcHRlciA9PSBjdXJyZW50SGVsaWNvcHRlcikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIFN0YXRlLk1heFVwZ3JhZGVkOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgbmV4dEhlbGljb3B0ZXIgPSBIZWxpY29wdGVyVXRpbHMuR2V0TmV4dEhlbGljb3B0ZXIoX3VzZXJJbmZvLCBfc3RvcmFnZSk7CiAgICAgICAgICAgIHZhciBwcmljZSA9IFVzZXJJbmZvLk1vbmV5Q291bnQuQ3JlYXRlRnJvbVNlcnZlck1vbmV5Q291bnRzKG5leHRIZWxpY29wdGVyLlByaWNlKTsKCiAgICAgICAgICAgIGlmIChIYXNOb3RUZWNobm9sb2d5KG5leHRIZWxpY29wdGVyKSkgcmV0dXJuIFN0YXRlLkhhc05vdFRlY2hub2xvZ3k7CiAgICAgICAgICAgIHJldHVybiBTdGF0ZS5NYXhVcGdyYWRlZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbWF4SGVsaWNvcHRlciA9IEhlbGljb3B0ZXJVdGlscy5HZXRNYXhIZWxpY29wdGVyKF9zdG9yYWdlKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKG1heEhlbGljb3B0ZXIgPT0gY3VycmVudEhlbGljb3B0ZXIpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RhdGUuTWF4VXBncmFkZWQ7CiAgICAgICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB1cGRhdGVQcmljZSA9IFVzZXJJbmZvLk1vbmV5Q291bnQuQ3JlYXRlRnJvbVNlcnZlck1vbmV5Q291bnRzKGN1cnJlbnRIZWxpY29wdGVyLlVwZ3JhZGVQcmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmljZSA9IFVzZXJJbmZvLk1vbmV5Q291bnQuQ3JlYXRlRnJvbVNlcnZlck1vbmV5Q291bnRzKG5leHRIZWxpY29wdGVyLlByaWNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgdmFyIG5leHRIZWxpY29wdGVyID0gSGVsaWNvcHRlclV0aWxzLkdldE5leHRIZWxpY29wdGVyKF91c2VySW5mbywgX3N0b3JhZ2UpOwogICAgICAgICAgICAgICAgICAgIHZhciBwcmljZSA9IFVzZXJJbmZvLk1vbmV5Q291bnQuQ3JlYXRlRnJvbVNlcnZlck1vbmV5Q291bnRzKG5leHRIZWxpY29wdGVyLlByaWNlKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKEhhc05vdFRlY2hub2xvZ3kobmV4dEhlbGljb3B0ZXIpKSByZXR1cm4gU3RhdGUuSGFzTm90VGVjaG5vbG9neTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU3RhdGUuSGFzTm90VGVjaG5vbG9neToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1heEhlbGljb3B0ZXIgPSBIZWxpY29wdGVyVXRpbHMuR2V0TWF4SGVsaWNvcHRlcihfc3RvcmFnZSk7CgogICAgICAgICAgICBpZiAobWF4SGVsaWNvcHRlciA9PSBjdXJyZW50SGVsaWNvcHRlcikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIFN0YXRlLk1heFVwZ3JhZGVkOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgbmV4dEhlbGljb3B0ZXIgPSBIZWxpY29wdGVyVXRpbHMuR2V0TmV4dEhlbGljb3B0ZXIoX3VzZXJJbmZvLCBfc3RvcmFnZSk7CiAgICAgICAgICAgIHZhciBwcmljZSA9IFVzZXJJbmZvLk1vbmV5Q291bnQuQ3JlYXRlRnJvbVNlcnZlck1vbmV5Q291bnRzKG5leHRIZWxpY29wdGVyLlByaWNlKTsKCiAgICAgICAgICAgIGlmIChIYXNOb3RUZWNobm9sb2d5KG5leHRIZWxpY29wdGVyKSkgcmV0dXJuIFN0YXRlLkhhc05vdFRlY2hub2xvZ3k7CiAgICAgICAgICAgIHJldHVybiBTdGF0ZS5NYXhVcGdyYWRlZDsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDcmVhdGVGcm9tU2VydmVyTW9uZXlDb3VudHNcPg==</last-search>
+      <last-search>current</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDcmVhdGVGcm9tU2VydmVyTW9uZXlDb3VudHNcPg==</last-pattern>
+      <last-pattern>current</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
       <last-dir>1</last-dir>
@@ -475,7 +472,6 @@
     <history>
       <history-search>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
-        <entry>current</entry>
         <entry encoding="base64">XDxIZWxpY29wdGVyRGlzdGFuY2VcPg==</entry>
         <entry encoding="base64">XDxIZWxpY29wdGVyQ2FwYWNpdHlcPg==</entry>
         <entry encoding="base64">XDxIYXNOb3RUZWNobm9sb2d5XD4=</entry>
@@ -494,6 +490,7 @@
         <entry encoding="base64">XDxIZWxpY29wdGVyVXRpbHNcPg==</entry>
         <entry>price</entry>
         <entry encoding="base64">XDxDcmVhdGVGcm9tU2VydmVyTW9uZXlDb3VudHNcPg==</entry>
+        <entry>current</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
