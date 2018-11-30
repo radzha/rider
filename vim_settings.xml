@@ -3,11 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" timestamp="1543593023933">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatarsScreen.cs" timestamp="1543593284973">
+        <mark key="'" line="48" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" timestamp="1543593674076">
         <mark key="'" line="300" column="45" />
-        <mark key="[" line="311" column="13" />
-        <mark key="]" line="313" column="24" />
-        <mark key="." line="313" column="24" />
+        <mark key="[" line="309" column="61" />
+        <mark key="]" line="309" column="61" />
+        <mark key="." line="309" column="61" />
         <mark key="^" line="313" column="24" />
       </file>
       <file name="/Dummy.cs" timestamp="1543577856873">
@@ -290,7 +293,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543592013462">
+      <file name="/Dummy.txt" timestamp="1543593101791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TargetExtension.cs" timestamp="1543509216617">
@@ -346,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="59" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="88" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -446,19 +448,20 @@
       <jump line="50" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
       <jump line="63" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
       <jump line="297" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
+      <jump line="48" column="77" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatarsScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkLkNMb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.Id;</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.Id;</text>
       </register>
       <register name="/" type="4">
-        <text>tech</text>
+        <text>restr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE5vdEF2YWlsYWJsZSwKICAgICAgICAgICAgICAgIEF2YWlsYWJsZSwKICAgICAgICAgICAgICAgIExlYXJuaW5nLAogICAgICAgICAgICAgICAgUmVhZHlGb3JSZWNlaXZlLAogICAgICAgICAgICAgICAgTGVhcm5lZAo=</text>
@@ -495,9 +498,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tech</last-search>
+      <last-search>restr</last-search>
       <last-offset />
-      <last-pattern>tech</last-pattern>
+      <last-pattern>restr</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
       <last-dir>1</last-dir>
@@ -505,7 +508,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;items</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxfaXNQcmV2aWV3XD4=</entry>
         <entry>clog</entry>
@@ -525,6 +527,7 @@
         <entry encoding="base64">XDxfcmV3YXJkSXRlbVw+</entry>
         <entry>techn</entry>
         <entry>tech</entry>
+        <entry>restr</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
