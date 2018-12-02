@@ -50,8 +50,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE78183-BF75-4215-B9BC-AA378B4C4463/88/52f69075/ShotsAllyAbility.cs" timestamp="1542984999983">
         <mark key="'" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543748023637">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543750104059">
+        <mark key="'" line="1476" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1542973955940">
         <mark key="'" line="88" column="40" />
@@ -322,10 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
-      <jump line="73" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
-      <jump line="76" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
       <jump line="178" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="175" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="180" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
@@ -422,6 +418,10 @@
       <jump line="1420" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1620" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1650" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1419" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1475" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1476" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -434,7 +434,7 @@
         <text>* hexCenterOnGlobe</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZ2xvYmVcPg==</text>
+        <text>gotopo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFBzaUNhcHN1bGVTdGF0aXN0aWNzLkdldFZhbHVlQWx3YXlzKGJvdElkLCAwKTsK</text>
@@ -471,9 +471,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZ2xvYmVcPg==</last-search>
+      <last-search>gotopo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZ2xvYmVcPg==</last-pattern>
+      <last-pattern>gotopo</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
       <last-dir>1</last-dir>
@@ -481,8 +481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>techn</entry>
-        <entry>tech</entry>
         <entry>restr</entry>
         <entry encoding="base64">XDxfb2ZmZXJEZXBlbmRlbmN5XD4=</entry>
         <entry>condi</entry>
@@ -501,6 +499,8 @@
         <entry>createg</entry>
         <entry encoding="base64">XDxHZXRDb250cm9sbGVkUG9pbnRzXD4=</entry>
         <entry encoding="base64">XDxfZ2xvYmVcPg==</entry>
+        <entry encoding="base64">XDxSb3RhdGVJbnZlcnNlXD4=</entry>
+        <entry>gotopo</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
