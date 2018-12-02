@@ -50,8 +50,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE78183-BF75-4215-B9BC-AA378B4C4463/88/52f69075/ShotsAllyAbility.cs" timestamp="1542984999983">
         <mark key="'" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543750104059">
-        <mark key="'" line="1476" column="34" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543753260060">
+        <mark key="'" line="1620" column="16" />
+        <mark key="[" line="1648" column="0" />
+        <mark key="]" line="1648" column="0" />
+        <mark key="^" line="1648" column="69" />
+        <mark key="." line="1648" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1542973955940">
         <mark key="'" line="88" column="40" />
@@ -322,10 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
-      <jump line="175" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
-      <jump line="180" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
-      <jump line="375" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="45" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SplashScreen/SplashScreenContext.cs" />
       <jump line="37" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SplashScreen/SplashScreenContext.cs" />
       <jump line="90" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SplashScreen/SplashScreenContext.cs" />
@@ -416,73 +416,75 @@
       <jump line="1416" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1417" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1420" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="1620" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1650" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="1419" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1475" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1476" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1275" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1419" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1643" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1640" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1628" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1620" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>* hexCenterOnGlobe</text>
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>* hexCenterOnGlobe</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>gotopo</text>
+        <text encoding="base64">XDxSb3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFBzaUNhcHN1bGVTdGF0aXN0aWNzLkdldFZhbHVlQWx3YXlzKGJvdElkLCAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5pdElkLkNMb2dSZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETyA6IFRFTVAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB1bml0ID0gdW5pdHNbaV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm90YXRlZC5BZGRQYXJhbSgibG9jYWwiLCByb3RhdGVkLmxvY2FsUm90YXRpb24pLkNMb2cocm90YXRlZC5yb3RhdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1bml0cy5Db3VudCA+IDEpIHVuaXQuQ0xvZyhzdGF0KTsK</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHJvdGF0ZWQucm90YXRpb24gPSBRdWF0ZXJuaW9uLkV1bGVyKHJvdGF0aW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGk9PTApIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5pdElkLkNMb2dSZWQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFkZGl0aW9uYWxVbml0cyA9IHBzaUNhcHN1bGUuQWRkaXRpb25hbFVuaXRzLlNlbGVjdCh1bml0ID0+IHVuaXQuVW4uSWQuSWQpLlRvTGlzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB1bml0ID0gdW5pdHNbaV07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh1bml0cy5Db3VudCA+IDEpIHVuaXQuQ0xvZyhzdGF0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIGludCBHZXRLaWxsQm90U3RhdGlzdGljcyhMaXN0PGludD4gdW5pdHMpCiAgICAgICAgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGk9PTApIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFkZGl0aW9uYWxVbml0cyA9IHBzaUNhcHN1bGUuQWRkaXRpb25hbFVuaXRzLlNlbGVjdCh1bml0ID0+IHVuaXQuVW4uSWQuSWQpLlRvTGlzdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFsbFVuaXRzID0gYWRkaXRpb25hbFVuaXRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>gotopo</last-search>
+      <last-search encoding="base64">XDxSb3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>gotopo</last-pattern>
+      <last-pattern encoding="base64">XDxSb3RhdGVcPg==</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>restr</entry>
-        <entry encoding="base64">XDxfb2ZmZXJEZXBlbmRlbmN5XD4=</entry>
         <entry>condi</entry>
         <entry encoding="base64">XDxDb25kaXRpb25zXD4=</entry>
         <entry encoding="base64">XDxHZXRTdGF0aXN0aWNWYWx1ZVw+</entry>
@@ -501,6 +503,8 @@
         <entry encoding="base64">XDxfZ2xvYmVcPg==</entry>
         <entry encoding="base64">XDxSb3RhdGVJbnZlcnNlXD4=</entry>
         <entry>gotopo</entry>
+        <entry>Rotate(</entry>
+        <entry encoding="base64">XDxSb3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
