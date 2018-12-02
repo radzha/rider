@@ -50,12 +50,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE78183-BF75-4215-B9BC-AA378B4C4463/88/52f69075/ShotsAllyAbility.cs" timestamp="1542984999983">
         <mark key="'" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543761366353">
-        <mark key="'" line="1691" column="0" />
-        <mark key="[" line="1688" column="35" />
-        <mark key="]" line="1688" column="35" />
-        <mark key="^" line="1688" column="35" />
-        <mark key="." line="1686" column="90" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543763846509">
+        <mark key="'" line="1646" column="21" />
+        <mark key="[" line="1651" column="35" />
+        <mark key="]" line="1651" column="38" />
+        <mark key="^" line="1651" column="38" />
+        <mark key="." line="1651" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1542973955940">
         <mark key="'" line="88" column="40" />
@@ -75,11 +75,11 @@
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1543758730135">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="57" column="45" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1543764212997">
+        <mark key="[" line="57" column="58" />
+        <mark key="]" line="57" column="54" />
+        <mark key="^" line="57" column="54" />
+        <mark key="." line="57" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestItemDecorator.cs" timestamp="1543579295309">
         <mark key="[" line="26" column="40" />
@@ -98,6 +98,12 @@
         <mark key="[" line="306" column="17" />
         <mark key="]" line="305" column="33" />
         <mark key="." line="305" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/TestUserGlobePointsProvider.cs" timestamp="1543762281334">
+        <mark key="[" line="64" column="103" />
+        <mark key="]" line="64" column="101" />
+        <mark key="." line="64" column="101" />
+        <mark key="^" line="64" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1543502581067">
         <mark key="'" line="0" column="0" />
@@ -326,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="87" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
       <jump line="221" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
       <jump line="280" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
       <jump line="151" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/NewItemsScreenController.cs" />
@@ -410,7 +415,6 @@
       <jump line="1215" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1581" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1567" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="1646" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="937" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1638" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1456" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
@@ -426,61 +430,63 @@
       <jump line="1683" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1671" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1691" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1365" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1646" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-original.x</text>
+        <text>right</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>-original.x</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
-        <text>nearestp</text>
+        <text encoding="base64">XDxSb3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFZlY3RvcjIgTm9ybWFsaXplUm90YXRpb24oVmVjdG9yMiByb3RhdGlvbikKICAgICAgICB7CiAgICAgICAgICAgIHJvdGF0aW9uLkNMb2coKTsKICAgICAgICAgICAgcm90YXRpb24ueCA9IE1hdGhmLlJlcGVhdChyb3RhdGlvbi54ICsgMTgwZiwgMzYwZikgLSAxODBmOwovLyAgICAgICAgICAgIHJvdGF0aW9uLnkgPSBNYXRoZi5SZXBlYXQocm90YXRpb24ueSArIDE4MGYsIDM2MGYpIC0gMTgwZjsKICAgICAgICAgICAgcm90YXRpb24ueSA9IE1hdGhmLkNsYW1wKHJvdGF0aW9uLnksIC1NQVhfVkVSVElDQUxfREVHUkVFLCBNQVhfVkVSVElDQUxfREVHUkVFKTsKICAgICAgICAgICAgcm90YXRpb24uQ0xvZ0JsdWUoKTsKICAgICAgICAgICAgcmV0dXJuIHJvdGF0aW9uOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0YS5Sb3RhdGlvbiA9IE5vcm1hbGl6ZVJvdGF0aW9uKG5ldyBWZWN0b3IyKGRhdGFSb3RhdGlvbi55LCAtZGF0YVJvdGF0aW9uLngpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3NlbnNpdGl2aXR5LkNMb2dSZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm90YXRlZC5yb3RhdGlvbi5DTG9nKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2lmIFVOSVRZX0VESVRPUl9PU1gKICAgICAgICAgICAgX3NlbnNpdGl2aXR5LkNMb2dSZWQoKTsKICAgICAgICAgICAgX3NlbnNpdGl2aXR5ID0gNjAwOwojZW5kaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm90YXRpb24uQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3NlbnNpdGl2aXR5LkNMb2dSZWQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm90YXRpb24uQ0xvZ0JsdWUoKTsK</text>
+        <text encoding="base64">I2lmIFVOSVRZX0VESVRPUl9PU1gKICAgICAgICAgICAgX3NlbnNpdGl2aXR5LkNMb2dSZWQoKTsKICAgICAgICAgICAgX3NlbnNpdGl2aXR5ID0gNjAwOwojZW5kaWYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm90YXRpb24ueSA9IE1hdGhmLkNsYW1wKHJvdGF0aW9uLnksIC1NQVhfVkVSVElDQUxfREVHUkVFLCBNQVhfVkVSVElDQUxfREVHUkVFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm90YXRlZC5BZGRQYXJhbSgibG9jYWwiLCByb3RhdGVkLmxvY2FsUm90YXRpb24pLkNMb2cocm90YXRlZC5yb3RhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm90YXRpb24uQ0xvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>nearestp</last-search>
+      <last-search encoding="base64">XDxSb3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>nearestp</last-pattern>
+      <last-pattern encoding="base64">XDxSb3RhdGVcPg==</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -493,7 +499,6 @@
         <entry encoding="base64">XDxSb3RhdGVJbnZlcnNlXD4=</entry>
         <entry>gotopo</entry>
         <entry>Rotate(</entry>
-        <entry encoding="base64">XDxSb3RhdGVcPg==</entry>
         <entry>up</entry>
         <entry>.up</entry>
         <entry>\.up</entry>
@@ -505,6 +510,7 @@
         <entry encoding="base64">XDxHZXRJbnB1dERlbHRhXD4=</entry>
         <entry>normali</entry>
         <entry>nearestp</entry>
+        <entry encoding="base64">XDxSb3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
