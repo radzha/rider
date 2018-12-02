@@ -150,6 +150,9 @@
         <mark key="." line="154" column="104" />
         <mark key="^" line="154" column="104" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/GlobeGridGenerator.cs" timestamp="1543745097293">
+        <mark key="'" line="8" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1543575453184">
         <mark key="'" line="324" column="32" />
         <mark key="[" line="388" column="116" />
@@ -180,8 +183,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1542973955940">
         <mark key="'" line="88" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1543744413137">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1543744638792">
         <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+        <mark key="." line="25" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1542960149055">
         <mark key="'" line="317" column="0" />
@@ -314,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="155" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="161" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="15" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
@@ -414,6 +419,7 @@
       <jump line="127" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
+      <jump line="8" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/GlobeGridGenerator.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -426,7 +432,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>createg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFBzaUNhcHN1bGVTdGF0aXN0aWNzLkdldFZhbHVlQWx3YXlzKGJvdElkLCAwKTsK</text>
@@ -463,17 +469,16 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>createg</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>createg</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCb251c0xvZ0l0ZW1cPg==</entry>
         <entry>reward</entry>
         <entry encoding="base64">XDxfcmV3YXJkSXRlbVw+</entry>
         <entry>techn</entry>
@@ -493,6 +498,7 @@
         <entry>log</entry>
         <entry encoding="base64">XDxfcmVzdHJpY3Rpb25cPg==</entry>
         <entry>get</entry>
+        <entry>createg</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
