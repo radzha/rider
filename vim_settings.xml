@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="O" line="154" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatarsScreen.cs" timestamp="1543593284973">
         <mark key="'" line="48" column="77" />
@@ -71,8 +73,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" timestamp="1543590167310">
         <mark key="'" line="280" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1543737892168">
-        <mark key="'" line="40" column="28" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1543739050920">
+        <mark key="'" line="330" column="37" />
         <mark key="[" line="232" column="0" />
         <mark key="]" line="236" column="23" />
         <mark key="." line="597" column="11" />
@@ -131,11 +133,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" timestamp="1543505454194">
         <mark key="'" line="141" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" timestamp="1543738540188">
-        <mark key="[" line="141" column="47" />
-        <mark key="]" line="141" column="49" />
-        <mark key="." line="141" column="49" />
-        <mark key="^" line="141" column="49" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" timestamp="1543739314207">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="154" column="104" />
+        <mark key="." line="154" column="104" />
+        <mark key="^" line="154" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1543575453184">
         <mark key="'" line="324" column="32" />
@@ -254,7 +257,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543593681275">
+      <file name="/Dummy.txt" timestamp="1543739210769">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TargetExtension.cs" timestamp="1543509216617">
@@ -298,9 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
-      <jump line="22" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestItemDecorator.cs" />
-      <jump line="72" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="71" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="74" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="77" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
@@ -398,6 +398,9 @@
       <jump line="49" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PsiCapsule/PsiCapsuleUnitScreen.cs" />
       <jump line="107" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PsiCapsule/PsiCapsuleUnitScreen.cs" />
       <jump line="63" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PsiCapsule/PsiCapsuleUnitScreen.cs" />
+      <jump line="330" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="80" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" />
+      <jump line="142" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -410,7 +413,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHNpQ2Fwc3VsZVw+</text>
+        <text>findm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE5vdEF2YWlsYWJsZSwKICAgICAgICAgICAgICAgIEF2YWlsYWJsZSwKICAgICAgICAgICAgICAgIExlYXJuaW5nLAogICAgICAgICAgICAgICAgUmVhZHlGb3JSZWNlaXZlLAogICAgICAgICAgICAgICAgTGVhcm5lZAo=</text>
@@ -447,9 +450,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHNpQ2Fwc3VsZVw+</last-search>
+      <last-search>findm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHNpQ2Fwc3VsZVw+</last-pattern>
+      <last-pattern>findm</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
       <last-dir>1</last-dir>
@@ -457,9 +460,6 @@
     </search>
     <history>
       <history-search>
-        <entry>big</entry>
-        <entry encoding="base64">XDxfb2ZmZXJUZXh0XD4=</entry>
-        <entry encoding="base64">XDxfYm9udXNJdGVtc1w+</entry>
         <entry>prefs</entry>
         <entry>bonuslog</entry>
         <entry encoding="base64">XDxCb251c0xvZ0l0ZW1cPg==</entry>
@@ -477,6 +477,9 @@
         <entry encoding="base64">XDxQU0lfS0VZXD4=</entry>
         <entry encoding="base64">XDxfcmVzdHJpY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxfcHNpQ2Fwc3VsZVw+</entry>
+        <entry encoding="base64">XDxVbmxvY2tlZEF2YXRhcnNcPg==</entry>
+        <entry>findmin</entry>
+        <entry>findm</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
