@@ -98,12 +98,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1543840051751">
         <mark key="'" line="166" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/TestUserGlobePointsProvider.cs" timestamp="1543762281334">
-        <mark key="[" line="64" column="103" />
-        <mark key="]" line="64" column="101" />
-        <mark key="." line="64" column="101" />
-        <mark key="^" line="64" column="101" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" timestamp="1543826225799">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="83" column="0" />
@@ -167,6 +161,12 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ILocalGame.cs" timestamp="1543423390870">
         <mark key="'" line="43" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1543840892243">
+        <mark key="'" line="824" column="48" />
+        <mark key="[" line="967" column="0" />
+        <mark key="]" line="967" column="0" />
+        <mark key="." line="967" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" timestamp="1542970479430">
         <mark key="'" line="55" column="41" />
@@ -368,7 +368,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuR2V0Q3VycmVudE1ldGhvZE5hbWUoKS5DTG9nKCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -383,31 +383,31 @@
         <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0PEFjdGlvbjxMaXN0PFdhdmVEZXNjcmlwdGlvbi5Cb3REYXRhPj4+KFdhdmVzTWFuYWdlci5FVkVOVF9HRVRfU1BBV05fUVVFVUUsCiAgICAgICAgICAgICAgICBTYXZlU3Bhd25RdWV1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuR2V0Q3VycmVudE1ldGhvZE5hbWUoKS5DTG9nKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhLlNlbGVjdCgpLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uT2JqZWN0WyJoZWFsdGgiXSA9IEhlYWx0aDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhLlNlbGVjdCgpLgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uT2JqZWN0WyJoZWFsdGgiXSA9IEhlYWx0aDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgTmV0d29yay5XYXZlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqc29uT2JqZWN0WyJoZWFsdGgiXSA9IEhlYWx0aDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvbmUuX3NwYXduUXVldWVTdGF0aXN0aWNzID0gX3NwYXduUXVldWVTdGF0aXN0aWNzLkNsb25lKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgTmV0d29yay5XYXZlczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBBZGRTcGF3blF1ZXVlU3RhdGlzdGljcyhMaXN0PFdhdmVEZXNjcmlwdGlvbi5Cb3REYXRhPiBpbmRleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xvbmUuX3NwYXduUXVldWVTdGF0aXN0aWNzID0gX3NwYXduUXVldWVTdGF0aXN0aWNzLkNsb25lKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmsuQ2xpZW50CnsKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBBZGRTcGF3blF1ZXVlU3RhdGlzdGljcyhMaXN0PFdhdmVEZXNjcmlwdGlvbi5Cb3REYXRhPiBpbmRleCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzZWFsZWQgY2xhc3MgV2F2ZXNTdGF0aXN0aWNzCg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIE5ldHdvcmsuQ2xpZW50CnsKICAgIHsKICAgICAgICAKICAgIH0KfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
