@@ -50,12 +50,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE78183-BF75-4215-B9BC-AA378B4C4463/88/52f69075/ShotsAllyAbility.cs" timestamp="1542984999983">
         <mark key="'" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543778472632">
-        <mark key="'" line="249" column="0" />
-        <mark key="[" line="243" column="49" />
-        <mark key="]" line="243" column="56" />
-        <mark key="^" line="243" column="56" />
-        <mark key="." line="243" column="56" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1543824268064">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="98" column="33" />
+        <mark key="]" line="98" column="33" />
+        <mark key="^" line="100" column="33" />
+        <mark key="." line="98" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1542973955940">
         <mark key="'" line="88" column="40" />
@@ -75,8 +75,8 @@
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1543778228601">
-        <mark key="'" line="54" column="59" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1543824142319">
+        <mark key="'" line="60" column="64" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="^" line="62" column="24" />
@@ -277,7 +277,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543777992082">
+      <file name="/Dummy.txt" timestamp="1543778623604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TargetExtension.cs" timestamp="1543509216617">
@@ -333,9 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
-      <jump line="124" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
       <jump line="127" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
       <jump line="130" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
@@ -433,22 +430,25 @@
       <jump line="245" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="244" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="249" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="60" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" />
+      <jump line="241" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="93" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFZlY3RvcjIgTm9ybWFsaXplUm90YXRpb24oVmVjdG9yMiByb3RhdGlvbikKICAgICAgICB7CiAgICAgICAgICAgIHJvdGF0aW9uLnggPSBNYXRoZi5SZXBlYXQocm90YXRpb24ueCArIDE4MGYsIDM2MGYpIC0gMTgwZjsKICAgICAgICAgICAgcm90YXRpb24ueSA9IE1hdGhmLlJlcGVhdChyb3RhdGlvbi55ICsgMTgwZiwgMzYwZikgLSAxODBmOwogICAgICAgICAgICByZXR1cm4gcm90YXRpb247CiAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>X</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>globe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcm90YXRlZC5Sb3RhdGUoVmVjdG9yMy5yaWdodCwgcm90YXRpb24ueCwgU3BhY2UuU2VsZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBHYW1lT2JqZWN0IF9nbG9iZTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFZlY3RvcjIgTm9ybWFsaXplUm90YXRpb24oVmVjdG9yMiByb3RhdGlvbikKICAgICAgICB7CiAgICAgICAgICAgIHJvdGF0aW9uLnggPSBNYXRoZi5SZXBlYXQocm90YXRpb24ueCArIDE4MGYsIDM2MGYpIC0gMTgwZjsKICAgICAgICAgICAgcm90YXRpb24ueSA9IE1hdGhmLlJlcGVhdChyb3RhdGlvbi55ICsgMTgwZiwgMzYwZikgLSAxODBmOwogICAgICAgICAgICByZXR1cm4gcm90YXRpb247CiAgICAgICAgfQoK</text>
@@ -482,9 +482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>globe</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>globe</last-pattern>
       <last-replace>adf</last-replace>
       <last-substitute>CL</last-substitute>
       <last-dir>1</last-dir>
@@ -492,10 +492,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOb3JtYWxpemVSb3RhdGlvblw+</entry>
-        <entry>normali</entry>
-        <entry>nearestp</entry>
-        <entry encoding="base64">XDxSb3RhdGVcPg==</entry>
         <entry>click</entry>
         <entry>select</entry>
         <entry encoding="base64">IHJvdGF0ZQ==</entry>
@@ -512,6 +508,10 @@
         <entry>deltap</entry>
         <entry>Rotate</entry>
         <entry>start</entry>
+        <entry>_blue</entry>
+        <entry>blue</entry>
+        <entry>glove</entry>
+        <entry>globe</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
