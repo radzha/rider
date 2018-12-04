@@ -79,8 +79,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyDiscountInformation.cs" timestamp="1543508267433">
         <mark key="'" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1543839894820">
-        <mark key="'" line="180" column="56" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1543935876639">
+        <mark key="'" line="57" column="25" />
         <mark key="[" line="180" column="37" />
         <mark key="]" line="180" column="56" />
         <mark key="." line="180" column="56" />
@@ -377,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FightProblemChecker.cs" />
       <jump line="88" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FightProblemChecker.cs" />
       <jump line="349" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FightProblemChecker.cs" />
       <jump line="95" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FightProblemChecker.cs" />
@@ -477,6 +476,7 @@
       <jump line="33" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PsiCapsule/PsiCapsuleInfo.cs" />
       <jump line="125" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
       <jump line="121" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" />
+      <jump line="57" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -489,7 +489,7 @@
         <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text>swit</text>
+        <text>won</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQnV5Q2hlc3RIZWxwZXIuU3dpdGNoU2hvd2luZ1Jld2FyZHModHJ1ZSk7Cg==</text>
@@ -526,9 +526,9 @@
       </register>
     </registers>
     <search>
-      <last-search>swit</last-search>
+      <last-search>won</last-search>
       <last-offset />
-      <last-pattern>swit</last-pattern>
+      <last-pattern>won</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -536,9 +536,6 @@
     </search>
     <history>
       <history-search>
-        <entry>close</entry>
-        <entry>reconn</entry>
-        <entry>30</entry>
         <entry>clog</entry>
         <entry encoding="base64">XDxfaXRlbVN0YXRlXD4=</entry>
         <entry>name</entry>
@@ -556,6 +553,9 @@
         <entry encoding="base64">XDxJc1Nob3dpbmdcPg==</entry>
         <entry encoding="base64">XDxTaG93Qm91Z2h0Q2hlc3RcPg==</entry>
         <entry>swit</entry>
+        <entry>exper</entry>
+        <entry>win</entry>
+        <entry>won</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
