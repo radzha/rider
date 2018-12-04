@@ -14,12 +14,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatarsScreen.cs" timestamp="1543593284973">
         <mark key="'" line="48" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1543910156537">
-        <mark key="'" line="282" column="59" />
-        <mark key="[" line="288" column="79" />
-        <mark key="]" line="288" column="59" />
-        <mark key="." line="288" column="59" />
-        <mark key="^" line="288" column="58" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1543910824468">
+        <mark key="'" line="288" column="107" />
+        <mark key="[" line="288" column="114" />
+        <mark key="]" line="288" column="114" />
+        <mark key="." line="288" column="114" />
+        <mark key="^" line="288" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" timestamp="1543422898063">
         <mark key="'" line="37" column="0" />
@@ -200,12 +200,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WaveDescription.cs" timestamp="1543840317050">
         <mark key="'" line="159" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1543909924601">
-        <mark key="'" line="2537" column="0" />
-        <mark key="[" line="2663" column="9" />
-        <mark key="]" line="2677" column="8" />
-        <mark key="." line="2677" column="8" />
-        <mark key="^" line="2677" column="8" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1543910976008">
+        <mark key="'" line="2667" column="25" />
+        <mark key="[" line="2673" column="54" />
+        <mark key="]" line="2673" column="54" />
+        <mark key="." line="2673" column="54" />
+        <mark key="^" line="2670" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/BotsStatistics.cs" timestamp="1543910074747">
         <mark key="'" line="91" column="25" />
@@ -256,10 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
-      <jump line="331" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
-      <jump line="180" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="166" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="16" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WaveDescription.cs" />
       <jump line="159" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WaveDescription.cs" />
       <jump line="348" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -356,22 +352,26 @@
       <jump line="89" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/BotsStatistics.cs" />
       <jump line="2537" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
       <jump line="91" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/BotsStatistics.cs" />
+      <jump line="2673" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
+      <jump line="2671" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
+      <jump line="288" column="107" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
+      <jump line="2667" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>str</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9ib3RTdGF0cyA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgQm90U3RhdD4oKTsKICAgICAgICAgICAgICAgIGZvciAodmFyIGkgPSAwOyBpIDwgZGF0YS5Cb3RzLkNvdW50OyBpKyspCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdmFyIGJvdERhdGEgPSBkYXRhLkJvdHNbaV07CiAgICAgICAgICAgICAgICAgICAgdmFyIG5hbWUgPSAiezB9IC0gezF9ICh7Mn0pIi5GKGJvdERhdGEuTmFtZSwgYm90RGF0YS5JZCwgaSk7CiAgICAgICAgICAgICAgICAgICAgX2JvdFN0YXRzW25hbWVdID0gbmV3IEJvdFN0YXQKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIEhlYWx0aCA9IGJvdERhdGEuSW5mby5IZWFsdGgsCiAgICAgICAgICAgICAgICAgICAgICAgIFVuaXRJZCA9IGJvdERhdGEuSW5mby5Vbml0SWQsCiAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>Utils.Transliterate(bot.Description.Name)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5Db21tb247Cg==</text>
@@ -401,21 +401,20 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text encoding="base64">JzwsJz5zLyIvJy9n</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
-      <last-replace>adf</last-replace>
-      <last-substitute>CL</last-substitute>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>alive</entry>
         <entry encoding="base64">XDxDb29sZG93blw+</entry>
         <entry>cur</entry>
         <entry encoding="base64">XDxfY3VycmVudFVuaXRcPg==</entry>
@@ -435,6 +434,7 @@
         <entry>_termin</entry>
         <entry>tostr</entry>
         <entry>name</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
@@ -445,6 +445,8 @@
         <entry>action GoToFile</entry>
         <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
+        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
