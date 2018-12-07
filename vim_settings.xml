@@ -12,9 +12,17 @@
         <mark key="^" line="114" column="55" />
         <mark key="." line="114" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" timestamp="1544106633531" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" timestamp="1544194770792">
+        <mark key="'" line="1606" column="82" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatarsScreen.cs" timestamp="1543932832360">
         <mark key="'" line="48" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/ConsoleWrapper.cs" timestamp="1544195094054">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="37" column="37" />
+        <mark key="." line="37" column="37" />
+        <mark key="^" line="37" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/Weapon.cs" timestamp="1544019109731">
         <mark key="'" line="240" column="26" />
@@ -137,8 +145,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/MoneyPopupItemWrapper.cs" timestamp="1543569898332">
         <mark key="'" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1544194396920">
-        <mark key="'" line="415" column="34" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1544194543344">
+        <mark key="'" line="288" column="35" />
         <mark key="[" line="483" column="9" />
         <mark key="]" line="484" column="45" />
         <mark key="^" line="484" column="45" />
@@ -385,6 +393,9 @@
         <mark key="^" line="25" column="97" />
         <mark key="." line="45" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Logger/LogManager.cs" timestamp="1544194713871">
+        <mark key="'" line="39" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/NewItems/TechStateStorage.cs" timestamp="1544095495439">
         <mark key="'" line="18" column="53" />
         <mark key="[" line="20" column="61" />
@@ -501,17 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="199" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="185" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="176" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="169" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="162" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="155" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="100" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/RestartGameController.cs" />
-      <jump line="106" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/RestartGameController.cs" />
-      <jump line="1159" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" />
-      <jump line="533" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="545" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" />
       <jump line="550" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" />
       <jump line="557" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" />
@@ -598,61 +598,72 @@
       <jump line="461" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" />
       <jump line="30" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" />
       <jump line="26" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="2196" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="291" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="415" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="502" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="2196" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="61" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="541" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="288" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="27" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Logger/LogManager.cs" />
+      <jump line="80" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Logger/LogManager.cs" />
+      <jump line="13" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Logger/LogManager.cs" />
+      <jump line="39" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Logger/LogManager.cs" />
+      <jump line="1573" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" />
+      <jump line="1585" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" />
+      <jump line="1606" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>co</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>co</text>
       </register>
       <register name="/" type="4">
-        <text>admin</text>
+        <text encoding="base64">XDxMVU5BUl9DT05TT0xFX0VOQUJMRURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3R1dG9yQnV0dG9uID0gR2V0Q29tcG9uZW50PFR1dG9yaWFsQnV0dG9uPigpOwogICAgICAgICAgICBpZiAoX3R1dG9yQnV0dG9uICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF90dXRvckJ1dHRvbi5JZGVudGlmaWVyID0gIlRlY2hub2xvZ3lJdGVtSW5MaXN0XyIgKyB1c2VyVGVjaG5vbG9neS5TdG9yYWdlVGVjaC5JZDsKICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChTdG9yeUNvbnRyb2xsZXIuRVZFTlRfUkVGUkVTSF9JTlRFUkZBQ0VfTUFQKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQXV0aFNlcnZlci5HZXQoKS5EZWJ1Z01vZGUpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbVG9vbHRpcCgiPz8/ID8/Pz8/Pz8gPz8/Pz8/ID8/Pz8gPz8/Pz8/PyA/Pz8/Pz8/Pz8/Pz8gPz8/PyAtID8/Pz8/IildCg==</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNob3cgYmFzIgo=</text>
+        <text encoding="base64">I2lmIEVWTzJfQ09ORklHX0RFVgogICAgICAgIEluc3RhbnRpYXRlQ29uc29sZVZpZXcoKTsKI2Vsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3NwZWVkU3RhdFJvdy5NYXhWYWx1ZSA9IGhlbGljb3B0ZXIuQ3VycmVudFNwZWVkICsgaGVsaWNvcHRlci5TcGVlZC5EYXRhLlN0ZXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbVG9vbHRpcCgiPz8/ID8/Pz8/Pz8gPz8/Pz8/ID8/Pz8gPz8/Pz8/PyA/Pz8/Pz8/Pz8/Pz8gPz8/PyAtID8/Pz8/IildCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Im9iaiI+PC9wYXJhbT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNob3cgYmFzIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3NwZWVkU3RhdFJvdy5NYXhWYWx1ZSA9IGhlbGljb3B0ZXIuQ3VycmVudFNwZWVkICsgaGVsaWNvcHRlci5TcGVlZC5EYXRhLlN0ZXA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Im9iaiI+PC9wYXJhbT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGlvbjxzdHJpbmc+IG9uRXJyb3IgPSBPbkVycm9yOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbkVuYWJsZWQgPSBmYWxzZTsKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGlvbjxzdHJpbmc+IG9uRXJyb3IgPSBPbkVycm9yOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>admin</last-search>
+      <last-search encoding="base64">XDxMVU5BUl9DT05TT0xFX0VOQUJMRURcPg==</last-search>
       <last-offset />
-      <last-pattern>admin</last-pattern>
+      <last-pattern encoding="base64">XDxMVU5BUl9DT05TT0xFX0VOQUJMRURcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -660,11 +671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>used</entry>
-        <entry>bar</entry>
-        <entry>prog</entry>
-        <entry>sensi</entry>
-        <entry>try</entry>
         <entry>tryto</entry>
         <entry>trysho</entry>
         <entry encoding="base64">XDxUcnlTaG93QmFzZURlZmVuY2VIaXN0b3J5UG9wdXBcPg==</entry>
@@ -680,6 +686,11 @@
         <entry>button</entry>
         <entry encoding="base64">XDxMZWFybkJ1dHRvblw+</entry>
         <entry>admin</entry>
+        <entry>debug</entry>
+        <entry encoding="base64">XDxERUJVR19LRVlcPg==</entry>
+        <entry encoding="base64">XDxEZWJ1Z01vZGVcPg==</entry>
+        <entry encoding="base64">XDxfaXNBZG1pblw+</entry>
+        <entry encoding="base64">XDxMVU5BUl9DT05TT0xFX0VOQUJMRURcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
