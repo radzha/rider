@@ -265,17 +265,23 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" timestamp="1543505454194">
         <mark key="'" line="141" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1544172003406">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="283" column="95" />
-        <mark key="]" line="284" column="11" />
-        <mark key="^" line="284" column="11" />
-        <mark key="." line="284" column="11" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1544173422702">
+        <mark key="'" line="74" column="16" />
+        <mark key="[" line="280" column="12" />
+        <mark key="]" line="280" column="20" />
+        <mark key="^" line="280" column="20" />
+        <mark key="." line="280" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/GlobeGridGenerator.cs" timestamp="1543747065900">
         <mark key="'" line="260" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/CitadelStore.cs" timestamp="1544106403337" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" timestamp="1544173660518">
+        <mark key="[" line="55" column="62" />
+        <mark key="]" line="55" column="77" />
+        <mark key="." line="55" column="77" />
+        <mark key="^" line="55" column="77" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" timestamp="1544109700371">
         <mark key="'" line="118" column="43" />
       </file>
@@ -472,7 +478,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544107724033">
+      <file name="/Dummy.txt" timestamp="1544172167476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1542972053619">
@@ -548,8 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
-      <jump line="273" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
       <jump line="153" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/NewItemsScreenController.cs" />
       <jump line="11" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/NewItems/TechStateStorage.cs" />
       <jump line="18" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/NewItems/TechStateStorage.cs" />
@@ -648,58 +652,60 @@
       <jump line="244" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="42" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
       <jump line="32" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
+      <jump line="227" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
+      <jump line="74" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbkVuYWJsZWQgPSB0cnVlOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_speedStatRow.MaxValue</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>_speedStatRow.MaxValue</text>
       </register>
       <register name="/" type="4">
-        <text>used</text>
+        <text>prog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbkVuYWJsZWQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2F0dGFja1N0YXRSb3cuTWF4VmFsdWUgPSBoZWxpY29wdGVyLk1heEF0dGFjazsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3NwZWVkU3RhdFJvdy5NYXhWYWx1ZSA9IGhlbGljb3B0ZXIuQ3VycmVudFNwZWVkICsgaGVsaWNvcHRlci5TcGVlZC5EYXRhLlN0ZXA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGlvbjxzdHJpbmc+IG9uRXJyb3IgPSBPbkVycm9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Im9iaiI+PC9wYXJhbT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbkVuYWJsZWQgPSBmYWxzZTsKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdGlvbjxzdHJpbmc+IG9uRXJyb3IgPSBPbkVycm9yOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbkVuYWJsZWQgPSBmYWxzZTsKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>used</last-search>
+      <last-search>prog</last-search>
       <last-offset />
-      <last-pattern>used</last-pattern>
+      <last-pattern>prog</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -707,8 +713,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userin</entry>
-        <entry>subscr</entry>
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>Write</entry>
         <entry>Write(</entry>
@@ -727,6 +731,8 @@
         <entry>updatelo</entry>
         <entry encoding="base64">XDxVcGRhdGVMb2dpY1w+</entry>
         <entry>used</entry>
+        <entry>bar</entry>
+        <entry>prog</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
