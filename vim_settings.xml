@@ -137,8 +137,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/MoneyPopupItemWrapper.cs" timestamp="1543569898332">
         <mark key="'" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1544188151654">
-        <mark key="'" line="569" column="18" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1544194396920">
+        <mark key="'" line="415" column="34" />
         <mark key="[" line="483" column="9" />
         <mark key="]" line="484" column="45" />
         <mark key="^" line="484" column="45" />
@@ -405,11 +405,6 @@
       <file name="/FightProblemChecker.cs" timestamp="1543915350243">
         <mark key="'" line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/HockeyAppUnityIOS/HockeyAppUnity-Scripts/HockeyAppIOS.cs" timestamp="1544106706107">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="13" />
-        <mark key="." line="7" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserStatistic.cs" timestamp="1543935054703">
         <mark key="'" line="121" column="12" />
         <mark key="[" line="120" column="23" />
@@ -454,7 +449,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544188780982">
+      <file name="/Dummy.txt" timestamp="1544193670004">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1543915075209">
@@ -506,10 +501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="312" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="283" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
-      <jump line="255" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
       <jump line="227" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
       <jump line="199" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
       <jump line="185" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" />
@@ -606,6 +597,10 @@
       <jump line="366" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" />
       <jump line="461" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" />
       <jump line="30" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" />
+      <jump line="26" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="2196" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="291" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="415" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +613,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMZWFybkJ1dHRvblw+</text>
+        <text>admin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX3R1dG9yQnV0dG9uID0gR2V0Q29tcG9uZW50PFR1dG9yaWFsQnV0dG9uPigpOwogICAgICAgICAgICBpZiAoX3R1dG9yQnV0dG9uICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF90dXRvckJ1dHRvbi5JZGVudGlmaWVyID0gIlRlY2hub2xvZ3lJdGVtSW5MaXN0XyIgKyB1c2VyVGVjaG5vbG9neS5TdG9yYWdlVGVjaC5JZDsKICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChTdG9yeUNvbnRyb2xsZXIuRVZFTlRfUkVGUkVTSF9JTlRFUkZBQ0VfTUFQKTsKICAgICAgICAgICAgfQo=</text>
@@ -655,9 +650,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMZWFybkJ1dHRvblw+</last-search>
+      <last-search>admin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMZWFybkJ1dHRvblw+</last-pattern>
+      <last-pattern>admin</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -665,7 +660,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcGRhdGVMb2dpY1w+</entry>
         <entry>used</entry>
         <entry>bar</entry>
         <entry>prog</entry>
@@ -685,6 +679,7 @@
         <entry encoding="base64">XDxJbnZva2VMaXN0ZW5lclw+</entry>
         <entry>button</entry>
         <entry encoding="base64">XDxMZWFybkJ1dHRvblw+</entry>
+        <entry>admin</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
