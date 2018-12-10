@@ -167,11 +167,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/MoneyPopupItemWrapper.cs" timestamp="1543569898332">
         <mark key="'" line="30" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1544433542108">
-        <mark key="'" line="288" column="35" />
-        <mark key="[" line="533" column="0" />
-        <mark key="]" line="533" column="0" />
-        <mark key="." line="533" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1544445077137">
+        <mark key="'" line="590" column="12" />
+        <mark key="[" line="1267" column="92" />
+        <mark key="]" line="1267" column="92" />
+        <mark key="." line="1267" column="55" />
+        <mark key="^" line="1267" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialHighlightButtonWrapper.cs" timestamp="1544180461937">
         <mark key="[" line="151" column="15" />
@@ -483,7 +484,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544440260243">
+      <file name="/Dummy.txt" timestamp="1544440909122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1543915075209">
@@ -548,8 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/RestartGameController.cs" />
-      <jump line="67" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" />
       <jump line="84" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/RestartGameController.cs" />
       <jump line="31" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/RestartGameController.cs" />
       <jump line="128" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/RestartGameController.cs" />
@@ -620,7 +619,6 @@
       <jump line="30" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyInfoScreen.cs" />
       <jump line="26" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="291" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="415" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="502" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="2196" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="61" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
@@ -648,22 +646,25 @@
       <jump line="34" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
       <jump line="164" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
       <jump line="36" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
+      <jump line="415" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="425" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="590" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TW9uZXkuRmluZChpdGVtID0+IGl0ZW0uQ29kZSA9PSBjb2RlKQ==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Application.isEditor</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY3VycmVudE1pc3Npb25MZXZlbFw+</text>
+        <text>updatemone</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I2lmIFVOSVRZX0VESVRPUgogICAgICAgICAgICBnZXQgeyByZXR1cm4gdHJ1ZTsgfQojZWxzZQogICAgICAgICAgICBnZXQgeyByZXR1cm4gX2RlYnVnTW9kZSA/IF9kZWJ1Z01vZGUgOiBVc2VySW5mby5DdXJyZW50VmFsdWUgIT0gbnVsbCAmJiBVc2VySW5mby5DdXJyZW50VmFsdWUuRGVidWdNb2RlLkN1cnJlbnRWYWx1ZTsgfQojZW5kaWYK</text>
+      <register name="0" type="4">
+        <text encoding="base64">TW9uZXkuRmluZChpdGVtID0+IGl0ZW0uQ29kZSA9PSBjb2RlKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAK</text>
@@ -697,9 +698,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY3VycmVudE1pc3Npb25MZXZlbFw+</last-search>
+      <last-search>updatemone</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY3VycmVudE1pc3Npb25MZXZlbFw+</last-pattern>
+      <last-pattern>updatemone</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +708,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUYXNrc1w+</entry>
         <entry encoding="base64">XDxfaWRlbnRpZmllclw+</entry>
         <entry encoding="base64">XDxFVkVOVF9QT0xZR09OX1NDRU5FX0NMT1NFX0JZX0JBQ0tfS0VZXD4=</entry>
         <entry encoding="base64">XDxJbnZva2VMaXN0ZW5lclw+</entry>
@@ -727,6 +727,7 @@
         <entry encoding="base64">XDxfbGV2ZWxMYWJlbFw+</entry>
         <entry encoding="base64">XDxfbGV2ZWxTaXplRml0dGVyVGV4dFw+</entry>
         <entry encoding="base64">XDxfY3VycmVudE1pc3Npb25MZXZlbFw+</entry>
+        <entry>updatemone</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
