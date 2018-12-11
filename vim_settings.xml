@@ -45,11 +45,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE78183-BF75-4215-B9BC-AA378B4C4463/88/52f69075/ShotsAllyAbility.cs" timestamp="1542984999983">
         <mark key="'" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/DamageModifiers/FriendlyFireDisabler.cs" timestamp="1544521434675">
-        <mark key="[" line="27" column="66" />
-        <mark key="]" line="31" column="31" />
-        <mark key="^" line="31" column="31" />
-        <mark key="." line="31" column="31" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/DamageModifiers/FriendlyFireDisabler.cs" timestamp="1544522287493">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" timestamp="1543846160784">
         <mark key="'" line="38" column="21" />
@@ -203,6 +203,12 @@
         <mark key="]" line="203" column="84" />
         <mark key="." line="203" column="84" />
         <mark key="^" line="203" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Destructable.cs" timestamp="1544522293514">
+        <mark key="[" line="567" column="58" />
+        <mark key="]" line="568" column="11" />
+        <mark key="." line="568" column="11" />
+        <mark key="^" line="568" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/BottomConroller.cs" timestamp="1544515805436">
         <mark key="'" line="121" column="52" />
@@ -502,7 +508,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544518579546">
+      <file name="/Dummy.txt" timestamp="1544522439677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1543915075209">
@@ -561,7 +567,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
       <jump line="45" column="88" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
       <jump line="35" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/AndroidBackController.cs" />
       <jump line="21" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/AndroidBackController.cs" />
@@ -661,22 +666,23 @@
       <jump line="870" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="83" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="290" column="94" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="569" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Destructable.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuR2V0Q3VycmVudE1ldGhvZE5hbWUoKS5DTG9nKGZyaWVuZGx5RmlyZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Missile</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Production</text>
+        <text>Missile</text>
       </register>
       <register name="/" type="4">
         <text>frie</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuR2V0Q3VycmVudE1ldGhvZE5hbWUoKS5DTG9nKGZyaWVuZGx5RmlyZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>hit.GrenadeType == Grenade.TypeE.Missile |</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZFV0aWxzLmdlCg==</text>
@@ -706,7 +712,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
@@ -750,8 +756,8 @@
         <entry>action GoToFile</entry>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
