@@ -33,12 +33,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/Weapon.cs" timestamp="1544019109731">
         <mark key="'" line="240" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1544002798009">
-        <mark key="'" line="40" column="21" />
-        <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="19" />
-        <mark key="." line="41" column="19" />
-        <mark key="^" line="41" column="19" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1544527043996">
+        <mark key="'" line="130" column="53" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="79" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" timestamp="1544434943023">
         <mark key="'" line="36" column="21" />
@@ -121,8 +120,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologyDiscountInformation.cs" timestamp="1543508267433">
         <mark key="'" line="36" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1544523290341">
-        <mark key="'" line="166" column="52" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1544526574600">
+        <mark key="'" line="129" column="61" />
         <mark key="[" line="170" column="95" />
         <mark key="]" line="170" column="107" />
         <mark key="." line="170" column="107" />
@@ -508,7 +507,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544525052985">
+      <file name="/Dummy.txt" timestamp="1544525068580">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1543915075209">
@@ -572,9 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/AndroidBackController.cs" />
-      <jump line="102" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
-      <jump line="120" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
       <jump line="129" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
       <jump line="46" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
       <jump line="71" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
@@ -672,10 +668,13 @@
       <jump line="569" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Destructable.cs" />
       <jump line="1968" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="21" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/PveStatisticsHelper.cs" />
+      <jump line="129" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
+      <jump line="91" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
+      <jump line="130" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibm93Ii5DTG9nKG93bmVyU3RhdHMuRGFtYWdlQnlBYmlsaXRpZXMgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RJZC5BZGRQYXJhbShkYW1hZ2UpLkNMb2coX3JlY2VpdmVkRGFtYWdlW2JvdElkXS5EYW1hZ2UpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -684,46 +683,46 @@
         <text>, playerId</text>
       </register>
       <register name="/" type="4">
-        <text>frie</text>
+        <text encoding="base64">XDxfcmVjZWl2ZWREYW1hZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFBsYXllciBHZXRQdmVDb21wYW5pb24oR2FtZSBnYW1lLCBzdHJpbmcgcGxheWVySWQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gZ2FtZS5QbGF5ZXJzLkZpbmQocGxheWVyID0+IHBsYXllci5UeXBlID09IFBsYXllci5QbGF5ZXJUeXBlLkFsbHkpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdElkLkFkZFBhcmFtKGRhbWFnZSkuQ0xvZyhfcmVjZWl2ZWREYW1hZ2VbYm90SWRdLkRhbWFnZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibm93Ii5DTG9nKG93bmVyU3RhdHMuRGFtYWdlQnlBYmlsaXRpZXMgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RJZC5BZGRQYXJhbShkYW1hZ2UpLkNMb2coX3JlY2VpdmVkRGFtYWdlW2JvdElkXS5EYW1hZ2UpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2JvdC5EZXNjcmlwdGlvbi5OYW1lLkNMb2dCbHVlKF9ib3QuR2V0U3RhdGlzdGljcygpLkFiaWxpdGllc1VzZUNvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfcmVjZWl2ZWREYW1hZ2UuQWRkKGJvdElkLCBuZXcgQm90RGFtYWdlU3RhdGlzdGljcyhjb3VudCwgZGFtYWdlKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3RJZC5BZGRQYXJhbShkYW1hZ2UpLkNMb2coX3JlY2VpdmVkRGFtYWdlW2JvdElkXS5EYW1hZ2UpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWtlbkRhbWFnZS5BZGRQYXJhbShkYXRhLkRhbWFnZUluZm8uR3JlbmFkZVR5cGUpLkNMb2coZGF0YS5CeUFiaWxpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAibm93Ii5DTG9nKG93bmVyU3RhdHMuRGFtYWdlQnlBYmlsaXRpZXMgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2JvdC5EZXNjcmlwdGlvbi5OYW1lLkNMb2dCbHVlKF9ib3QuR2V0U3RhdGlzdGljcygpLkFiaWxpdGllc1VzZUNvdW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRha2VuRGFtYWdlLkFkZFBhcmFtKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWtlbkRhbWFnZS5BZGRQYXJhbShkYXRhLkRhbWFnZUluZm8uR3JlbmFkZVR5cGUpLkNMb2coZGF0YS5CeUFiaWxpdHkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZFV0aWxzLmdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZyaWVuZGx5RmlyZSA9IGZhbHNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>frie</last-search>
+      <last-search encoding="base64">XDxfcmVjZWl2ZWREYW1hZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>frie</last-pattern>
+      <last-pattern encoding="base64">XDxfcmVjZWl2ZWREYW1hZ2VcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -731,8 +730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>unity_e</entry>
-        <entry encoding="base64">XDxfZGVidWdNb2RlXD4=</entry>
         <entry encoding="base64">XDxEZWJ1Z01vZGVcPg==</entry>
         <entry>session_</entry>
         <entry>sessio</entry>
@@ -751,6 +748,8 @@
         <entry>fri</entry>
         <entry encoding="base64">XDxFVkVOVF9HUkVOQURFX0VYUExPU0lPTlw+</entry>
         <entry>frie</entry>
+        <entry>&quot;bots&quot;</entry>
+        <entry encoding="base64">XDxfcmVjZWl2ZWREYW1hZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
