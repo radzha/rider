@@ -160,6 +160,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/BottomConroller.cs" timestamp="1544515805436">
         <mark key="'" line="121" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeScreen.cs" timestamp="1544517633236">
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="21" />
+        <mark key="." line="121" column="21" />
+        <mark key="^" line="121" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/EffectsAllyAbility.cs" timestamp="1544008922405">
         <mark key="'" line="9" column="17" />
       </file>
@@ -200,12 +206,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" timestamp="1544109700371">
         <mark key="'" line="118" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareMedkitPopup.cs" timestamp="1544515896193">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="43" column="13" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="21" />
-        <mark key="^" line="54" column="23" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareMedkitPopup.cs" timestamp="1544518460063">
+        <mark key="'" line="67" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="53" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1543919954447">
         <mark key="'" line="32" column="21" />
@@ -304,7 +310,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544456706903">
+      <file name="/Dummy.txt" timestamp="1544518525638">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ChestInfo.cs" timestamp="1544104087655">
@@ -355,9 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/AndroidBackController.cs" />
-      <jump line="64" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/AndroidBackController.cs" />
-      <jump line="34" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/AndroidBackController.cs" />
       <jump line="36" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/AndroidBackController.cs" />
       <jump line="104" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
       <jump line="28" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialButton.cs" />
@@ -455,52 +458,55 @@
       <jump line="513" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
       <jump line="512" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
       <jump line="528" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareMedkitPopup.cs" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareMedkitPopup.cs" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareMedkitPopup.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5CYXNlTWlzc2lvbjsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Production</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFVkVOVF9MT0FEX1NZTkNfV0lUSF9DQUxMQkFDS1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>UserInfo.REGENERATION_KEY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFVJTWFuYWdlci5FVkVOVF9SRVRVUk5fVE9fU0NSRUVOX1dJVEhfVFlQRSwgU2NyZWVuVHlwZS5HbG9iZVNjcmVlbik7CiAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dDxCb3R0b21Db25yb2xsZXIuQmFzZVNjZW5lVHlwZSwgQWN0aW9uPihCb3R0b21Db25yb2xsZXIuRVZFTlRfTE9BRF9TQ0VORV9XSVRIX0NBTExCQUNLLCBCb3R0b21Db25yb2xsZXIuQmFzZVNjZW5lVHlwZS5DZW50ZXIsIEhpZGVHbG9iZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5CYXNlTWlzc2lvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5Pbk5leHQ8Qm90dG9tQ29ucm9sbGVyLkJhc2VTY2VuZVR5cGUsIEFjdGlvbj4oCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJvdHRvbUNvbnJvbGxlci5FVkVOVF9TSU1QTEVfTE9BRF9TWU5DX1dJVEhfQ0FMTEJBQ0ssCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIEJvdHRvbUNvbnJvbGxlci5CYXNlU2NlbmVUeXBlLlByb2R1Y3Rpb24sCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICgpID0+Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0PEJvdHRvbUNvbnJvbGxlci5CYXNlU2NlbmVUeXBlLCBBY3Rpb24+KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQm90dG9tQ29ucm9sbGVyLkVWRU5UX0xPQURfU1lOQ19XSVRIX0NBTExCQUNLLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQm90dG9tQ29ucm9sbGVyLkJhc2VTY2VuZVR5cGUuUG9seWdvbiwgbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFVJTWFuYWdlci5FVkVOVF9SRVRVUk5fVE9fU0NSRUVOX1dJVEhfVFlQRSwgU2NyZWVuVHlwZS4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB3cmFwcGVyID0gbmV3IFV0aWxzLldyYXBwZXI8V2VhcG9uUHJvZHVjdGlvblNjcmVlbi5UYWJUeXBlPihXZWFwb25Qcm9kdWN0aW9uU2NyZWVuLlRhYlR5cGUuTWVkaWMpOwogICAgICAgICAgICAgICAgdmFyIGNvbnRleHQgPSBVdGlscy5XcmFwVG9Db250ZXh0KHdyYXBwZXIsIF91c2VySW5mby5MYXJnZXN0QXZhaWxhYmxlTWVka2l0KTsKICAgICAgICAgICAgICAgIEJvdHRvbUNvbnJvbGxlci5PcGVuU2NyZWVuKEJvdHRvbUNvbnJvbGxlci5CYXNlU2NlbmVUeXBlLlByb2R1Y3Rpb24sIFNjcmVlblR5cGUuV2VhcG9uUHJvZHVjdGlvbiwgY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dDxCb3R0b21Db25yb2xsZXIuQmFzZVNjZW5lVHlwZSwgQWN0aW9uPigKICAgICAgICAgICAgICAgICAgICBCb3R0b21Db25yb2xsZXIuRVZFTlRfTE9BRF9TQ0VORV9XSVRIX0NBTExCQUNLLCBCb3R0b21Db25yb2xsZXIuQmFzZVNjZW5lVHlwZS5DZW50ZXIsCiAgICAgICAgICAgICAgICAgICAgR2xvYmVTY3JlZW4uSGlkZUdsb2JlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -544,8 +550,8 @@
         <entry>action GoToFile</entry>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
