@@ -396,12 +396,12 @@
         <mark key="." line="22" column="77" />
         <mark key="^" line="21" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" timestamp="1544533125743">
-        <mark key="'" line="79" column="33" />
-        <mark key="[" line="81" column="68" />
-        <mark key="]" line="81" column="68" />
-        <mark key="^" line="81" column="69" />
-        <mark key="." line="81" column="68" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" timestamp="1544541772282">
+        <mark key="'" line="135" column="124" />
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="39" column="15" />
+        <mark key="^" line="39" column="15" />
+        <mark key="." line="39" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1544007872611">
         <mark key="'" line="509" column="15" />
@@ -438,6 +438,13 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/HexFactory.cs" timestamp="1544531634358" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PsiCapsule/PsiCapsuleUnitScreen.cs" timestamp="1543740212321">
         <mark key="'" line="49" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ComparableItemView.cs" timestamp="1544541953273">
+        <mark key="'" line="23" column="52" />
+        <mark key="[" line="35" column="52" />
+        <mark key="]" line="35" column="49" />
+        <mark key="." line="35" column="49" />
+        <mark key="^" line="35" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1544515222566">
         <mark key="'" line="347" column="89" />
@@ -588,6 +595,12 @@
         <mark key="^" line="82" column="37" />
         <mark key="." line="82" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" timestamp="1544541300462">
+        <mark key="[" line="277" column="16" />
+        <mark key="]" line="277" column="16" />
+        <mark key="^" line="284" column="88" />
+        <mark key="." line="277" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" timestamp="1544433715469">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="70" column="44" />
@@ -603,9 +616,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Logger/LogManager.cs" />
-      <jump line="39" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Logger/LogManager.cs" />
-      <jump line="1573" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" />
       <jump line="1585" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" />
       <jump line="1606" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" />
@@ -703,58 +713,61 @@
       <jump line="52" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidgetRotationController.cs" />
       <jump line="89" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidgetRotationController.cs" />
       <jump line="80" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" />
+      <jump line="134" column="124" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" />
+      <jump line="35" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ComparableItemView.cs" />
+      <jump line="23" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ComparableItemView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgXwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text>localRotation</text>
+        <text encoding="base64">XDxfaXRlbUFiaWxpdHlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUodGhpcy5Eb0ZyYW1lc0xhdGVyKDUsICgpPT4gU2V0QW5pbWF0b3JCb29sUGFyYW1ldGVyKCJIYXZlQWJpbGl0eSIsIGFiaWxpdHkgIT0gbnVsbCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdW50Kys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgXwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvdElkLkFkZFBhcmFtKF9yZWNlaXZlZERhbWFnZVtib3RJZF0uQ291bnQpLkNMb2coX3JlY2VpdmVkRGFtYWdlW2JvdElkXS5EYW1hZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBkYW1hZ2UgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQm90RGFtYWdlU3RhdGlzdGljcygpCiAgICAgICAgewogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGFtYWdlID0gZGFtYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>localRotation</last-search>
+      <last-search encoding="base64">XDxfaXRlbUFiaWxpdHlcPg==</last-search>
       <last-offset />
-      <last-pattern>localRotation</last-pattern>
+      <last-pattern encoding="base64">XDxfaXRlbUFiaWxpdHlcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -762,7 +775,6 @@
     </search>
     <history>
       <history-search>
-        <entry>level</entry>
         <entry encoding="base64">XDxfbGV2ZWxMYWJlbFw+</entry>
         <entry encoding="base64">XDxfbGV2ZWxTaXplRml0dGVyVGV4dFw+</entry>
         <entry encoding="base64">XDxfY3VycmVudE1pc3Npb25MZXZlbFw+</entry>
@@ -782,6 +794,7 @@
         <entry>rotation</entry>
         <entry>\.rotation</entry>
         <entry>localRotation</entry>
+        <entry encoding="base64">XDxfaXRlbUFiaWxpdHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
