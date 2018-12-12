@@ -15,12 +15,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" timestamp="1544194770792">
         <mark key="'" line="1606" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1544023338217">
-        <mark key="'" line="2222" column="34" />
-        <mark key="[" line="2222" column="0" />
-        <mark key="]" line="2222" column="0" />
-        <mark key="." line="2222" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatarsScreen.cs" timestamp="1543932832360">
         <mark key="'" line="48" column="77" />
       </file>
@@ -38,12 +32,6 @@
         <mark key="[" line="342" column="0" />
         <mark key="]" line="342" column="0" />
         <mark key="." line="342" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" timestamp="1544434943023">
-        <mark key="'" line="36" column="21" />
-        <mark key="[" line="319" column="0" />
-        <mark key="]" line="319" column="0" />
-        <mark key="." line="319" column="0" />
       </file>
       <file name="/Dummy.cs" timestamp="1544006390608">
         <mark key="[" line="0" column="0" />
@@ -162,12 +150,6 @@
         <mark key="]" line="82" column="0" />
         <mark key="^" line="82" column="41" />
         <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" timestamp="1544022778161">
-        <mark key="'" line="222" column="21" />
-        <mark key="[" line="51" column="41" />
-        <mark key="]" line="51" column="41" />
-        <mark key="." line="51" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" timestamp="1544515453545">
         <mark key="'" line="296" column="0" />
@@ -584,11 +566,12 @@
         <mark key="^" line="22" column="27" />
         <mark key="." line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1544525066372">
-        <mark key="'" line="1967" column="31" />
-        <mark key="[" line="1968" column="0" />
-        <mark key="]" line="1968" column="0" />
-        <mark key="." line="1968" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1544616933319">
+        <mark key="'" line="135" column="45" />
+        <mark key="[" line="1934" column="35" />
+        <mark key="]" line="1934" column="15" />
+        <mark key="." line="1934" column="15" />
+        <mark key="^" line="1934" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1543931050038">
         <mark key="'" line="153" column="0" />
@@ -612,15 +595,8 @@
         <mark key="." line="71" column="22" />
         <mark key="^" line="71" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/FlyingRewardsController.cs" timestamp="1544012421382">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="36" />
-        <mark key="." line="90" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="45" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
       <jump line="55" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
       <jump line="249" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/MissionInfo.cs" />
@@ -720,6 +696,7 @@
       <jump line="298" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="342" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="341" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
+      <jump line="135" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -732,7 +709,7 @@
         <text>Max</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSYXRpbmdcPg==</text>
+        <text>hitimpl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmF0aW5nLkN1cnJlbnRWYWx1ZS5DTG9nKFJhdGluZ01heC5DdXJyZW50VmFsdWUpOwo=</text>
@@ -769,17 +746,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSYXRpbmdcPg==</last-search>
+      <last-search>hitimpl</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSYXRpbmdcPg==</last-pattern>
+      <last-pattern>hitimpl</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVnZW5UaW1lXD4=</entry>
         <entry encoding="base64">XDxTZXJ2ZXJNb25leVJlZ2VuXD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9PUEVOX1NDUkVFTlw+</entry>
         <entry>clog</entry>
@@ -799,6 +775,7 @@
         <entry encoding="base64">XDxfcmV3YXJkQ29udGFpbmVyXD4=</entry>
         <entry encoding="base64">XDxfcmV3YXJkSXRlbVw+</entry>
         <entry encoding="base64">XDxSYXRpbmdcPg==</entry>
+        <entry>hitimpl</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
