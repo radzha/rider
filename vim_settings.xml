@@ -88,7 +88,15 @@
         <mark key="^" line="31" column="11" />
         <mark key="." line="31" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PiecePopupItemShower.cs" timestamp="1544714707160">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="38" column="66" />
+        <mark key="." line="38" column="66" />
+        <mark key="^" line="38" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/Base/BaseOnGUI.prefab.meta" timestamp="1544695527727" />
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/8DDAA488-2D74-433A-9830-F71ADA7B737F/e4/f271b57f/ConsumablePopupItemShower.cs" timestamp="1544713682730" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundClips.cs" timestamp="1544024364502">
         <mark key="[" line="30" column="59" />
         <mark key="]" line="30" column="61" />
@@ -433,7 +441,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544707518906">
+      <file name="/Dummy.txt" timestamp="1544713237484">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ChestInfo.cs" timestamp="1544104087655">
@@ -593,13 +601,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25CYWNrKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChVSU1hbmFnZXIuR2V0VG9wU2NyZWVuKCkgPT0gU2NyZWVuVHlwZS5CYXNlICYmCiAgICAgICAgICAgICAgICBCb3R0b21Db25yb2xsZXIuR2V0Q3VycmVudFNjZW5lKCkgPT0gQm90dG9tQ29ucm9sbGVyLkJhc2VTY2VuZVR5cGUuSGFuZ2FyKQogICAgICAgICAgICB7CiAgICAgICAgICAgIGlmIChfbGFzdE5vdFNob3duQ29tcGFuaW9uICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFNob3dDb21wYW5pb24oX2xhc3ROb3RTaG93bkNvbXBhbmlvbik7CiAgICAgICAgICAgICAgICBfbGFzdE5vdFNob3duQ29tcGFuaW9uID0gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>currentRecipe.GetRequiredItemsCount()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcmVjdFw+</text>
@@ -608,31 +616,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9uRGlzYWJsZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25CYWNrKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChVSU1hbmFnZXIuR2V0VG9wU2NyZWVuKCkgPT0gU2NyZWVuVHlwZS5CYXNlICYmCiAgICAgICAgICAgICAgICBCb3R0b21Db25yb2xsZXIuR2V0Q3VycmVudFNjZW5lKCkgPT0gQm90dG9tQ29ucm9sbGVyLkJhc2VTY2VuZVR5cGUuSGFuZ2FyKQogICAgICAgICAgICB7CiAgICAgICAgICAgIGlmIChfbGFzdE5vdFNob3duQ29tcGFuaW9uICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFNob3dDb21wYW5pb24oX2xhc3ROb3RTaG93bkNvbXBhbmlvbik7CiAgICAgICAgICAgICAgICBfbGFzdE5vdFNob3duQ29tcGFuaW9uID0gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlKFVJTWFuYWdlci5FVkVOVF9CQUNLLCBPbkJhY2spLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsKICAgICAgICAgICAgdmFyIGl0ZW1Db21wbGV0ZWQgPSB1c2VySW5mby5IYXNJdGVtQW55d2hlcmUoY3VycmVudFJlY2lwZS5PdXRjb21lSXRlbSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uRW5hYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25CYWNrKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChVSU1hbmFnZXIuR2V0VG9wU2NyZWVuKCkgPT0gU2NyZWVuVHlwZS5CYXNlICYmCiAgICAgICAgICAgICAgICBCb3R0b21Db25yb2xsZXIuR2V0Q3VycmVudFNjZW5lKCkgPT0gQm90dG9tQ29ucm9sbGVyLkJhc2VTY2VuZVR5cGUuSGFuZ2FyKQogICAgICAgICAgICB7CiAgICAgICAgICAgIGlmIChfbGFzdE5vdFNob3duQ29tcGFuaW9uICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFNob3dDb21wYW5pb24oX2xhc3ROb3RTaG93bkNvbXBhbmlvbik7CiAgICAgICAgICAgICAgICBfbGFzdE5vdFNob3duQ29tcGFuaW9uID0gbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlKFVJTWFuYWdlci5FVkVOVF9CQUNLLCBPbkJhY2spLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uRW5hYmxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2NyZWVuLgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpIAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NyZWVuLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFuY2hvcmVkUG9zaXRpb24gPSBfaG9yaXpvbnRhbAogICAgICAgICAgICAgICAgPyAoaXRlbS50cmFuc2Zvcm0gYXMgUmVjdFRyYW5zZm9ybSkuYW5jaG9yZWRQb3NpdGlvbi54CiAgICAgICAgICAgICAgICA6IChpdGVtLnRyYW5zZm9ybSBhcyBSZWN0VHJhbnNmb3JtKS5hbmNob3JlZFBvc2l0aW9uLnk7CgogICAgICAgICAgICB2YXIgaW5kZXggPSBNYXRoZi5BYnMoTWF0aGYuRmxvb3JUb0ludChhbmNob3JlZFBvc2l0aW9uIC8gR2V0U2l6ZSgpKSk7CiAgICAgICAgICAgIAogICAgICAgICAgICBpbmRleCAtPSBpbmRleCAlIF9hZGFwdGVyLkdldENvdW50KCk7CgogICAgICAgICAgICByZXR1cm4gaW5kZXggKyBfYWRhcHRlci5HZXRJbmRleChfbWFwW2l0ZW1dKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
