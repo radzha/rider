@@ -263,6 +263,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/ShotsAllyAbility.cs" timestamp="1544519953224">
         <mark key="'" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologiesScreen.cs" timestamp="1544790605554">
+        <mark key="'" line="15" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeScreen.cs" timestamp="1544517633236">
         <mark key="[" line="121" column="8" />
         <mark key="]" line="121" column="21" />
@@ -603,7 +606,7 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544787900682">
+      <file name="/Dummy.txt" timestamp="1544790735010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1543915075209">
@@ -667,7 +670,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="38" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="35" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="82" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
@@ -767,6 +769,7 @@
       <jump line="33" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/LettersExpireController.cs" />
       <jump line="83" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeMinePoint.cs" />
       <jump line="97" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeMinePoint.cs" />
+      <jump line="15" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/TechnologiesList/TechnologiesScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -779,7 +782,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>annou</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKElucHV0LkdldEtleURvd24oS2V5Q29kZS5BKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2V0Q2FwdHVyZWRTdGF0ZSh0cnVlKTsKICAgICAgICAgICAgfQo=</text>
@@ -816,9 +819,9 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>annou</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>annou</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -826,7 +829,6 @@
     </search>
     <history>
       <history-search>
-        <entry>localp</entry>
         <entry>initli</entry>
         <entry encoding="base64">XDxfZGVmYXVsdFJlc29sdXRpb25cPg==</entry>
         <entry encoding="base64">XDxfcmVjdFw+</entry>
@@ -846,6 +848,7 @@
         <entry encoding="base64">XDxNaW5WYWx1ZVw+</entry>
         <entry>dispose</entry>
         <entry>update</entry>
+        <entry>annou</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
