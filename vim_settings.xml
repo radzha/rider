@@ -57,6 +57,13 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" timestamp="1543846160784">
         <mark key="'" line="38" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeMinePoint.cs" timestamp="1544789495715">
+        <mark key="'" line="98" column="28" />
+        <mark key="[" line="85" column="12" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="84" column="9" />
+        <mark key="^" line="86" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/State/Units/UnitState.cs" timestamp="1542980567933">
         <mark key="'" line="47" column="33" />
       </file>
@@ -333,12 +340,6 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/GlobeGridGenerator.cs" timestamp="1543747065900">
         <mark key="'" line="260" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/CamerasGroup.cs" timestamp="1544707430827">
-        <mark key="[" line="59" column="4" />
-        <mark key="]" line="59" column="4" />
-        <mark key="^" line="63" column="15" />
-        <mark key="." line="59" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" timestamp="1544173660518">
         <mark key="[" line="55" column="62" />
@@ -666,8 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="334" column="35" filename="/VirtualList.cs" />
-      <jump line="412" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="18" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="38" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="35" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
@@ -766,46 +765,48 @@
       <jump line="2197" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="43" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/LettersExpireController.cs" />
       <jump line="33" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/LettersExpireController.cs" />
+      <jump line="83" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeMinePoint.cs" />
+      <jump line="97" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeMinePoint.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Array</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0aGEK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Array</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>dispose</text>
+        <text>update</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">X25leHRMZXR0ZXJFeHBpcmVUaW1lLkdldFVuaXhUaW1lU3RhbXBVdGMoKSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKElucHV0LkdldEtleURvd24oS2V5Q29kZS5BKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2V0Q2FwdHVyZWRTdGF0ZSh0cnVlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0dGVycyA9IGxldHRlcnMuV2hlcmUobGV0dGVyID0+IGxldHRlci5EYXRlU3RhcnQuR2V0VW5peFRpbWVTdGFtcFV0YygpICE9IDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0aGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX25leHRMZXR0ZXJFeHBpcmVUaW1lLkdldFVuaXhUaW1lU3RhbXBVdGMoKSAuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAiZmFsc2UiLkNMb2dSZWQoKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgSXNFeHBpcmVkKERhdGVUaW1lIG5vdykKICAgICAgICB7CiAgICAgICAgICAgIF9uZXh0TGV0dGVyRXhwaXJlVGltZS5HZXRVbml4VGltZVN0YW1wVXRjKCkgLkNMb2coKTsKICAgICAgICAgICAgaWYgKF9uZXh0TGV0dGVyRXhwaXJlVGltZS5HZXRVbml4VGltZVN0YW1wVXRjKCkgPT0gMCkKICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAiZmFsc2UiLkNMb2dSZWQoKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfbmV4dExldHRlckV4cGlyZVRpbWUgPCBub3c7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZUVuZCA9IFV0aWxzLkNyZWF0ZUZyb21Vbml4VGltZShKc29uVXRpbHMuSnNvbkdldERvdWJsZSgiZGF0ZV9lbmQiLCBkYXRhLCAwKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGV0dGVycyA9IGxldHRlcnMuV2hlcmUobGV0dGVyID0+IGxldHRlci5EYXRlU3RhcnQuR2V0VW5peFRpbWVTdGFtcFV0YygpICE9IDApCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX25leHRMZXR0ZXJFeHBpcmVUaW1lLkdldFVuaXhUaW1lU3RhbXBVdGMoKSAuQ0xvZygpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAiZmFsc2UiLkNMb2dSZWQoKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uZXh0TGV0dGVyRXhwaXJlVGltZSA8IG5vdzsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgSXNFeHBpcmVkKERhdGVUaW1lIG5vdykKICAgICAgICB7CiAgICAgICAgICAgIF9uZXh0TGV0dGVyRXhwaXJlVGltZS5HZXRVbml4VGltZVN0YW1wVXRjKCkgLkNMb2coKTsKICAgICAgICAgICAgaWYgKF9uZXh0TGV0dGVyRXhwaXJlVGltZS5HZXRVbml4VGltZVN0YW1wVXRjKCkgPT0gMCkKICAgICAgICAgICAgewovLyAgICAgICAgICAgICAgICAiZmFsc2UiLkNMb2dSZWQoKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBfbmV4dExldHRlckV4cGlyZVRpbWUgPCBub3c7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZUVuZCA9IFV0aWxzLkNyZWF0ZUZyb21Vbml4VGltZShKc29uVXRpbHMuSnNvbkdldERvdWJsZSgiZGF0ZV9lbmQiLCBkYXRhLCAwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -815,17 +816,16 @@
       </register>
     </registers>
     <search>
-      <last-search>dispose</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>dispose</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>position</entry>
         <entry>localp</entry>
         <entry>initli</entry>
         <entry encoding="base64">XDxfZGVmYXVsdFJlc29sdXRpb25cPg==</entry>
@@ -845,6 +845,7 @@
         <entry>letters</entry>
         <entry encoding="base64">XDxNaW5WYWx1ZVw+</entry>
         <entry>dispose</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
