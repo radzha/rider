@@ -265,8 +265,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferPrice.cs" timestamp="1545140857712">
         <mark key="'" line="63" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545220578849">
-        <mark key="'" line="170" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545227921459">
+        <mark key="'" line="220" column="0" />
         <mark key="[" line="91" column="57" />
         <mark key="]" line="91" column="74" />
         <mark key="." line="91" column="74" />
@@ -282,7 +282,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1543918134374">
         <mark key="'" line="242" column="113" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545220685939">
+      <file name="/Dummy.txt" timestamp="1545225376129">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TouchDragBroadcaster.cs" timestamp="1544795634391" />
@@ -330,11 +330,11 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" timestamp="1545224986608">
-        <mark key="'" line="120" column="41" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="134" column="120" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" timestamp="1545225404201">
+        <mark key="'" line="119" column="41" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" timestamp="1543846160784">
         <mark key="'" line="38" column="21" />
@@ -579,8 +579,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" timestamp="1544875724983" />
     </filemarks>
     <jumps>
-      <jump line="38" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
-      <jump line="54" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
       <jump line="87" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
       <jump line="56" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
       <jump line="65" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
@@ -679,10 +677,12 @@
       <jump line="3" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
       <jump line="119" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
       <jump line="1422" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="118" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
+      <jump line="220" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uLlV0aWxpdGllczsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -691,54 +691,53 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>sets</text>
+        <text>buy</text>
       </register>
       <register name="0" type="4">
         <text>_userInfo.ItemsSets.Contains(set.Key)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgTmV3dG9uc29mdC5Kc29uLlV0aWxpdGllczsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXRlbXNTZXRzLkdldFNlcWkoKS5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWUuRXF1YWxzKHNldC5WYWx1ZS5Ta2lsbE5hbWUpICYmIF91c2VySW5mby5JdGVtc1NldHMuQ29udGFpbnMoc2V0LktleSkpLlNlbGVjdChzPT5zLlZhbHVlKS5Ub0FycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXRlbXNTZXRzLkdldFNlcWkoKS5DTG9nKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGl0ZW1zU2V0cyA9IF9zdG9yYWdlLkl0ZW1TZXRzLldoZXJlKHNldCA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWUuRXF1YWxzKHNldC5WYWx1ZS5Ta2lsbE5hbWUpICYmIF91c2VySW5mby5JdGVtc1NldHMuQ29udGFpbnMoc2V0LktleSkpLlNlbGVjdChzPT5zLlZhbHVlKS5Ub0FycmF5KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5hbWUuRXF1YWxzKCJDT05TX0RBTUFHRV9TQ0FMRSIpICYmIGl0ZW1zU2V0cy5MZW5ndGggPiAwKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuYW1lLkNMb2coaXRlbXNTZXRzLkxlbmd0aCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGl0ZW1zU2V0cyA9IF9zdG9yYWdlLkl0ZW1TZXRzLldoZXJlKHNldCA9Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5hbWUuRXF1YWxzKCJDT05TX0RBTUFHRV9TQ0FMRSIpICYmIGl0ZW1zU2V0cy5MZW5ndGggPiAwKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuYW1lLkNMb2coaXRlbXNTZXRzLkxlbmd0aCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXRlbXNTZXRzLlNlbGVjdChpPT5pLktleSkuQWRkUGFyYW0oaXRlbXNTZXRzLlNlbGVjdChpPT5pLlZhbHVlLlNraWxsVmFsdWUpKS5DTG9nKGl0ZW1zU2V0cy5Db3VudCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLkNMb2coaXRlbXNTZXRzLkNvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbXNTZXRzLlNlbGVjdChpPT5pLktleSkuQWRkUGFyYW0oaXRlbXNTZXRzLlNlbGVjdChpPT5pLlZhbHVlLlNraWxsVmFsdWUpKS5DTG9nKGl0ZW1zU2V0cy5Db3VudCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGtleSBpbiBkaWN0LktleXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIEl0ZW1zU2V0cwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLkNMb2coaXRlbXNTZXRzLkNvdW50KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>sets</last-search>
+      <last-search>buy</last-search>
       <last-offset />
-      <last-pattern>sets</last-pattern>
+      <last-pattern>buy</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>ReactiveList</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>shared</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxVTktOT1dOX0lEXD4=</entry>
@@ -758,6 +757,7 @@
         <entry>reac</entry>
         <entry>updateitems</entry>
         <entry>sets</entry>
+        <entry>buy</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
