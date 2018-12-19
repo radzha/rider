@@ -89,8 +89,8 @@
         <mark key="^" line="201" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/UnitSoundSetting.cs" timestamp="1544775356098" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1545209381379">
-        <mark key="'" line="1650" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1545221529197">
+        <mark key="'" line="45" column="43" />
         <mark key="[" line="879" column="40" />
         <mark key="]" line="602" column="34" />
         <mark key="^" line="602" column="34" />
@@ -276,7 +276,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1543918134374">
         <mark key="'" line="242" column="113" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545219688125">
+      <file name="/Dummy.txt" timestamp="1545220685939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TouchDragBroadcaster.cs" timestamp="1544795634391" />
@@ -323,6 +323,13 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" timestamp="1545222424400">
+        <mark key="'" line="78" column="12" />
+        <mark key="[" line="231" column="26" />
+        <mark key="]" line="231" column="30" />
+        <mark key="^" line="231" column="30" />
+        <mark key="." line="231" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" timestamp="1543846160784">
         <mark key="'" line="38" column="21" />
@@ -567,17 +574,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" timestamp="1544875724983" />
     </filemarks>
     <jumps>
-      <jump line="16" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/SkinBaseDefenceInfo.cs" />
-      <jump line="42" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/SkinBaseDefenceInfo.cs" />
-      <jump line="22" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/SkinBaseDefenceInfo.cs" />
-      <jump line="21" column="75" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/SkinBaseDefenceInfo.cs" />
-      <jump line="61" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
-      <jump line="39" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
-      <jump line="34" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
-      <jump line="25" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
-      <jump line="44" column="80" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceTestController.cs" />
-      <jump line="51" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseDefenseSettings.cs" />
-      <jump line="102" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseDefenseSettings.cs" />
       <jump line="59" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/BaseFightExt.cs" />
       <jump line="54" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/BaseFightExt.cs" />
       <jump line="29" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseFight.cs" />
@@ -667,19 +663,30 @@
       <jump line="249" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/FightPart.cs" />
       <jump line="82" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/BaseFightExt.cs" />
       <jump line="14" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightLoad/FightLoadScreenBigImage.cs" />
+      <jump line="45" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="132" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="140" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="158" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="176" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="181" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="197" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="217" column="77" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="280" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="66" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="78" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info.Picture</text>
+        <text>Armor</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>info.Picture</text>
+        <text>Armor</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGljdHVyZVw+</text>
+        <text encoding="base64">XDxfYmFzZVZhbHVlc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX3BpY3R1cmUuc3ByaXRlID0gUmVzb3VyY2VzLkxvYWQ8U3ByaXRlPihpbmZvLlBpY3R1cmUpOwo=</text>
@@ -716,9 +723,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGljdHVyZVw+</last-search>
+      <last-search encoding="base64">XDxfYmFzZVZhbHVlc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGljdHVyZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYmFzZVZhbHVlc1w+</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>ReactiveList</last-substitute>
       <last-dir>1</last-dir>
@@ -726,9 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sele</entry>
-        <entry encoding="base64">XDxfaW5mb1w+</entry>
-        <entry encoding="base64">XDxTa2lsbFZhbHVlXD4=</entry>
         <entry>pri</entry>
         <entry>price</entry>
         <entry>rati</entry>
@@ -746,6 +750,9 @@
         <entry encoding="base64">XDxTY2VuZU5hbWVcPg==</entry>
         <entry encoding="base64">XDxHZXRTY2VuZUtleVw+</entry>
         <entry encoding="base64">XDxfcGljdHVyZVw+</entry>
+        <entry>CONS_DAMAGE_SCALE</entry>
+        <entry>user</entry>
+        <entry encoding="base64">XDxfYmFzZVZhbHVlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
