@@ -11,6 +11,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/LunarConsole/Scripts/LunarConsole.cs" timestamp="1544194770792">
         <mark key="'" line="1606" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545319600255">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatarsScreen.cs" timestamp="1543932832360">
         <mark key="'" line="48" column="77" />
       </file>
@@ -116,8 +119,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ActionDescription.cs" timestamp="1543845806972">
         <mark key="'" line="26" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHighlightController.cs" timestamp="1545315306889">
-        <mark key="'" line="62" column="12" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHighlightController.cs" timestamp="1545319196902">
+        <mark key="'" line="6" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MultiOffers.cs" timestamp="1544867622629">
         <mark key="'" line="119" column="28" />
@@ -280,8 +283,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OpenScreenHelper.cs" timestamp="1544695605071">
         <mark key="'" line="9" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1545315363127">
-        <mark key="'" line="104" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1545318984541">
+        <mark key="'" line="76" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightController.cs" timestamp="1545317772358">
         <mark key="[" line="9" column="34" />
@@ -294,17 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="561" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="563" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="565" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="566" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="571" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="609" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="74" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="75" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="77" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="98" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="99" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="109" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="597" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
@@ -387,13 +379,24 @@
       <jump line="179" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/AimingCone.cs" />
       <jump line="187" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/AimingCone.cs" />
       <jump line="62" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHighlightController.cs" />
-      <jump line="97" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="102" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="17" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="88" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="107" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="12" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/StasisGreandeExplosionEffect.cs" />
       <jump line="70" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/StasisGreandeExplosionEffect.cs" />
+      <jump line="88" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="97" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="102" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="17" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="93" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="99" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="116" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="21" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="76" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="6" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHighlightController.cs" />
+      <jump line="29" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="2027" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="323" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="359" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -406,7 +409,7 @@
         <text>t</text>
       </register>
       <register name="/" type="4">
-        <text>effe</text>
+        <text>high</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSB2b2lkIFN0b3BTb3VuZEV2ZW50KHN0cmluZyBldmVudElkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBBdWRpb1NvdXJjZSB0YXJnZXRTb3VyY2U7CgogICAgICAgICAgICAgICAgaWYgKF9hdWRpb1NvdXJjZXMuVHJ5R2V0VmFsdWUoZXZlbnRJZCwgb3V0IHRhcmdldFNvdXJjZSkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0U291cmNlLlN0b3BSZXN0cmljdGVkKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
@@ -443,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>effe</last-search>
+      <last-search>high</last-search>
       <last-offset />
-      <last-pattern>effe</last-pattern>
+      <last-pattern>high</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>ReactiveList</last-substitute>
       <last-dir>1</last-dir>
@@ -453,9 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cita</entry>
-        <entry>coop</entry>
-        <entry encoding="base64">XDxTaG90TG9vcENvbnRyb2xsZXJcPg==</entry>
         <entry encoding="base64">XDxfc2hvdExvb3BDb250cm9sbGVyXD4=</entry>
         <entry>loo</entry>
         <entry encoding="base64">XDxfaXNQYXVzZWRcPg==</entry>
@@ -471,8 +471,11 @@
         <entry encoding="base64">XDxfdW5pdHNIaWdobGlnaHRcPg==</entry>
         <entry encoding="base64">XDxIaXRFZmZlY3RTZXR0aW5nc1w+</entry>
         <entry>light</entry>
-        <entry encoding="base64">XDxfc2V0dGluZ3NcPg==</entry>
         <entry>effe</entry>
+        <entry encoding="base64">XDxfc2V0dGluZ3NcPg==</entry>
+        <entry encoding="base64">XDxfYWN0aXZlXD4=</entry>
+        <entry>highli</entry>
+        <entry>high</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
