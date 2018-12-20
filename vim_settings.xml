@@ -76,6 +76,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mine/Drones/DroneSelection.cs" timestamp="1544622489259">
         <mark key="'" line="194" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/IStackable.cs" timestamp="1545318005781">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" timestamp="1542970479430">
         <mark key="'" line="55" column="41" />
       </file>
@@ -278,11 +283,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1545315363127">
         <mark key="'" line="104" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightController.cs" timestamp="1545315718056">
-        <mark key="[" line="22" column="23" />
-        <mark key="]" line="22" column="44" />
-        <mark key="^" line="22" column="44" />
-        <mark key="." line="22" column="44" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightController.cs" timestamp="1545317772358">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="46" />
+        <mark key="^" line="9" column="46" />
+        <mark key="." line="9" column="46" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBE78183-BF75-4215-B9BC-AA378B4C4463/88/52f69075/ShotsAllyAbility.cs" timestamp="1542984999983">
         <mark key="'" line="14" column="15" />
@@ -392,13 +397,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0b3AiLkNMb2dSZWQoaWRlbnRpZmllcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIFB1c2goKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>effe</text>
@@ -407,31 +412,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSB2b2lkIFN0b3BTb3VuZEV2ZW50KHN0cmluZyBldmVudElkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBBdWRpb1NvdXJjZSB0YXJnZXRTb3VyY2U7CgogICAgICAgICAgICAgICAgaWYgKF9hdWRpb1NvdXJjZXMuVHJ5R2V0VmFsdWUoZXZlbnRJZCwgb3V0IHRhcmdldFNvdXJjZSkpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdGFyZ2V0U291cmNlLlN0b3BSZXN0cmljdGVkKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0b3AiLkNMb2dSZWQoaWRlbnRpZmllcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2b2lkIFB1c2goKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0b3AiLkNMb2dSZWQoaWRlbnRpZmllcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWVyc0NvbnRpbnVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNjcmVlblR5cGUgPT0gU2NyZWVuVHlwZS5GaWdodFJlY29ubmVjdFNjcmVlbikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVGltZXJzUGF1c2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSB2b2lkIE9uQ2xvc2VTY3JlZW4oU2NyZWVuVHlwZSBzY3JlZW5UeXBlKQogICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
