@@ -66,12 +66,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionUpgradeVirtualList.cs" timestamp="1542970888971">
         <mark key="'" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" timestamp="1545400318023">
-        <mark key="'" line="29" column="47" />
-        <mark key="[" line="29" column="126" />
-        <mark key="]" line="29" column="126" />
-        <mark key="." line="161" column="16" />
-        <mark key="^" line="245" column="73" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" timestamp="1545403994291">
+        <mark key="'" line="29" column="57" />
+        <mark key="[" line="318" column="83" />
+        <mark key="]" line="318" column="87" />
+        <mark key="." line="318" column="87" />
+        <mark key="^" line="318" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" timestamp="1545305244727">
         <mark key="'" line="215" column="12" />
@@ -166,7 +166,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" timestamp="1544109700371">
         <mark key="'" line="118" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/ConsumableBankItem.cs" timestamp="1545400295574">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/ConsumableBankItem.cs" timestamp="1545403721460">
         <mark key="[" line="35" column="49" />
         <mark key="]" line="35" column="57" />
         <mark key="." line="35" column="57" />
@@ -330,13 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1123" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="1152" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="1134" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="813" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="67" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="2923" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="2348" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="1238" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1142" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
@@ -429,23 +422,30 @@
       <jump line="27" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkinsPart.cs" />
       <jump line="291" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
       <jump line="28" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
-      <jump line="29" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="283" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="318" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="285" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="362" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="32" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="282" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="311" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="29" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgUmVhY3RpdmVMaXN0PE11bHRpT2ZmZXJCYW5rSXRlbT4gQXZhaWxhYmxlTXVsdGlPZmZlclByb2R1Y3RzID0gbmV3IFJlYWN0aXZlTGlzdDxNdWx0aU9mZmVyQmFua0l0ZW0+KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, product.Currency</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Offers</text>
+        <text>, product.Currency</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfb2ZmZXJJbmZvXD4=</text>
+        <text encoding="base64">XDxBdmFpbGFibGVNdWx0aU9mZmVyUHJvZHVjdHNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgUmVhY3RpdmVMaXN0PE11bHRpT2ZmZXJCYW5rSXRlbT4gQXZhaWxhYmxlTXVsdGlPZmZlclByb2R1Y3RzID0gbmV3IFJlYWN0aXZlTGlzdDxNdWx0aU9mZmVyQmFua0l0ZW0+KCk7Cg==</text>
+      <register name="0" type="4">
+        <text>, product.PriceMicros, product.Currency</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -479,9 +479,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfb2ZmZXJJbmZvXD4=</last-search>
+      <last-search encoding="base64">XDxBdmFpbGFibGVNdWx0aU9mZmVyUHJvZHVjdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfb2ZmZXJJbmZvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBdmFpbGFibGVNdWx0aU9mZmVyUHJvZHVjdHNcPg==</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>ReactiveList</last-substitute>
       <last-dir>1</last-dir>
@@ -489,8 +489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>highlight</entry>
-        <entry>ist</entry>
         <entry encoding="base64">XDxMZXJwXD4=</entry>
         <entry>ondis</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NcPg==</entry>
@@ -509,6 +507,8 @@
         <entry encoding="base64">XDxQYXltZW50VHlwZXNcPg==</entry>
         <entry encoding="base64">XDxfcHJpY2VcPg==</entry>
         <entry encoding="base64">XDxfb2ZmZXJJbmZvXD4=</entry>
+        <entry encoding="base64">XDxfcHJvZHVjdHNcPg==</entry>
+        <entry encoding="base64">XDxBdmFpbGFibGVNdWx0aU9mZmVyUHJvZHVjdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
