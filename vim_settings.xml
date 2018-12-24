@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkins.cs" timestamp="1545404740550">
         <mark key="'" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545645354701">
-        <mark key="[" line="3098" column="42" />
-        <mark key="]" line="3098" column="58" />
-        <mark key="^" line="3098" column="58" />
-        <mark key="." line="3098" column="58" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545646399353">
+        <mark key="[" line="3062" column="21" />
+        <mark key="]" line="3062" column="41" />
+        <mark key="^" line="3062" column="41" />
+        <mark key="." line="3062" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/DeathEffect/MaterialSettingsProcessor.cs" timestamp="1545315968883">
         <mark key="[" line="54" column="13" />
@@ -153,12 +153,12 @@
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1545645632633">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="119" column="24" />
-        <mark key="]" line="120" column="11" />
-        <mark key="^" line="120" column="11" />
-        <mark key="." line="120" column="11" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1545646264477">
+        <mark key="'" line="93" column="40" />
+        <mark key="[" line="93" column="38" />
+        <mark key="]" line="93" column="40" />
+        <mark key="^" line="93" column="40" />
+        <mark key="." line="93" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightController.cs" timestamp="1545391658959">
         <mark key="'" line="109" column="45" />
@@ -176,9 +176,6 @@
       <file name="/InvulnerabilityEffect.cs" timestamp="1545386982742" />
     </filemarks>
     <jumps>
-      <jump line="1058" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="2481" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="66" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="638" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3082" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3094" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
@@ -259,10 +256,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="97" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="17" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="93" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="99" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="116" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="21" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="88" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="23" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="133" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
@@ -276,58 +271,63 @@
       <jump line="122" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="100" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="123" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="121" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
+      <jump line="93" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_highlights.Peek() is HitEffectSettings</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>_highlights.Peek() is HitEffectSettings</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVkVOVF9SRVNQQVdOXD4=</text>
+        <text encoding="base64">XDxfYWN0aXZlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChfaGlnaGxpZ2h0cy5QZWVrKCkgaXMgUmltTGlnaHRTZXR0aW5ncykKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBfaGlnaGxpZ2h0cy5Qb3AoKTsKICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgaWYgKElzSW52dWxuZXJhYmxlKSByZXR1cm47CgogICAgICAgICAgICAgICAgICAgIEhpZ2hsaWdodENvbnRyb2xsZXIuUmVzZXRIaWdobGlnaHQoKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKF9oaWdobGlnaHRzLkNvdW50ID4gMCkgU2V0SGlnaGxpZ2h0KF9oaWdobGlnaHRzLlBlZWsoKSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBib29sIElzSGlnaGxpZ2h0ZWRCeVJpbQogICAgewogICAgICAgIGdldCB7IHJldHVybiBfaGlnaGxpZ2h0cy5QZWVrKCkgaXMgUmltTGlnaHRTZXR0aW5nczsgfQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaGl0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hY3RpdmUgPSBmYWxzZTsKICAgICAgICAgICAgICAgIF91bml0LlJlbW92ZUhpZ2hsaWdodChVbml0LkhlaWdobGlnaHRUeXBlLkhpdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlQ29sb3IoX3NldHRpbmdzLkludGVuc2l0eUN1cnZlLkV2YWx1YXRlKF90aW1lcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FjdGl2ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FjdGl2ZSA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90aW1lciA+IF9zZXR0aW5ncy5JbnRlbnNpdHlDdXJ2ZS5HZXREdXJhdGlvbigpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfYWN0aXZlID0gZmFsc2U7CiAgICAgICAgICAgICAgICBfdW5pdC5SZW1vdmVIaWdobGlnaHQoVW5pdC5IZWlnaGxpZ2h0VHlwZS5IaXQpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX2FjdGl2ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoX2hpZ2hsaWdodHMuQ291bnQgPiAwKSBTZXRIaWdobGlnaHQoX2hpZ2hsaWdodHMuUGVlaygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjdGl2ZSA9IGZhbHNlOwogICAgICAgICAgICBfdW5pdC5SZW1vdmVIaWdobGlnaHQoVW5pdC5IZWlnaGxpZ2h0VHlwZS5IaXQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIaWdobGlnaHRDb250cm9sbGVyLlJlc2V0SGlnaGxpZ2h0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VuaXQuUmVtb3ZlSGlnaGxpZ2h0KFVuaXQuSGVpZ2hsaWdodFR5cGUuSGl0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoSXNJbnZ1bG5lcmFibGUpIHJldHVybjsKCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVkVOVF9SRVNQQVdOXD4=</last-search>
+      <last-search encoding="base64">XDxfYWN0aXZlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVkVOVF9SRVNQQVdOXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYWN0aXZlXD4=</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute>ReactiveList</last-substitute>
       <last-dir>1</last-dir>
@@ -350,11 +350,11 @@
         <entry>hit</entry>
         <entry>high</entry>
         <entry encoding="base64">XDxfc2V0dGluZ3NcPg==</entry>
-        <entry encoding="base64">XDxfYWN0aXZlXD4=</entry>
         <entry encoding="base64">XDxfY29sb3JcPg==</entry>
         <entry encoding="base64">XDxTZXRGaWxsQ29sb3JcPg==</entry>
         <entry encoding="base64">XDxVcGRhdGVDb2xvclw+</entry>
         <entry encoding="base64">XDxFVkVOVF9SRVNQQVdOXD4=</entry>
+        <entry encoding="base64">XDxfYWN0aXZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
