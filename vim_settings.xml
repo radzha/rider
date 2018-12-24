@@ -88,12 +88,12 @@
         <mark key="." line="280" column="67" />
         <mark key="^" line="280" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545660408968">
-        <mark key="'" line="138" column="29" />
-        <mark key="[" line="820" column="59" />
-        <mark key="]" line="820" column="61" />
-        <mark key="." line="820" column="61" />
-        <mark key="^" line="820" column="61" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545664660361">
+        <mark key="'" line="774" column="0" />
+        <mark key="[" line="774" column="17" />
+        <mark key="]" line="775" column="69" />
+        <mark key="." line="775" column="69" />
+        <mark key="^" line="775" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MinesServerInformations.cs" timestamp="1545663637204">
         <mark key="'" line="111" column="79" />
@@ -120,6 +120,7 @@
         <mark key="." line="318" column="87" />
         <mark key="^" line="318" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleSettings.cs" timestamp="1545664487181" />
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" timestamp="1545399403452">
         <mark key="'" line="191" column="25" />
         <mark key="[" line="193" column="46" />
@@ -164,18 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3093" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="3088" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="3085" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="3078" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="144" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="97" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="17" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="99" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="116" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="88" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
-      <jump line="23" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="133" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="125" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="129" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
@@ -256,66 +245,78 @@
       <jump line="3137" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3148" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3154" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="24" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="137" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="138" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="3116" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3107" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3120" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3184" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="111" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MinesServerInformations.cs" />
+      <jump line="24" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="922" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="949" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="1069" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="1142" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="1146" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="1148" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="1149" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="137" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="1150" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="138" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="759" column="86" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="766" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="752" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="774" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mine.Sector.MissionId.PrevId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuTG9nKGxhc3QpOwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">Pj0=</text>
       </register>
       <register name="/" type="4">
-        <text>highl</text>
+        <text encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0U3RhcnRUaW1lXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>mine.Sector.MissionId.PrevId</text>
+        <text>_battleSettings.AssaultRifleSettings.TargetLaserCurve</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSVN0YWNrYWJsZSBoaWdoOwogICAgICAgICAgICAgICAgICAgICAgICBkbwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWdoID0gX2hpZ2hsaWdodHMuUG9wKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gd2hpbGUgKCEoaGlnaCBpcyBSaW1MaWdodFNldHRpbmdzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpbWUuTG9nKGxhc3QpOwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrago=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSVN0YWNrYWJsZSBoaWdoOwogICAgICAgICAgICAgICAgICAgICAgICBkbwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWdoID0gX2hpZ2hsaWdodHMuUG9wKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gd2hpbGUgKCEoaGlnaCBpcyBSaW1MaWdodFNldHRpbmdzKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>highl</last-search>
+      <last-search encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0U3RhcnRUaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>highl</last-pattern>
+      <last-pattern encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0U3RhcnRUaW1lXD4=</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +329,6 @@
         <entry encoding="base64">XDxVcGRhdGVDb2xvclw+</entry>
         <entry encoding="base64">XDxFVkVOVF9SRVNQQVdOXD4=</entry>
         <entry encoding="base64">XDxfYWN0aXZlXD4=</entry>
-        <entry encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0U3RhcnRUaW1lXD4=</entry>
         <entry encoding="base64">XDxJc0hpZ2hsaWdodGVkQnlSaW1cPg==</entry>
         <entry>addh</entry>
         <entry>removeh</entry>
@@ -343,6 +343,7 @@
         <entry>lerp</entry>
         <entry encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0XD4=</entry>
         <entry>highl</entry>
+        <entry encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0U3RhcnRUaW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
