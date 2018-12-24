@@ -17,12 +17,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkins.cs" timestamp="1545404740550">
         <mark key="'" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545660277088">
-        <mark key="'" line="3120" column="0" />
-        <mark key="[" line="3116" column="44" />
-        <mark key="]" line="3116" column="38" />
-        <mark key="^" line="3116" column="38" />
-        <mark key="." line="3116" column="38" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545663029468">
+        <mark key="'" line="3184" column="71" />
+        <mark key="[" line="3185" column="80" />
+        <mark key="]" line="3186" column="34" />
+        <mark key="^" line="3186" column="34" />
+        <mark key="." line="3186" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" timestamp="1545640769750">
         <mark key="'" line="70" column="32" />
@@ -169,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" />
       <jump line="114" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="3093" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3088" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
@@ -269,49 +268,50 @@
       <jump line="3116" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3107" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3120" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="3184" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>EffectByEventSettings</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
         <text>highl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElTdGFja2FibGUgaGlnaGxpZ2h0OwogICAgICAgICAgICAgICAgZG8KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBoaWdobGlnaHQgPSBfaGlnaGxpZ2h0cy5Qb3AoKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKCEoaGlnaGxpZ2h0IGlzIEVmZmVjdEJ5RXZlbnRTZXR0aW5ncykpIF9vdGhlckhpZ2hsaWdodHMuQWRkKGhpZ2hsaWdodCk7CiAgICAgICAgICAgICAgICB9IHdoaWxlICghKGhpZ2hsaWdodCBpcyBFZmZlY3RCeUV2ZW50U2V0dGluZ3MpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoaWdobGlnaHQgPSBSZW1vdmVJbnNpZGUoSGVpZ2hsaWdodFR5cGUuTWF0ZXJpYWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSVN0YWNrYWJsZSBoaWdoOwogICAgICAgICAgICAgICAgICAgICAgICBkbwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWdoID0gX2hpZ2hsaWdodHMuUG9wKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gd2hpbGUgKCEoaGlnaCBpcyBSaW1MaWdodFNldHRpbmdzKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaGlnaGxpZ2h0cy5Qb3AoKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghKGhpZ2hsaWdodCBpcyBFZmZlY3RCeUV2ZW50U2V0dGluZ3MpKSBfb3RoZXJIaWdobGlnaHRzLkFkZChoaWdobGlnaHQpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUK</text>
+        <text encoding="base64">ICAgICAgICB9IAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
