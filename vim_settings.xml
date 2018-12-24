@@ -17,12 +17,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkins.cs" timestamp="1545404740550">
         <mark key="'" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545658944163">
-        <mark key="'" line="3154" column="60" />
-        <mark key="[" line="3157" column="17" />
-        <mark key="]" line="3155" column="72" />
-        <mark key="^" line="3155" column="45" />
-        <mark key="." line="3155" column="46" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545660277088">
+        <mark key="'" line="3120" column="0" />
+        <mark key="[" line="3116" column="44" />
+        <mark key="]" line="3116" column="38" />
+        <mark key="^" line="3116" column="38" />
+        <mark key="." line="3116" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" timestamp="1545640769750">
         <mark key="'" line="70" column="32" />
@@ -97,12 +97,12 @@
         <mark key="." line="280" column="67" />
         <mark key="^" line="280" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545659466559">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545660408968">
         <mark key="'" line="138" column="29" />
-        <mark key="[" line="757" column="69" />
-        <mark key="]" line="758" column="24" />
-        <mark key="." line="758" column="24" />
-        <mark key="^" line="758" column="24" />
+        <mark key="[" line="820" column="59" />
+        <mark key="]" line="820" column="61" />
+        <mark key="." line="820" column="61" />
+        <mark key="^" line="820" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkinsPart.cs" timestamp="1545399950437">
         <mark key="'" line="27" column="43" />
@@ -169,9 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" />
-      <jump line="46" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" />
-      <jump line="59" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" />
       <jump line="70" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" />
       <jump line="114" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="3093" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
@@ -269,49 +266,52 @@
       <jump line="24" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="137" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="138" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="3116" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="3107" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="3120" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_otherHighlights.Count - 1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>EffectByEventSettings</text>
       </register>
       <register name="/" type="4">
         <text>highl</text>
       </register>
-      <register name="0" type="4">
-        <text>_otherHighlights.Count - 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElTdGFja2FibGUgaGlnaGxpZ2h0OwogICAgICAgICAgICAgICAgZG8KICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBoaWdobGlnaHQgPSBfaGlnaGxpZ2h0cy5Qb3AoKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKCEoaGlnaGxpZ2h0IGlzIEVmZmVjdEJ5RXZlbnRTZXR0aW5ncykpIF9vdGhlckhpZ2hsaWdodHMuQWRkKGhpZ2hsaWdodCk7CiAgICAgICAgICAgICAgICB9IHdoaWxlICghKGhpZ2hsaWdodCBpcyBFZmZlY3RCeUV2ZW50U2V0dGluZ3MpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJpbUhpZ2hsaWdodCE9bnVsbCkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElTdGFja2FibGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaGlnaGxpZ2h0cy5Qb3AoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJpbUxpZ2h0U2V0dGluZ3MgcmltSGlnaGxpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmICghKGhpZ2hsaWdodCBpcyBFZmZlY3RCeUV2ZW50U2V0dGluZ3MpKSBfb3RoZXJIaWdobGlnaHRzLkFkZChoaWdobGlnaHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJpbSIuQ0xvZyhwcm9wZXJ0eS5EYXRhLlJpbUNvbG9yKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaGlnaGxpZ2h0ID0gX2hpZ2hsaWdodHMuUG9wKCkgYXMgRWZmZWN0QnlFdmVudFNldHRpbmdzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgd2hpbGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoZWlnbGlnaHQgPSBfaGlnaGxpZ2h0cy5GaXJzdE9yRGVmYXVsdChoID0+IGggaXMgRWZmZWN0QnlFdmVudFNldHRpbmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
