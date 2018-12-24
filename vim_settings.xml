@@ -11,18 +11,15 @@
         <mark key="." line="35" column="57" />
         <mark key="^" line="35" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/UserChests.cs" timestamp="1543571399294">
-        <mark key="[" line="30" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkins.cs" timestamp="1545404740550">
         <mark key="'" line="58" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545663029468">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545663252309">
         <mark key="'" line="3184" column="71" />
         <mark key="[" line="3185" column="80" />
-        <mark key="]" line="3186" column="34" />
-        <mark key="^" line="3186" column="34" />
-        <mark key="." line="3186" column="34" />
+        <mark key="]" line="3125" column="39" />
+        <mark key="^" line="3125" column="39" />
+        <mark key="." line="3125" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/InvulnerabilityEffect.cs" timestamp="1545640769750">
         <mark key="'" line="70" column="32" />
@@ -42,9 +39,6 @@
         <mark key="]" line="132" column="40" />
         <mark key="." line="132" column="19" />
         <mark key="^" line="132" column="19" />
-      </file>
-      <file name="/Dummy.cs" timestamp="1545404277796">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferPrice.cs" timestamp="1545408386903">
         <mark key="'" line="77" column="37" />
@@ -87,9 +81,6 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545638353214">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/AimingCone.cs" timestamp="1545643982463">
         <mark key="'" line="71" column="12" />
         <mark key="[" line="280" column="44" />
@@ -104,6 +95,13 @@
         <mark key="." line="820" column="61" />
         <mark key="^" line="820" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MinesServerInformations.cs" timestamp="1545663637204">
+        <mark key="'" line="111" column="79" />
+        <mark key="[" line="111" column="92" />
+        <mark key="]" line="111" column="93" />
+        <mark key="." line="111" column="93" />
+        <mark key="^" line="111" column="92" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkinsPart.cs" timestamp="1545399950437">
         <mark key="'" line="27" column="43" />
         <mark key="[" line="46" column="0" />
@@ -112,9 +110,6 @@
         <mark key="^" line="34" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" timestamp="1545647866955" />
-      <file name="/PlayerAimingManager.cs" timestamp="1542124781242">
-        <mark key="[" line="35" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545397479774">
         <mark key="'" line="129" column="53" />
       </file>
@@ -169,7 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="3093" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3088" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3085" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
@@ -269,10 +263,11 @@
       <jump line="3107" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3120" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3184" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="111" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MinesServerInformations.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>mine.Sector.MissionId.PrevId</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -283,8 +278,8 @@
       <register name="/" type="4">
         <text>highl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBoaWdobGlnaHQgPSBSZW1vdmVJbnNpZGUoSGVpZ2hsaWdodFR5cGUuTWF0ZXJpYWwpOwo=</text>
+      <register name="0" type="4">
+        <text>mine.Sector.MissionId.PrevId</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSVN0YWNrYWJsZSBoaWdoOwogICAgICAgICAgICAgICAgICAgICAgICBkbwogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoaWdoID0gX2hpZ2hsaWdodHMuUG9wKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gd2hpbGUgKCEoaGlnaCBpcyBSaW1MaWdodFNldHRpbmdzKSk7Cg==</text>
