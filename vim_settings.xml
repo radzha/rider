@@ -11,12 +11,11 @@
         <mark key="." line="35" column="57" />
         <mark key="^" line="35" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1545751356453">
-        <mark key="'" line="546" column="21" />
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="265" column="31" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1545753095021">
+        <mark key="[" line="261" column="91" />
+        <mark key="]" line="261" column="96" />
+        <mark key="." line="261" column="96" />
+        <mark key="^" line="261" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkins.cs" timestamp="1545404740550">
         <mark key="'" line="58" column="40" />
@@ -35,8 +34,8 @@
         <mark key="." line="80" column="64" />
         <mark key="^" line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1545750103460">
-        <mark key="'" line="34" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1545751563820">
+        <mark key="'" line="30" column="21" />
         <mark key="[" line="67" column="48" />
         <mark key="]" line="67" column="58" />
         <mark key="." line="67" column="58" />
@@ -155,6 +154,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemFactory.cs" timestamp="1545751635188" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1545750119437">
         <mark key="'" line="75" column="45" />
         <mark key="[" line="19" column="16" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
       <jump line="98" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
       <jump line="27" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
       <jump line="81" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -241,7 +240,6 @@
       <jump line="97" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="436" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="310" column="75" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="266" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="323" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="259" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -308,50 +306,52 @@
       <jump line="267" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="270" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="256" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="30" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="546" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="266" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2l0ZW1zQ29udHJvbGxlci5Jbml0aWFsaXplKG9yZGVyZWRJdGVtcyk7CgogICAgICAgICAgICBTaG93QWxsSXRlbXNJbkxpc3QoKTsKICAgICAgICAgICAgU2hvd0J1eUJ1dHRvbnMoKTsKCiAgICAgICAgICAgIFVwZGF0ZUNpdGFkZWxWaWV3KF9jaGVzdENvbnRleHQuQ2l0YWRlbENvbnRleHQpOwoK</text>
+      <register name="&quot;" type="4">
+        <text>Priority</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>reversedList</text>
+        <text>Priority</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBZGRBbGxJdGVtc0Zyb21RdWV1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9jaGVzdENvbnRleHQuVmlld01vZGUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBpdGVtc1dpdGhQcmlvcml0eSA9IG5ldyBEaWN0aW9uYXJ5PFBvcHVwSXRlbVNob3dlciwgaW50PigpOwogICAgICAgICAgICAgICAgdmFyIG9yZGVyZWRJdGVtcyA9IG5ldyBMaXN0PFBvcHVwSXRlbVNob3dlcj4oKTsKICAgICAgICAgICAgICAgIHZhciBpc1ZpZGVvQ2hlc3QgPSBfY2hlc3RDb250ZXh0LkNoZXN0LkNoZXN0Lk9wZW5CeUV2ZW50ID09IFNlcnZlckRhdGEuQ2hlc3RzLk9wZW5CeUV2ZW50RS52aWRlbzsKCiAgICAgICAgICAgICAgICBfYW5pbWF0b3IuU2V0SW50ZWdlcigiQ2hlc3RTdGF0ZSIsIChpbnQpIChpc1ZpZGVvQ2hlc3QgPyBDaGVzdFN0YXRlLlZpZGVvIDogQ2hlc3RTdGF0ZS5EZWZhdWx0KSk7CiAgICAgICAgICAgICAgICBfYW5pbWF0b3IuU2V0SW50ZWdlcigiUmV3YXJkU3RhdGUiLCAoaW50KSBSZXdhcmRTdGF0ZS5TaG93UmV3YXJkc0xpc3QpOwoKICAgICAgICAgICAgICAgIC8vIFRPRE8gOiBzaG91bGQgYmUgcmVmYWN0b3JlZAogICAgICAgICAgICAgICAgdmFyIGNoZXN0ID0gX2NoZXN0Q29udGV4dC5DaGVzdDsKICAgICAgICAgICAgICAgIHZhciBzdXBlclF1ZXVlSXRlbXMgPSBjaGVzdC5DaGVzdC5RdWV1ZVN1cGVyLkdyb3Vwcy5DYXN0PFNlcnZlckRhdGEuQ2hlc3RzLklHcm91cEl0ZW0+KCk7CiAgICAgICAgICAgICAgICB2YXIgbm9ybWFsUXVldWVJdGVtcyA9IGNoZXN0LkNoZXN0LlF1ZXVlTm9ybWFsLkdyb3Vwcy5DYXN0PFNlcnZlckRhdGEuQ2hlc3RzLklHcm91cEl0ZW0+KCk7CiAgICAgICAgICAgICAgICB2YXIgc3VwZXJRdWV1ZUxlbmd0aCA9IGNoZXN0LkNoZXN0LlF1ZXVlU3VwZXIuTGVuZ3RoOwogICAgICAgICAgICAgICAgdmFyIG5vcm1hbFF1ZXVlTGVuZ3RoID0gY2hlc3QuQ2hlc3QuUXVldWVOb3JtYWwuTGVuZ3RoOwogICAgICAgICAgICAgICAgQWRkQWxsSXRlbXNGcm9tUXVldWUoc3VwZXJRdWV1ZUl0ZW1zLCBzdXBlclF1ZXVlTGVuZ3RoLCBub3JtYWxRdWV1ZUxlbmd0aCwgZmFsc2UsIGNoZXN0LkNoZXN0LlJvbGxTdXBlclF1ZXVlLCBjaGVzdC5DaGVzdC5Sb2xsU3VwZXJRdWV1ZUNudCwgaXRlbXNXaXRoUHJpb3JpdHkpOwogICAgICAgICAgICAgICAgQWRkQWxsSXRlbXNGcm9tUXVldWUobm9ybWFsUXVldWVJdGVtcywgbm9ybWFsUXVldWVMZW5ndGgsIG5vcm1hbFF1ZXVlTGVuZ3RoLCB0cnVlLCBjaGVzdC5DaGVzdC5Sb2xsU3VwZXJRdWV1ZSwgY2hlc3QuQ2hlc3QuUm9sbFN1cGVyUXVldWVDbnQsIGl0ZW1zV2l0aFByaW9yaXR5KTsKICAgICAgICAgICAgICAgIG9yZGVyZWRJdGVtcy5BZGRSYW5nZShpdGVtc1dpdGhQcmlvcml0eS5PcmRlckJ5KHBhaXIgPT4gcGFpci5WYWx1ZSkuU2VsZWN0KHBhaXIgPT4gcGFpci5LZXkpLlRvTGlzdCgpKTsKCiAgICAgICAgICAgICAgICBfaXRlbXNDb250cm9sbGVyLkluaXRpYWxpemUob3JkZXJlZEl0ZW1zKTsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgU2hvd0FsbEl0ZW1zSW5MaXN0KCk7CiAgICAgICAgICAgICAgICBTaG93QnV5QnV0dG9ucygpOwoKICAgICAgICAgICAgICAgIFVwZGF0ZUNpdGFkZWxWaWV3KF9jaGVzdENvbnRleHQuQ2l0YWRlbENvbnRleHQpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkcm9wID0gVW5pdHlFbmdpbmUuUmFuZG9tLkluaXRTdGF0ZShpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2l0ZW1zQ29udHJvbGxlci5Jbml0aWFsaXplKG9yZGVyZWRJdGVtcyk7CgogICAgICAgICAgICBTaG93QWxsSXRlbXNJbkxpc3QoKTsKICAgICAgICAgICAgU2hvd0J1eUJ1dHRvbnMoKTsKCiAgICAgICAgICAgIFVwZGF0ZUNpdGFkZWxWaWV3KF9jaGVzdENvbnRleHQuQ2l0YWRlbENvbnRleHQpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVuaXR5RW5naW5lLlJhbmRvbS5Jbml0U3RhdGUoKGludClTeXN0ZW0uRGF0ZVRpbWUuTm93LlRpY2tzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IHNob3VsZCBiZSByZWZhY3RvcmVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkcm9wID0gVW5pdHlFbmdpbmUuUmFuZG9tLkluaXRTdGF0ZShpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVuaXR5RW5naW5lLlJhbmRvbS5Jbml0U3RhdGUoaSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzVmlkZW9DaGVzdCA9IF9jaGVzdENvbnRleHQuQ2hlc3QuQ2hlc3QuT3BlbkJ5RXZlbnQgPT0gU2VydmVyRGF0YS5DaGVzdHMuT3BlbkJ5RXZlbnRFLnZpZGVvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlNldEludGVnZXIoIkNoZXN0U3RhdGUiLCAoaW50KSAoaXNWaWRlb0NoZXN0ID8gQ2hlc3RTdGF0ZS5WaWRlbyA6IENoZXN0U3RhdGUuRGVmYXVsdCkpOwogICAgICAgICAgICBfYW5pbWF0b3IuU2V0SW50ZWdlcigiUmV3YXJkU3RhdGUiLCAoaW50KSBSZXdhcmRTdGF0ZS5TaG93UmV3YXJkc0xpc3QpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LkFkZFJhbmdlKGl0ZW1zV2l0aFByaW9yaXR5Lk9yZGVyQnkocGFpciA9PiBwYWlyLlZhbHVlKS5TZWxlY3QocGFpciA9PiBwYWlyLktleSkuVG9MaXN0KCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9jaGVzdENvbnRleHQuVmlld01vZGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgZXh0cmFJdGVtcyA9IG5ldyBMaXN0PFBvcHVwSXRlbVNob3dlcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9yZGVyZWRJdGVtcyA9IG5ldyBMaXN0PFBvcHVwSXRlbVNob3dlcj4oKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -368,7 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYnV5WDEwUHJpY2VcPg==</entry>
         <entry>click</entry>
         <entry encoding="base64">XDxFVkVOVF9SRUNFSVZFRF9SRVdBUkRTXD4=</entry>
         <entry>buyche</entry>
@@ -387,6 +386,7 @@
         <entry encoding="base64">XDxfaXRlbXNDb250cm9sbGVyXD4=</entry>
         <entry>{</entry>
         <entry>perc</entry>
+        <entry encoding="base64">XDxfZHJvcENoYW5jZVw+</entry>
         <entry encoding="base64">XDxBZGRBbGxJdGVtc0Zyb21RdWV1ZVw+</entry>
       </history-search>
       <history-cmd>
