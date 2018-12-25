@@ -68,6 +68,10 @@
         <mark key="." line="318" column="87" />
         <mark key="^" line="318" column="87" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SceneSwitcherBySwipe.cs" timestamp="1545727393856">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="19" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitRimHighlightController.cs" timestamp="1545668001665">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="14" column="21" />
@@ -118,12 +122,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545408250762">
-        <mark key="'" line="135" column="37" />
-        <mark key="[" line="135" column="48" />
-        <mark key="]" line="135" column="48" />
-        <mark key="^" line="135" column="47" />
-        <mark key="." line="135" column="48" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545727439078">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="197" column="21" />
+        <mark key="]" line="200" column="43" />
+        <mark key="^" line="200" column="43" />
+        <mark key="." line="200" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightManager.cs" timestamp="1545670496070">
         <mark key="'" line="10" column="15" />
@@ -142,7 +146,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="44" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545670016319">
+      <file name="/Dummy.txt" timestamp="1545677129533">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Input/BattleEventTrigger.cs" timestamp="1545667041026">
@@ -186,12 +190,6 @@
         <mark key="." line="121" column="66" />
         <mark key="^" line="121" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightController.cs" timestamp="1545656757945">
-        <mark key="'" line="107" column="45" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/SkinBaseDefenceInfo.cs" timestamp="1545408581845">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -200,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MinesServerInformations.cs" />
-      <jump line="922" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="949" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1069" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1142" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
@@ -300,52 +296,54 @@
       <jump line="10" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightManager.cs" />
       <jump line="452" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="1616" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="186" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>RimHighlightController</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2NyZWVuQ29udGV4dCA9IG5ldyBDaGFuZ2VTY2VuZUNvbnRleHQKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElzTGVmdERpcmVjdGlvbiA9IGlzTGVmdERpcmVjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgTG9hZGluZ1NjZW5lID0gQm90dG9tQ29ucm9sbGVyLkdldE5leHRTY2VuZShpc0xlZnREaXJlY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5DaGFuZ2VCYXNlU2NlbmUsIHNjcmVlbkNvbnRleHQpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>RimHighlightController</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ondis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJuZWVkIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgW1Rvb2x0aXAoIiUgb2Ygc2NyZWVuIHdpZHRoIildCiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfc3dpcGVNYXhMZW5ndGggPSAwLjdmOwogICAgICAgIFtTZXJpYWxpemVGaWVsZF0KICAgICAgICBbVG9vbHRpcCgiJSBvZiBzY3JlZW4gd2lkdGgiKV0KICAgICAgICBwcml2YXRlIGZsb2F0IF9zd2lwZU1pbkxlbmd0aCA9IDAuMmY7CiAgICAgICAgW1NlcmlhbGl6ZUZpZWxkXQogICAgICAgIFtUb29sdGlwKCIlIGluIHNlYyIpXQogICAgICAgIHByaXZhdGUgZmxvYXQgX21pblNwZWVkID0gMWY7CiAgICAgICAgW1NlcmlhbGl6ZUZpZWxkXQogICAgICAgIFtUb29sdGlwKCIlIGluIHNlYyIpXQogICAgICAgIHByaXZhdGUgZmxvYXQgX21heFNwZWVkID0gNGY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSaW1IaWdobGlnaHRDb250cm9sbGVyID0gbmV3IFVuaXRSaW1IaWdobGlnaHRDb250cm9sbGVyKHRoaXMsIF9tZXNoUmVuZGVyZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2NyZWVuQ29udGV4dCA9IG5ldyBDaGFuZ2VTY2VuZUNvbnRleHQKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElzTGVmdERpcmVjdGlvbiA9IGlzTGVmdERpcmVjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgTG9hZGluZ1NjZW5lID0gQm90dG9tQ29ucm9sbGVyLkdldE5leHRTY2VuZShpc0xlZnREaXJlY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5DaGFuZ2VCYXNlU2NlbmUsIHNjcmVlbkNvbnRleHQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVbml0UmltSGlnaGxpZ2h0Q29udHJvbGxlciBSaW1IaWdobGlnaHRDb250cm9sbGVyIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBSaW1IaWdobGlnaHRDb250cm9sbGVyID0gbmV3IFVuaXRSaW1IaWdobGlnaHRDb250cm9sbGVyKHRoaXMsIF9tZXNoUmVuZGVyZXJzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRkIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVbml0UmltSGlnaGxpZ2h0Q29udHJvbGxlciBSaW1IaWdobGlnaHRDb250cm9sbGVyIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRkIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX3VwZGF0ZUhpZ2hsaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRkIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdXBkYXRlSGlnaGxpZ2h0ID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX3VwZGF0ZUhpZ2hsaWdodDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF91cGRhdGVIaWdobGlnaHQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdXBkYXRlSGlnaGxpZ2h0ID0gdHJ1ZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VwZGF0ZUhpZ2hsaWdodC5Mb2coKTsK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF91cGRhdGVIaWdobGlnaHQgPSBmYWxzZTsK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3VwZGF0ZUhpZ2hsaWdodC5Mb2coKTsK</text>
+      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -392,8 +390,8 @@
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0</entry>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0L2c=</entry>
         <entry>%s/ReactiveList/List/g</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
