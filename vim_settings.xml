@@ -11,6 +11,13 @@
         <mark key="." line="35" column="57" />
         <mark key="^" line="35" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1545740836769">
+        <mark key="'" line="100" column="48" />
+        <mark key="[" line="69" column="37" />
+        <mark key="]" line="69" column="38" />
+        <mark key="." line="69" column="38" />
+        <mark key="^" line="69" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkins.cs" timestamp="1545404740550">
         <mark key="'" line="58" column="40" />
       </file>
@@ -160,7 +167,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="44" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545735635498">
+      <file name="/Dummy.txt" timestamp="1545736122489">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Input/BattleEventTrigger.cs" timestamp="1545667041026">
@@ -212,13 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="35" column="106" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="39" column="111" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="40" column="76" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="110" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="111" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="128" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="896" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="839" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="847" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
@@ -312,58 +312,65 @@
       <jump line="28" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
       <jump line="98" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
       <jump line="27" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
+      <jump line="81" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="120" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="85" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="105" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="14" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="99" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.UpdatePhrase(chestsCount);</text>
+        <text>ShowListWithOneReward</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.UpdatePhrase(chestsCount);</text>
+        <text>ShowListWithOneReward</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>anim</text>
       </register>
-      <register name="0" type="4">
-        <text>storage.PremiumSettings.ChestBonus.First().Count</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2hvd0xpc3RXaXRoT25lUmV3YXJkID0gNCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FkZGl0aW9uYWxDb25zdW1hYmxlc0luZm8uVXBkYXRlUGhyYXNlKEdldEFkZGl0aW9uYWxHcmVuYWRlc0NvdW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgR2FtZU9iamVjdCBfZXh0cmFQcmVtaXVtUmV3YXJkc1Jvb3Q7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBfdG90YWxHZW1zTGFiZWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FkZGl0aW9uYWxDb25zdW1hYmxlc0luZm8uVXBkYXRlUGhyYXNlKEdldEFkZGl0aW9uYWxHcmVuYWRlc0NvdW50KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBfZ2Vtc1BlckRheUxhYmVsOwo=</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBfdG90YWxHZW1zTGFiZWw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBfZ2Vtc1Jld2FyZC5VcGRhdGVQaHJhc2UobW9uZXlQZXJEYXksIHRvdGFsR2Vtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBfZ2Vtc1BlckRheUxhYmVsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBfdG90YWxHZW1zTGFiZWwudGV4dCA9IHRvdGFsR2Vtcy5Ub1N0cmluZygpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBfZ2Vtc1Jld2FyZC5VcGRhdGVQaHJhc2UobW9uZXlQZXJEYXksIHRvdGFsR2Vtcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBfZ2Vtc1BlckRheUxhYmVsLnRleHQgPSAiKyIgKyBtb25leVBlckRheTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBfdG90YWxHZW1zTGFiZWwudGV4dCA9IHRvdGFsR2Vtcy5Ub1N0cmluZygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgdG90YWxHZW1zID0gYmlnT2ZmZXJUb3RhbERheXMgKiBtb25leVBlckRheTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBfZ2Vtc1BlckRheUxhYmVsLnRleHQgPSAiKyIgKyBtb25leVBlckRheTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuSXNUcnVlKHN0b3JhZ2UuUHJlbWl1bVNldHRpbmdzLkRhaWx5Qm9udXMuQ291bnQgPj0gMSk7Ci8vICAgICAgICAgICAgdmFyIG1vbmV5Qm9udXMgPSBzdG9yYWdlLlByZW1pdW1TZXR0aW5ncy5EYWlseUJvbnVzWzBdLkRhdGFBc01vbmV5KCk7Ci8vICAgICAgICAgICAgQXNzZXJ0LklzTm90TnVsbChtb25leUJvbnVzKTsKLy8gICAgICAgICAgICB2YXIgbW9uZXlQZXJEYXkgPSBtb25leUJvbnVzLkRhdGEuTW9uZXk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgdG90YWxHZW1zID0gYmlnT2ZmZXJUb3RhbERheXMgKiBtb25leVBlckRheTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNob3ciLkNMb2coZ2FtZU9iamVjdC5uYW1lKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBc3NlcnQuSXNUcnVlKHN0b3JhZ2UuUHJlbWl1bVNldHRpbmdzLkRhaWx5Qm9udXMuQ291bnQgPj0gMSk7Ci8vICAgICAgICAgICAgdmFyIG1vbmV5Qm9udXMgPSBzdG9yYWdlLlByZW1pdW1TZXR0aW5ncy5EYWlseUJvbnVzWzBdLkRhdGFBc01vbmV5KCk7Ci8vICAgICAgICAgICAgQXNzZXJ0LklzTm90TnVsbChtb25leUJvbnVzKTsKLy8gICAgICAgICAgICB2YXIgbW9uZXlQZXJEYXkgPSBtb25leUJvbnVzLkRhdGEuTW9uZXk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>anim</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>anim</last-pattern>
       <last-replace>List</last-replace>
       <last-substitute encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -371,12 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changeta</entry>
-        <entry>addh</entry>
-        <entry>removeh</entry>
-        <entry encoding="base64">XDxfaGlnaGxpdGVkXD4=</entry>
-        <entry encoding="base64">XDxIaWdobGlnaHRDb250cm9sbGVyXD4=</entry>
-        <entry>highlighted</entry>
         <entry>highl</entry>
         <entry encoding="base64">XDxfaGlnaGxpZ2h0ZWRcPg==</entry>
         <entry encoding="base64">XDxfdXBkYXRlSGlnaGxpZ2h0XD4=</entry>
@@ -391,6 +392,12 @@
         <entry>phrase</entry>
         <entry encoding="base64">XDxfYWRkaXRpb25hbENvbnN1bWFibGVzSW5mb1w+</entry>
         <entry>clog</entry>
+        <entry encoding="base64">XDxfcmVtYWluc1RpbWVcPg==</entry>
+        <entry>container</entry>
+        <entry>contai</entry>
+        <entry>fill</entry>
+        <entry>control</entry>
+        <entry>anim</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
