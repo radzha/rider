@@ -39,6 +39,9 @@
         <mark key="." line="133" column="60" />
         <mark key="^" line="53" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" timestamp="1545727829039">
+        <mark key="'" line="16" column="17" />
+      </file>
       <file name="/Dummy.cs" timestamp="1545404277796">
         <mark key="[" line="0" column="0" />
       </file>
@@ -47,6 +50,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1545657607014">
         <mark key="'" line="572" column="47" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE16CF87-F823-455D-ABC8-E915F7476D2A/b0/63467a61/BaseDefenceMenu.cs" timestamp="1545727538299">
+        <mark key="'" line="22" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/AimingCone.cs" timestamp="1545670193887">
         <mark key="'" line="288" column="0" />
@@ -122,12 +128,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="6" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545727439078">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="197" column="21" />
-        <mark key="]" line="200" column="43" />
-        <mark key="^" line="200" column="43" />
-        <mark key="." line="200" column="43" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545728465742">
+        <mark key="'" line="155" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightManager.cs" timestamp="1545670496070">
         <mark key="'" line="10" column="15" />
@@ -146,7 +152,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="44" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545677129533">
+      <file name="/Dummy.txt" timestamp="1545728469451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Input/BattleEventTrigger.cs" timestamp="1545667041026">
@@ -198,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="949" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="1069" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="1142" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1146" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1148" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1149" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
@@ -298,10 +301,13 @@
       <jump line="1616" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="186" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
+      <jump line="22" column="15" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE16CF87-F823-455D-ABC8-E915F7476D2A/b0/63467a61/BaseDefenceMenu.cs" />
+      <jump line="16" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" />
+      <jump line="155" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2NyZWVuQ29udGV4dCA9IG5ldyBDaGFuZ2VTY2VuZUNvbnRleHQKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElzTGVmdERpcmVjdGlvbiA9IGlzTGVmdERpcmVjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgTG9hZGluZ1NjZW5lID0gQm90dG9tQ29ucm9sbGVyLkdldE5leHRTY2VuZShpc0xlZnREaXJlY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5DaGFuZ2VCYXNlU2NlbmUsIHNjcmVlbkNvbnRleHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -316,31 +322,31 @@
         <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgW1Rvb2x0aXAoIiUgb2Ygc2NyZWVuIHdpZHRoIildCiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfc3dpcGVNYXhMZW5ndGggPSAwLjdmOwogICAgICAgIFtTZXJpYWxpemVGaWVsZF0KICAgICAgICBbVG9vbHRpcCgiJSBvZiBzY3JlZW4gd2lkdGgiKV0KICAgICAgICBwcml2YXRlIGZsb2F0IF9zd2lwZU1pbkxlbmd0aCA9IDAuMmY7CiAgICAgICAgW1NlcmlhbGl6ZUZpZWxkXQogICAgICAgIFtUb29sdGlwKCIlIGluIHNlYyIpXQogICAgICAgIHByaXZhdGUgZmxvYXQgX21pblNwZWVkID0gMWY7CiAgICAgICAgW1NlcmlhbGl6ZUZpZWxkXQogICAgICAgIFtUb29sdGlwKCIlIGluIHNlYyIpXQogICAgICAgIHByaXZhdGUgZmxvYXQgX21heFNwZWVkID0gNGY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2NyZWVuQ29udGV4dCA9IG5ldyBDaGFuZ2VTY2VuZUNvbnRleHQKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElzTGVmdERpcmVjdGlvbiA9IGlzTGVmdERpcmVjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgTG9hZGluZ1NjZW5lID0gQm90dG9tQ29ucm9sbGVyLkdldE5leHRTY2VuZShpc0xlZnREaXJlY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5DaGFuZ2VCYXNlU2NlbmUsIHNjcmVlbkNvbnRleHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSaW1IaWdobGlnaHRDb250cm9sbGVyID0gbmV3IFVuaXRSaW1IaWdobGlnaHRDb250cm9sbGVyKHRoaXMsIF9tZXNoUmVuZGVyZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFZlY3RvcjIgX3N0YXJ0UG9zaXRpb247CiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfc3RhcnRUaW1lOwogICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVbml0UmltSGlnaGxpZ2h0Q29udHJvbGxlciBSaW1IaWdobGlnaHRDb250cm9sbGVyIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFZlY3RvcjIgX3N0YXJ0UG9zaXRpb247CiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfc3RhcnRUaW1lOwogICAgICAgIFtTZXJpYWxpemVGaWVsZF0KICAgICAgICBbVG9vbHRpcCgiJSBvZiBzY3JlZW4gd2lkdGgiKV0KICAgICAgICBwcml2YXRlIGZsb2F0IF9zd2lwZU1heExlbmd0aCA9IDAuN2Y7CiAgICAgICAgW1NlcmlhbGl6ZUZpZWxkXQogICAgICAgIFtUb29sdGlwKCIlIG9mIHNjcmVlbiB3aWR0aCIpXQogICAgICAgIHByaXZhdGUgZmxvYXQgX3N3aXBlTWluTGVuZ3RoID0gMC4yZjsKICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgW1Rvb2x0aXAoIiUgaW4gc2VjIildCiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfbWluU3BlZWQgPSAxZjsKICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgW1Rvb2x0aXAoIiUgaW4gc2VjIildCiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfbWF4U3BlZWQgPSA0ZjsKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRkIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2NyZWVuQ29udGV4dCA9IG5ldyBDaGFuZ2VTY2VuZUNvbnRleHQKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIElzTGVmdERpcmVjdGlvbiA9IGlzTGVmdERpcmVjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgTG9hZGluZ1NjZW5lID0gQm90dG9tQ29ucm9sbGVyLkdldE5leHRTY2VuZShpc0xlZnREaXJlY3Rpb24pCiAgICAgICAgICAgICAgICAgICAgfTsKCiAgICAgICAgICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5DaGFuZ2VCYXNlU2NlbmUsIHNjcmVlbkNvbnRleHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRkIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSaW1IaWdobGlnaHRDb250cm9sbGVyID0gbmV3IFVuaXRSaW1IaWdobGlnaHRDb250cm9sbGVyKHRoaXMsIF9tZXNoUmVuZGVyZXJzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX3VwZGF0ZUhpZ2hsaWdodDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVbml0UmltSGlnaGxpZ2h0Q29udHJvbGxlciBSaW1IaWdobGlnaHRDb250cm9sbGVyIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdXBkYXRlSGlnaGxpZ2h0ID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRkIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF91cGRhdGVIaWdobGlnaHQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYWRkIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VwZGF0ZUhpZ2hsaWdodC5Mb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX3VwZGF0ZUhpZ2hsaWdodDsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
