@@ -69,6 +69,11 @@
       <file name="/Dummy.cs" timestamp="1545404277796">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ArmorInfoView.cs" timestamp="1545824957822">
+        <mark key="'" line="19" column="38" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="56" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Storage.cs" timestamp="1545657612467">
         <mark key="'" line="271" column="26" />
       </file>
@@ -130,6 +135,12 @@
         <mark key="]" line="100" column="14" />
         <mark key="." line="100" column="14" />
         <mark key="^" line="100" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/BaseInfoPopupView.cs" timestamp="1545824979923">
+        <mark key="[" line="15" column="46" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="49" />
+        <mark key="^" line="15" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitRimHighlightController.cs" timestamp="1545668001665">
         <mark key="[" line="14" column="19" />
@@ -303,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="296" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="298" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="151" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -403,49 +413,50 @@
       <jump line="4" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/TechnologyPopupItemShower.cs" />
       <jump line="171" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="46" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="19" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ArmorInfoView.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>Item</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZXh0cmFJdGVtc0NvbnRyb2xsZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>_storage.PremiumSettings.ChestBonus.First().Count</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2l0ZW0gPSBVdGlscy5HZXRGcm9tQ29udGV4dDxJdGVtPihjb250ZXh0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXNGYWtlID0gaXNGYWtlOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSXNGYWtlID0gaXNGYWtlOwogICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcHVwSXRlbVZpZXcuSXNGYWtlID0gX2lzRmFrZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2hvdyhpdGVtVmlldy5Jbml0aWFsaXplKGluaXRpYXRvcikpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcHVwSXRlbVZpZXcuSXNGYWtlID0gX2lzRmFrZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkuQ0xvZ0JsdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2hvdyhpdGVtVmlldy5Jbml0aWFsaXplKGluaXRpYXRvcikpOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0b3JhZ2UuUHJlbWl1bVNldHRpbmdzLkNoZXN0Qm9udXMuRmlyc3QoKS5Db3VudC5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGkuQ0xvZ0JsdWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0b3JhZ2UuUHJlbWl1bVNldHRpbmdzLkNoZXN0Qm9udXMuRmlyc3QoKS5Db3VudC5DTG9nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGVyKys7CiAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
