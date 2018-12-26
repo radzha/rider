@@ -86,7 +86,10 @@
         <mark key="." line="114" column="73" />
         <mark key="^" line="114" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/StoreItems.cs" timestamp="1545837739187" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/ComponentBase.cs" timestamp="1545838144547">
+        <mark key="'" line="93" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/StoreItems.cs" timestamp="1545838329843" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/GuardPopupItemShower.cs" timestamp="1545828222817">
         <mark key="[" line="20" column="86" />
         <mark key="]" line="20" column="86" />
@@ -120,10 +123,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="45" column="71" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/ItemPopupItemShower.cs" timestamp="1545828196863">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bonus.cs" timestamp="1545837238608">
         <mark key="'" line="25" column="30" />
@@ -163,6 +162,7 @@
         <mark key="]" line="33" column="15" />
         <mark key="." line="33" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/CodeGenerator.cs" timestamp="1545837996580" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/UserChests.cs" timestamp="1543571399294">
         <mark key="[" line="30" column="59" />
       </file>
@@ -172,7 +172,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="35" column="93" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ChestItems.cs" timestamp="1545837689874">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ChestItems.cs" timestamp="1545838535507">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="^" line="66" column="38" />
@@ -213,7 +213,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1545644659078">
         <mark key="'" line="38" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545834643521">
+      <file name="/Dummy.txt" timestamp="1545837793207">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Input/BattleEventTrigger.cs" timestamp="1545667041026">
@@ -235,6 +235,7 @@
         <mark key="." line="111" column="93" />
         <mark key="^" line="111" column="92" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/GeneratorUtils.cs" timestamp="1545837958093" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/HangarChestIndicator.cs" timestamp="1545815192994">
         <mark key="'" line="65" column="31" />
       </file>
@@ -256,11 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="263" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="267" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="270" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="256" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="30" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="546" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="266" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -356,6 +352,11 @@
       <jump line="262" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="571" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="25" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bonus.cs" />
+      <jump line="22" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/ComponentBase.cs" />
+      <jump line="37" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/ComponentBase.cs" />
+      <jump line="140" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/ComponentBase.cs" />
+      <jump line="16" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/ComponentBase.cs" />
+      <jump line="93" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/ComponentBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -368,7 +369,7 @@
         <text>ata</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCb251c0VsZW1lbnRzVHlwZVw+</text>
+        <text>geth</text>
       </register>
       <register name="0" type="4">
         <text>data.ContainsKey(&quot;choice&quot;)</text>
@@ -405,9 +406,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCb251c0VsZW1lbnRzVHlwZVw+</last-search>
+      <last-search>geth</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCb251c0VsZW1lbnRzVHlwZVw+</last-pattern>
+      <last-pattern>geth</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c3RhdGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -415,9 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>a</entry>
-        <entry>l</entry>
-        <entry>lo</entry>
         <entry encoding="base64">XDxFVkVOVF9SRUNFSVZFRF9SRVdBUkRTXD4=</entry>
         <entry encoding="base64">c3RhdGljIA==</entry>
         <entry>init</entry>
@@ -435,6 +433,9 @@
         <entry>ini</entry>
         <entry encoding="base64">XDxBZGRBbGxJdGVtc0Zyb21RdWV1ZVw+</entry>
         <entry encoding="base64">XDxCb251c0VsZW1lbnRzVHlwZVw+</entry>
+        <entry encoding="base64">XDxDdXN0b21cPg==</entry>
+        <entry encoding="base64">XDxSZWZNYXJrZXJzXD4=</entry>
+        <entry>geth</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
