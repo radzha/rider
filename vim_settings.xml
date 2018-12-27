@@ -32,8 +32,8 @@
         <mark key="." line="80" column="64" />
         <mark key="^" line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1545896462884">
-        <mark key="'" line="83" column="12" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1545901101925">
+        <mark key="'" line="187" column="21" />
         <mark key="[" line="163" column="42" />
         <mark key="]" line="163" column="42" />
         <mark key="." line="163" column="42" />
@@ -44,6 +44,9 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="12" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="/Dummy.cs" timestamp="1545404277796">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ArmorInfoView.cs" timestamp="1545897903303">
         <mark key="'" line="20" column="38" />
@@ -107,6 +110,9 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="29" />
       </file>
+      <file name="/PlayerAimingManager.cs" timestamp="1542124781242">
+        <mark key="[" line="35" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" timestamp="1545736119521">
         <mark key="'" line="27" column="43" />
         <mark key="[" line="122" column="32" />
@@ -134,6 +140,9 @@
         <mark key="]" line="214" column="23" />
         <mark key="^" line="214" column="23" />
         <mark key="." line="214" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/UserChests.cs" timestamp="1543571399294">
+        <mark key="[" line="30" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/MoneyPopupItemShower.cs" timestamp="1545896610067">
         <mark key="'" line="36" column="61" />
@@ -175,11 +184,20 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="122" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1545901224162">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="17" />
+        <mark key="." line="178" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/QuestItemInfoView.cs" timestamp="1545898037323">
         <mark key="'" line="11" column="17" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="12" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545899869067">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545670212011">
         <mark key="'" line="1150" column="73" />
@@ -231,15 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ResourceInfoView.cs" />
-      <jump line="11" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/TechnologyInfoView.cs" />
-      <jump line="12" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/WeaponInfoView.cs" />
-      <jump line="27" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/TechnologyPopupItemShower.cs" />
-      <jump line="31" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemShower.cs" />
-      <jump line="85" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
-      <jump line="27" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ConsumablePopupItemShower.cs" />
-      <jump line="37" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/MoneyPopupItemShower.cs" />
-      <jump line="57" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PiecePopupItemShower.cs" />
       <jump line="44" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PiecePopupItemShower.cs" />
       <jump line="28" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/TechnologyPopupItemShower.cs" />
       <jump line="2205" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
@@ -331,58 +340,67 @@
       <jump line="871" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/ScreenSettings/ScreenSettings_Base.asset" />
       <jump line="579" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/ScreenSettings/ScreenSettings_Base.asset" />
       <jump line="575" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/ScreenSettings/ScreenSettings_Base.asset" />
+      <jump line="123" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="129" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="133" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="23" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="35" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="192" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="33" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="187" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNjcmVlbkVsZW1lbnRzOiBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>rivate</text>
+        <text>itemNameValue</text>
       </register>
       <register name="/" type="4">
-        <text>invoview</text>
+        <text>prem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFNjcmVlbkVsZW1lbnRzOgogICAgLSBQYXRoOiBBc3NldHMvUmVzb3VyY2VzL0dVSS9QcmVtaXVtU2NyZWVuLnByZWZhYgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFBvcHVwSXRlbVZpZXdCdWlsZGVyIFNldEl0ZW1OYW1lKHN0cmluZyBpdGVtTmFtZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3ZpZXcuX2l0ZW1OYW1lVmFsdWUgPSBpdGVtTmFtZTsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNjcmVlbkVsZW1lbnRzOiBbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIFBvcHVwSXRlbVZpZXdCdWlsZGVyIFNldEl0ZW1OYW1lKHN0cmluZyBpdGVtTmFtZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3ZpZXcuX2l0ZW1OYW1lVmFsdWUgPSBpdGVtTmFtZTsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZm9Qb3B1cENvbnRleHQgIT0gbnVsbCkgY29udGV4dCA9IGluZm9Qb3B1cENvbnRleHQuQ29udGV4dDsK</text>
+        <text encoding="base64">ICAgIFNjcmVlbkVsZW1lbnRzOiBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluZm9Qb3B1cENvbnRleHQgPSBVdGlscy5HZXRGcm9tQ29udGV4dDxJbmZvcm1hdGlvblBvcHVwQ29udGV4dD4oY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgR2V0TmVlZGVkQ29udGV4dChjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZm9Qb3B1cENvbnRleHQgIT0gbnVsbCkgY29udGV4dCA9IGluZm9Qb3B1cENvbnRleHQuQ29udGV4dDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluZm9Qb3B1cENvbnRleHQgPSBVdGlscy5HZXRGcm9tQ29udGV4dDxJbmZvcm1hdGlvblBvcHVwQ29udGV4dD4oY29udGV4dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluZm9Qb3B1cENvbnRleHQgPSBVdGlscy5HZXRGcm9tQ29udGV4dDxJbmZvcm1hdGlvblBvcHVwQ29udGV4dD4oY29udGV4dCk7CiAgICAgICAgICAgIGlmIChpbmZvUG9wdXBDb250ZXh0ICE9IG51bGwpIGNvbnRleHQgPSBpbmZvUG9wdXBDb250ZXh0LkNvbnRleHQ7CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>invoview</last-search>
+      <last-search>prem</last-search>
       <last-offset />
-      <last-pattern>invoview</last-pattern>
+      <last-pattern>prem</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c3RhdGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -390,11 +408,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new is</entry>
-        <entry>, new i</entry>
-        <entry>{</entry>
-        <entry>ini</entry>
-        <entry encoding="base64">XDxCb251c0VsZW1lbnRzVHlwZVw+</entry>
         <entry encoding="base64">XDxDdXN0b21cPg==</entry>
         <entry encoding="base64">XDxSZWZNYXJrZXJzXD4=</entry>
         <entry>geth</entry>
@@ -410,6 +423,11 @@
         <entry>premiump</entry>
         <entry>premium</entry>
         <entry>invoview</entry>
+        <entry encoding="base64">XDxfY291bnRMYWJlbFw+</entry>
+        <entry encoding="base64">XDxfZHVyYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxfaXRlbU5hbWVcPg==</entry>
+        <entry encoding="base64">XDxVcGRhdGVJdGVtTmFtZVw+</entry>
+        <entry>prem</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
