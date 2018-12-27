@@ -56,9 +56,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" timestamp="1545727829039">
         <mark key="'" line="16" column="17" />
       </file>
-      <file name="/Dummy.cs" timestamp="1545404277796">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ArmorInfoView.cs" timestamp="1545897903303">
         <mark key="'" line="20" column="38" />
         <mark key="[" line="24" column="0" />
@@ -118,12 +115,12 @@
         <mark key="^" line="12" column="11" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" timestamp="1545922735031">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" timestamp="1545925421969">
         <mark key="'" line="42" column="26" />
-        <mark key="[" line="111" column="21" />
-        <mark key="]" line="111" column="21" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="83" />
         <mark key="^" line="111" column="21" />
-        <mark key="." line="111" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/AimingCone.cs" timestamp="1545670193887">
         <mark key="'" line="288" column="0" />
@@ -152,9 +149,6 @@
         <mark key="]" line="43" column="17" />
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="29" />
-      </file>
-      <file name="/PlayerAimingManager.cs" timestamp="1542124781242">
-        <mark key="[" line="35" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545397479774">
         <mark key="'" line="129" column="53" />
@@ -209,9 +203,6 @@
         <mark key="]" line="214" column="23" />
         <mark key="^" line="214" column="23" />
         <mark key="." line="214" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/UserChests.cs" timestamp="1543571399294">
-        <mark key="[" line="30" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" timestamp="1545912779786">
         <mark key="'" line="23" column="28" />
@@ -292,9 +283,6 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545915985767">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545670212011">
         <mark key="'" line="1150" column="73" />
         <mark key="[" line="1150" column="60" />
@@ -309,6 +297,7 @@
         <mark key="." line="111" column="93" />
         <mark key="^" line="111" column="92" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1545925455216" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/CompanionInfoView.cs" timestamp="1545898020967">
         <mark key="'" line="10" column="37" />
         <mark key="[" line="24" column="0" />
@@ -334,6 +323,17 @@
         <mark key="^" line="155" column="11" />
         <mark key="." line="155" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" timestamp="1545924706986">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="116" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/OpenCraftScreenButton.cs" timestamp="1545926224001">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="26" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1545668662227">
         <mark key="'" line="50" column="35" />
         <mark key="[" line="121" column="51" />
@@ -350,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="639" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="298" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
       <jump line="300" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
@@ -450,58 +449,59 @@
       <jump line="44" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" />
       <jump line="105" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" />
       <jump line="41" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" />
+      <jump line="13" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpdGVtID0gaXRlbXNbaW5kZXhdLklkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZWQiLkNMb2coKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>_an</text>
+        <text encoding="base64">XDxfcmF3SW1hZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEZpbmlzaFRpbWUgeyBnZXQ7IHByaXZhdGUgc2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZTxDcmFmdFJvdz4oQ3JhZnRSb3cuRVZFTlRfQU5JTUFUSU9OX0VOREVELCBfID0+IFVwZGF0ZVNraWxsVmFsdWUodHJ1ZSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpdGVtID0gaXRlbXNbaW5kZXhdLklkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZWQiLkNMb2coKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpdGVtID0gX2NyYWZ0SXRlbXNbaW5kZXhdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJpbmZvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uSW5pdGlhbGl6ZShvZmZlckhlbGljb3B0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZShDcmFmdFJvdy5FVkVOVF9BTklNQVRJT05fRU5ERUQsIF8gPT4gVXBkYXRlU2tpbGxWYWx1ZSh0cnVlKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgVXBkYXRlQ3JhZnRJdGVtcyhIZWxpY29wdGVyIG9mZmVySGVsaWNvcHRlcikKICAgICAgICB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNjcmVlbk1vZGVsVmlldy5FVkVOVF9SRVNFVF9DQU1FUkFfVEFSR0VUKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8aW50PiBwYXltZW50cyA9IG5ldyBMaXN0PGludD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNjcmVlbk1vZGVsVmlldy5FVkVOVF9SRVNFVF9DQU1FUkFfVEFSR0VUKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpdGVtID0gaXRlbXNbaW5kZXhdLklkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGF5bWVudHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpdGVtID0gX2NyYWZ0SXRlbXNbaW5kZXhdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uSW5pdGlhbGl6ZShvZmZlckhlbGljb3B0ZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgVXBkYXRlQ3JhZnRJdGVtcyhIZWxpY29wdGVyIG9mZmVySGVsaWNvcHRlcikKICAgICAgICB7CiAgICAgICAgICAgIHRocm93IG5ldyBOb3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>_an</last-search>
+      <last-search encoding="base64">XDxfcmF3SW1hZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>_an</last-pattern>
+      <last-pattern encoding="base64">XDxfcmF3SW1hZ2VcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c3RhdGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +509,6 @@
     </search>
     <history>
       <history-search>
-        <entry>base\.</entry>
         <entry>premiump</entry>
         <entry>premium</entry>
         <entry>invoview</entry>
@@ -529,6 +528,7 @@
         <entry encoding="base64">XDxQQVlNRU5UU19LRVlcPg==</entry>
         <entry>anim</entry>
         <entry>_an</entry>
+        <entry encoding="base64">XDxfcmF3SW1hZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
