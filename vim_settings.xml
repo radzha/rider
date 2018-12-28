@@ -56,6 +56,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/BaseDefenceMenu.cs" timestamp="1545727829039">
         <mark key="'" line="16" column="17" />
       </file>
+      <file name="/Dummy.cs" timestamp="1545404277796">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ArmorInfoView.cs" timestamp="1545897903303">
         <mark key="'" line="20" column="38" />
         <mark key="[" line="24" column="0" />
@@ -105,6 +108,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1545657607014">
         <mark key="'" line="572" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/AddBonusCommand.cs" timestamp="1545986036709" />
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE16CF87-F823-455D-ABC8-E915F7476D2A/b0/63467a61/BaseDefenceMenu.cs" timestamp="1545727538299">
         <mark key="'" line="22" column="15" />
       </file>
@@ -150,6 +154,9 @@
         <mark key="." line="43" column="17" />
         <mark key="^" line="43" column="29" />
       </file>
+      <file name="/PlayerAimingManager.cs" timestamp="1542124781242">
+        <mark key="[" line="35" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545397479774">
         <mark key="'" line="129" column="53" />
       </file>
@@ -160,12 +167,12 @@
         <mark key="." line="100" column="14" />
         <mark key="^" line="100" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HelicopterUpgradeFx.cs" timestamp="1545916942852">
-        <mark key="'" line="28" column="64" />
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="29" />
-        <mark key="^" line="34" column="29" />
-        <mark key="." line="34" column="29" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HelicopterUpgradeFx.cs" timestamp="1545986653265">
+        <mark key="'" line="29" column="64" />
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="16" />
+        <mark key="^" line="52" column="16" />
+        <mark key="." line="52" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/BaseInfoPopupView.cs" timestamp="1545897894780">
         <mark key="'" line="20" column="38" />
@@ -190,8 +197,8 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerData/generated/ChestItems.cs" timestamp="1545840716332">
         <mark key="'" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1545916035610">
-        <mark key="'" line="114" column="28" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1545984260377">
+        <mark key="'" line="612" column="18" />
         <mark key="[" line="358" column="15" />
         <mark key="]" line="358" column="15" />
         <mark key="^" line="616" column="17" />
@@ -204,9 +211,13 @@
         <mark key="^" line="214" column="23" />
         <mark key="." line="214" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/UserChests.cs" timestamp="1543571399294">
+        <mark key="[" line="30" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" timestamp="1545912779786">
         <mark key="'" line="23" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/OfferBuyCommand.cs" timestamp="1545983933393" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/MoneyPopupItemShower.cs" timestamp="1545896610067">
         <mark key="'" line="36" column="61" />
         <mark key="[" line="36" column="0" />
@@ -283,6 +294,9 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="/Dummy.txt" timestamp="1545926226430">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545670212011">
         <mark key="'" line="1150" column="73" />
         <mark key="[" line="1150" column="60" />
@@ -350,8 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="298" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
       <jump line="300" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
       <jump line="191" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
       <jump line="190" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
@@ -450,22 +462,24 @@
       <jump line="105" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" />
       <jump line="41" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/HelicopterOfferScreen.cs" />
       <jump line="13" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" />
+      <jump line="364" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="612" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZWQiLkNMb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text>show ev</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>show ev</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmF3SW1hZ2VcPg==</text>
+        <text>helico</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZTxDcmFmdFJvdz4oQ3JhZnRSb3cuRVZFTlRfQU5JTUFUSU9OX0VOREVELCBfID0+IFVwZGF0ZVNraWxsVmFsdWUodHJ1ZSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNob3cgZXYiLkNMb2coKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZWQiLkNMb2coKTsK</text>
@@ -499,9 +513,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmF3SW1hZ2VcPg==</last-search>
+      <last-search>helico</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmF3SW1hZ2VcPg==</last-pattern>
+      <last-pattern>helico</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">c3RhdGljIA==</last-substitute>
       <last-dir>1</last-dir>
@@ -509,7 +523,6 @@
     </search>
     <history>
       <history-search>
-        <entry>premiump</entry>
         <entry>premium</entry>
         <entry>invoview</entry>
         <entry encoding="base64">XDxfY291bnRMYWJlbFw+</entry>
@@ -529,6 +542,7 @@
         <entry>anim</entry>
         <entry>_an</entry>
         <entry encoding="base64">XDxfcmF3SW1hZ2VcPg==</entry>
+        <entry>helico</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
