@@ -225,6 +225,13 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="35" column="93" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" timestamp="1545992322913">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="71" column="60" />
+        <mark key="]" line="72" column="15" />
+        <mark key="." line="72" column="15" />
+        <mark key="^" line="72" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ChestItems.cs" timestamp="1545838535507">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
@@ -297,7 +304,7 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545926226430">
+      <file name="/Dummy.txt" timestamp="1545990655884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545670212011">
@@ -315,8 +322,8 @@
         <mark key="^" line="111" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1545925455216" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1545989026645">
-        <mark key="'" line="16" column="25" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1545992159420">
+        <mark key="'" line="269" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/CompanionInfoView.cs" timestamp="1545898020967">
         <mark key="'" line="10" column="37" />
@@ -348,11 +355,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="116" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/OpenCraftScreenButton.cs" timestamp="1545990649012">
-        <mark key="'" line="30" column="12" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/OpenCraftScreenButton.cs" timestamp="1545990685493">
+        <mark key="'" line="29" column="12" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="25" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1545668662227">
         <mark key="'" line="50" column="35" />
@@ -370,12 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="101" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
-      <jump line="21" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
-      <jump line="351" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
-      <jump line="108" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
-      <jump line="223" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="82" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemFactory.cs" />
       <jump line="65" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemFactory.cs" />
       <jump line="80" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemFactory.cs" />
       <jump line="222" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" />
@@ -470,49 +471,55 @@
       <jump line="105" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/CraftRow.cs" />
       <jump line="107" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/CraftRow.cs" />
       <jump line="17" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/CraftRow.cs" />
+      <jump line="83" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" />
+      <jump line="69" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" />
+      <jump line="269" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
+      <jump line="79" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" />
+      <jump line="88" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIHJvdyAhPSBudWxsKSByb3cuU2tpbGxDb2RlLkNMb2coX3NraWxsTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlID0gU3RhdGVFLk5vblBpZWNlOwogICAgICAgICAgICAgICAgdmFyIGNvdW50ID0gMDsgCiAgICAgICAgICAgICAgICBVdGlscy5HZXRGcm9tQ29udGV4dChjb250ZXh0LCByZWYgY291bnQpOwogICAgICAgICAgICAgICAgX2NvdW50LnRleHQgPSBjb3VudC5Ub1N0cmluZygpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFVkVOVF9BTklNQVRJT05fRU5ERURcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNob3VsZEJsaW5rID0gcm93ICE9IG51bGwgJiYgcm93LlNraWxsQ29kZS5FcXVhbHMoX3NraWxsTmFtZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlID0gU3RhdGVFLk5vblBpZWNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIHJvdyAhPSBudWxsKSByb3cuU2tpbGxDb2RlLkNMb2coX3NraWxsTmFtZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXRlID0gU3RhdGVFLk5vblBpZWNlOwogICAgICAgICAgICAgICAgdmFyIGNvdW50ID0gMDsgCiAgICAgICAgICAgICAgICBVdGlscy5HZXRGcm9tQ29udGV4dChjb250ZXh0LCByZWYgY291bnQpOwogICAgICAgICAgICAgICAgX2NvdW50LnRleHQgPSBjb3VudC5Ub1N0cmluZygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGJlc3RDcmFmdGVkSXRlbSA9PSBudWxsIHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoaXRlbS5UeXBlSXNIZWxpY29wdGVyTW9kKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFN0YXRlID0gU3RhdGVFLk1vZGlmaWVyOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3VsZEJsaW5rID0gc2hvdWxkQmxpbmsgJiYgYmVzdENyYWZ0ZWRJdGVtLkNvbW1vblNraWxscy5BbnkocGFpciA9PiBwYWlyLktleS5Db2RlLkVxdWFscyhfc2tpbGxOYW1lKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIHJvdyAhPSBudWxsKSByb3cuU2tpbGxDb2RlLkNMb2coX3NraWxsTmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGJlc3RDcmFmdGVkSXRlbSA9PSBudWxsIHx8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgU2hvdWxkQmxpbmsoQ3JhZnRSb3cgcm93KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHJvdy5Ta2lsbENvZGUgPT0gCiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3VsZEJsaW5rID0gc2hvdWxkQmxpbmsgJiYgYmVzdENyYWZ0ZWRJdGVtLkNvbW1vblNraWxscy5BbnkocGFpciA9PiBwYWlyLktleS5Db2RlLkVxdWFscyhfc2tpbGxOYW1lKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVzdENyYWZ0ZWRJdGVtLkNvbW1vblNraWxscy5BbnkocGFpcj0+cGFpci5LZXkuQ29kZS5FcXVhbHMoX3NraWxsTmFtZSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZWQiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgU2hvdWxkQmxpbmsoQ3JhZnRSb3cgcm93KQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHJvdy5Ta2lsbENvZGUgPT0gCiAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
