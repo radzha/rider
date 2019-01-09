@@ -12,12 +12,12 @@
         <mark key="^" line="632" column="126" />
         <mark key="." line="279" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1547028542360">
-        <mark key="'" line="30" column="39" />
-        <mark key="[" line="33" column="31" />
-        <mark key="]" line="33" column="31" />
-        <mark key="." line="33" column="31" />
-        <mark key="^" line="34" column="30" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1547029890514">
+        <mark key="'" line="43" column="51" />
+        <mark key="[" line="45" column="114" />
+        <mark key="]" line="46" column="11" />
+        <mark key="." line="46" column="11" />
+        <mark key="^" line="46" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545730039564">
         <mark key="'" line="2572" column="12" />
@@ -358,7 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="358" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="20" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="39" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="36" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
@@ -458,49 +457,50 @@
       <jump line="93" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
       <jump line="97" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
       <jump line="30" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
+      <jump line="43" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbGlua0luZGV4LkNMb2coKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pCamera</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY2hlc3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>storageEvent.Item != null ?</text>
+        <text encoding="base64">LCBJUG9pbnRlckNsaWNrSGFuZGxlciA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmtUaXRsZSA9IHN0b3JhZ2VFdmVudC5JdGVtICE9IG51bGwgPyBzdG9yYWdlRXZlbnQuSXRlbS5UaXRsZSA6IHN0cmluZy5FbXB0eTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlua0luZGV4LkNMb2coKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgINC+0LvQvtC70YnQvNGE0LogCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdhcyBhIGxpbmsgY2xpY2tlZD8KICAgICAgICAgICAgICAgIFRNUF9MaW5rSW5mbyBsaW5rSW5mbyA9IF9kZXNjcmlwdGlvbi50ZXh0SW5mby5saW5rSW5mb1tsaW5rSW5kZXhdOwoKICAgICAgICAgICAgICAgIC8vIG9wZW4gdGhlIGxpbmsgaWQgYXMgYSB1cmwsIHdoaWNoIGlzIHRoZSBtZXRhZGF0YSB3ZSBhZGRlZCBpbiB0aGUgdGV4dCBmaWVsZAovLyAgICAgICAgICAgICAgICBBcHBsaWNhdGlvbi5PcGVuVVJMKGxpbmtJbmZvLkdldExpbmtJRCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdG9yYWdlID0gU3RvcmFnZS5HZXRTdG9yYWdlKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdG9yYWdlID0gU3RvcmFnZS5HZXRTdG9yYWdlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBHZXRBY3RpdmVFdmVudHMoKS5GaXJzdE9yRGVmYXVsdCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgT3Blbkh5cGVybGlua3MgOiBNb25vQmVoYXZpb3VyLCBJUG9pbnRlckNsaWNrSGFuZGxlciB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmtUaXRsZSA9IHN0b3JhZ2VFdmVudC5JdGVtICE9IG51bGwgPyBzdG9yYWdlRXZlbnQuSXRlbS5UaXRsZSA6IHN0cmluZy5FbXB0eTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgINC+0LvQvtC70YnQvNGE0LogCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBfZGVzY3JpcHRpb24udGV4dCA9IF9jaGVzdC5DaGVzdC4uVG9VcHBlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
