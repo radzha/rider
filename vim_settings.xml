@@ -12,12 +12,12 @@
         <mark key="^" line="632" column="126" />
         <mark key="." line="279" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1547029890514">
-        <mark key="'" line="43" column="51" />
-        <mark key="[" line="45" column="114" />
-        <mark key="]" line="46" column="11" />
-        <mark key="." line="46" column="11" />
-        <mark key="^" line="46" column="11" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1547032297375">
+        <mark key="'" line="54" column="81" />
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="55" column="27" />
+        <mark key="." line="55" column="27" />
+        <mark key="^" line="55" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545730039564">
         <mark key="'" line="2572" column="12" />
@@ -290,7 +290,7 @@
         <mark key="." line="141" column="17" />
         <mark key="^" line="141" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547027698817">
+      <file name="/Dummy.txt" timestamp="1547031064415">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferAdapter.cs" timestamp="1545995291752">
@@ -358,8 +358,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
-      <jump line="39" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="36" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
       <jump line="60" column="87" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
       <jump line="182" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
@@ -458,49 +456,51 @@
       <jump line="97" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
       <jump line="30" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
       <jump line="43" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
+      <jump line="53" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
+      <jump line="54" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlua0luZGV4LkNMb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Id</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>pCamera</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfY2hlc3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">LCBJUG9pbnRlckNsaWNrSGFuZGxlciA=</text>
+        <text encoding="base64">c3RvcmFnZUV2ZW50Lkl0ZW0g</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGlua0luZGV4LkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXJJbmZvLkdldFVzZXJJbmZvKCkuU3BlY2lhbE9mZmVycwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRXZlbnRzIHN0b3JhZ2VFdmVudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdhcyBhIGxpbmsgY2xpY2tlZD8KICAgICAgICAgICAgICAgIFRNUF9MaW5rSW5mbyBsaW5rSW5mbyA9IF9kZXNjcmlwdGlvbi50ZXh0SW5mby5saW5rSW5mb1tsaW5rSW5kZXhdOwoKICAgICAgICAgICAgICAgIC8vIG9wZW4gdGhlIGxpbmsgaWQgYXMgYSB1cmwsIHdoaWNoIGlzIHRoZSBtZXRhZGF0YSB3ZSBhZGRlZCBpbiB0aGUgdGV4dCBmaWVsZAovLyAgICAgICAgICAgICAgICBBcHBsaWNhdGlvbi5PcGVuVVJMKGxpbmtJbmZvLkdldExpbmtJRCgpKTsK</text>
+        <text encoding="base64">Ly91c2luZyBUTVBybzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlua0luZGV4LkNMb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgT3Blbkh5cGVybGlua3MgOiBNb25vQmVoYXZpb3VyLCBJUG9pbnRlckNsaWNrSGFuZGxlciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHdhcyBhIGxpbmsgY2xpY2tlZD8KICAgICAgICAgICAgICAgIFRNUF9MaW5rSW5mbyBsaW5rSW5mbyA9IF9kZXNjcmlwdGlvbi50ZXh0SW5mby5saW5rSW5mb1tsaW5rSW5kZXhdOwoKICAgICAgICAgICAgICAgIC8vIG9wZW4gdGhlIGxpbmsgaWQgYXMgYSB1cmwsIHdoaWNoIGlzIHRoZSBtZXRhZGF0YSB3ZSBhZGRlZCBpbiB0aGUgdGV4dCBmaWVsZAovLyAgICAgICAgICAgICAgICBBcHBsaWNhdGlvbi5PcGVuVVJMKGxpbmtJbmZvLkdldExpbmtJRCgpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmtUaXRsZSA9IHN0b3JhZ2VFdmVudC5JdGVtICE9IG51bGwgPyBzdG9yYWdlRXZlbnQuSXRlbS5UaXRsZSA6IHN0cmluZy5FbXB0eTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgINC+0LvQvtC70YnQvNGE0LogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY2xhc3MgT3Blbkh5cGVybGlua3MgOiBNb25vQmVoYXZpb3VyLCBJUG9pbnRlckNsaWNrSGFuZGxlciB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
