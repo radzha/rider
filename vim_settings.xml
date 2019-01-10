@@ -198,8 +198,8 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="140" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1547034458137">
-        <mark key="'" line="1320" column="68" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1547114450751">
+        <mark key="'" line="616" column="22" />
         <mark key="[" line="358" column="15" />
         <mark key="]" line="358" column="15" />
         <mark key="^" line="616" column="17" />
@@ -285,12 +285,12 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1547027884804">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1547114760909">
         <mark key="'" line="15" column="23" />
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="25" column="24" />
-        <mark key="." line="25" column="24" />
-        <mark key="^" line="40" column="7" />
+        <mark key="[" line="53" column="52" />
+        <mark key="]" line="53" column="52" />
+        <mark key="." line="53" column="52" />
+        <mark key="^" line="53" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1545902006220">
         <mark key="'" line="84" column="0" />
@@ -320,7 +320,7 @@
         <mark key="'" line="34" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1547113402235" />
-      <file name="/Dummy.txt" timestamp="1547106889845">
+      <file name="/Dummy.txt" timestamp="1547114051337">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545670212011">
@@ -395,11 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
-      <jump line="105" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
-      <jump line="83" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
-      <jump line="113" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
-      <jump line="78" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonShower.cs" />
       <jump line="202" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
       <jump line="99" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
       <jump line="286" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
@@ -495,22 +490,27 @@
       <jump line="130" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="479" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="82" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="26" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="30" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="358" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="616" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>startTime</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>startTime</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVtYWluc1RpbWVcPg==</text>
+        <text>events</text>
       </register>
-      <register name="0" type="4">
-        <text>_storage.PremiumSettings.ChestBonus.First().Count;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJzdGFydCIuQ0xvZyhVdGlscy5DcmVhdGVGcm9tVW5peFRpbWUoc3RhcnRUaW1lKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQnV5Q2hlc3RIZWxwZXIuQnV5WDEwQ2hlc3QoX2NoZXN0Q29udGV4dC5DaGVzdCwgKCkgPT4gTG9ja0J1dHRvbnMoZmFsc2UpKTsK</text>
@@ -544,9 +544,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVtYWluc1RpbWVcPg==</last-search>
+      <last-search>events</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVtYWluc1RpbWVcPg==</last-pattern>
+      <last-pattern>events</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -554,9 +554,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2hvd09uU2NyZWVuc1w+</entry>
-        <entry encoding="base64">XDxfc2NyZWVuc1dhdGNoZXJcPg==</entry>
-        <entry>clog</entry>
         <entry>change</entry>
         <entry encoding="base64">XDxfdGl0bGVcPg==</entry>
         <entry encoding="base64">XDxfcmV3YXJkSWNvblw+</entry>
@@ -574,6 +571,9 @@
         <entry encoding="base64">XDxJc0Zha2VcPg==</entry>
         <entry encoding="base64">XDxfcHJlbWl1bUV4dHJhTGFiZWxzXD4=</entry>
         <entry encoding="base64">XDxfcmVtYWluc1RpbWVcPg==</entry>
+        <entry>gameev</entry>
+        <entry>event</entry>
+        <entry>events</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
