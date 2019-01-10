@@ -152,8 +152,8 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545397479774">
         <mark key="'" line="129" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" timestamp="1546010363839">
-        <mark key="'" line="47" column="34" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" timestamp="1547115856401">
+        <mark key="'" line="166" column="21" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -285,12 +285,8 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1547114760909">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1547115993160">
         <mark key="'" line="15" column="23" />
-        <mark key="[" line="53" column="52" />
-        <mark key="]" line="53" column="52" />
-        <mark key="." line="53" column="52" />
-        <mark key="^" line="53" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1545902006220">
         <mark key="'" line="84" column="0" />
@@ -395,13 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
-      <jump line="99" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
-      <jump line="286" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
-      <jump line="49" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
-      <jump line="24" column="104" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
-      <jump line="50" column="92" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
-      <jump line="52" column="31" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="78" column="22" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="83" column="46" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="18" column="36" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
@@ -495,6 +484,13 @@
       <jump line="30" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="358" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="616" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="48" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="57" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="58" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="122" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="123" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="175" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="166" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -507,7 +503,7 @@
         <text>startTime</text>
       </register>
       <register name="/" type="4">
-        <text>events</text>
+        <text encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJzdGFydCIuQ0xvZyhVdGlscy5DcmVhdGVGcm9tVW5peFRpbWUoc3RhcnRUaW1lKSk7Cg==</text>
@@ -544,18 +540,16 @@
       </register>
     </registers>
     <search>
-      <last-search>events</last-search>
+      <last-search encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>events</last-pattern>
+      <last-pattern encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>change</entry>
-        <entry encoding="base64">XDxfdGl0bGVcPg==</entry>
         <entry encoding="base64">XDxfcmV3YXJkSWNvblw+</entry>
         <entry encoding="base64">XDxfY2hlc3RcPg==</entry>
         <entry encoding="base64">XDxfb2ZmZXJJbmZvXD4=</entry>
@@ -574,6 +568,8 @@
         <entry>gameev</entry>
         <entry>event</entry>
         <entry>events</entry>
+        <entry>premi</entry>
+        <entry encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
