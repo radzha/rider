@@ -50,8 +50,8 @@
         <mark key="." line="80" column="64" />
         <mark key="^" line="80" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1547113186608">
-        <mark key="'" line="66" column="77" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1547116374134">
+        <mark key="'" line="35" column="21" />
         <mark key="[" line="163" column="42" />
         <mark key="]" line="163" column="42" />
         <mark key="." line="163" column="42" />
@@ -139,6 +139,9 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/Base/BaseOnGUI.prefab.meta" timestamp="1547023384063" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_DigitValidator.cs" timestamp="1547026065749">
+        <mark key="'" line="11" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bonus.cs" timestamp="1545892496152">
         <mark key="'" line="305" column="12" />
         <mark key="[" line="43" column="27" />
@@ -285,7 +288,7 @@
         <mark key="^" line="14" column="25" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1547115993160">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1547116192127">
         <mark key="'" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1545902006220">
@@ -344,7 +347,7 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PremiumPopupItemShower.cs" timestamp="1545903293317">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PremiumPopupItemShower.cs" timestamp="1547116550780">
         <mark key="'" line="24" column="30" />
         <mark key="[" line="24" column="66" />
         <mark key="]" line="24" column="64" />
@@ -391,7 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="22" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="83" column="46" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="18" column="36" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="30" column="12" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
@@ -491,6 +493,7 @@
       <jump line="123" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
       <jump line="175" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
       <jump line="166" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="35" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -503,7 +506,7 @@
         <text>startTime</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</text>
+        <text encoding="base64">XDxfZHVyYXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJzdGFydCIuQ0xvZyhVdGlscy5DcmVhdGVGcm9tVW5peFRpbWUoc3RhcnRUaW1lKSk7Cg==</text>
@@ -540,18 +543,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</last-search>
+      <last-search encoding="base64">XDxfZHVyYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfZHVyYXRpb25cPg==</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmV3YXJkSWNvblw+</entry>
-        <entry encoding="base64">XDxfY2hlc3RcPg==</entry>
         <entry encoding="base64">XDxfb2ZmZXJJbmZvXD4=</entry>
         <entry>compan</entry>
         <entry encoding="base64">XDxDb21wYW5pb25zXD4=</entry>
@@ -570,6 +571,8 @@
         <entry>events</entry>
         <entry>premi</entry>
         <entry encoding="base64">XDxPblByZW1pdW1TdGF0ZUNoYW5nZWRcPg==</entry>
+        <entry>prem</entry>
+        <entry encoding="base64">XDxfZHVyYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
