@@ -12,12 +12,12 @@
         <mark key="^" line="486" column="39" />
         <mark key="." line="486" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1547049582774">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1547121475591">
         <mark key="'" line="50" column="27" />
-        <mark key="[" line="102" column="39" />
-        <mark key="]" line="102" column="39" />
-        <mark key="." line="102" column="39" />
-        <mark key="^" line="102" column="39" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="45" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1545730039564">
         <mark key="'" line="2572" column="12" />
@@ -258,7 +258,7 @@
         <mark key="^" line="141" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1547113402235" />
-      <file name="/Dummy.txt" timestamp="1547114051337">
+      <file name="/Dummy.txt" timestamp="1547121293414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1545670212011">
@@ -423,14 +423,14 @@
       <jump line="35" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bm93ID4gZGFpbHlCb251c1RpbWU7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogc3RyaW5nLkVtcHR5Owo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm93ID4gZGFpbHlCb251c1RpbWU7</text>
+        <text>linkTitle</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZHVyYXRpb25cPg==</text>
@@ -439,31 +439,31 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJpZ09mZmVyID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5CYW5rLlByZW1pdW0uQmlnT2ZmZXIuQmFua0l0ZW0uU3RvcmFnZUl0ZW07CiAgICAgICAgICAgIHZhciBiaWdPZmZlclRvdGFsRGF5cyA9IGJpZ09mZmVyLkJvbnVzLkZpcnN0KCkuRGF0YUFzUHJlbWl1bSgpLkR1cmF0aW9uLlRvdGFsRGF5czsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmlnT2ZmZXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDogc3RyaW5nLkVtcHR5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnV5Q2hlc3RIZWxwZXIuQnV5WDEwQ2hlc3QoX2NoZXN0Q29udGV4dC5DaGVzdCwgKCkgPT4gTG9ja0J1dHRvbnMoZmFsc2UpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gIjxsaW5rPjxjb2xvcj0jODZjMGNjPnswfTwvY29sb3I+PC9saW5rPiIuRihpdGVtVGl0bGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hlc3RCYW5rVmlldy5PcGVuQ2hlc3RTY3JlZW4oX2NoZXN0LklkLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxpbmtUaXRsZSA9IF9zdG9yYWdlRXZlbnQuSXRlbSAhPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hlc3RCYW5rVmlldy5PcGVuQ2hlc3RTY3JlZW4oX2NoZXN0LklkLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmlnT2ZmZXIuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIENvdW50ID0gdmFyaWFudHNbMF0uQ291bnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQnV5Q2hlc3RIZWxwZXIuQnV5WDEwQ2hlc3QoX2NoZXN0Q29udGV4dC5DaGVzdCwgKCkgPT4gTG9ja0J1dHRvbnMoZmFsc2UpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvbG9Db3VudCA9IHZhcmlhbnRzWzBdLkNvdW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hlc3RCYW5rVmlldy5PcGVuQ2hlc3RTY3JlZW4oX2NoZXN0LklkLCB0cnVlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hlc3RCYW5rVmlldy5PcGVuQ2hlc3RTY3JlZW4oX2NoZXN0LklkLCB0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvbG8KICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIENvdW50ID0gdmFyaWFudHNbMF0uQ291bnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNvbG9Db3VudCA9IHZhcmlhbnRzWzBdLkNvdW50Owo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
