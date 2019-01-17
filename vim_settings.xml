@@ -373,11 +373,12 @@
         <mark key="^" line="52" column="28" />
         <mark key="." line="52" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/RimHighlightController.cs" timestamp="1547726159522">
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="70" column="24" />
-        <mark key="^" line="70" column="44" />
-        <mark key="." line="70" column="24" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/RimHighlightController.cs" timestamp="1547727718109">
+        <mark key="'" line="114" column="45" />
+        <mark key="[" line="77" column="96" />
+        <mark key="]" line="78" column="15" />
+        <mark key="." line="78" column="15" />
+        <mark key="^" line="78" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1547554302626">
         <mark key="'" line="322" column="24" />
@@ -415,6 +416,9 @@
         <mark key="]" line="36" column="119" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="35" column="93" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Shaders/Evo2New/CharLQ_Iris.shader" timestamp="1547726714566">
+        <mark key="'" line="292" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" timestamp="1547548687938">
         <mark key="'" line="46" column="20" />
@@ -541,11 +545,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ScreensOpenStateWatcher.cs" timestamp="1547034811971" />
     </filemarks>
     <jumps>
-      <jump line="341" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
-      <jump line="377" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="72" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
-      <jump line="74" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
-      <jump line="148" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
       <jump line="153" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
       <jump line="199" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
       <jump line="346" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
@@ -641,58 +640,63 @@
       <jump line="814" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="754" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="33" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="25" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Shaders/Evo2New/CharLQ_Iris.shader" />
+      <jump line="158" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Shaders/Evo2New/CharLQ_Iris.shader" />
+      <jump line="199" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Shaders/Evo2New/CharLQ_Iris.shader" />
+      <jump line="292" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Shaders/Evo2New/CharLQ_Iris.shader" />
+      <jump line="113" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/RimHighlightController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>!_renderer.gameObject.activeInHierarchy</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>!_renderer.gameObject.activeInHierarchy</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQVU5DSF9UUklHR0VSXD4=</text>
+        <text>isnorm</text>
       </register>
       <register name="0" type="4">
-        <text>Storage.GetStorage().EconomicSettings.CommonChestId</text>
+        <text>!_renderer.gameObject.activeInHierarchy</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfdW5pdEZha2VEYW1hZ2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGhhc0NsaWNrVGFyZ2V0KWhhc0NsaWNrVGFyZ2V0LkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc0NsaWNrVGFyZ2V0LkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkaXNhYmxlZCIuQWRkUGFyYW0oY291bnQpLkNMb2codGVtcENvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBfdW5pdEZha2VEYW1hZ2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGNvdW50PjApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGhhc0NsaWNrVGFyZ2V0KWhhc0NsaWNrVGFyZ2V0LkNMb2coKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkaXNhYmxlZCIuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhhc0NsaWNrVGFyZ2V0LkNMb2coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJkaXNhYmxlZCIuQ0xvZygpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQVU5DSF9UUklHR0VSXD4=</last-search>
+      <last-search>isnorm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQVU5DSF9UUklHR0VSXD4=</last-pattern>
+      <last-pattern>isnorm</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -700,10 +704,6 @@
     </search>
     <history>
       <history-search>
-        <entry>usedi</entry>
-        <entry>false</entry>
-        <entry encoding="base64">XDxDaGVja1N0YXRlR29uZVw+</entry>
-        <entry encoding="base64">XDxfc2hvd2luZ1F1ZXVlXD4=</entry>
         <entry encoding="base64">XDxBTklNQVRPUl9TVEFURV9LRVlcPg==</entry>
         <entry encoding="base64">XDxTZXRTdGF0ZVw+</entry>
         <entry>train</entry>
@@ -720,6 +720,10 @@
         <entry encoding="base64">XDxTbW9vdGhSb3RhdGlvbkFjdGl2YXRlZFw+</entry>
         <entry encoding="base64">XDxTaG9vdE9uQ2hhbmdlVGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxQVU5DSF9UUklHR0VSXD4=</entry>
+        <entry>rim_</entry>
+        <entry>cutter</entry>
+        <entry>normal</entry>
+        <entry>isnorm</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
