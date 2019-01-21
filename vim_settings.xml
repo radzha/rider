@@ -498,12 +498,12 @@
         <mark key="'" line="17" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Notification.cs" timestamp="1547819755500" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" timestamp="1548058569038">
-        <mark key="'" line="25" column="24" />
-        <mark key="[" line="110" column="19" />
-        <mark key="]" line="111" column="47" />
-        <mark key="." line="111" column="47" />
-        <mark key="^" line="111" column="47" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" timestamp="1548059964562">
+        <mark key="'" line="25" column="21" />
+        <mark key="[" line="105" column="55" />
+        <mark key="]" line="105" column="54" />
+        <mark key="." line="105" column="54" />
+        <mark key="^" line="105" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/SkinBaseDefenceScreen.cs" timestamp="1545730108507">
         <mark key="'" line="46" column="61" />
@@ -620,7 +620,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ScreensOpenStateWatcher.cs" timestamp="1547034811971" />
     </filemarks>
     <jumps>
-      <jump line="187" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="221" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="630" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="629" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -718,21 +717,22 @@
       <jump line="144" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemOfferView.cs" />
       <jump line="108" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
-      <jump line="111" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
-      <jump line="25" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
+      <jump line="103" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
+      <jump line="111" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
+      <jump line="25" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>:null;</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PyA=</text>
+        <text>:null;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRBbmltYXRvclw+</text>
+        <text encoding="base64">XDxTdGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlID0gX3JlY2lwZS5DYW5Hb1RvUmVjZWl2aW5nUGxhY2UoKSA/IDEgOiAyOwo=</text>
@@ -769,9 +769,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRBbmltYXRvclw+</last-search>
+      <last-search encoding="base64">XDxTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRBbmltYXRvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxTdGF0ZVw+</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -779,7 +779,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sub</entry>
         <entry>subscr</entry>
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>_curr</entry>
@@ -799,6 +798,7 @@
         <entry>anima</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxHZXRBbmltYXRvclw+</entry>
+        <entry encoding="base64">XDxTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
