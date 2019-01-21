@@ -31,12 +31,12 @@
         <mark key="." line="1546" column="21" />
         <mark key="^" line="1546" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionItemInList.cs" timestamp="1547818627227">
-        <mark key="'" line="95" column="42" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="95" column="48" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionItemInList.cs" timestamp="1548068983549">
+        <mark key="'" line="96" column="42" />
+        <mark key="[" line="171" column="122" />
+        <mark key="]" line="171" column="120" />
+        <mark key="^" line="171" column="120" />
+        <mark key="." line="171" column="120" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/MailPopupController.cs" timestamp="1547742224910">
         <mark key="'" line="26" column="46" />
@@ -343,6 +343,9 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="99" />
       </file>
+      <file name="/UnitHitEffect.cs" timestamp="1548063349015">
+        <mark key="'" line="87" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/PremiumInfoView.cs" timestamp="1545898491320">
         <mark key="'" line="6" column="17" />
         <mark key="[" line="13" column="0" />
@@ -535,9 +538,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1545999620628">
         <mark key="'" line="34" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548056820949">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TextWithInlinedObjects/TextWithInlinedImages.cs" timestamp="1547132547516">
         <mark key="'" line="121" column="12" />
       </file>
@@ -620,10 +620,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ScreensOpenStateWatcher.cs" timestamp="1547034811971" />
     </filemarks>
     <jumps>
-      <jump line="221" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="630" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="629" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="621" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="588" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="530" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="108" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -720,6 +716,10 @@
       <jump line="103" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="111" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="25" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
+      <jump line="99" column="16" filename="/UnitHitEffect.cs" />
+      <jump line="116" column="12" filename="/UnitHitEffect.cs" />
+      <jump line="21" column="21" filename="/UnitHitEffect.cs" />
+      <jump line="87" column="12" filename="/UnitHitEffect.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -732,7 +732,7 @@
         <text>:null;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGF0ZVw+</text>
+        <text encoding="base64">XDxfYWN0aXZlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlID0gX3JlY2lwZS5DYW5Hb1RvUmVjZWl2aW5nUGxhY2UoKSA/IDEgOiAyOwo=</text>
@@ -769,9 +769,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdGF0ZVw+</last-search>
+      <last-search encoding="base64">XDxfYWN0aXZlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYWN0aXZlXD4=</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -779,7 +779,6 @@
     </search>
     <history>
       <history-search>
-        <entry>subscr</entry>
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>_curr</entry>
         <entry>checkeve</entry>
@@ -799,6 +798,7 @@
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxHZXRBbmltYXRvclw+</entry>
         <entry encoding="base64">XDxTdGF0ZVw+</entry>
+        <entry encoding="base64">XDxfYWN0aXZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
