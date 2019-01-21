@@ -361,12 +361,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TextWithInlinedObjects/TextWithInlinedImages.cs" timestamp="1547132547516">
         <mark key="'" line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1548076318257">
-        <mark key="'" line="1160" column="72" />
-        <mark key="[" line="835" column="34" />
-        <mark key="]" line="835" column="98" />
-        <mark key="." line="835" column="98" />
-        <mark key="^" line="835" column="98" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1548077171780">
+        <mark key="'" line="835" column="58" />
+        <mark key="[" line="1154" column="33" />
+        <mark key="]" line="1154" column="45" />
+        <mark key="." line="1154" column="45" />
+        <mark key="^" line="1154" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ChestInfo.cs" timestamp="1547804132918">
         <mark key="'" line="22" column="34" />
@@ -429,8 +429,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ScreensOpenStateWatcher.cs" timestamp="1547034811971" />
     </filemarks>
     <jumps>
-      <jump line="39" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
-      <jump line="88" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="77" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="139" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
@@ -529,19 +527,21 @@
       <jump line="22" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" />
       <jump line="1151" column="36" filename="/PlayerAimingManager.cs" />
       <jump line="1154" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="771" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="835" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Controller.RemoveHighlight();</text>
+        <text>unit.HighlightManager.IsHighlightedByRim)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Controller.RemoveHighlight();</text>
+        <text>unit.HighlightManager.IsHighlightedByRim)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY29sb3JcPg==</text>
+        <text encoding="base64">XDxIaWdobGlnaHRNYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB1bml0ID0gX3JpZmxlVGFyZ2V0IGFzIFVuaXQ7CiAgICAgICAgICAgICAgICBpZiAodW5pdCAhPSBudWxsICYmIHVuaXQuSGlnaGxpZ2h0Q29udHJvbGxlci5Jc0hpZ2hsaWdodGVkKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHVuaXQuSGlnaGxpZ2h0Q29udHJvbGxlci5SZW1vdmVIaWdobGlnaHQoKTsKICAgICAgICAgICAgICAgIH0KCg==</text>
@@ -578,9 +578,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY29sb3JcPg==</last-search>
+      <last-search encoding="base64">XDxIaWdobGlnaHRNYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY29sb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxIaWdobGlnaHRNYW5hZ2VyXD4=</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -588,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;sta</entry>
         <entry>anima</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxHZXRBbmltYXRvclw+</entry>
@@ -608,6 +607,7 @@
         <entry encoding="base64">XDxIaWdobGlnaHRDdXJyZW50UmlmZmxlVGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDxfaGlnaGxpZ2h0ZWRcPg==</entry>
         <entry encoding="base64">XDxfY29sb3JcPg==</entry>
+        <entry encoding="base64">XDxIaWdobGlnaHRNYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
