@@ -297,8 +297,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF8183A4-5D58-47D8-85EE-DFFD83533A7B/67/609f7da0/Attribute.cs" timestamp="1547647986424">
         <mark key="'" line="16" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1545657607014">
-        <mark key="'" line="572" column="47" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1548157927616">
+        <mark key="'" line="125" column="35" />
+        <mark key="[" line="409" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ReceivedByPremiumItemDecorator.cs" timestamp="1547127995200">
         <mark key="'" line="20" column="26" />
@@ -375,6 +376,10 @@
         <mark key="]" line="319" column="68" />
         <mark key="." line="319" column="68" />
         <mark key="^" line="319" column="68" />
+      </file>
+      <file name="/HighlightController.cs" timestamp="1548073397837">
+        <mark key="'" line="116" column="12" />
+        <mark key="[" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" timestamp="1547036554421">
         <mark key="'" line="82" column="0" />
@@ -551,7 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="103" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="111" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
@@ -651,6 +655,7 @@
       <jump line="86" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="137" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
       <jump line="20" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
+      <jump line="125" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -663,7 +668,7 @@
         <text>k</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDSEVTVF9FVkVOVF9GSU5JU0hFRFw+</text>
+        <text encoding="base64">XDxQcm9ibGVtQ2hlY2tlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbC5VcGRhdGVQaHJhc2UoX3N0b3JhZ2UuUHJlbWl1bVNldHRpbmdzLkNoZXN0Qm9udXMuRmlyc3QoKS5Db3VudCk7Cg==</text>
@@ -700,9 +705,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDSEVTVF9FVkVOVF9GSU5JU0hFRFw+</last-search>
+      <last-search encoding="base64">XDxQcm9ibGVtQ2hlY2tlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDSEVTVF9FVkVOVF9GSU5JU0hFRFw+</last-pattern>
+      <last-pattern encoding="base64">XDxQcm9ibGVtQ2hlY2tlclw+</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -710,7 +715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Lerp</entry>
         <entry>{</entry>
         <entry encoding="base64">XDxVcGRhdGVIaWdobGlnaHRcPg==</entry>
         <entry encoding="base64">XDxSZW1vdmVIaWdobGlnaHRcPg==</entry>
@@ -730,6 +734,7 @@
         <entry encoding="base64">XDxfcHJlbWl1bUV4dHJhTGFiZWxzXD4=</entry>
         <entry encoding="base64">XDxDbG9zZVNjcmVlblw+</entry>
         <entry encoding="base64">XDxDSEVTVF9FVkVOVF9GSU5JU0hFRFw+</entry>
+        <entry encoding="base64">XDxQcm9ibGVtQ2hlY2tlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
