@@ -412,7 +412,7 @@
         <mark key="." line="66" column="49" />
         <mark key="^" line="66" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1548345656366">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1548416137245">
         <mark key="'" line="620" column="19" />
         <mark key="[" line="709" column="78" />
         <mark key="]" line="709" column="78" />
@@ -501,7 +501,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1545999620628">
         <mark key="'" line="34" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548414294669">
+      <file name="/Dummy.txt" timestamp="1548414333733">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TextWithInlinedObjects/TextWithInlinedImages.cs" timestamp="1547132547516">
@@ -549,12 +549,12 @@
         <mark key="^" line="36" column="34" />
         <mark key="." line="36" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1548341415556">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1548416567349">
         <mark key="'" line="163" column="23" />
         <mark key="[" line="165" column="36" />
-        <mark key="]" line="165" column="36" />
-        <mark key="." line="165" column="36" />
-        <mark key="^" line="165" column="105" />
+        <mark key="]" line="165" column="40" />
+        <mark key="." line="165" column="40" />
+        <mark key="^" line="165" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" timestamp="1547648665180">
         <mark key="'" line="462" column="94" />
@@ -642,10 +642,8 @@
       <jump line="33" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/InterfaceLocker.cs" />
       <jump line="67" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/InterfaceLocker.cs" />
       <jump line="45" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
-      <jump line="245" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="312" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="313" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="620" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="13" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" />
       <jump line="162" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" />
@@ -674,19 +672,21 @@
       <jump line="55" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
       <jump line="59" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
       <jump line="692" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
+      <jump line="245" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
+      <jump line="620" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>blocksRaycasts</text>
+        <text>tryReopenPreviousScreen</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>blocksRaycasts</text>
+        <text>tryReopenPreviousScreen</text>
       </register>
       <register name="/" type="4">
-        <text>taked</text>
+        <text>repla</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJiZWZvcmUiLkNMb2coKTsK</text>
@@ -723,9 +723,9 @@
       </register>
     </registers>
     <search>
-      <last-search>taked</last-search>
+      <last-search>repla</last-search>
       <last-offset />
-      <last-pattern>taked</last-pattern>
+      <last-pattern>repla</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -733,10 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFVkVOVF9PUEVOX1NDUkVFTl9XSVRIX0NPTlRFWFRcPg==</entry>
-        <entry encoding="base64">XDxFVkVOVF9DTE9TRV9TQ1JFRU5cPg==</entry>
-        <entry encoding="base64">XDxPblJldHVyblRvU2NyZWVuV2l0aFR5cGVcPg==</entry>
-        <entry encoding="base64">XDxPblJldHVyblw+</entry>
         <entry>onreturn</entry>
         <entry>static</entry>
         <entry encoding="base64">XDxfbWFpbFBvcHVwQ29udHJvbGxlclw+</entry>
@@ -753,6 +749,10 @@
         <entry>hitim</entry>
         <entry>takeda</entry>
         <entry>taked</entry>
+        <entry>replace</entry>
+        <entry>OpenSc</entry>
+        <entry>reop</entry>
+        <entry>repla</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
