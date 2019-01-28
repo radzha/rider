@@ -5,9 +5,6 @@
       <mark key="O" line="154" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOffers.cs" timestamp="1548241723161">
-        <mark key="'" line="50" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Patrol/PatrollingCompanionsListItem.cs" timestamp="1547650826981">
         <mark key="'" line="78" column="74" />
       </file>
@@ -133,8 +130,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" timestamp="1548257896866">
         <mark key="'" line="273" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" timestamp="1548670817665">
-        <mark key="'" line="23" column="28" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" timestamp="1548674705086">
+        <mark key="'" line="130" column="63" />
+        <mark key="[" line="182" column="124" />
+        <mark key="]" line="182" column="128" />
+        <mark key="^" line="182" column="128" />
+        <mark key="." line="182" column="128" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonShower.cs" timestamp="1548335723175">
         <mark key="'" line="78" column="22" />
@@ -214,9 +215,6 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ChatStickerView.cs" timestamp="1548231215653">
         <mark key="'" line="38" column="88" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1548409943903">
-        <mark key="'" line="59" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferAdapter.cs" timestamp="1548164406258">
         <mark key="[" line="17" column="87" />
@@ -312,9 +310,6 @@
         <mark key="]" line="98" column="98" />
         <mark key="^" line="97" column="57" />
         <mark key="." line="98" column="98" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOffersScreen.cs" timestamp="1548241799102">
-        <mark key="'" line="28" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1548258603591">
         <mark key="'" line="47" column="26" />
@@ -494,9 +489,6 @@
         <mark key="." line="44" column="15" />
         <mark key="^" line="44" column="15" />
       </file>
-      <file name="/ChestScreen.cs" timestamp="1548329946487">
-        <mark key="'" line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" timestamp="1547038250153">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="71" column="60" />
@@ -578,8 +570,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" timestamp="1547798177431">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548666014768">
-        <mark key="'" line="900" column="74" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548673904402">
+        <mark key="'" line="2576" column="34" />
         <mark key="[" line="1925" column="42" />
         <mark key="]" line="1925" column="12" />
         <mark key="^" line="1925" column="12" />
@@ -619,10 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.ChestItemsAdapter.cs" />
-      <jump line="86" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.ChestItemsAdapter.cs" />
-      <jump line="151" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.ChestItemsAdapter.cs" />
-      <jump line="16" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonShower.cs" />
       <jump line="78" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonShower.cs" />
       <jump line="103" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
       <jump line="261" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
@@ -719,6 +707,10 @@
       <jump line="53" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
       <jump line="68" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
+      <jump line="2576" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="167" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
+      <jump line="129" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
+      <jump line="130" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -731,7 +723,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text encoding="base64">XDxfc2Vjb25kRmlyZVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">X3Nob3RTb3VyY2UuaXNQbGF5aW5nICYmIEdhbWVUaW1lLlRpbWUgPiBfZW5kTG9vcFRpbWU=</text>
@@ -768,9 +760,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search encoding="base64">XDxfc2Vjb25kRmlyZVw+</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern encoding="base64">XDxfc2Vjb25kRmlyZVw+</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -778,8 +770,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OpenSc</entry>
-        <entry>reop</entry>
         <entry>repla</entry>
         <entry encoding="base64">XDxFVkVOVF9PUEVOX1NDUkVFTl9XSVRIX0NPTlRFWFRcPg==</entry>
         <entry>stack</entry>
@@ -798,6 +788,8 @@
         <entry encoding="base64">XDxfc2hvb3RFbmRcPg==</entry>
         <entry>clog</entry>
         <entry>log</entry>
+        <entry>instant</entry>
+        <entry encoding="base64">XDxfc2Vjb25kRmlyZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
