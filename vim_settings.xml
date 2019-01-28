@@ -206,6 +206,12 @@
         <mark key="." line="35" column="65" />
         <mark key="^" line="35" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" timestamp="1548673512901">
+        <mark key="[" line="79" column="17" />
+        <mark key="]" line="80" column="34" />
+        <mark key="^" line="80" column="34" />
+        <mark key="." line="80" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ChatStickerView.cs" timestamp="1548231215653">
         <mark key="'" line="38" column="88" />
       </file>
@@ -430,12 +436,11 @@
         <mark key="^" line="75" column="109" />
         <mark key="." line="75" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" timestamp="1548672698052">
-        <mark key="'" line="53" column="158" />
-        <mark key="[" line="53" column="99" />
-        <mark key="]" line="53" column="99" />
-        <mark key="." line="53" column="99" />
-        <mark key="^" line="75" column="26" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" timestamp="1548673453399">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/PremiumButtonStateController.cs" timestamp="1548170401238">
         <mark key="'" line="66" column="77" />
@@ -614,7 +619,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="/ChestScreen.cs" />
       <jump line="32" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.ChestItemsAdapter.cs" />
       <jump line="86" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.ChestItemsAdapter.cs" />
       <jump line="151" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.ChestItemsAdapter.cs" />
@@ -711,69 +715,69 @@
       <jump line="38" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
       <jump line="23" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
       <jump line="222" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" />
-      <jump line="67" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
       <jump line="56" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
-      <jump line="53" column="158" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>C</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIlN0b3AiLkNMb2dSZWQoKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>log</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">X3Nob3RTb3VyY2UuaXNQbGF5aW5nICYmIEdhbWVUaW1lLlRpbWUgPiBfZW5kTG9vcFRpbWU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImVuZCIuQWRkUGFyYW0oR2FtZVRpbWUuVGltZSkuQWRkUGFyYW0oX2xvb3BCcmVha1RpbWUpLmxvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlN0b3AiLkNMb2dSZWQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgImVuZCIuQWRkUGFyYW0oR2FtZVRpbWUuVGltZSkuQWRkUGFyYW0oX2xvb3BCcmVha1RpbWUpLkNMb2coX2VuZExvb3BUaW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxvb3B0aW1lIi5DTG9nKF9sb29wQnJlYWtUaW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAiY2hlY2siLkFkZFBhcmFtKF9zaG90U291cmNlLmlzUGxheWluZykuQWRkUGFyYW0oR2FtZVRpbWUuVGltZSkuQWRkUGFyYW0oX2VuZExvb3BUaW1lKS5Mb2coX3Nob3RTb3VyY2UuaXNQbGF5aW5nICYmIEdhbWVUaW1lLlRpbWUgPiBfZW5kTG9vcFRpbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWN0b3IgPT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImVuZCIuQWRkUGFyYW0oR2FtZVRpbWUuVGltZSkuQWRkUGFyYW0oX2xvb3BCcmVha1RpbWUpLmxvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlY3Rvci5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VpdGFibGVTZWN0b3JzLkxlbmd0aC5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWN0b3IgPT0gbnVsbCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>replace</entry>
         <entry>OpenSc</entry>
         <entry>reop</entry>
         <entry>repla</entry>
@@ -793,6 +797,7 @@
         <entry encoding="base64">XDxfc291bmRDbGlwc1w+</entry>
         <entry encoding="base64">XDxfc2hvb3RFbmRcPg==</entry>
         <entry>clog</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
