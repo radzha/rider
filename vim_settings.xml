@@ -405,6 +405,12 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ShieldInfoScreen.cs" timestamp="1548409439325" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Patrol.cs" timestamp="1548663335893">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="39" column="39" />
+        <mark key="." line="39" column="39" />
+        <mark key="^" line="39" column="39" />
+      </file>
       <file name="/ChestScreen.cs" timestamp="1548329946487">
         <mark key="'" line="69" column="0" />
       </file>
@@ -453,7 +459,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1545999620628">
         <mark key="'" line="34" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548426018312">
+      <file name="/Dummy.txt" timestamp="1548662849598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TextWithInlinedObjects/TextWithInlinedImages.cs" timestamp="1547132547516">
@@ -492,12 +498,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" timestamp="1547798177431">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548427526290">
-        <mark key="'" line="965" column="42" />
-        <mark key="[" line="1925" column="44" />
-        <mark key="]" line="1925" column="44" />
-        <mark key="^" line="1925" column="43" />
-        <mark key="." line="1925" column="44" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548432372861">
+        <mark key="[" line="1925" column="42" />
+        <mark key="]" line="1925" column="12" />
+        <mark key="^" line="1925" column="12" />
+        <mark key="." line="1925" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/InstantPaymentView.cs" timestamp="1547459157862">
         <mark key="'" line="54" column="12" />
@@ -527,12 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="148" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="263" column="87" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="337" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="108" column="80" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="17" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
       <jump line="149" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
       <jump line="215" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
       <jump line="113" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
@@ -627,58 +626,64 @@
       <jump line="95" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="908" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="965" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="1910" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="897" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="1921" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="893" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="895" column="76" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="896" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>C</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>Count()</text>
       </register>
       <register name="/" type="4">
-        <text>hitim</text>
+        <text>onbull</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJiZWZvcmUiLkNMb2coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFrZW5EYW1hZ2UuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgRkZtcGVnLkF1dG9HZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFrZW5EYW1hZ2UuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENpdGFkZWxTdG9yZS5PcGVuV2l0aFJlY2lwZShJbmZvLlJlY2lwZSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">dXNpbmcgRkZtcGVnLkF1dG9HZW47Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENpdGFkZWxTdG9yZS5PcGVuV2l0aFJlY2lwZShJbmZvLlJlY2lwZSwgZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENpdGFkZWxTdG9yZS5PcGVuV2l0aFJlY2lwZShJbmZvLlJlY2lwZSwgZmFsc2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEluZm8uUmVjaXBlLkdvVG9JdGVtUmVjZWl2ZVBsYWNlKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEluZm8uUmVjaXBlLkdvVG9JdGVtUmVjZWl2ZVBsYWNlKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1bml0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>hitim</last-search>
+      <last-search>onbull</last-search>
       <last-offset />
-      <last-pattern>hitim</last-pattern>
+      <last-pattern>onbull</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -686,8 +691,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbG9ja2VkXD4=</entry>
-        <entry encoding="base64">XDxFVkVOVF9HRVRfQUNUSVZBVEVEXD4=</entry>
         <entry encoding="base64">XDxBY3RpdmF0ZWRcPg==</entry>
         <entry encoding="base64">XDxPbkRyYWdcPg==</entry>
         <entry encoding="base64">XDxPblBvaW50ZXJEb3duXD4=</entry>
@@ -706,6 +709,8 @@
         <entry encoding="base64">XDxPblJldHVyblRvU2NyZWVuV2l0aFR5cGVcPg==</entry>
         <entry encoding="base64">IE9wZW5T</entry>
         <entry>hitim</entry>
+        <entry>onbulletf</entry>
+        <entry>onbull</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
