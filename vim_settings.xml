@@ -5,6 +5,9 @@
       <mark key="O" line="154" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" protocol="file" />
     </globalmarks>
     <filemarks>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOffers.cs" timestamp="1548241723161">
+        <mark key="'" line="50" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Patrol/PatrollingCompanionsListItem.cs" timestamp="1547650826981">
         <mark key="'" line="78" column="74" />
       </file>
@@ -69,11 +72,6 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/ComponentBase.cs" timestamp="1545838144547">
         <mark key="'" line="93" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Squadinfo.cs" timestamp="1548424538223">
-        <mark key="]" line="0" column="34" />
-        <mark key="^" line="0" column="34" />
-        <mark key="." line="0" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/Platz/PlatzSlot.cs" timestamp="1548424903786">
         <mark key="'" line="111" column="0" />
@@ -198,6 +196,9 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="45" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1548690163151">
+        <mark key="'" line="624" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1547635396693">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="185" column="0" />
@@ -222,6 +223,10 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ChatStickerView.cs" timestamp="1548231215653">
         <mark key="'" line="38" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" timestamp="1548688763567" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1548409943903">
+        <mark key="'" line="59" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferAdapter.cs" timestamp="1548164406258">
         <mark key="[" line="17" column="87" />
@@ -319,6 +324,9 @@
         <mark key="]" line="98" column="98" />
         <mark key="^" line="97" column="57" />
         <mark key="." line="98" column="98" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOffersScreen.cs" timestamp="1548241799102">
+        <mark key="'" line="28" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1548258603591">
         <mark key="'" line="47" column="26" />
@@ -497,6 +505,9 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
+      <file name="/ChestScreen.cs" timestamp="1548329946487">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" timestamp="1547038250153">
         <mark key="'" line="88" column="0" />
         <mark key="[" line="71" column="60" />
@@ -578,9 +589,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" timestamp="1547798177431">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548681277327">
-        <mark key="'" line="2576" column="34" />
-        <mark key="^" line="1925" column="12" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548690611034">
+        <mark key="'" line="89" column="25" />
+        <mark key="[" line="1923" column="109" />
+        <mark key="^" line="1926" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/InstantPaymentView.cs" timestamp="1547459157862">
         <mark key="'" line="54" column="12" />
@@ -616,21 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1350" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="98" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="132" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="16" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="69" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="73" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="155" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="168" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="201" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="239" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="252" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="266" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="188" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="206" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
-      <jump line="186" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
       <jump line="157" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/MovementStickController.cs" />
       <jump line="105" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
       <jump line="28" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
@@ -716,6 +713,21 @@
       <jump line="830" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="837" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="124" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="471" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="463" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="466" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="816" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="1032" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="97" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="145" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="259" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="409" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="504" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="574" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="575" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="624" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="837" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="89" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -728,7 +740,7 @@
         <text>CurrentUnit.IsFiring = false;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdXNlU2Vjb25kRmlyZVw+</text>
+        <text>hitim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChzZWN0b3IgPT0gbnVsbCkgY29udGludWU7Cg==</text>
@@ -765,9 +777,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdXNlU2Vjb25kRmlyZVw+</last-search>
+      <last-search>hitim</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdXNlU2Vjb25kRmlyZVw+</last-pattern>
+      <last-pattern>hitim</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -775,11 +787,8 @@
     </search>
     <history>
       <history-search>
-        <entry>stack</entry>
-        <entry encoding="base64">XDxfc2NyZWVuU3RhY2tcPg==</entry>
         <entry encoding="base64">XDxPblJldHVyblRvU2NyZWVuV2l0aFR5cGVcPg==</entry>
         <entry encoding="base64">IE9wZW5T</entry>
-        <entry>hitim</entry>
         <entry>onbulletf</entry>
         <entry>onbull</entry>
         <entry>bullet</entry>
@@ -795,6 +804,9 @@
         <entry encoding="base64">XDxfc2hvdFNvdXJjZVw+</entry>
         <entry encoding="base64">XDxfc2hvdExvb3BDb250cm9sbGVyXD4=</entry>
         <entry encoding="base64">XDxfdXNlU2Vjb25kRmlyZVw+</entry>
+        <entry encoding="base64">XDxEYW1hZ2VQZXJpb2RcPg==</entry>
+        <entry encoding="base64">XDxfdGltZXJcPg==</entry>
+        <entry>hitim</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
