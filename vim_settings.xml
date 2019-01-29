@@ -469,6 +469,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/CraftRow.cs" timestamp="1545990443623">
         <mark key="'" line="17" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/WeaponProductionScreen.cs" timestamp="1548764007573">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="26" />
+        <mark key="." line="103" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" timestamp="1548426039319">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -556,10 +561,10 @@
         <mark key="." line="165" column="40" />
         <mark key="^" line="165" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" timestamp="1548762858393">
-        <mark key="'" line="239" column="12" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="31" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" timestamp="1548763954786">
+        <mark key="'" line="130" column="54" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="26" />
         <mark key="^" line="267" column="31" />
         <mark key="." line="115" column="0" />
       </file>
@@ -575,7 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
       <jump line="129" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
       <jump line="130" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
       <jump line="74" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/ShotLoopController.cs" />
@@ -675,10 +679,11 @@
       <jump line="100" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" />
       <jump line="116" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" />
       <jump line="238" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" />
+      <jump line="130" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0U2xvdFN0YXRlKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -690,34 +695,34 @@
         <text>leftsl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3dlYXBvbkltYWdlLmVuYWJsZWQuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0U2xvdFN0YXRlKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2V0U2xvdFN0YXRlKGl0ZW0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0U2xvdFN0YXRlKGl0ZW0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24ucGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0U2xvdFN0YXRlKGl0ZW0pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24ucGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcGxpY2F0aW9uLmZyYQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0U2xvdFN0YXRlKGl0ZW0pOwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJncmVhdGVyIi5Mb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFwcGxpY2F0aW9uLmZyYQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVyLkFkZFBhcmFtKEV4aXRUaW1lKS5Mb2coX2R1cmF0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJncmVhdGVyIi5Mb2coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJlZ2luICIuQ0xvZyhfdGltZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVyLkFkZFBhcmFtKEV4aXRUaW1lKS5Mb2coX2R1cmF0aW9uKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
