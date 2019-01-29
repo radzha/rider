@@ -64,9 +64,6 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferListItem.cs" timestamp="1548323675677" />
-      <file name="/Dummy.cs" timestamp="1545404277796">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Storage.cs" timestamp="1545998879269">
         <mark key="'" line="224" column="45" />
       </file>
@@ -97,8 +94,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FE16CF87-F823-455D-ABC8-E915F7476D2A/b0/63467a61/BaseDefenceMenu.cs" timestamp="1545727538299">
         <mark key="'" line="22" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfoComponents/Patrol.cs" timestamp="1548770085350">
-        <mark key="[" line="41" column="13" />
+      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfoComponents/Patrol.cs" timestamp="1548773135959">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="33" />
+        <mark key="^" line="44" column="33" />
+        <mark key="." line="44" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PiecePopupItemShower.cs" timestamp="1547041529053">
         <mark key="'" line="45" column="71" />
@@ -291,6 +291,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1545998884445">
         <mark key="'" line="20" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferHolographicModelController.cs" timestamp="1548322623052">
+        <mark key="[" line="44" column="71" />
+        <mark key="]" line="44" column="71" />
+        <mark key="^" line="44" column="71" />
+        <mark key="." line="44" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1547035033413">
         <mark key="'" line="64" column="27" />
       </file>
@@ -482,9 +488,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" timestamp="1547036554421">
         <mark key="'" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/UserChests.cs" timestamp="1543571399294">
-        <mark key="[" line="30" column="59" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemsController.cs" timestamp="1547123256760">
         <mark key="'" line="44" column="39" />
       </file>
@@ -616,9 +619,6 @@
         <mark key="." line="121" column="66" />
         <mark key="^" line="121" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Polygon/HolographicTableSlotItem.cs" timestamp="1548424167290">
-        <mark key="[" line="45" column="60" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="81" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/WeaponSoundSources.cs" />
@@ -723,14 +723,14 @@
       <jump line="276" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuQ0xvZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>wWarning</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>B</text>
+        <text>wWarning</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVcGRhdGVJbWFnZVw+</text>
@@ -739,31 +739,31 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBTZXRJdGVtKFByb2R1Y3Rpb25JdGVtIHByb2R1Y3Rpb25JdGVtKQogICAgICAgIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuQ0xvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWcuCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWcuCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWUuZnJhbWVDb3VudC5DTG9nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWUuZnJhbWVDb3VudC5DTG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0U2xvdFN0YXRlKGl0ZW0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuQnJlYWsoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
