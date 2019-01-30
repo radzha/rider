@@ -211,7 +211,7 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="45" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1548839657979">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1548843169500">
         <mark key="'" line="813" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1548840904929">
@@ -222,11 +222,11 @@
         <mark key="." line="2538" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/Base/GetChest_ExtraRewardItem.prefab.meta" timestamp="1548325746787" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/Damage.cs" timestamp="1548840729236">
-        <mark key="[" line="75" column="46" />
-        <mark key="]" line="75" column="54" />
-        <mark key="." line="75" column="54" />
-        <mark key="^" line="75" column="54" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/Damage.cs" timestamp="1548844919620">
+        <mark key="[" line="75" column="57" />
+        <mark key="]" line="76" column="19" />
+        <mark key="." line="76" column="19" />
+        <mark key="^" line="76" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemFactory.cs" timestamp="1547127370151">
         <mark key="'" line="35" column="63" />
@@ -525,6 +525,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1545999620628">
         <mark key="'" line="34" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Prototype/Rendering/DamageLabel.cs" timestamp="1548841355734" />
       <file name="/Dummy.txt" timestamp="1548840122593" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TextWithInlinedObjects/TextWithInlinedImages.cs" timestamp="1547132547516">
         <mark key="'" line="121" column="12" />
@@ -559,8 +560,8 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548840915459">
-        <mark key="'" line="1927" column="91" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548842102712">
+        <mark key="'" line="848" column="49" />
         <mark key="[" line="1927" column="89" />
         <mark key="]" line="1927" column="92" />
         <mark key="^" line="1927" column="92" />
@@ -597,8 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="276" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" />
-      <jump line="113" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
       <jump line="37" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="85" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="110" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
@@ -687,8 +686,6 @@
       <jump line="1766" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="813" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="2334" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1165" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1098" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2342" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2353" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="437" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -697,6 +694,10 @@
       <jump line="1962" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2341" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1927" column="91" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="2339" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="1165" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="1098" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="848" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -709,7 +710,7 @@
         <text>Blue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBbGx5XD4=</text>
+        <text encoding="base64">XDxBZGREYW1hZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgQ0xvZ0JsdWUodGhpcyBvYmplY3QgdGV4dCwgb2JqZWN0IGFkZGl0aW9uID0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICAgIHRleHQuQ29sb3JMb2coY29sb3I6ICJjeWFuIiwgYWRkaXRpb246IGFkZGl0aW9uKTsKICAgICAgICB9Cgo=</text>
@@ -746,9 +747,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBbGx5XD4=</last-search>
+      <last-search encoding="base64">XDxBZGREYW1hZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBbGx5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBZGREYW1hZ2VcPg==</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>-1</last-dir>
@@ -773,9 +774,9 @@
         <entry>_damages</entry>
         <entry encoding="base64">XDxfZGFtYWdlc1w+</entry>
         <entry>adddam</entry>
-        <entry encoding="base64">XDxBZGREYW1hZ2VcPg==</entry>
         <entry>hitim</entry>
         <entry encoding="base64">XDxBbGx5XD4=</entry>
+        <entry encoding="base64">XDxBZGREYW1hZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
