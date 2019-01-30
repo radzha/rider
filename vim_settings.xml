@@ -525,10 +525,10 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1548868078169">
         <mark key="'" line="1042" column="48" />
-        <mark key="[" line="1078" column="46" />
-        <mark key="]" line="1078" column="141" />
-        <mark key="." line="1078" column="141" />
-        <mark key="^" line="1078" column="141" />
+        <mark key="[" line="1042" column="46" />
+        <mark key="]" line="1042" column="141" />
+        <mark key="." line="1042" column="141" />
+        <mark key="^" line="1042" column="141" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/VolumeBullet.cs" timestamp="1547720196604">
         <mark key="'" line="42" column="0" />
@@ -553,12 +553,12 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548865456496">
-        <mark key="'" line="1939" column="0" />
-        <mark key="[" line="820" column="0" />
-        <mark key="]" line="820" column="0" />
-        <mark key="." line="820" column="0" />
-        <mark key="^" line="771" column="15" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1548870738969">
+        <mark key="'" line="881" column="88" />
+        <mark key="[" line="1934" column="41" />
+        <mark key="]" line="1934" column="41" />
+        <mark key="." line="1934" column="41" />
+        <mark key="^" line="1934" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/InstantPaymentView.cs" timestamp="1547459157862">
         <mark key="'" line="54" column="12" />
@@ -591,7 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1864" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1925" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1962" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2341" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -691,19 +690,20 @@
       <jump line="20" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="826" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1042" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="881" column="88" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aGFzTmV3VGFyZ2V0ICYmIGhhc0FjdGl2ZUdlc3R1cmU=</text>
+        <text encoding="base64">ICYmIFR5cGUgIT0gUGxheWVyVHlwZS5BbGx5KQ==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">ICYmIFR5cGUgIT0gUGxheWVyVHlwZS5BbGx5KQ==</text>
       </register>
       <register name="/" type="4">
-        <text>unit</text>
+        <text>hitim</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">aGFzTmV3VGFyZ2V0ICYmIGhhc0FjdGl2ZUdlc3R1cmU=</text>
@@ -740,9 +740,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unit</last-search>
+      <last-search>hitim</last-search>
       <last-offset />
-      <last-pattern>unit</last-pattern>
+      <last-pattern>hitim</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -756,7 +756,6 @@
         <entry>proces</entry>
         <entry encoding="base64">XDxpdGVtSWRcPg==</entry>
         <entry encoding="base64">XDxCeUFiaWxpdHlcPg==</entry>
-        <entry>hitim</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxPd25lcklkXD4=</entry>
         <entry>hitimpl</entry>
@@ -770,6 +769,7 @@
         <entry>change</entry>
         <entry>Need</entry>
         <entry>unit</entry>
+        <entry>hitim</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
