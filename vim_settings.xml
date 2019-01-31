@@ -50,12 +50,12 @@
         <mark key="^" line="55" column="106" />
         <mark key="." line="55" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" timestamp="1548943226057">
-        <mark key="'" line="330" column="0" />
-        <mark key="[" line="345" column="138" />
-        <mark key="]" line="345" column="140" />
-        <mark key="." line="345" column="140" />
-        <mark key="^" line="345" column="140" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" timestamp="1548945041642">
+        <mark key="'" line="302" column="19" />
+        <mark key="[" line="349" column="43" />
+        <mark key="]" line="302" column="11" />
+        <mark key="." line="302" column="11" />
+        <mark key="^" line="302" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Prototype/Rendering/EmojiView.cs" timestamp="1548234179597">
         <mark key="'" line="28" column="36" />
@@ -558,9 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="985" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1237" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1791" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1838" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="778" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="734" column="119" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -658,22 +655,25 @@
       <jump line="615" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
       <jump line="828" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="330" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
+      <jump line="469" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
+      <jump line="345" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
+      <jump line="302" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>current</text>
+        <text encoding="base64">dC5BbmdsZU9mZnNldCA=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>_cachedTargets</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>&quot;ca</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YW5nbGUgPCBpbmZvLk1heEFuZ2xlICYmIGlzVmFsaWRUYXJnZXQ=</text>
+        <text encoding="base64">dC5BbmdsZU9mZnNldCA=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhID0gdGFyZ2V0Cg==</text>
@@ -707,9 +707,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>&quot;ca</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>&quot;ca</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -717,7 +717,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fake</entry>
         <entry>rewardst</entry>
         <entry encoding="base64">XDxPblJlY2VpdmVSZXdhcmRzXD4=</entry>
         <entry encoding="base64">XDxmcm9tQ29vcFN0b3JlXD4=</entry>
@@ -737,6 +736,7 @@
         <entry encoding="base64">XDxOZWVkVG9SZXNldEN1cnJlbnRUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxDTG9nXD4=</entry>
         <entry>clog</entry>
+        <entry>&quot;ca</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
