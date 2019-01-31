@@ -50,12 +50,12 @@
         <mark key="^" line="55" column="106" />
         <mark key="." line="55" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" timestamp="1548941779746">
-        <mark key="'" line="618" column="21" />
-        <mark key="[" line="621" column="19" />
-        <mark key="]" line="621" column="20" />
-        <mark key="." line="621" column="20" />
-        <mark key="^" line="594" column="123" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" timestamp="1548943226057">
+        <mark key="'" line="330" column="0" />
+        <mark key="[" line="345" column="138" />
+        <mark key="]" line="345" column="140" />
+        <mark key="." line="345" column="140" />
+        <mark key="^" line="345" column="140" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Prototype/Rendering/EmojiView.cs" timestamp="1548234179597">
         <mark key="'" line="28" column="36" />
@@ -558,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="939" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="985" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1237" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1791" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -658,49 +657,50 @@
       <jump line="1038" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="615" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
       <jump line="828" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="330" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInN3aXBlIi5DTG9nWWVsKF9pbnB1dC5Td2lwZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>current</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>current</text>
       </register>
       <register name="/" type="4">
         <text>clog</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNhY2hlZDEiLkxvZyhfY2FjaGVkVGFyZ2V0cy5TZWxlY3QodCA9PiAodC5UYXJnZXQgYXMgVW5pdCkuSWQgKyAiIC8iICsgdC5BbmdsZSArICIgLyIgKyB0LkRpcmVjdGlvbikuR2V0U2VxKCJcbiIpKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">YW5nbGUgPCBpbmZvLk1heEFuZ2xlICYmIGlzVmFsaWRUYXJnZXQ=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInN3aXBlIi5DTG9nWWVsKF9pbnB1dC5Td2lwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBhID0gdGFyZ2V0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImxhc3QiLkNMb2dZZWwoX2xhc3REZXRlY3RlZFN3aXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNhY2hlZDIiLkxvZyhfY2FjaGVkVGFyZ2V0cy5TZWxlY3QodCA9PiAodC5UYXJnZXQgYXMgVW5pdCkuSWQgKyAiIC8iICsgdC5BbmdsZSArICIgLyIgKyB0LkRpcmVjdGlvbikuR2V0U2VxKCJcbiIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInN3aXBlIi5DTG9nWWVsKF9pbnB1dC5Td2lwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNhY2hlZDEiLkxvZyhfY2FjaGVkVGFyZ2V0cy5TZWxlY3QodCA9PiAodC5UYXJnZXQgYXMgVW5pdCkuSWQgKyAiIC8iICsgdC5BbmdsZSArICIgLyIgKyB0LkFuZ2xlT2Zmc2V0ICsgIiAvIiArIHQuRGlyZWN0aW9uKS5HZXRTZXEoIlxuIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImxhc3QiLkNMb2dZZWwoX2xhc3REZXRlY3RlZFN3aXBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInN3aXBlIi5DTG9nWWVsKF9pbnB1dC5Td2lwZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImxhc3QiLkNMb2dZZWwoX2xhc3REZXRlY3RlZFN3aXBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByaW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInN3aXBlIi5DTG9nWWVsKF9pbnB1dC5Td2lwZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImxhc3QiLkNMb2dZZWwoX2xhc3REZXRlY3RlZFN3aXBlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGVmdFRhcmdldC5WYWx1ZS5UYXJnZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFzQ2xpY2tUYXJnZXQuQWRkUGFyYW0oc3dpdGNoVG9OZWFyZXN0VGFyZ2V0KS5BZGRQYXJhbSgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByaW50KCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
