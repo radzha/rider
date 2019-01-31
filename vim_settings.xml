@@ -261,7 +261,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" timestamp="1548406576778">
         <mark key="'" line="310" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1548930107016" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1548930246990">
+        <mark key="[" line="370" column="0" />
+        <mark key="]" line="370" column="0" />
+        <mark key="." line="370" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1548867519136">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="160" column="39" />
@@ -488,18 +492,18 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1545999620628">
         <mark key="'" line="34" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548923795564">
+      <file name="/Dummy.txt" timestamp="1548930211113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TextWithInlinedObjects/TextWithInlinedImages.cs" timestamp="1547132547516">
         <mark key="'" line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1548868078169">
-        <mark key="'" line="1042" column="48" />
-        <mark key="[" line="1042" column="46" />
-        <mark key="]" line="1042" column="141" />
-        <mark key="." line="1042" column="141" />
-        <mark key="^" line="1042" column="141" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1548932778166">
+        <mark key="'" line="826" column="38" />
+        <mark key="[" line="828" column="26" />
+        <mark key="]" line="828" column="56" />
+        <mark key="." line="828" column="56" />
+        <mark key="^" line="828" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/VolumeBullet.cs" timestamp="1547720196604">
         <mark key="'" line="42" column="0" />
@@ -534,12 +538,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/InstantPaymentView.cs" timestamp="1547459157862">
         <mark key="'" line="54" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1548928948883">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1548930226912">
         <mark key="'" line="18" column="23" />
-        <mark key="[" line="161" column="89" />
-        <mark key="]" line="162" column="28" />
-        <mark key="." line="162" column="28" />
-        <mark key="^" line="162" column="28" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponProduction/ProductionItemInfo.cs" timestamp="1548773231952">
         <mark key="'" line="274" column="0" />
@@ -556,8 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="870" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="812" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="789" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1198" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1799" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -634,7 +635,6 @@
       <jump line="24" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="32" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="20" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="826" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1042" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="881" column="88" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
@@ -656,58 +656,61 @@
       <jump line="191" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/StoreItem.cs" />
       <jump line="430" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="70" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="491" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="1035" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="826" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOiAK</text>
+      <register name="&quot;" type="4">
+        <text>targetResult</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">X2NoZXN0Q29udGV4dC5Jc0Nvb3BTdG9yZSA=</text>
+        <text>targetResult</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</text>
+        <text>reset</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImdyZW4gZGF0YSIuQ0xvZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gUmV3YXJkU3RhdGUuU2hvd1Jld2FyZHNMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmVhcmVzdFJpZmxlVGFyZ2V0LkNMb2coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gUmV3YXJkU3RhdGUuU2hvd1Jld2FyZHNMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3YXJpZiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlc3RTY3JlZW5Db250ZXh0LklzQ29vcFN0b3JlID0gZnJvbUNvb3BTdG9yZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3YXJlc3Rrago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBPcGVuQ2hlc3RTY3JlZW4oKQogICAgICAgIHsKICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5DaGVzdFNjcmVlbiwgbmV3IENoZXN0U2NyZWVuQ29udGV4dCh0cnVlLCBmYWxzZSwgX2NoZXN0KSk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2NoZXN0Q29udGV4dC5Jc0Nvb3BTdG9yZS5DTG9nQmx1ZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgSXNBZmZlY3RlZEJ5RGFtYWdlVHlwZShHcmVuYWRlSGl0IGhpdCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBJc0FybW9yZWQgJiYgaGl0LkRhbWFnZVR5cGUgPT0gRGFtYWdlVHlwZUNvZGUuQWNpZCB8fAogICAgICAgICAgICAgICAgICAgIUlzQXJtb3JlZCAmJiBoaXQuRGFtYWdlVHlwZSA9PSBEYW1hZ2VUeXBlQ29kZS5GaXJlOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDb29wU3RvcmUuQ0xvZygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgOiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gUmV3YXJkU3RhdGUuU2hvd1Jld2FyZHNMaXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cGRhdGUiLkFkZFBhcmFtKF9jb3VudCkuQWRkUGFyYW0oX2RvdERhbWFnZSkuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgID8gUmV3YXJkU3RhdGUuU2hvd1Jld2FyZHNMaXN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-search>
+      <last-search>reset</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-pattern>
+      <last-pattern>reset</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -715,8 +718,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPd25lcklkXD4=</entry>
-        <entry>hitimpl</entry>
         <entry encoding="base64">XDxMb25nRGFtYWdlXD4=</entry>
         <entry encoding="base64">XDxBZGREb3REYW1hZ2VcPg==</entry>
         <entry encoding="base64">XDxtdWx0aXBsaWVyXD4=</entry>
@@ -735,6 +736,8 @@
         <entry>coo</entry>
         <entry encoding="base64">XDxPcGVuQ2hlc3RTY3JlZW5cPg==</entry>
         <entry encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</entry>
+        <entry>block</entry>
+        <entry>reset</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
