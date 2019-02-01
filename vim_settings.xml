@@ -217,7 +217,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1545999620628">
         <mark key="'" line="34" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549019424257">
+      <file name="/Dummy.txt" timestamp="1549019642170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TextWithInlinedObjects/TextWithInlinedImages.cs" timestamp="1547132547516">
@@ -230,8 +230,8 @@
         <mark key="." line="1491" column="0" />
         <mark key="^" line="828" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1549019227016">
-        <mark key="'" line="690" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1549020200934">
+        <mark key="'" line="657" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/BankItemPart.cs" timestamp="1547462254758">
         <mark key="'" line="51" column="35" />
@@ -264,7 +264,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/FlyingRewardsController.cs" timestamp="1548957098650" />
     </filemarks>
     <jumps>
-      <jump line="865" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="885" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1074" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1379" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
@@ -364,6 +363,7 @@
       <jump line="266" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/WeaponsClass.cs" />
       <jump line="267" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/WeaponsClass.cs" />
       <jump line="92" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/WeaponsClass.cs" />
+      <jump line="657" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -376,7 +376,7 @@
         <text encoding="base64">ICYmIEhhc0xvbmdEYW1hZ2UoaGl0LklkKSk=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcmljZVN0cnVjdFw+</text>
+        <text encoding="base64">XDxwYXJ0aWFsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImFmZmVjdGVkIi5DTG9nCg==</text>
@@ -413,9 +413,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcmljZVN0cnVjdFw+</last-search>
+      <last-search encoding="base64">XDxwYXJ0aWFsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcmljZVN0cnVjdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aWFsXD4=</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -423,7 +423,6 @@
     </search>
     <history>
       <history-search>
-        <entry>once</entry>
         <entry>show</entry>
         <entry>rewar</entry>
         <entry encoding="base64">XDxFVkVOVF9SRUNFSVZFRF9SRVdBUkRTXD4=</entry>
@@ -443,6 +442,7 @@
         <entry encoding="base64">XDxfZHBzXD4=</entry>
         <entry encoding="base64">XDxfQ2xhc3NcPg==</entry>
         <entry encoding="base64">XDxQcmljZVN0cnVjdFw+</entry>
+        <entry encoding="base64">XDxwYXJ0aWFsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
