@@ -58,7 +58,7 @@
         <mark key="^" line="79" column="45" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.cs" timestamp="1549023532178">
+      <file name="/Dummy.cs" timestamp="1549276115716">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Storage.cs" timestamp="1545998879269">
@@ -76,6 +76,13 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SafeArea.cs" timestamp="1548960485757">
         <mark key="'" line="186" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" timestamp="1549278038523">
+        <mark key="'" line="468" column="0" />
+        <mark key="[" line="2408" column="21" />
+        <mark key="]" line="2408" column="28" />
+        <mark key="." line="2408" column="28" />
+        <mark key="^" line="2408" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Common/ResourceItem.cs" timestamp="1547457746227">
         <mark key="'" line="26" column="21" />
@@ -348,12 +355,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/WeaponsClass.cs" timestamp="1549019585815">
         <mark key="'" line="92" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" timestamp="1549273812322">
-        <mark key="'" line="67" column="51" />
-        <mark key="[" line="71" column="57" />
-        <mark key="]" line="71" column="57" />
-        <mark key="^" line="71" column="56" />
-        <mark key="." line="71" column="57" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" timestamp="1549277449881">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="49" />
+        <mark key="." line="58" column="49" />
+        <mark key="^" line="58" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1548774669880">
         <mark key="'" line="85" column="12" />
@@ -560,6 +567,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/InstantPaymentView.cs" timestamp="1547459157862">
         <mark key="'" line="54" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ItemSkillUpgradeCommand.cs" timestamp="1549277244532" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" timestamp="1549012662959">
         <mark key="'" line="123" column="40" />
       </file>
@@ -579,21 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="385" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="68" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="70" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="75" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="2340" column="0" filename="/Player.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" />
-      <jump line="28" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" />
-      <jump line="123" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" />
-      <jump line="249" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
-      <jump line="691" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
-      <jump line="496" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
-      <jump line="1043" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
       <jump line="433" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
       <jump line="472" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
       <jump line="508" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
@@ -679,58 +672,73 @@
       <jump line="119" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="121" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
+      <jump line="12" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
+      <jump line="111" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="296" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="363" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="718" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="1016" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="1051" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="2313" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="2329" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="2342" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="2387" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="2391" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
+      <jump line="468" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WEAPON_DAMAGE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJRGVidWcuTG9nKHN0ckZpbGVOYW1lKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>WEAPON_DAMAGE</text>
+        <text>LEVEL</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxXRUFQT05fREFNQUdFXD4=</text>
+        <text>&quot;Me</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNraWxscyA9IERhdGEuU2tpbGxzVXBncmFkZXNEYXRhLkN1cnJlbnRWYWx1ZS5Ta2lsbHNVcGdyYWRlczsKICAgICAgICAgICAgdmFyIG5ld1NraWxscyA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgaW50PigpOwogICAgICAgICAgICBmb3JlYWNoICh2YXIgc2tpbGwgaW4gc2tpbGxzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBuZXdTa2lsbHMuQWRkKHNraWxsLktleSwgc2tpbGwuVmFsdWUpOwogICAgICAgICAgICAgICAgaWYgKHNraWxsLktleSA9PSBJdGVtRXh0LkxFVkVMKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIG5ld1NraWxsc1tza2lsbC5LZXldKys7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCiAgICAgICAgICAgIHJldHVybiBuZXcgV2VhcG9uSW5mbyhJdGVtLCBuZXcgV2VhcG9uRGF0YShEYXRhLlNsb3RzRGF0YS5DdXJyZW50VmFsdWUuU2xvdHMsIG5ld1NraWxscykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld1NraWxsc1tJdGVtRXh0LkxFVkVMXSA9IGN1cnJlbnRMZXZlbCArIGxldmVsczsK</text>
+        <text encoding="base64">CQkJRGVidWcuTG9nKHN0ckZpbGVOYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJCQlEZWJ1Zy5Mb2coIlZpZGVvIiArICBpU3RyZWFtSW5kZXgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIk1lZGlhUGxheWVyIGN1cnJlbnQgc3RhdGUiLkxvZyhtX0N1cnJlbnRTdGF0ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2tpbGwgPSB1cGdyYWRhYmxlSXRlbS5JdGVtLkdldFNraWxsKHNraWxsTmFtZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxXRUFQT05fREFNQUdFXD4=</last-search>
+      <last-search>&quot;Me</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxXRUFQT05fREFNQUdFXD4=</last-pattern>
+      <last-pattern>&quot;Me</last-pattern>
       <last-replace>event</last-replace>
       <last-substitute>premium</last-substitute>
       <last-dir>1</last-dir>
@@ -738,9 +746,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY3JvbGxSZWN0U25hcFw+</entry>
-        <entry>rect</entry>
-        <entry>transf</entry>
         <entry encoding="base64">XDxTY3JvbGxSZWN0XD4=</entry>
         <entry>left</entry>
         <entry>positi</entry>
@@ -758,6 +763,9 @@
         <entry>settot</entry>
         <entry>clog</entry>
         <entry encoding="base64">XDxXRUFQT05fREFNQUdFXD4=</entry>
+        <entry>debug</entry>
+        <entry>media</entry>
+        <entry>&quot;Me</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
@@ -775,8 +783,8 @@
         <entry>%s/Premium/ChestEvent/g</entry>
         <entry>%s/premium/event/g</entry>
         <entry>.,.+3action ReformatCode</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
