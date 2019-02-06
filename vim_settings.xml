@@ -14,9 +14,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/WeaponFireButton.cs" timestamp="1549363928163">
         <mark key="'" line="19" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1548078092906">
-        <mark key="'" line="659" column="80" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/BaseSkins.cs" timestamp="1545404740550">
         <mark key="'" line="58" column="40" />
       </file>
@@ -95,8 +92,8 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerData/generated/ChestItems.cs" timestamp="1545840716332">
         <mark key="'" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1549386570336">
-        <mark key="'" line="420" column="22" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1549474194194">
+        <mark key="'" line="1260" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" timestamp="1549455322904">
         <mark key="'" line="266" column="71" />
@@ -104,9 +101,6 @@
         <mark key="]" line="266" column="68" />
         <mark key="." line="266" column="68" />
         <mark key="^" line="266" column="68" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/UnitHitEffect.cs" timestamp="1548074959696">
-        <mark key="'" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1548409747327">
         <mark key="'" line="105" column="57" />
@@ -143,9 +137,6 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1548409943903">
         <mark key="'" line="59" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1548073957444">
-        <mark key="'" line="336" column="32" />
       </file>
       <file name="/BaseComponentInfo.cs" timestamp="1549463914091">
         <mark key="[" line="82" column="0" />
@@ -297,7 +288,7 @@
         <mark key="^" line="78" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" timestamp="1549468366500" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/PlayerInfo.cs" timestamp="1549473600231">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/PlayerInfo.cs" timestamp="1549473949644">
         <mark key="'" line="297" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1549468958038">
@@ -464,9 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
-      <jump line="165" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
-      <jump line="350" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="370" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="55" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
       <jump line="120" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
@@ -564,6 +552,9 @@
       <jump line="144" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="297" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/PlayerInfo.cs" />
       <jump line="1695" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="363" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="575" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="1260" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -576,7 +567,7 @@
         <text>IsAlly||</text>
       </register>
       <register name="/" type="4">
-        <text>heal</text>
+        <text>HP</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHZhbHVlID0gaW5mby5JdGVtLkdldFNraWxsKEJhc2VDb21wb25lbnRJbmZvLkhFQUxUSF9TS0lMTF9OQU1FKS5WYWx1ZTsK</text>
@@ -613,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search>heal</last-search>
+      <last-search>HP</last-search>
       <last-offset />
-      <last-pattern>heal</last-pattern>
+      <last-pattern>HP</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>upgradableItem</last-substitute>
       <last-dir>1</last-dir>
@@ -623,8 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfU2tpbGxcPg==</entry>
-        <entry encoding="base64">XDxHZXRJdGVtU2tpbGxWYWx1ZVw+</entry>
         <entry encoding="base64">XDxza2lsbFw+</entry>
         <entry>Level</entry>
         <entry encoding="base64">XDxza2lsbExldmVsXD4=</entry>
@@ -643,6 +632,8 @@
         <entry>getdama</entry>
         <entry>ally</entry>
         <entry>heal</entry>
+        <entry encoding="base64">XDxTa2lsbHNcPg==</entry>
+        <entry>HP</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
