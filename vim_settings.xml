@@ -201,8 +201,8 @@
         <mark key="." line="22" column="83" />
         <mark key="^" line="22" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1549469892339">
-        <mark key="'" line="62" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1549471205061">
+        <mark key="'" line="59" column="31" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="12" />
         <mark key="." line="64" column="12" />
@@ -445,16 +445,15 @@
         <mark key="^" line="76" column="53" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1549469927521">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1549472666884">
         <mark key="'" line="300" column="61" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="0" />
-        <mark key="^" line="183" column="98" />
-        <mark key="." line="233" column="0" />
+        <mark key="[" line="305" column="50" />
+        <mark key="]" line="305" column="50" />
+        <mark key="." line="305" column="50" />
+        <mark key="^" line="305" column="47" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="355" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="341" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="134" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ArmorInfo.cs" />
@@ -554,52 +553,53 @@
       <jump line="300" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="426" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
       <jump line="795" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
+      <jump line="59" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>();</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>();</text>
       </register>
       <register name="/" type="4">
         <text>ally</text>
       </register>
-      <register name="0" type="4">
-        <text>COMPANION_DAMAGE_MULT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZhbHVlID0gaW5mby5JdGVtLkdldFNraWxsKEJhc2VDb21wb25lbnRJbmZvLkhFQUxUSF9TS0lMTF9OQU1FKS5WYWx1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgdmFsdWUgPSBpbmZvLkl0ZW0uR2V0U2tpbGwoQmFzZUNvbXBvbmVudEluZm8uSEVBTFRIX1NLSUxMX05BTUUpLlZhbHVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZsb2F0IEdldFNraWxsVXBncmFkZSh0aGlzIElJdGVtSW5mbyBpbmZvLCBzdHJpbmcgc2tpbGxJZCwgaW50IGxldmVsSW5jcmVhc2UgPSAwKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIDFmOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">bwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZsb2F0IEdldFNraWxsVXBncmFkZSh0aGlzIElJdGVtSW5mbyBpbmZvLCBzdHJpbmcgc2tpbGxJZCwgaW50IGxldmVsSW5jcmVhc2UgPSAwKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIDFmOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGludCBHZXRQcmljZUZvckxldmVsKHRoaXMgSXRlbS5Ta2lsbHNTa2lsbC5QcmljZVByaWNlIHByaWNlLCBpbnQgbGV2ZWwpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gcHJpY2UuTW9uZXlNaW4gKyBsZXZlbCAqIHByaWNlLlN0ZXA7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHBhcnRpYWwgY2xhc3MgUHJpY2VQcmljZSA6IElDb21wYXJhYmxlPFByaWNlUHJpY2U+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHB1YmxpYyBpbnQgQ29tcGFyZVRvKFByaWNlUHJpY2Ugb3RoZXIpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1vbmV5VHlwZS5Db21wYXJlVG8ob3RoZXIuTW9uZXlUeXBlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIHBhcnRpYWwgY2xhc3MgUHJpY2VQcmljZSA6IElDb21wYXJhYmxlPFByaWNlUHJpY2U+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHB1YmxpYyBpbnQgQ29tcGFyZVRvKFByaWNlUHJpY2Ugb3RoZXIpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIE1vbmV5VHlwZS5Db21wYXJlVG8ob3RoZXIuTW9uZXlUeXBlKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
@@ -653,8 +653,8 @@
         <entry encoding="base64">JzwsJz5zL0RhbWFnZS9IcA==</entry>
         <entry encoding="base64">JzwsJz5zL0RhbWFnZS9IcC9n</entry>
         <entry encoding="base64">JzwsJz5zL3VwZ3JhZGFibGVJdGVtL2l0ZW0vZw==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
