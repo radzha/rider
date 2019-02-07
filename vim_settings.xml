@@ -790,12 +790,11 @@
         <mark key="." line="19" column="47" />
         <mark key="^" line="19" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1549539653213">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="127" column="63" />
-        <mark key="]" line="127" column="66" />
-        <mark key="." line="127" column="66" />
-        <mark key="^" line="127" column="66" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1549541681010">
+        <mark key="[" line="115" column="27" />
+        <mark key="]" line="115" column="27" />
+        <mark key="." line="115" column="27" />
+        <mark key="^" line="115" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" timestamp="1549384782170">
         <mark key="'" line="44" column="81" />
@@ -819,14 +818,13 @@
         <mark key="." line="437" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1549540694253">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="283" column="0" />
-        <mark key="." line="283" column="0" />
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="282" column="0" />
+        <mark key="]" line="282" column="0" />
+        <mark key="." line="282" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="745" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="82" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="625" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="795" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -926,19 +924,20 @@
       <jump line="43" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="138" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="183" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="115" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZsb2F0IEdldE1heEhwKElJdGVtSW5mbyBpbmZvKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHNraWxsID0gaW5mby5JdGVtLlNraWxscy5GaW5kKHMgPT4gcy5Ta2lsbC5Db2RlLkVxdWFscyhCYXNlQ29tcG9uZW50SW5mby5IRUFMVEhfU0tJTExfTkFNRSkpOwogICAgICAgICAgICByZXR1cm4gc2tpbGwgPT0gbnVsbCA/IDBmIDogc2tpbGwuVmFsdWUgLyBpbmZvLkdldEhwTm9taW5hbE11bHQoKSAqIEdldEhwRnVsbE11bHQoKTsKICAgICAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZHBzRGVsdGFcPg==</text>
+        <text>Level</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IEdldEhlYWx0aCgpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gKGludCkgR2V0VmFsdWVTa2lsbChIRUFMVEhfU0tJTExfTkFNRSk7CiAgICAgICAgfQoK</text>
@@ -975,9 +974,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZHBzRGVsdGFcPg==</last-search>
+      <last-search>Level</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZHBzRGVsdGFcPg==</last-pattern>
+      <last-pattern>Level</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>upgradableItem</last-substitute>
       <last-dir>1</last-dir>
@@ -992,7 +991,6 @@
         <entry>Ally</entry>
         <entry>dama</entry>
         <entry>1f</entry>
-        <entry>Level</entry>
         <entry>maxle</entry>
         <entry>clog</entry>
         <entry>getdps</entry>
@@ -1005,6 +1003,7 @@
         <entry>gethe</entry>
         <entry>dpsde</entry>
         <entry encoding="base64">XDxfZHBzRGVsdGFcPg==</entry>
+        <entry>Level</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
