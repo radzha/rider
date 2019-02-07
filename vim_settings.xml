@@ -208,11 +208,12 @@
       <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/GamePlay/WeaponView.cs" timestamp="1549477915786">
         <mark key="'" line="687" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1549471205061">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1549535972714">
         <mark key="'" line="59" column="31" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="12" />
-        <mark key="." line="64" column="12" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="57" column="22" />
+        <mark key="^" line="57" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/MovementController.cs" timestamp="1548406576778">
         <mark key="'" line="310" column="56" />
@@ -402,7 +403,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1545999620628">
         <mark key="'" line="34" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549534687507">
+      <file name="/Dummy.txt" timestamp="1549534712689">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/RecommendationCalculator.cs" timestamp="1549454991067">
@@ -479,12 +480,12 @@
         <mark key="." line="19" column="47" />
         <mark key="^" line="19" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1549533259843">
-        <mark key="'" line="117" column="19" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="91" column="32" />
-        <mark key="." line="91" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1549536068875">
+        <mark key="'" line="153" column="21" />
+        <mark key="[" line="85" column="45" />
+        <mark key="]" line="85" column="53" />
+        <mark key="^" line="85" column="53" />
+        <mark key="." line="85" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" timestamp="1549384782170">
         <mark key="'" line="44" column="81" />
@@ -501,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
       <jump line="87" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
       <jump line="89" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeSkillInfo.cs" />
@@ -601,22 +601,23 @@
       <jump line="212" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="117" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
       <jump line="364" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" />
+      <jump line="147" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>Item.TypeAsCompanion().Bot.Health</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>(int) GetValueSkill(HEALTH_SKILL_NAME);</text>
       </register>
       <register name="/" type="4">
-        <text>getdps</text>
+        <text encoding="base64">XDxHZXREYW1hZ2VTdGFydE11bHRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;{0}/{1}&quot;.F(_selectedCompanion.Level + 1, _selectedCompanion.MaxLevel)</text>
+        <text>Item.TypeAsCompanion().Bot.Health</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbmZvID0gd2VhcG9uLkl0ZW1JbmZvIGFzIFdlYXBvbkluZm87Cg==</text>
@@ -646,21 +647,20 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>getdps</last-search>
+      <last-search encoding="base64">XDxHZXREYW1hZ2VTdGFydE11bHRcPg==</last-search>
       <last-offset />
-      <last-pattern>getdps</last-pattern>
+      <last-pattern encoding="base64">XDxHZXREYW1hZ2VTdGFydE11bHRcPg==</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>upgradableItem</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>upgraded</entry>
         <entry>getmaxs</entry>
         <entry>getdam</entry>
         <entry>getdama</entry>
@@ -680,6 +680,7 @@
         <entry>maxle</entry>
         <entry>clog</entry>
         <entry>getdps</entry>
+        <entry encoding="base64">XDxHZXREYW1hZ2VTdGFydE11bHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
@@ -700,8 +701,8 @@
         <entry encoding="base64">JzwsJz5zL0RhbWFnZS9IcA==</entry>
         <entry encoding="base64">JzwsJz5zL0RhbWFnZS9IcC9n</entry>
         <entry encoding="base64">JzwsJz5zL3VwZ3JhZGFibGVJdGVtL2l0ZW0vZw==</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
