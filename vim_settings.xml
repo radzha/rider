@@ -188,7 +188,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1548778018611">
         <mark key="'" line="61" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549625807633">
+      <file name="/Dummy.txt" timestamp="1549634490748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1549621391766">
@@ -285,12 +285,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/EconomicSettings.cs" timestamp="1547798335553">
         <mark key="'" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" timestamp="1549625448978">
-        <mark key="'" line="141" column="31" />
-        <mark key="[" line="162" column="40" />
-        <mark key="]" line="162" column="40" />
-        <mark key="^" line="162" column="40" />
-        <mark key="." line="162" column="40" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" timestamp="1549634355155">
+        <mark key="'" line="132" column="30" />
+        <mark key="[" line="165" column="38" />
+        <mark key="]" line="165" column="43" />
+        <mark key="^" line="165" column="43" />
+        <mark key="." line="165" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1548857327365">
         <mark key="'" line="569" column="24" />
@@ -453,11 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
-      <jump line="245" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
-      <jump line="251" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
-      <jump line="258" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
-      <jump line="264" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="269" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="274" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="280" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
@@ -553,58 +548,63 @@
       <jump line="90" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="83" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="88" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="168" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
+      <jump line="170" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
+      <jump line="162" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
+      <jump line="166" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
+      <jump line="132" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgR2V0RGFtYWdlUGVyU2hvdEluY3JlbWVudCh0aGlzIEl0ZW0gaXRlbSwgaW50IGJ1bGxldEluZGV4KQovLyAgICAgICAgewovLyAgICAgICAgICAgIHZhciBza2lsbCA9IGl0ZW0uR2V0RmlnaHRTa2lsbChXZWFwb25JbmZvLldFQVBPTl9EQU1BR0VfUEVSX1NIT1RfSU5DUkVNRU5UKTsKLy8gICAgICAgICAgICByZXR1cm4gc2tpbGwgIT0gbnVsbCA/IHNraWxsLlZhbHVlIDogMGY7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBwdWJsaWMgc3RhdGljIGludCBDbGFtcEJ1bGxldEluZGV4KHRoaXMgSXRlbSBpdGVtLCBpbnQgYnVsbGV0SW5kZXgpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgdmFyIHNraWxsID0gaXRlbS5HZXRJdGVtU2tpbGwoV2VhcG9uSW5mby5XRUFQT05fREFNQUdFX1BFUl9TSE9UX0lOQ1JFTUVOVCk7Ci8vICAgICAgICAgICAgcmV0dXJuIHNraWxsICE9IG51bGwgPyBNYXRoZi5DbGFtcChidWxsZXRJbmRleCwgMCwgYnVsbGV0SW5kZXgpIDogMDsKLy8gICAgICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDogMGY7</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>haspa</text>
+        <text>part</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2tpbGwhPW51bGwpIE1hdGhmLkxlcnAoc2tpbGwuVmFsdWUsIHNraWxsLlZhbHVlTWF4LCBidWxsZXRJbmRleCAvIChmbG9hdCkgc2tpbGwuTGV2ZWxNYXgpLkFkZFBhcmFtKHNraWxsLlZhbHVlKS5BZGRQYXJhbShza2lsbC5WYWx1ZU1heCkuQWRkUGFyYW0oYnVsbGV0SW5kZXgpLkFkZFBhcmFtKHNraWxsLkxldmVsTWF4KS5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIENvdW50IG9mIHBpZWNlcyB0byBjb2xsZWN0IChub3QgZXZvbHZlKSB0aGUgaXRlbS4KICAgICAgICAvLy8gPC9zdW1tYXJ5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgR2V0RGFtYWdlUGVyU2hvdEluY3JlbWVudCh0aGlzIEl0ZW0gaXRlbSwgaW50IGJ1bGxldEluZGV4KQovLyAgICAgICAgewovLyAgICAgICAgICAgIHZhciBza2lsbCA9IGl0ZW0uR2V0RmlnaHRTa2lsbChXZWFwb25JbmZvLldFQVBPTl9EQU1BR0VfUEVSX1NIT1RfSU5DUkVNRU5UKTsKLy8gICAgICAgICAgICByZXR1cm4gc2tpbGwgIT0gbnVsbCA/IHNraWxsLlZhbHVlIDogMGY7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBwdWJsaWMgc3RhdGljIGludCBDbGFtcEJ1bGxldEluZGV4KHRoaXMgSXRlbSBpdGVtLCBpbnQgYnVsbGV0SW5kZXgpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgdmFyIHNraWxsID0gaXRlbS5HZXRJdGVtU2tpbGwoV2VhcG9uSW5mby5XRUFQT05fREFNQUdFX1BFUl9TSE9UX0lOQ1JFTUVOVCk7Ci8vICAgICAgICAgICAgcmV0dXJuIHNraWxsICE9IG51bGwgPyBNYXRoZi5DbGFtcChidWxsZXRJbmRleCwgMCwgYnVsbGV0SW5kZXgpIDogMDsKLy8gICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHJldHVybnM+PC9yZXR1cm5zPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgR2V0RGFtYWdlUGVyU2hvdEluY3JlbWVudCh0aGlzIEl0ZW0gaXRlbSwgaW50IGJ1bGxldEluZGV4KQovLyAgICAgICAgewovLyAgICAgICAgICAgIHZhciBza2lsbCA9IGl0ZW0uR2V0RmlnaHRTa2lsbChXZWFwb25JbmZvLldFQVBPTl9EQU1BR0VfUEVSX1NIT1RfSU5DUkVNRU5UKTsKLy8gICAgICAgICAgICByZXR1cm4gc2tpbGwgIT0gbnVsbCA/IHNraWxsLlZhbHVlIDogMGY7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBwdWJsaWMgc3RhdGljIGludCBDbGFtcEJ1bGxldEluZGV4KHRoaXMgSXRlbSBpdGVtLCBpbnQgYnVsbGV0SW5kZXgpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgdmFyIHNraWxsID0gaXRlbS5HZXRJdGVtU2tpbGwoV2VhcG9uSW5mby5XRUFQT05fREFNQUdFX1BFUl9TSE9UX0lOQ1JFTUVOVCk7Ci8vICAgICAgICAgICAgcmV0dXJuIHNraWxsICE9IG51bGwgPyBNYXRoZi5DbGFtcChidWxsZXRJbmRleCwgMCwgYnVsbGV0SW5kZXgpIDogMDsKLy8gICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImdyYWRlIj48L3BhcmFtPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc2tpbGwhPW51bGwpIE1hdGhmLkxlcnAoc2tpbGwuVmFsdWUsIHNraWxsLlZhbHVlTWF4LCBidWxsZXRJbmRleCAvIChmbG9hdCkgc2tpbGwuTGV2ZWxNYXgpLkFkZFBhcmFtKHNraWxsLlZhbHVlKS5BZGRQYXJhbShza2lsbC5WYWx1ZU1heCkuQWRkUGFyYW0oYnVsbGV0SW5kZXgpLkFkZFBhcmFtKHNraWxsLkxldmVsTWF4KS5DTG9nQmx1ZShra2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9ImluZm8iPjwvcGFyYW0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNraWxsID0gaXRlbS5HZXRTa2lsbChXRUFQT05fREFNQUdFX1BFUl9TSE9UX0lOQ1JFTUVOVCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgR2V0RGFtYWdlUGVyU2hvdEluY3JlbWVudCh0aGlzIEl0ZW0gaXRlbSwgaW50IGJ1bGxldEluZGV4KQovLyAgICAgICAgewovLyAgICAgICAgICAgIHZhciBza2lsbCA9IGl0ZW0uR2V0RmlnaHRTa2lsbChXZWFwb25JbmZvLldFQVBPTl9EQU1BR0VfUEVSX1NIT1RfSU5DUkVNRU5UKTsKLy8gICAgICAgICAgICByZXR1cm4gc2tpbGwgIT0gbnVsbCA/IHNraWxsLlZhbHVlIDogMGY7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBwdWJsaWMgc3RhdGljIGludCBDbGFtcEJ1bGxldEluZGV4KHRoaXMgSXRlbSBpdGVtLCBpbnQgYnVsbGV0SW5kZXgpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgdmFyIHNraWxsID0gaXRlbS5HZXRJdGVtU2tpbGwoV2VhcG9uSW5mby5XRUFQT05fREFNQUdFX1BFUl9TSE9UX0lOQ1JFTUVOVCk7Ci8vICAgICAgICAgICAgcmV0dXJuIHNraWxsICE9IG51bGwgPyBNYXRoZi5DbGFtcChidWxsZXRJbmRleCwgMCwgYnVsbGV0SW5kZXgpIDogMDsKLy8gICAgICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgRkZtcGVnLkF1dG9HZW47Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHB1YmxpYyBzdGF0aWMgZmxvYXQgR2V0RGFtYWdlUGVyU2hvdEluY3JlbWVudCh0aGlzIEl0ZW0gaXRlbSwgaW50IGJ1bGxldEluZGV4KQovLyAgICAgICAgewovLyAgICAgICAgICAgIHZhciBza2lsbCA9IGl0ZW0uR2V0RmlnaHRTa2lsbChXZWFwb25JbmZvLldFQVBPTl9EQU1BR0VfUEVSX1NIT1RfSU5DUkVNRU5UKTsKLy8gICAgICAgICAgICByZXR1cm4gc2tpbGwgIT0gbnVsbCA/IHNraWxsLlZhbHVlIDogMGY7Ci8vICAgICAgICB9Ci8vCi8vICAgICAgICBwdWJsaWMgc3RhdGljIGludCBDbGFtcEJ1bGxldEluZGV4KHRoaXMgSXRlbSBpdGVtLCBpbnQgYnVsbGV0SW5kZXgpCi8vICAgICAgICB7Ci8vICAgICAgICAgICAgdmFyIHNraWxsID0gaXRlbS5HZXRJdGVtU2tpbGwoV2VhcG9uSW5mby5XRUFQT05fREFNQUdFX1BFUl9TSE9UX0lOQ1JFTUVOVCk7Ci8vICAgICAgICAgICAgcmV0dXJuIHNraWxsICE9IG51bGwgPyBNYXRoZi5DbGFtcChidWxsZXRJbmRleCwgMCwgYnVsbGV0SW5kZXgpIDogMDsKLy8gICAgICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0ZS5DTG9nUmVkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoc2tpbGwhPW51bGwpIE1hdGhmLkxlcnAoc2tpbGwuVmFsdWUsIHNraWxsLlZhbHVlTWF4LCBidWxsZXRJbmRleCAvIChmbG9hdCkgc2tpbGwuTGV2ZWxNYXgpLkFkZFBhcmFtKHNraWxsLlZhbHVlKS5BZGRQYXJhbShza2lsbC5WYWx1ZU1heCkuQWRkUGFyYW0oYnVsbGV0SW5kZXgpLkFkZFBhcmFtKHNraWxsLkxldmVsTWF4KS5DTG9nQmx1ZShra2spOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3dlYXBvbkluZm8uSXRlbS5UaXRsZS5DTG9nQmx1ZShpdGVtU3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNraWxsID0gaXRlbS5HZXRTa2lsbChXRUFQT05fREFNQUdFX1BFUl9TSE9UX0lOQ1JFTUVOVCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3dlYXBvbkluZm8uSXRlbS5UaXRsZS5DTG9nKHN0YXRlKTsK</text>
+        <text encoding="base64">dXNpbmcgRkZtcGVnLkF1dG9HZW47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlNldEludGVnZXIoSXRlbVN0YXRlQW5pbVBhcmFtLCAoaW50KSBpdGVtU3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdGF0ZS5DTG9nUmVkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>haspa</last-search>
+      <last-search>part</last-search>
       <last-offset />
-      <last-pattern>haspa</last-pattern>
+      <last-pattern>part</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>upgradableItem</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getitemskill</entry>
         <entry encoding="base64">XDxHZXRTa2lsbExldmVsXD4=</entry>
         <entry>interpol</entry>
         <entry>WE</entry>
@@ -632,6 +631,7 @@
         <entry encoding="base64">XDxSZWNpcGVcPg==</entry>
         <entry>evolute</entry>
         <entry>haspa</entry>
+        <entry>part</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
