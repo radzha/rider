@@ -520,21 +520,18 @@
         <mark key="^" line="76" column="53" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1549617673313">
-        <mark key="'" line="24" column="48" />
-        <mark key="[" line="252" column="48" />
-        <mark key="]" line="253" column="87" />
-        <mark key="." line="253" column="87" />
-        <mark key="^" line="253" column="87" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1549618786565">
+        <mark key="'" line="259" column="0" />
+        <mark key="[" line="279" column="43" />
+        <mark key="]" line="279" column="43" />
+        <mark key="." line="279" column="53" />
+        <mark key="^" line="277" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
-      <jump line="154" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="46" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
       <jump line="238" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="248" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
-      <jump line="259" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="261" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="263" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="268" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
@@ -629,66 +626,68 @@
       <jump line="239" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="250" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
       <jump line="24" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="260" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="266" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="259" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>grade</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>grade</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBwYXJ0aWFsIGNsYXNzIFdlYXBvbnNDbGFzcyA6IENvbnRlbnRFbnRpdHkK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGludCBHZXRFdm9sdXRpb25TY2llbnRpZmljTGV2ZWwodGhpcyBJSXRlbUluZm8gaW5mbywgV2VhcG9uc0NsYXNzIGdyYWRlKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKGluZm8uSXRlbS5Jc1dlYXBvbigpKSByZXR1cm4gZ3JhZGUuVHlwZS5XZWFwb24uRXZvbHV0aW9uU2NpZW50aWZpY0xldmVsOwogICAgICAgICAgICBpZiAoaW5mby5JdGVtLklzQXJtb3IoKSkgcmV0dXJuIGdyYWRlLlR5cGUuQXJtb3IuRXZvbHV0aW9uU2NpZW50aWZpY0xldmVsOwogICAgICAgICAgICBpZiAoaW5mby5JdGVtLklzQ29tcGFuaW9uKCkpIHJldHVybiBncmFkZS5UeXBlLkNvbXBhbmlvbi5Fdm9sdXRpb25TY2llbnRpZmljTGV2ZWw7CgogICAgICAgICAgICByZXR1cm4gR2xvYmFsQ29uc3RhbnRzLlVOS05PV05fSUQ7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZm8uSXRlbS5Jc0FybW9yKCkpIHJldHVybiBncmFkZS5UeXBlLkFybW9yLkV2b2x1dGlvblNjaWVudGlmaWNMZXZlbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBXZWFwb25DbGFzc1BhcnQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBjbGFzcyBXZWFwb25DbGFzc1BhcnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIMKnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>{</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>upgradableItem</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcGRhdGVWaWV3XD4=</entry>
         <entry>skill</entry>
         <entry encoding="base64">IHNraWxs</entry>
         <entry encoding="base64">XDxfYWJpbGl0eVJvd1w+</entry>
@@ -708,6 +707,7 @@
         <entry>clamp</entry>
         <entry>anim</entry>
         <entry>state</entry>
+        <entry>{</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
