@@ -520,12 +520,12 @@
         <mark key="^" line="296" column="29" />
         <mark key="." line="298" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1549882466175">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1549885387801">
         <mark key="'" line="297" column="96" />
-        <mark key="[" line="252" column="9" />
-        <mark key="]" line="253" column="32" />
-        <mark key="." line="253" column="32" />
-        <mark key="^" line="253" column="32" />
+        <mark key="[" line="320" column="48" />
+        <mark key="]" line="320" column="69" />
+        <mark key="." line="320" column="69" />
+        <mark key="^" line="320" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" timestamp="1548170793785">
         <mark key="'" line="33" column="0" />
@@ -848,12 +848,12 @@
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" timestamp="1549884280857">
-        <mark key="'" line="1573" column="34" />
-        <mark key="[" line="1072" column="126" />
-        <mark key="]" line="1073" column="32" />
-        <mark key="^" line="1073" column="32" />
-        <mark key="." line="1073" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" timestamp="1549885405290">
+        <mark key="'" line="1581" column="34" />
+        <mark key="[" line="1140" column="23" />
+        <mark key="]" line="1140" column="23" />
+        <mark key="^" line="1140" column="15" />
+        <mark key="." line="1140" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -960,19 +960,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.ToString();</text>
+        <text>g</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>.ToString();</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc3Rvcmllc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>((BotAi) this).Description.Id.ToString() : &quot;&quot;)</text>
+        <text>_currentStory.StoryItems.ElementAtOrDefault(progress)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
