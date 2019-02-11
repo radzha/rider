@@ -67,6 +67,10 @@
         <mark key="." line="86" column="37" />
         <mark key="^" line="86" column="37" />
       </file>
+      <file name="/GameOverController.cs" timestamp="1549892122986">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ItemRecipes.cs" timestamp="1549032090995" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponData.cs" timestamp="1549380102230">
         <mark key="'" line="52" column="12" />
@@ -345,7 +349,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1548778018611">
         <mark key="'" line="61" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549880548130">
+      <file name="/Dummy.txt" timestamp="1549892821794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1549621391766">
@@ -375,12 +379,12 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1549882275336">
-        <mark key="'" line="2227" column="59" />
-        <mark key="[" line="2227" column="70" />
-        <mark key="]" line="2227" column="76" />
-        <mark key="." line="2227" column="76" />
-        <mark key="^" line="2227" column="76" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1549892697741">
+        <mark key="'" line="2211" column="59" />
+        <mark key="[" line="2228" column="0" />
+        <mark key="]" line="2228" column="49" />
+        <mark key="^" line="2228" column="48" />
+        <mark key="." line="2228" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ItemSkillUpgradeCommand.cs" timestamp="1549545776402">
         <mark key="[" line="21" column="0" />
@@ -544,12 +548,12 @@
         <mark key="^" line="296" column="29" />
         <mark key="." line="298" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1549890820275">
-        <mark key="'" line="331" column="32" />
-        <mark key="[" line="322" column="134" />
-        <mark key="]" line="322" column="140" />
-        <mark key="." line="322" column="140" />
-        <mark key="^" line="322" column="140" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1549892699424">
+        <mark key="'" line="250" column="0" />
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="49" />
+        <mark key="^" line="296" column="23" />
+        <mark key="." line="296" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" timestamp="1548170793785">
         <mark key="'" line="33" column="0" />
@@ -716,11 +720,11 @@
         <mark key="." line="40" column="66" />
         <mark key="^" line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1549878085084">
-        <mark key="'" line="1557" column="16" />
-        <mark key="[" line="879" column="9" />
-        <mark key="]" line="1559" column="0" />
-        <mark key="." line="1559" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1549892085758">
+        <mark key="'" line="1556" column="16" />
+        <mark key="[" line="880" column="0" />
+        <mark key="]" line="880" column="0" />
+        <mark key="." line="880" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ReceivedByPremiumItemDecorator.cs" timestamp="1547127995200">
         <mark key="'" line="20" column="26" />
@@ -894,15 +898,10 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" timestamp="1549885672186">
         <mark key="'" line="465" column="103" />
-        <mark key="[" line="1140" column="23" />
-        <mark key="]" line="1139" column="41" />
-        <mark key="^" line="1139" column="41" />
-        <mark key="." line="1139" column="41" />
+        <mark key="[" line="1071" column="23" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="92" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1817" column="32" filename="/Player.cs" />
       <jump line="0" column="0" filename="/Player.cs" />
       <jump line="1795" column="0" filename="/Player.cs" />
       <jump line="277" column="92" filename="/Player.cs" />
@@ -1001,49 +1000,51 @@
       <jump line="35" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/IncomingDialogManager.cs" />
       <jump line="50" column="109" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/IncomingDialogManager.cs" />
       <jump line="53" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/IncomingDialogManager.cs" />
+      <jump line="406" column="1" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" />
+      <jump line="251" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFN0b3J5Q29udHJvbGxlci5FVkVOVF9TVE9SWV9TVEFSVCwgc3RvcnlJZGVudGlmaWVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>storyIdentifier</text>
+        <text encoding="base64">KHRoaXMgaXMgQm90QWkpICYmICgoQm90QWkpIHRoaXMpLkRlc2NyaXB0aW9uLklkID09IDIzMTI7</text>
       </register>
       <register name="/" type="4">
         <text>dialog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5EaWFsb2csIFV0aWxzLldyYXBUb0NvbnRleHQoX2luY29taW5nRGlhbG9nLkRpYWxvZywgb25EaWFsb2dGaW5pc2hlZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOyAvLyBXaWxsIGJlIGFkZGVkIGxhdGVyLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFN0b3J5Q29udHJvbGxlci5FVkVOVF9TVE9SWV9TVEFSVCwgc3RvcnlJZGVudGlmaWVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJlZm9yZSIuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZS50aW1lU2NhbGUuTG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZGlhbG9nIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFmdGVyIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZS50aW1lU2NhbGUuTG9nKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFmdGVyMiIuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltZS50aW1lU2NhbGUuTG9nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWUudGltZVNjYWxlID0gMGY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXJJbmZvLkdldFVzZXJJbmZvKCkuVHV0b3JpYWxzW3N0b3J5SWRlbnRpZmllcl0gPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzdG9yeUlkZW50aWZpZXIgPSAibWlzc2lvbl8wMDZfOF9tb3Jvc2UwMl9kaWFsb2ciOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0b3J5Q29udHJvbGxlci50ZW1wQm9vbCA9IHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoX2dhbWVNb2RlID09IEdhbWVNb2RlLlBWRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImlzIGJvc3MiLkNMb2dCbHVlKGlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
