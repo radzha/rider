@@ -848,17 +848,15 @@
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" timestamp="1549882630021">
-        <mark key="'" line="441" column="89" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" timestamp="1549884280857">
+        <mark key="'" line="1573" column="34" />
+        <mark key="[" line="1072" column="126" />
+        <mark key="]" line="1073" column="32" />
+        <mark key="^" line="1073" column="32" />
+        <mark key="." line="1073" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
-      <jump line="272" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
-      <jump line="275" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
-      <jump line="281" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
-      <jump line="73" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
-      <jump line="45" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeItemAnimatorSateController.cs" />
       <jump line="70" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeItemAnimatorSateController.cs" />
       <jump line="70" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
       <jump line="105" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponIcon.cs" />
@@ -953,6 +951,12 @@
       <jump line="296" column="96" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" />
       <jump line="30" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="441" column="89" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
+      <jump line="494" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
+      <jump line="612" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
+      <jump line="1072" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
+      <jump line="381" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
+      <jump line="1599" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
+      <jump line="1572" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -965,7 +969,7 @@
         <text>.ToString();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVkVOVF9TVE9SWV9TVEFSVFw+</text>
+        <text encoding="base64">XDxfc3Rvcmllc1w+</text>
       </register>
       <register name="0" type="4">
         <text>((BotAi) this).Description.Id.ToString() : &quot;&quot;)</text>
@@ -1002,17 +1006,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVkVOVF9TVE9SWV9TVEFSVFw+</last-search>
+      <last-search encoding="base64">XDxfc3Rvcmllc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVkVOVF9TVE9SWV9TVEFSVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfc3Rvcmllc1w+</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>Id</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>haspa</entry>
         <entry>part</entry>
         <entry encoding="base64">XDxBZGREb3REYW1hZ2VcPg==</entry>
         <entry>itimpl</entry>
@@ -1032,6 +1035,7 @@
         <entry encoding="base64">XDxfem9vbVRpbWVcPg==</entry>
         <entry encoding="base64">XDxFVkVOVF9TQ1JFRU5fT1BFTkVEXD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9TVE9SWV9TVEFSVFw+</entry>
+        <entry encoding="base64">XDxfc3Rvcmllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
