@@ -204,8 +204,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.Unity.cs" timestamp="1549968706445">
         <mark key="'" line="1182" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeItemAnimatorSateController.cs" timestamp="1549975174798">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeItemAnimatorSateController.cs" timestamp="1549979136018">
+        <mark key="'" line="94" column="38" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="32" column="0" />
       </file>
       <file name="/Player.cs" timestamp="1549967727571">
         <mark key="'" line="797" column="24" />
@@ -273,12 +275,12 @@
       <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Game/PlayerInfo.cs" timestamp="1549475071897">
         <mark key="'" line="71" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1549973289528">
-        <mark key="'" line="159" column="51" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="106" />
-        <mark key="." line="169" column="51" />
-        <mark key="^" line="169" column="51" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1549979170685">
+        <mark key="'" line="42" column="74" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="25" />
+        <mark key="." line="24" column="25" />
+        <mark key="^" line="24" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BF8183A4-5D58-47D8-85EE-DFFD83533A7B/67/609f7da0/Attribute.cs" timestamp="1547647986424">
         <mark key="'" line="16" column="43" />
@@ -464,8 +466,8 @@
         <mark key="." line="319" column="0" />
         <mark key="^" line="319" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" timestamp="1549978336841">
-        <mark key="'" line="77" column="61" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" timestamp="1549979069281">
+        <mark key="'" line="35" column="23" />
         <mark key="[" line="69" column="25" />
         <mark key="]" line="69" column="45" />
         <mark key="^" line="69" column="45" />
@@ -473,14 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="467" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="1220" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="35" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/IncomingDialogManager.cs" />
-      <jump line="50" column="109" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/IncomingDialogManager.cs" />
-      <jump line="53" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/IncomingDialogManager.cs" />
-      <jump line="406" column="1" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" />
-      <jump line="29" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeItemAnimatorSateController.cs" />
-      <jump line="112" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUtils.cs" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUtils.cs" />
       <jump line="120" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUtils.cs" />
       <jump line="50" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeIndicator.cs" />
@@ -503,7 +497,6 @@
       <jump line="151" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="154" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="156" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
-      <jump line="118" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
       <jump line="110" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorWorkshopIndicator.cs" />
       <jump line="39" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeHolographicController.cs" />
       <jump line="28" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/HologramWeaponController.cs" />
@@ -573,22 +566,31 @@
       <jump line="744" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
       <jump line="75" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" />
       <jump line="77" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" />
+      <jump line="22" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="34" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="44" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="117" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="17" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="118" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="42" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="35" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponSelectItem.cs" />
+      <jump line="94" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeItemAnimatorSateController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Item.FindRecipe();</text>
+        <text>ItemState</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Item.FindRecipe();</text>
+        <text>ItemState</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEcHNNdWx0aXBsaWVyXD4=</text>
+        <text encoding="base64">XDxVcGdyYWRlU3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBncmFkZSA9IHRyYWNrZWRXZWFwb24uR2V0TmV4dENsYXNzKCkgPz8gdHJhY2tlZFdlYXBvbi5JdGVtLkNsYXNzKCk7CiAgICAgICAgICAgICAgICBfcHV6emxlVmFsdWUudGV4dCA9IHRyYWNrZWRXZWFwb24uSXRlbS5GaW5kUmVjaXBlKCkuR2V0Q3VycmVudFJlcXVpcmVkSXRlbXNDb3VudCgpLlRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICBfcHV6emxlTWF4LnRleHQgPSB0cmFja2VkV2VhcG9uLkdldEV2b2x1dGlvblBpZWNlc0NvdW50KGdyYWRlKS5Ub1N0cmluZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGVudW0gSXRlbVN0YXRlCiAgICAgICAgewogICAgICAgICAgICBDb2xsZWN0ZWQgPSAwLAogICAgICAgICAgICBVcGdyYWRlZE1heGltYWxseSA9IDEsCiAgICAgICAgICAgIE5vdENvbGxlY3RlZEJ1dEhhdmVQaWVjZXMgPSAyLAogICAgICAgICAgICBNYXhMZXZlbEhhdmVFdm9Ob3RFbm91Z2hQaWVjZXMgPSAzLAogICAgICAgICAgICBDYW5Fdm9sdmUgPSA0LAogICAgICAgICAgICBIYXZlRXZvQnV0Q2Fubm90RXZvbHZlWWV0ID0gNSwKICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
@@ -622,9 +624,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEcHNNdWx0aXBsaWVyXD4=</last-search>
+      <last-search encoding="base64">XDxVcGdyYWRlU3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEcHNNdWx0aXBsaWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxVcGdyYWRlU3RhdGVcPg==</last-pattern>
       <last-replace>item</last-replace>
       <last-substitute>Id</last-substitute>
       <last-dir>1</last-dir>
@@ -632,8 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>State</entry>
-        <entry>haveRes</entry>
         <entry encoding="base64">XDxfd2VhcG9uQ2FuRXZvbHZlTWF0ZXJpYWxcPg==</entry>
         <entry encoding="base64">XDxfdXNlQWx0ZXJuYXRpdmVNYXRlcmlhbFw+</entry>
         <entry encoding="base64">XDxDYW5Vc2VBbHRlcm5hdGl2ZU1hdGVyaWFsXD4=</entry>
@@ -652,6 +652,8 @@
         <entry>evo</entry>
         <entry>max</entry>
         <entry encoding="base64">XDxEcHNNdWx0aXBsaWVyXD4=</entry>
+        <entry>anim</entry>
+        <entry encoding="base64">XDxVcGdyYWRlU3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%g/Log/d</entry>
