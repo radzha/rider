@@ -74,12 +74,12 @@
         <mark key="[" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/ContrabandInformation.cs" timestamp="1550136172889" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" timestamp="1550139678450">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="105" column="82" />
-        <mark key="]" line="105" column="82" />
-        <mark key="." line="105" column="82" />
-        <mark key="^" line="105" column="82" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" timestamp="1550142241742">
+        <mark key="'" line="44" column="25" />
+        <mark key="[" line="45" column="38" />
+        <mark key="]" line="45" column="45" />
+        <mark key="." line="45" column="45" />
+        <mark key="^" line="45" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" timestamp="1550125635183">
         <mark key="'" line="110" column="53" />
@@ -125,6 +125,11 @@
         <mark key="]" line="42" column="35" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ItemQualityPanel.cs" timestamp="1550142611639">
+        <mark key="[" line="28" column="76" />
+        <mark key="]" line="28" column="76" />
+        <mark key="." line="28" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1550089445100">
         <mark key="'" line="17" column="48" />
         <mark key="[" line="238" column="22" />
@@ -135,8 +140,6 @@
       <file name="/DuelResultScreen.cs" timestamp="1550133628167" />
     </filemarks>
     <jumps>
-      <jump line="8" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PopupEvolveItem.cs" />
-      <jump line="150" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
       <jump line="205" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
       <jump line="26" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PopupEvolveItem.cs" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
@@ -235,22 +238,24 @@
       <jump line="79" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
       <jump line="87" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
       <jump line="190" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
+      <jump line="43" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
+      <jump line="44" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HasBonus</text>
+        <text encoding="base64">ICsgMQ==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>HasBonus</text>
+        <text encoding="base64">ICsgMQ==</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text encoding="base64">XDxtYXhWYWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHx8IHdlYXBvblN0YXRlID09IFdlYXBvblVwZ3JhZGVJbmRpY2F0b3IuSW5kaWNhdG9yU3RhdGUuSGFzQm9udXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1pblZhbHVlID0gaXRlbUluZm8uR2V0TWluU2tpbGxWYWx1ZU9uR3JhZGUoc2tpbGwsIGdyYWRlKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHNraWxsLlNraWxsLkNvZGUuRXF1YWxzKEJhc2VDb21wb25lbnRJbmZvLkhFQUxUSF9TS0lMTF9OQU1FKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIG5vbWluYWxNdWx0ID0gKChBcm1vckluZm8pIGl0ZW1JbmZvKS5HZXRIcE5vbWluYWxNdWx0KCk7CiAgICAgICAgICAgICAgICB2YXIgZnVsbE11bHQgPSBncmFkZS5UeXBlLkFybW9yLkhwTXVsdEZ1bGw7CiAgICAgICAgICAgICAgICByZXR1cm4gc2tpbGwuVmFsdWUgLyBub21pbmFsTXVsdCAqIGZ1bGxNdWx0OwogICAgICAgICAgICB9Cg==</text>
@@ -284,9 +289,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search encoding="base64">XDxtYXhWYWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern encoding="base64">XDxtYXhWYWx1ZVw+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute>next</last-substitute>
       <last-dir>1</last-dir>
@@ -294,7 +299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>image</entry>
         <entry>next</entry>
         <entry>setc</entry>
         <entry encoding="base64">XDxTZXRDdXJyZW50Q2xhc3NcPg==</entry>
@@ -314,6 +318,7 @@
         <entry>\|\|</entry>
         <entry>||</entry>
         <entry>start</entry>
+        <entry encoding="base64">XDxtYXhWYWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
