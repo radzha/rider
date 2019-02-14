@@ -299,7 +299,7 @@
         <mark key="." line="50" column="58" />
         <mark key="^" line="50" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550131271526">
+      <file name="/Dummy.txt" timestamp="1550134211496">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1550067490725">
@@ -342,12 +342,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1550131794689">
-        <mark key="'" line="2925" column="73" />
-        <mark key="[" line="2893" column="0" />
-        <mark key="]" line="2893" column="0" />
-        <mark key="^" line="2925" column="109" />
-        <mark key="." line="2893" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1550134259287">
+        <mark key="'" line="2929" column="39" />
+        <mark key="[" line="2916" column="24" />
+        <mark key="]" line="2916" column="24" />
+        <mark key="^" line="2916" column="24" />
+        <mark key="." line="2916" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeIndicator.cs" timestamp="1550075465485">
         <mark key="'" line="79" column="54" />
@@ -428,6 +428,7 @@
         <mark key="." line="238" column="27" />
         <mark key="^" line="238" column="27" />
       </file>
+      <file name="/DuelResultScreen.cs" timestamp="1550133628167" />
       <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" timestamp="1549476440826">
         <mark key="'" line="129" column="17" />
         <mark key="[" line="223" column="0" />
@@ -437,7 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="341" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="343" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
       <jump line="35" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" />
@@ -537,19 +537,20 @@
       <jump line="2893" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2925" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="40" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FreezeController.cs" />
+      <jump line="2929" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>stasis</text>
+        <text>ignores</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKElnbm9yZVN0YXNpcygpKSByZXR1cm47CiAgICAgICAgICAgIAo=</text>
@@ -586,9 +587,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stasis</last-search>
+      <last-search>ignores</last-search>
       <last-offset />
-      <last-pattern>stasis</last-pattern>
+      <last-pattern>ignores</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute>next</last-substitute>
       <last-dir>1</last-dir>
@@ -596,8 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>{</entry>
-        <entry>onev</entry>
         <entry>Evo</entry>
         <entry encoding="base64">XDxDdXJyZW50Q2xhc3NcPg==</entry>
         <entry encoding="base64">XDxJdGVtXD4=</entry>
@@ -616,6 +615,8 @@
         <entry>asdf</entry>
         <entry>stora</entry>
         <entry>stasis</entry>
+        <entry>\</entry>
+        <entry>ignores</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
