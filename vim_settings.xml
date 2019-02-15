@@ -19,12 +19,12 @@
         <mark key="^" line="1874" column="83" />
         <mark key="." line="1874" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorWorkshopIndicator.cs" timestamp="1550140024739">
-        <mark key="'" line="110" column="26" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="113" column="97" />
-        <mark key="." line="56" column="83" />
-        <mark key="^" line="56" column="83" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorWorkshopIndicator.cs" timestamp="1550231764843">
+        <mark key="'" line="112" column="26" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="30" />
+        <mark key="^" line="49" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Storage.cs" timestamp="1550151355930">
         <mark key="'" line="50" column="46" />
@@ -101,6 +101,13 @@
         <mark key="]" line="21" column="54" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeIndicator.cs" timestamp="1550231796442">
+        <mark key="'" line="80" column="54" />
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="25" />
+        <mark key="^" line="39" column="25" />
+        <mark key="." line="39" column="25" />
+      </file>
       <file name="/Player.cs" timestamp="1550222391268">
         <mark key="'" line="83" column="31" />
       </file>
@@ -161,6 +168,13 @@
         <mark key="]" line="173" column="53" />
         <mark key="." line="173" column="53" />
         <mark key="^" line="173" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Notifications/NotificationOutlineController.cs" timestamp="1550231778636">
+        <mark key="'" line="46" column="35" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="35" />
+        <mark key="^" line="75" column="25" />
+        <mark key="." line="75" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PopupEvolveItem.cs" timestamp="1550125892254">
         <mark key="'" line="42" column="8" />
@@ -308,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Mission.cs" />
       <jump line="96" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Mission.cs" />
       <jump line="142" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Mission.cs" />
       <jump line="438" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
@@ -408,22 +421,23 @@
       <jump line="2593" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2897" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="26" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
+      <jump line="46" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Notifications/NotificationOutlineController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_evoState == State.HaveEvoButNotEnoughSciLevel</text>
+        <text>updateoutline</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>updateoutline</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcHV6emxlTWF4XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>_evoState == State.HaveEvoButNotEnoughSciLevel</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZW91dGxpbmUiLkNMb2coKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIkdldE1heEhwIi5BZGRQYXJhbShJdGVtLlRpdGxlKS5BZGRQYXJhbShHZXRDdXJyZW50Q2xhc3MoKS5MZXR0ZXIpLkNMb2cocmVzKTsK</text>
