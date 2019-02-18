@@ -127,6 +127,12 @@
         <mark key="." line="2711" column="25" />
         <mark key="^" line="2711" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1550480463525">
+        <mark key="[" line="318" column="45" />
+        <mark key="]" line="322" column="39" />
+        <mark key="^" line="322" column="39" />
+        <mark key="." line="322" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/Damage.cs" timestamp="1550224504312">
         <mark key="'" line="10" column="25" />
       </file>
@@ -187,8 +193,8 @@
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1550246977849">
-        <mark key="'" line="92" column="42" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1550479908298">
+        <mark key="'" line="330" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponUpgradeHandler.cs" timestamp="1550140349513">
         <mark key="[" line="14" column="87" />
@@ -342,6 +348,9 @@
         <mark key="." line="220" column="46" />
         <mark key="^" line="220" column="46" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/ScreenSettings/ScreenSettings_CoreGameplay.asset" timestamp="1550479395308">
+        <mark key="'" line="41" column="57" />
+      </file>
       <file name="/ContrabandInformation.cs" timestamp="1550136049993" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/StartFightCommand.cs" timestamp="1550242879280">
         <mark key="[" line="55" column="61" />
@@ -356,6 +365,9 @@
         <mark key="[" line="175" column="63" />
         <mark key="]" line="175" column="63" />
         <mark key="." line="175" column="77" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1550479996027">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1550246929546">
         <mark key="'" line="25" column="28" />
@@ -418,8 +430,6 @@
       <file name="/GlobeUIController.cs" timestamp="1550249401287" />
     </filemarks>
     <jumps>
-      <jump line="1719" column="12" filename="/Player.cs" />
-      <jump line="1754" column="20" filename="/Player.cs" />
       <jump line="83" column="31" filename="/Player.cs" />
       <jump line="642" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="684" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -518,6 +528,8 @@
       <jump line="208" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
       <jump line="38" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityView.cs" />
+      <jump line="330" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="41" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/ScreenSettings/ScreenSettings_CoreGameplay.asset" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -530,7 +542,7 @@
         <text>itemInfo.</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>back</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvLy8gPHN1bW1hcnk+CiAgICAgICAgLy8vIEdldCBuZXh0IGNsYXNzIHdpdGggb25lIHNraXAgKEQgLT4gQywgRCsgLT4gQyspCiAgICAgICAgLy8vIDwvc3VtbWFyeT4KICAgICAgICBwdWJsaWMgc3RhdGljIFdlYXBvbnNDbGFzcyBHZXROZXh0Q2xhc3ModGhpcyBJSXRlbUluZm8gaW5mbykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBjdXJyZW50ID0gaW5mby5HZXRDdXJyZW50Q2xhc3MoKTsKICAgICAgICAgICAgdmFyIGNsYXNzZXMgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKS5XZWFwb25zQ2xhc3MuVmFsdWVzLk9yZGVyQnkoYyA9PiBjLk9yZGVyKTsKCiAgICAgICAgICAgIHZhciBza2lwcGVkID0gZmFsc2U7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBncmFkZSBpbiBjbGFzc2VzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoY3VycmVudC5PcmRlciA8IGdyYWRlLk9yZGVyKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGlmICghc2tpcHBlZCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNraXBwZWQgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgICAgIHJldHVybiBncmFkZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgfQo=</text>
@@ -567,9 +579,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>back</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>back</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute>next</last-substitute>
       <last-dir>1</last-dir>
@@ -577,7 +589,6 @@
     </search>
     <history>
       <history-search>
-        <entry>armor</entry>
         <entry encoding="base64">XDxQYXJ0XD4=</entry>
         <entry>max</entry>
         <entry>hea</entry>
@@ -597,6 +608,7 @@
         <entry encoding="base64">XDxTa2lsbHNcPg==</entry>
         <entry>leadersh</entry>
         <entry>clog</entry>
+        <entry>back</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
