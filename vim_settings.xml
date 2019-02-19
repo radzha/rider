@@ -80,6 +80,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FreezeController.cs" timestamp="1550131815334">
         <mark key="'" line="40" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/DeathEffect/CustomDeathEffect.cs" timestamp="1550585244758">
+        <mark key="'" line="12" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityView.cs" timestamp="1550252303192">
         <mark key="'" line="38" column="70" />
         <mark key="[" line="38" column="75" />
@@ -90,7 +93,7 @@
       <file name="/Bot.cs" timestamp="1550135366587">
         <mark key="'" line="259" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1550574563492">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1550585631003">
         <mark key="'" line="161" column="8" />
         <mark key="[" line="166" column="40" />
         <mark key="]" line="167" column="22" />
@@ -165,11 +168,11 @@
         <mark key="." line="2711" column="25" />
         <mark key="^" line="2711" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1550480463525">
-        <mark key="[" line="318" column="45" />
-        <mark key="]" line="322" column="39" />
-        <mark key="^" line="322" column="39" />
-        <mark key="." line="322" column="39" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1550585864416">
+        <mark key="[" line="207" column="31" />
+        <mark key="]" line="208" column="30" />
+        <mark key="^" line="208" column="30" />
+        <mark key="." line="208" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/Damage.cs" timestamp="1550224504312">
         <mark key="'" line="10" column="25" />
@@ -236,13 +239,6 @@
         <mark key="]" line="14" column="95" />
         <mark key="^" line="14" column="95" />
         <mark key="." line="14" column="95" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/OpenChestAnimScreen.cs" timestamp="1550570985585">
-        <mark key="'" line="36" column="53" />
-        <mark key="[" line="20" column="12" />
-        <mark key="]" line="20" column="26" />
-        <mark key="^" line="20" column="26" />
-        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/MissionRewardItem.cs" timestamp="1550493754867">
         <mark key="'" line="37" column="29" />
@@ -415,9 +411,6 @@
         <mark key="'" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1550497567098" />
-      <file name="/Dummy.txt" timestamp="1550584034328">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1550246929546">
         <mark key="'" line="25" column="28" />
       </file>
@@ -509,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/VideoAdController.cs" />
       <jump line="307" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/VideoAdController.cs" />
       <jump line="36" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/UserChests.cs" />
       <jump line="132" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
@@ -609,6 +601,7 @@
       <jump line="39" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/NotificationProvider.cs" />
       <jump line="152" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/PushNotifications.cs" />
       <jump line="31" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/PushNotifications.cs" />
+      <jump line="12" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/DeathEffect/CustomDeathEffect.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -621,7 +614,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfQ2hhbm5lbFw+</text>
+        <text encoding="base64">XDxERUFUSF9BTklNQVRPUl9FVkVOVFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gV2lsbCBiZSBmaXhlZCBsYXRlci4K</text>
@@ -658,9 +651,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfQ2hhbm5lbFw+</last-search>
+      <last-search encoding="base64">XDxERUFUSF9BTklNQVRPUl9FVkVOVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfQ2hhbm5lbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxERUFUSF9BTklNQVRPUl9FVkVOVFw+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute>next</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +661,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showch</entry>
         <entry>readin</entry>
         <entry>pack</entry>
         <entry encoding="base64">XDxTY3JvbGxUb0l0ZW1cPg==</entry>
@@ -688,6 +680,7 @@
         <entry>cit</entry>
         <entry>abs</entry>
         <entry encoding="base64">XDxfQ2hhbm5lbFw+</entry>
+        <entry encoding="base64">XDxERUFUSF9BTklNQVRPUl9FVkVOVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
