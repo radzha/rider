@@ -41,9 +41,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/DialogScreen.cs" timestamp="1550563305673">
         <mark key="'" line="164" column="16" />
       </file>
-      <file name="/Dummy.cs" timestamp="1550580989952">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Storage.cs" timestamp="1550151355930">
         <mark key="'" line="50" column="46" />
       </file>
@@ -135,9 +132,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/ContrabandInformation.cs" timestamp="1550136172889" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/SpawnManager.cs" timestamp="1550220613864">
         <mark key="'" line="143" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/StorageExt.cs" timestamp="1550483282715">
-        <mark key="[" line="141" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" timestamp="1550492756719">
         <mark key="'" line="44" column="25" />
@@ -234,6 +228,12 @@
         <mark key="]" line="48" column="81" />
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="76" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1550651946258">
+        <mark key="'" line="68" column="12" />
+        <mark key="[" line="238" column="0" />
+        <mark key="]" line="238" column="59" />
+        <mark key="^" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Weapons/WeaponUpgradeHandler.cs" timestamp="1550140349513">
         <mark key="[" line="14" column="87" />
@@ -407,9 +407,6 @@
         <mark key="'" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1550497567098" />
-      <file name="/Dummy.txt" timestamp="1550594105941">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1550246929546">
         <mark key="'" line="25" column="28" />
       </file>
@@ -489,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
       <jump line="30" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
       <jump line="9" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/RewardsScroll.cs" />
       <jump line="28" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/RewardsScroll.cs" />
@@ -589,6 +585,7 @@
       <jump line="169" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="86" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="40" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/RewardsScroll.cs" />
+      <jump line="68" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -601,7 +598,7 @@
         <text>Initialize(rewardItemTransform);</text>
       </register>
       <register name="/" type="4">
-        <text>showc</text>
+        <text encoding="base64">XDxTaG93Rmx5aW5nUmV3YXJkc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX3Njcm9sbC5Jbml0aWFsaXplTmV3U2Nyb2xsSXRlbShyZXdhcmRJdGVtKTsK</text>
@@ -638,9 +635,9 @@
       </register>
     </registers>
     <search>
-      <last-search>showc</last-search>
+      <last-search encoding="base64">XDxTaG93Rmx5aW5nUmV3YXJkc1w+</last-search>
       <last-offset />
-      <last-pattern>showc</last-pattern>
+      <last-pattern encoding="base64">XDxTaG93Rmx5aW5nUmV3YXJkc1w+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute>next</last-substitute>
       <last-dir>1</last-dir>
@@ -648,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dial</entry>
         <entry>close</entry>
         <entry>EVEN</entry>
         <entry encoding="base64">XDxFdmVudEhhbmRsZXJcPg==</entry>
@@ -668,6 +664,7 @@
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxfaXNDYW1lcmFUcmFuc2l0aW9uQWN0aXZlXD4=</entry>
         <entry>showc</entry>
+        <entry encoding="base64">XDxTaG93Rmx5aW5nUmV3YXJkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
