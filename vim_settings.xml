@@ -101,12 +101,12 @@
       <file name="/Bot.cs" timestamp="1550135366587">
         <mark key="'" line="259" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1550649399955">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1550657148247">
         <mark key="'" line="198" column="19" />
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="." line="382" column="0" />
-        <mark key="^" line="341" column="11" />
+        <mark key="[" line="345" column="32" />
+        <mark key="]" line="342" column="59" />
+        <mark key="." line="342" column="59" />
+        <mark key="^" line="342" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1550248058528">
         <mark key="'" line="0" column="0" />
@@ -341,6 +341,9 @@
         <mark key="^" line="44" column="34" />
         <mark key="." line="44" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/PlaySoundsByMechanimEvent.cs" timestamp="1550654678556">
+        <mark key="'" line="89" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ChestEventByRewardCommand.cs" timestamp="1550237924445">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="30" />
@@ -354,12 +357,12 @@
         <mark key="." line="49" column="35" />
         <mark key="^" line="49" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1550571029108">
-        <mark key="'" line="323" column="24" />
-        <mark key="[" line="227" column="26" />
-        <mark key="]" line="227" column="29" />
-        <mark key="^" line="227" column="29" />
-        <mark key="." line="227" column="29" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1550656496153">
+        <mark key="'" line="572" column="14" />
+        <mark key="[" line="572" column="24" />
+        <mark key="]" line="572" column="39" />
+        <mark key="^" line="572" column="39" />
+        <mark key="." line="572" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1550650766680">
         <mark key="'" line="86" column="12" />
@@ -408,7 +411,7 @@
         <mark key="'" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1550497567098" />
-      <file name="/Dummy.txt" timestamp="1550651950085">
+      <file name="/Dummy.txt" timestamp="1550655792999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1550246929546">
@@ -473,12 +476,12 @@
         <mark key="]" line="262" column="0" />
         <mark key="." line="262" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1550239268843">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1550655207293">
         <mark key="'" line="258" column="0" />
-        <mark key="[" line="252" column="25" />
-        <mark key="]" line="252" column="30" />
-        <mark key="." line="252" column="30" />
-        <mark key="^" line="252" column="30" />
+        <mark key="[" line="273" column="13" />
+        <mark key="]" line="274" column="11" />
+        <mark key="." line="274" column="11" />
+        <mark key="^" line="274" column="11" />
       </file>
       <file name="/GlobeUIController.cs" timestamp="1550249401287" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" timestamp="1550510315321">
@@ -490,9 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
-      <jump line="9" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/NotificationProvider.cs" />
-      <jump line="39" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/NotificationProvider.cs" />
       <jump line="152" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/PushNotifications.cs" />
       <jump line="31" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/PushNotifications.cs" />
       <jump line="12" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/DeathEffect/CustomDeathEffect.cs" />
@@ -590,67 +590,68 @@
       <jump line="159" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="433" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="326" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="89" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/PlaySoundsByMechanimEvent.cs" />
+      <jump line="639" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
+      <jump line="572" column="14" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3f</text>
+        <text>angle</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>3f</text>
+        <text>angle</text>
       </register>
       <register name="/" type="4">
-        <text>startsho</text>
+        <text encoding="base64">XDxMT0dfVUlfU1RBQ0tcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgZmxvYXQgX2NoZXN0U2hvd2luZ1RpbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNjcmVlbk1vZGVsVmlldy5FVkVOVF9TRVRfQ0FNRVJBX1RBUkdFVCwgX2NoZXN0SW1hZ2UsIFNjcmVlblR5cGUuQ2hlc3RTY3JlZW4pOwogICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5Pbk5leHQoQ2hlc3RMb2FkZXIuRVZFTlRfTE9BRF9DSEVTVCwgX2NoZXN0Q29udGV4dC5DaGVzdC5DaGVzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbWVyYVRyYW5mb3JtLlJvdGF0ZUFyb3VuZCh0YXJnZXQsIFZlY3RvcjMudXAsIGFuZ2xlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IHRydWU7CiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLkRpYWxvZywgVXRpbHMuV3JhcFRvQ29udGV4dChkaWFsb2csIG51bGwpKTsKICAgICAgICAgICAgICAgIFNldFRpbWVTY2FsZSgwZik7CiAgICAgICAgICAgICAgICB3aGlsZSAoVUlNYW5hZ2VyLkdldE9wZW5lZFNjcmVlbnMoKS5Db250YWlucyhTY3JlZW5UeXBlLkRpYWxvZykpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IGZhbHNlOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZW0gPT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IHRydWU7CiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLkRpYWxvZywgVXRpbHMuV3JhcFRvQ29udGV4dChkaWFsb2csIG51bGwpKTsKICAgICAgICAgICAgICAgIFNldFRpbWVTY2FsZSgwZik7CiAgICAgICAgICAgICAgICB3aGlsZSAoVUlNYW5hZ2VyLkdldE9wZW5lZFNjcmVlbnMoKS5Db250YWlucyhTY3JlZW5UeXBlLkRpYWxvZykpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IGZhbHNlOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IHRydWU7CiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLkRpYWxvZywgVXRpbHMuV3JhcFRvQ29udGV4dChkaWFsb2csIG51bGwpKTsKICAgICAgICAgICAgICAgIFNldFRpbWVTY2FsZSgwZik7CiAgICAgICAgICAgICAgICB3aGlsZSAoVUlNYW5hZ2VyLkdldE9wZW5lZFNjcmVlbnMoKS5Db250YWlucyhTY3JlZW5UeXBlLkRpYWxvZykpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IGZhbHNlOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNjcmVlbk1vZGVsVmlldy5FVkVOVF9TRVRfQ0FNRVJBX1RBUkdFVCwgX2NoZXN0SW1hZ2UsIFNjcmVlblR5cGUuQ2hlc3RTY3JlZW4pOwogICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5Pbk5leHQoQ2hlc3RMb2FkZXIuRVZFTlRfTE9BRF9DSEVTVCwgX2NoZXN0Q29udGV4dC5DaGVzdC5DaGVzdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IHRydWU7CiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLkRpYWxvZywgVXRpbHMuV3JhcFRvQ29udGV4dChkaWFsb2csIG51bGwpKTsKICAgICAgICAgICAgICAgIFNldFRpbWVTY2FsZSgwZik7CiAgICAgICAgICAgICAgICB3aGlsZSAoVUlNYW5hZ2VyLkdldE9wZW5lZFNjcmVlbnMoKS5Db250YWlucyhTY3JlZW5UeXBlLkRpYWxvZykpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IGZhbHNlOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGVhdERhdGEuQ3JlYXRlKENoZWF0RGF0YS5DaGVhdENvZGUuS2lsbEVuZW1pZXMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IHRydWU7CiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLkRpYWxvZywgVXRpbHMuV3JhcFRvQ29udGV4dChkaWFsb2csIG51bGwpKTsKICAgICAgICAgICAgICAgIFNldFRpbWVTY2FsZSgwZik7CiAgICAgICAgICAgICAgICB3aGlsZSAoVUlNYW5hZ2VyLkdldE9wZW5lZFNjcmVlbnMoKS5Db250YWlucyhTY3JlZW5UeXBlLkRpYWxvZykpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IGZhbHNlOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChDb25uZWN0b3IuRVZFTlRfU0VORF9NRVNTQUdFLCBDaGVhdERhdGEuTXNnVHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IHRydWU7CiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLkRpYWxvZywgVXRpbHMuV3JhcFRvQ29udGV4dChkaWFsb2csIG51bGwpKTsKICAgICAgICAgICAgICAgIFNldFRpbWVTY2FsZSgwZik7CiAgICAgICAgICAgICAgICB3aGlsZSAoVUlNYW5hZ2VyLkdldE9wZW5lZFNjcmVlbnMoKS5Db250YWlucyhTY3JlZW5UeXBlLkRpYWxvZykpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBfc2hvd2luZ0RpYWxvZyA9IGZhbHNlOwogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpYWxvZyAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLkRpYWxvZywgVXRpbHMuV3JhcFRvQ29udGV4dChkaWFsb2csIG51bGwpKTsKICAgICAgICAgICAgICAgIFNldFRpbWVTY2FsZSgwZik7CiAgICAgICAgICAgICAgICB3aGlsZSAoVUlNYW5hZ2VyLkdldE9wZW5lZFNjcmVlbnMoKS5Db250YWlucyhTY3JlZW5UeXBlLkRpYWxvZykpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgeWllbGQgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KENvbm5lY3Rvci5FVkVOVF9TRU5EX01FU1NBR0UsIENoZWF0RGF0YS5Nc2dUeXBlLAogICAgICAgICAgICAgICAgICAgIENoZWF0RGF0YS5DcmVhdGUoQ2hlYXREYXRhLkNoZWF0Q29kZS5LaWxsRW5lbWllcykpOwogICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfem9vbVRpbWVCZWZvcmVEaWFsb2cgPSAyZjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDaGVhdERhdGEuQ3JlYXRlKENoZWF0RGF0YS5DaGVhdENvZGUuS2lsbEVuZW1pZXMpKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>startsho</last-search>
+      <last-search encoding="base64">XDxMT0dfVUlfU1RBQ0tcPg==</last-search>
       <last-offset />
-      <last-pattern>startsho</last-pattern>
+      <last-pattern encoding="base64">XDxMT0dfVUlfU1RBQ0tcPg==</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute>next</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>event</entry>
-        <entry encoding="base64">XDxERUFUSF9BTklNQVRPUl9FVkVOVFw+</entry>
         <entry>Dial</entry>
         <entry encoding="base64">XDxPbkNsb3NlU2NyZWVuXD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9NRUNBTklNX0VWRU5UXD4=</entry>
@@ -669,6 +670,8 @@
         <entry encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</entry>
         <entry>setch</entry>
         <entry>startsho</entry>
+        <entry>logsc</entry>
+        <entry encoding="base64">XDxMT0dfVUlfU1RBQ0tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
