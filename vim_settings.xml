@@ -18,6 +18,7 @@
         <mark key="." line="119" column="67" />
         <mark key="^" line="119" column="67" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/PushChannels.cs" timestamp="1550740750571" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1550667491732">
         <mark key="[" line="193" column="14" />
         <mark key="]" line="193" column="38" />
@@ -213,8 +214,8 @@
         <mark key="'" line="93" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Build/BuildScript.cs" timestamp="1550738965240" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" timestamp="1550740156184">
-        <mark key="'" line="32" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" timestamp="1550741407593">
+        <mark key="'" line="79" column="32" />
         <mark key="[" line="76" column="59" />
         <mark key="]" line="76" column="67" />
         <mark key="." line="76" column="67" />
@@ -446,7 +447,7 @@
         <mark key="'" line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1550497567098" />
-      <file name="/Dummy.txt" timestamp="1550739620115">
+      <file name="/Dummy.txt" timestamp="1550741750784">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1550246929546">
@@ -528,10 +529,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileView.cs" />
-      <jump line="59" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LightProbesContainer.cs" />
-      <jump line="69" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
       <jump line="31" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
       <jump line="18" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
       <jump line="190" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
@@ -626,8 +623,12 @@
       <jump line="14" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
       <jump line="13" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
       <jump line="46" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
+      <jump line="38" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
-      <jump line="32" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
+      <jump line="15" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
+      <jump line="32" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
+      <jump line="33" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
+      <jump line="79" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -640,7 +641,7 @@
         <text>atackTemplate.Title</text>
       </register>
       <register name="/" type="4">
-        <text>citadel</text>
+        <text encoding="base64">XDxHZXROZWFyZXN0U2hlZHVsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>SceneManager.GetSceneByName(sceneName)</text>
@@ -677,18 +678,16 @@
       </register>
     </registers>
     <search>
-      <last-search>citadel</last-search>
+      <last-search encoding="base64">XDxHZXROZWFyZXN0U2hlZHVsZVw+</last-search>
       <last-offset />
-      <last-pattern>citadel</last-pattern>
+      <last-pattern encoding="base64">XDxHZXROZWFyZXN0U2hlZHVsZVw+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute>next</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>instan</entry>
-        <entry encoding="base64">XDxfYm9udXNcPg==</entry>
         <entry>disa</entry>
         <entry>Init</entry>
         <entry>Take</entry>
@@ -707,6 +706,8 @@
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>onen</entry>
         <entry>citadel</entry>
+        <entry>push</entry>
+        <entry encoding="base64">XDxHZXROZWFyZXN0U2hlZHVsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
