@@ -25,6 +25,13 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorWorkshopIndicator.cs" timestamp="1550231764843">
         <mark key="'" line="110" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultView.cs" timestamp="1550824197193">
+        <mark key="'" line="283" column="93" />
+        <mark key="[" line="286" column="21" />
+        <mark key="]" line="283" column="93" />
+        <mark key="^" line="283" column="93" />
+        <mark key="." line="283" column="93" />
+      </file>
       <file name="/Dummy.cs" timestamp="1550580989952">
         <mark key="[" line="0" column="0" />
       </file>
@@ -144,6 +151,7 @@
         <mark key="." line="2711" column="25" />
         <mark key="^" line="2711" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1550823282914" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/Damage.cs" timestamp="1550224504312">
         <mark key="'" line="10" column="25" />
       </file>
@@ -298,12 +306,12 @@
         <mark key="^" line="632" column="19" />
         <mark key="." line="632" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1550821962456">
-        <mark key="'" line="141" column="12" />
-        <mark key="[" line="140" column="56" />
-        <mark key="]" line="140" column="70" />
-        <mark key="^" line="140" column="70" />
-        <mark key="." line="140" column="70" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1550824499299">
+        <mark key="'" line="143" column="12" />
+        <mark key="[" line="140" column="101" />
+        <mark key="]" line="140" column="102" />
+        <mark key="^" line="140" column="102" />
+        <mark key="." line="140" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" timestamp="1550492907839">
         <mark key="'" line="241" column="0" />
@@ -425,7 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
       <jump line="46" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
       <jump line="38" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
@@ -525,16 +532,17 @@
       <jump line="317" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="325" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="12" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/MoneyPart.cs" />
+      <jump line="283" column="93" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultView.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fightIndex</text>
+        <text>data.FightIndex</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>fightIndex</text>
+        <text>data.FightIndex</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJc1dhcmVob3VzZUV4Y2VlZGVkXD4=</text>
