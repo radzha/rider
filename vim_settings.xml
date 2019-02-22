@@ -223,6 +223,12 @@
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/OpenChestAnimScreen.cs" timestamp="1550825186123">
+        <mark key="[" line="53" column="56" />
+        <mark key="]" line="53" column="66" />
+        <mark key="." line="53" column="66" />
+        <mark key="^" line="53" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/MissionRewardItem.cs" timestamp="1550493754867">
         <mark key="'" line="37" column="29" />
         <mark key="[" line="42" column="0" />
@@ -536,13 +542,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data.FightIndex</text>
+        <text>Server.GAMEPLAY_SCENE</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>data.FightIndex</text>
+        <text>Server.GAMEPLAY_SCENE</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJc1dhcmVob3VzZUV4Y2VlZGVkXD4=</text>
@@ -551,34 +557,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKF9jaGVzdFJld2FyZEl0ZW0gIT0gbnVsbCkgcmV0dXJuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9uZXlUeXBlLlRpdGxlLkFkZFBhcmFtKFZhbHVlKS5BZGRQYXJhbShtb2RpZmljYXRvcikuQ0xvZyhQcmVjaXNlVmFsdWUpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBSZXR1cm5NZXNzYWdlIGZhbAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NlbmVNYW5hZ2VyLkdldFNjZW5lQXQoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpZiAoIVVJTWFuYWdlci5HZXRPcGVuZWRTY3JlZW5zKCkuRXhpc3RzKHR5cGUgPT4gdHlwZSA9PSBTY3JlZW5UeXBlLkJhbmspKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9uZXlUeXBlLlRpdGxlLkFkZFBhcmFtKFZhbHVlKS5BZGRQYXJhbShtb2RpZmljYXRvcikuQ0xvZyhQcmVjaXNlVmFsdWUpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -632,8 +638,8 @@
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcm90ZWN0ZWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL25leHQvY3VycmVudC9n</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
