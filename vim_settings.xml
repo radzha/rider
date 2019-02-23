@@ -42,12 +42,12 @@
         <mark key="^" line="216" column="53" />
         <mark key="." line="218" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" timestamp="1550927380624">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" timestamp="1550928323871">
         <mark key="'" line="87" column="41" />
-        <mark key="[" line="92" column="38" />
-        <mark key="]" line="92" column="38" />
-        <mark key="^" line="92" column="38" />
-        <mark key="." line="92" column="38" />
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="88" column="44" />
+        <mark key="." line="88" column="44" />
+        <mark key="^" line="88" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TerrorInfo.cs" timestamp="1550920114346">
         <mark key="[" line="59" column="0" />
@@ -428,7 +428,7 @@
         <mark key="^" line="159" column="48" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550926910983">
+      <file name="/Dummy.txt" timestamp="1550928244982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1550246929546">
@@ -621,14 +621,14 @@
       <jump line="87" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DateTime.Now</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld2RhdGUgPSBEYXRlVGltZS5Ob3cuQWRkSG91cnMoMyk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>DateTime.Now</text>
+        <text>attackDate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYm9udXNJdGVtc1w+</text>
@@ -637,31 +637,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHBlcmlvZC5EYXlzID09IDEpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kLkRheXMuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5ld2RhdGUgPSBEYXRlVGltZS5Ob3cuQWRkSG91cnMoMyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvY2FsRGF5Tm93IC0gbG9jYWxEYXlFdmVudCA+IDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBlcmlvZCA9IG5vd0RhdGUgLSA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2FsRGF5RXZlbnQgPSB0aW1lLlRvTG9jYWxUaW1lKCkuRGF5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGF0dGFja0RhdGUgPSB0aW1lLlRvTG9jYWxUaW1lKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2FsRGF5Tm93ID0gRGF0ZVRpbWUuTm93LkRheTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmEK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KTsKICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUodGhpcy5Eb0ZyYW1lTGF0ZXIoKCkgPT4KICAgICAgICAgICAgew==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmV3ZGF0ZSA9IG5ld2RhdGUuRGF0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKG5vd0RhdGUgLSAobmV3ZGF0ZSkpLkRheXMuQ0xvZygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kLkRheXMuQ0xvZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3IuU2V0Qm9vbChJc0V2b2x2ZVNob3csIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvY2FsRGF5Tm93IC0gbG9jYWxEYXlFdmVudCA+IDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnaHRJbmRleC5DTG9nKF90ZXJyb3IuR2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2FsRGF5RXZlbnQgPSB0aW1lLlRvTG9jYWxUaW1lKCkuRGF5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
