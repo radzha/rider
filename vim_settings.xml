@@ -42,6 +42,13 @@
         <mark key="^" line="216" column="53" />
         <mark key="." line="218" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" timestamp="1550927380624">
+        <mark key="'" line="87" column="41" />
+        <mark key="[" line="92" column="38" />
+        <mark key="]" line="92" column="38" />
+        <mark key="^" line="92" column="38" />
+        <mark key="." line="92" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TerrorInfo.cs" timestamp="1550920114346">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
@@ -421,7 +428,7 @@
         <mark key="^" line="159" column="48" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550920510626">
+      <file name="/Dummy.txt" timestamp="1550926910983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1550246929546">
@@ -512,7 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/GameInfo.cs" />
       <jump line="36" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/BaseFightExt.cs" />
       <jump line="44" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/GUI/SelectWaveEditor.cs" />
       <jump line="821" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
@@ -612,49 +618,50 @@
       <jump line="130" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
       <jump line="262" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
+      <jump line="87" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Utils</text>
+        <text>DateTime.Now</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Utils</text>
+        <text>DateTime.Now</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYm9udXNJdGVtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVXNlZEltcGxpY2l0bHldCiAgICAgICAgcHVibGljIHZpcnR1YWwgdm9pZCBIaWRlRXZvbHZlSW5mbygpCiAgICAgICAgewogICAgICAgICAgICBBbmltYXRvci5TZXRCb29sKElzRXZvbHZlU2hvdywgZmFsc2UpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHBlcmlvZC5EYXlzID09IDEpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KTsKICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUodGhpcy5Eb0ZyYW1lTGF0ZXIoKCkgPT4KICAgICAgICAgICAgew==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kLkRheXMuQ0xvZygpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxvY2FsRGF5Tm93IC0gbG9jYWxEYXlFdmVudCA+IDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2FsRGF5RXZlbnQgPSB0aW1lLlRvTG9jYWxUaW1lKCkuRGF5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3IuU2V0Qm9vbChJc0V2b2x2ZVNob3csIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2FsRGF5Tm93ID0gRGF0ZVRpbWUuTm93LkRheTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlnaHRJbmRleC5DTG9nKF90ZXJyb3IuR2V0SWQoKSk7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">KTsKICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUodGhpcy5Eb0ZyYW1lTGF0ZXIoKCkgPT4KICAgICAgICAgICAgew==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJpbml0Ii5BZGRQYXJhbShpZCkuQWRkUGFyYW0oRmlnaHRJbmRleCkuQ0xvZyhDaGVzdFJld2FyZElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Im5ld1BvaW50Ij48L3BhcmFtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3IuU2V0Qm9vbChJc0V2b2x2ZVNob3csIGZhbHNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLy8gPHBhcmFtIG5hbWU9Im9sZFBvaW50Ij48L3BhcmFtPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlnaHRJbmRleC5DTG9nKF90ZXJyb3IuR2V0SWQoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
