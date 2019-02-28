@@ -314,8 +314,8 @@
         <mark key="^" line="48" column="78" />
         <mark key="." line="48" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1551284427253">
-        <mark key="'" line="206" column="56" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1551341548059">
+        <mark key="'" line="386" column="56" />
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
@@ -539,6 +539,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/GUI/SelectWaveEditor.cs" timestamp="1550833118544">
         <mark key="'" line="44" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1551340890094">
+        <mark key="'" line="52" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ChestDroneController.cs" timestamp="1550761997795">
         <mark key="'" line="160" column="23" />
         <mark key="[" line="166" column="0" />
@@ -649,8 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="65" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="116" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="237" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="248" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
@@ -749,6 +750,8 @@
       <jump line="105" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="106" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="130" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
+      <jump line="52" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
+      <jump line="386" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -761,7 +764,7 @@
         <text>viewObject.GameObject</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdG90YWxDb3VudFN1YnNjcmlwdGlvblw+</text>
+        <text encoding="base64">XDxFVkVOVF9TRVRfQ0FNRVJBX1RBUkdFVFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNjcmVlbk1vZGVsVmlldy5FVkVOVF9SRVNFVF9DQU1FUkFfVEFSR0VUKTsK</text>
@@ -798,12 +801,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdG90YWxDb3VudFN1YnNjcmlwdGlvblw+</last-search>
+      <last-search encoding="base64">XDxFVkVOVF9TRVRfQ0FNRVJBX1RBUkdFVFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdG90YWxDb3VudFN1YnNjcmlwdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxFVkVOVF9TRVRfQ0FNRVJBX1RBUkdFVFw+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -824,10 +827,10 @@
         <entry>title</entry>
         <entry encoding="base64">XDxfdGl0bGVcPg==</entry>
         <entry>reset</entry>
-        <entry encoding="base64">XDxFVkVOVF9TRVRfQ0FNRVJBX1RBUkdFVFw+</entry>
         <entry encoding="base64">XDxTZXRUb3RhbENvdW50XD4=</entry>
         <entry>dispo</entry>
         <entry encoding="base64">XDxfdG90YWxDb3VudFN1YnNjcmlwdGlvblw+</entry>
+        <entry encoding="base64">XDxFVkVOVF9TRVRfQ0FNRVJBX1RBUkdFVFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
