@@ -81,11 +81,12 @@
         <mark key="^" line="28" column="11" />
         <mark key="." line="28" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" timestamp="1551370527691">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="124" column="90" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" timestamp="1551371534008">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="130" column="68" />
+        <mark key="]" line="130" column="68" />
+        <mark key="." line="130" column="72" />
+        <mark key="^" line="127" column="69" />
       </file>
       <file name="/DroneInfo.cs" timestamp="1550828869097">
         <mark key="'" line="24" column="19" />
@@ -116,7 +117,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" timestamp="1550917113744">
         <mark key="'" line="222" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultBotsPreloader.cs" timestamp="1551365331431" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultBotsPreloader.cs" timestamp="1551371636423">
+        <mark key="[" line="54" column="41" />
+        <mark key="]" line="55" column="11" />
+        <mark key="^" line="55" column="11" />
+        <mark key="." line="55" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bot.cs" timestamp="1551362927011">
         <mark key="'" line="133" column="27" />
         <mark key="[" line="20" column="25" />
@@ -519,6 +525,9 @@
         <mark key="." line="38" column="16" />
         <mark key="^" line="38" column="16" />
       </file>
+      <file name="/TransitionView.cs" timestamp="1551370929918">
+        <mark key="'" line="110" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/ItemInfoView.cs" timestamp="1550149865798">
         <mark key="'" line="68" column="38" />
       </file>
@@ -556,7 +565,7 @@
         <mark key="^" line="622" column="11" />
         <mark key="." line="607" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551360022794">
+      <file name="/Dummy.txt" timestamp="1551371545090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1551347758820">
@@ -639,11 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="314" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="206" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="219" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
-      <jump line="223" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="129" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="234" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="239" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
@@ -739,10 +743,15 @@
       <jump line="122" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
       <jump line="118" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
       <jump line="123" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
+      <jump line="17" column="60" filename="/TransitionView.cs" />
+      <jump line="110" column="12" filename="/TransitionView.cs" />
+      <jump line="130" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
+      <jump line="124" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
+      <jump line="135" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xlYWRlckxvYWRlci5FbmFibGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -751,46 +760,46 @@
         <text>!_showBlakeLoader</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCYXNlRGVmZW5jZUhpc3RvcnlcPg==</text>
+        <text>clog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIG1pbmlvbkJvdCBpbiBfbWluaW9uQm90cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbWluaW9uQm90LkluaXQoKTsKICAgICAgICAgICAgICAgIG1pbmlvbkJvdC5Nb2RlbFBsYWNlaG9sZGVyLmdhbWVPYmplY3QuU2V0QWN0aXZlKCFfc2hvd0JsYWtlTG9hZGVyKTsKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xlYWRlckxvYWRlci5FbmFibGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xlYWRlckxvYWRlci5FbmFibGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xlYWRlckxvYWRlci5FbmFibGVkID0gdHJ1ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBtaW5pb25Cb3QgaW4gX21pbmlvbkJvdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW5pb25Cb3QuSW5pdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbmlvbkJvdC5Nb2RlbFBsYWNlaG9sZGVyLmdhbWVPYmplY3QuU2V0QWN0aXZlKCFfc2hvd0JsYWtlTG9hZGVyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9EdWVscy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zaG93Qmxha2VMb2FkZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCYXNlRGVmZW5jZUhpc3RvcnlcPg==</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCYXNlRGVmZW5jZUhpc3RvcnlcPg==</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -798,8 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2Nyb2xsVG9Tb2NpYWxPZmZlcnNcPg==</entry>
-        <entry encoding="base64">XDxfY29tcGFyYXRvclZpZXdcPg==</entry>
         <entry encoding="base64">XDxMb2dTY3JlZW5cPg==</entry>
         <entry>printseq</entry>
         <entry>getseq</entry>
@@ -818,6 +825,8 @@
         <entry encoding="base64">XDxfVW5pdFw+</entry>
         <entry>скрыв</entry>
         <entry encoding="base64">XDxCYXNlRGVmZW5jZUhpc3RvcnlcPg==</entry>
+        <entry encoding="base64">XDxfbGVhZGVyQm90XD4=</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
