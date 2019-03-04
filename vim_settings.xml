@@ -176,8 +176,8 @@
         <mark key="." line="123" column="48" />
         <mark key="^" line="123" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1551174662406">
-        <mark key="'" line="819" column="17" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1551690923997">
+        <mark key="'" line="697" column="13" />
         <mark key="[" line="880" column="77" />
         <mark key="]" line="880" column="77" />
         <mark key="." line="880" column="77" />
@@ -492,11 +492,12 @@
         <mark key="^" line="106" column="25" />
         <mark key="." line="106" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" timestamp="1551688638240">
-        <mark key="[" line="131" column="21" />
-        <mark key="]" line="131" column="35" />
-        <mark key="." line="131" column="35" />
-        <mark key="^" line="131" column="35" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" timestamp="1551690919814">
+        <mark key="'" line="75" column="21" />
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="62" column="33" />
+        <mark key="." line="62" column="33" />
+        <mark key="^" line="62" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeItemWidget.cs" timestamp="1551352677029">
         <mark key="'" line="158" column="42" />
@@ -504,6 +505,13 @@
         <mark key="]" line="137" column="92" />
         <mark key="." line="137" column="92" />
         <mark key="^" line="137" column="92" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1551691007111">
+        <mark key="'" line="1899" column="25" />
+        <mark key="[" line="2070" column="74" />
+        <mark key="]" line="2070" column="104" />
+        <mark key="^" line="2070" column="104" />
+        <mark key="." line="2070" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" timestamp="1551451444229" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/HangarChestIndicator.cs" timestamp="1551437796247">
@@ -588,11 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="186" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="31" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="107" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="109" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
       <jump line="106" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
       <jump line="189" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" />
       <jump line="95" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" />
@@ -688,19 +691,24 @@
       <jump line="373" column="89" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="147" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" />
       <jump line="166" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" />
+      <jump line="92" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
+      <jump line="220" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
+      <jump line="75" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
+      <jump line="697" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
+      <jump line="1899" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>GameObject.</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>GameObject.</text>
       </register>
       <register name="/" type="4">
-        <text>jump</text>
+        <text>hitimpl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInNob3cgZGV0b25hdGUiLkNMb2coYm90LkRlc2NyaXB0aW9uLk5hbWUpOwo=</text>
@@ -737,9 +745,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jump</last-search>
+      <last-search>hitimpl</last-search>
       <last-offset />
-      <last-pattern>jump</last-pattern>
+      <last-pattern>hitimpl</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -747,8 +755,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfb3BlbmVkXD4=</entry>
-        <entry>HID</entry>
         <entry encoding="base64">XDxFVkVOVF9TQ1JFRU5fSElESU5HXD4=</entry>
         <entry>CLOS</entry>
         <entry encoding="base64">XDxfanVtcGVkT25TdGFydFw+</entry>
@@ -767,6 +773,8 @@
         <entry encoding="base64">XDxfaXNTaG93blw+</entry>
         <entry encoding="base64">XDxFVkVOVF9SRVRVUk5fVE9fU0NSRUVOX1dJVEhfVFlQRVw+</entry>
         <entry>jump</entry>
+        <entry encoding="base64">XDxTdG9wQWN0aW9uXD4=</entry>
+        <entry>hitimpl</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
