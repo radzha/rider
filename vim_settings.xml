@@ -251,12 +251,12 @@
         <mark key="." line="61" column="60" />
         <mark key="^" line="61" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1551869942775">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1551869995192">
         <mark key="'" line="52" column="29" />
-        <mark key="[" line="93" column="54" />
-        <mark key="]" line="93" column="59" />
-        <mark key="." line="93" column="59" />
-        <mark key="^" line="93" column="59" />
+        <mark key="[" line="134" column="24" />
+        <mark key="]" line="134" column="24" />
+        <mark key="." line="134" column="24" />
+        <mark key="^" line="121" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/DamageTypesPart.cs" timestamp="1551800818915">
         <mark key="'" line="50" column="0" />
@@ -317,11 +317,12 @@
         <mark key="." line="239" column="48" />
         <mark key="^" line="239" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1551869241148">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1551870624970">
         <mark key="'" line="322" column="37" />
-        <mark key="[" line="659" column="0" />
-        <mark key="]" line="661" column="106" />
-        <mark key="." line="648" column="115" />
+        <mark key="[" line="653" column="0" />
+        <mark key="]" line="653" column="0" />
+        <mark key="." line="653" column="0" />
+        <mark key="^" line="632" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Notifications/NotificationOutlineController.cs" timestamp="1551448137523">
         <mark key="'" line="77" column="25" />
@@ -462,12 +463,12 @@
         <mark key="." line="137" column="92" />
         <mark key="^" line="137" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1551799710401">
-        <mark key="'" line="895" column="54" />
-        <mark key="[" line="878" column="96" />
-        <mark key="]" line="878" column="101" />
-        <mark key="^" line="878" column="101" />
-        <mark key="." line="878" column="101" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1551870847601">
+        <mark key="'" line="2016" column="0" />
+        <mark key="[" line="2012" column="87" />
+        <mark key="]" line="2012" column="92" />
+        <mark key="^" line="2012" column="92" />
+        <mark key="." line="2013" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/DroneRewardItem.cs" timestamp="1551450855705">
         <mark key="'" line="308" column="34" />
@@ -499,9 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" />
-      <jump line="130" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidget.cs" />
-      <jump line="169" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidget.cs" />
       <jump line="95" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidget.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidget.cs" />
       <jump line="48" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidget.cs" />
@@ -599,52 +597,55 @@
       <jump line="702" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="322" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="52" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
+      <jump line="2009" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="2005" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="2014" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>opponent</text>
+        <text>s</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>opponent</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgVmVjdG9yMy5EaXN0YW5jZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBsYXllci5DdXJyZW50VW5pdC50cmFuc2Zvcm0ucG9zaXRpb24sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3MpIDw9IG1heENoYWluRGlzdGFuY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQXR0YWNrKEN1cnJlbnRVbml0LkN1cnJlbnRXZWFwb24sIGluZGV4ID09IDAgPyBkYW1hZ2UgOiBzZWNvbmRhcnlEYW1hZ2UsIHJvb3RPcHBvbmVudHNbaW5kZXhdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGVhZFNob3Q6IGZhbHNlLCBidWxsZXQ6IG51bGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBieUFiaWxpdHk6IGJ5QWJpbGl0eSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKC5Db3VudCA9PSAwKSByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIGhhcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA6IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaGFpbi5BZGQoY3VycmVudE9wcG9uZW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA/IG5lYXJlc3RPcHBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFvZUNvdW50ZXItLTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IG5ldyBMaXN0PFBsYXllcj4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFBsYXllciBvcHBvbmVudDsKICAgICAgICAgICAgICAgIGlmIChhb2VDb3VudGVyID09IG1heFRhcmdldHNDb3VudEFvZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBvcHBvbmVudCA9IGN1cnJlbnRPcHBvbmVudDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgcG9zID0gY3VycmVudE9wcG9uZW50LkN1cnJlbnRVbml0LnRyYW5zZm9ybS5wb3NpdGlvbjsKICAgICAgICAgICAgICAgICAgICBjdXJyZW50T3Bwb25lbnQgPSBDdXJyZW50R2FtZS5QbGF5ZXJzLkdldFJhbmRvbShJc0FwcHJvcHJpYXRlKG1heENoYWluRGlzdGFuY2UsIG9wcG9uZW50cywgcG9zKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBvcHBvbmVudHMuQWRkKG9wcG9uZW50LCBuZXcgTGlzdDxQbGF5ZXI+KCkpOwogICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgTHVuYXJDb25zb2xlUGx1Z2luOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
@@ -698,8 +699,8 @@
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcm90ZWN0ZWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL25leHQvY3VycmVudC9n</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
