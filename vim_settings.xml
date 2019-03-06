@@ -50,7 +50,7 @@
         <mark key="." line="52" column="110" />
         <mark key="^" line="52" column="110" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/NewItemsScreenController.cs" timestamp="1551773088776">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/NewItemsScreenController.cs" timestamp="1551888009078">
         <mark key="'" line="118" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" timestamp="1551884740016">
@@ -128,12 +128,12 @@
       <file name="/ItemExt.cs" timestamp="1551700218775">
         <mark key="'" line="379" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1551885425547">
-        <mark key="'" line="27" column="31" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-        <mark key="^" line="89" column="26" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1551888912181">
+        <mark key="'" line="99" column="39" />
+        <mark key="[" line="99" column="83" />
+        <mark key="]" line="99" column="90" />
+        <mark key="." line="99" column="90" />
+        <mark key="^" line="99" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" timestamp="1551883509444" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/DamageTypesPart.cs" timestamp="1551800818915">
@@ -165,7 +165,7 @@
         <mark key="." line="239" column="48" />
         <mark key="^" line="239" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1551878950130">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1551888226998">
         <mark key="'" line="322" column="37" />
         <mark key="[" line="648" column="0" />
         <mark key="]" line="648" column="0" />
@@ -182,12 +182,15 @@
         <mark key="." line="1001" column="0" />
         <mark key="^" line="1001" column="20" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeWidget.cs" timestamp="1551711117031">
+        <mark key="'" line="48" column="12" />
+      </file>
       <file name="/SendingController.cs" timestamp="1551784711766" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/NotEnoughLeadershipPopup.cs" timestamp="1551454228412">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="76" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551886473408">
+      <file name="/Dummy.txt" timestamp="1551887406604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/ChainAttackActionDescriptionInspector.cs" timestamp="1551803787284">
@@ -214,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="136" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="209" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="29" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
@@ -314,52 +316,53 @@
       <jump line="59" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="53" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
       <jump line="27" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
+      <jump line="98" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgR2FtZVBsYXkuQmV6aWVyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>!_opponents[0].Alive</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text>!_opponents[0].Alive</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc3Bhd25RdWV1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZTxHcmVuYWRlSGl0PihHcmVuYWRlLkVWRU5UX0dSRU5BREVfRVhQTE9TSU9OLCBPbkdyZW5hZGVFeHBsb3Npb24pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9vcHBvbmVudHMgPSBGaW5kTmVhcmVzdE9wcG9uZW50cyhib3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgR2FtZVBsYXkuQmV6aWVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX29wcG9uZW50cy5BZGQoYm90LkdldE9wcG9uZW50KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBWZWN0b3IzIF90YXJnZXQ7Cg==</text>
+        <text encoding="base64">dXNpbmcgR2FtZVBsYXkuQmV6aWVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyB0YXJnZXQ7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBWZWN0b3IzIF90YXJnZXQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKFZpZXdTaWRlKSBFZGl0b3JHVUlMYXlvdXQuRW51bVBvcHVwKCJBdHRhY2sgc2lkZSIsIGFjdGlvbi5BdHRhY2tTaWRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyB0YXJnZXQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb24uQXR0YWNrU2lkZSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKFZpZXdTaWRlKSBFZGl0b3JHVUlMYXlvdXQuRW51bVBvcHVwKCJBdHRhY2sgc2lkZSIsIGFjdGlvbi5BdHRhY2tTaWRlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc3Bhd25BY3Rpb24gPSB0YXJnZXQgYXMgU3Bhd25BY3Rpb25EZXNjcmlwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb24uQXR0YWNrU2lkZSA9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
@@ -413,8 +416,8 @@
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcm90ZWN0ZWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL25leHQvY3VycmVudC9n</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
