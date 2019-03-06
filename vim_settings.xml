@@ -128,12 +128,12 @@
       <file name="/ItemExt.cs" timestamp="1551700218775">
         <mark key="'" line="379" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1551888912181">
-        <mark key="'" line="99" column="39" />
-        <mark key="[" line="99" column="83" />
-        <mark key="]" line="99" column="90" />
-        <mark key="." line="99" column="90" />
-        <mark key="^" line="99" column="90" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1551890378400">
+        <mark key="'" line="46" column="29" />
+        <mark key="[" line="100" column="37" />
+        <mark key="]" line="100" column="37" />
+        <mark key="." line="100" column="37" />
+        <mark key="^" line="100" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" timestamp="1551883509444" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/DamageTypesPart.cs" timestamp="1551800818915">
@@ -217,8 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="209" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="29" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="38" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="57" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
@@ -317,61 +315,63 @@
       <jump line="53" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
       <jump line="27" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
       <jump line="98" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
+      <jump line="62" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
+      <jump line="46" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!_opponents[0].Alive</text>
+        <text>C</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>!_opponents[0].Alive</text>
+        <text>C</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3Bhd25RdWV1ZVw+</text>
+        <text encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9vcHBvbmVudHMgPSBGaW5kTmVhcmVzdE9wcG9uZW50cyhib3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX29wcG9uZW50cy5BZGQoYm90LkdldE9wcG9uZW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFBb2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgR2FtZVBsYXkuQmV6aWVyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBWZWN0b3IzIF90YXJnZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9IG5ldyBMaXN0PFBsYXllcj4oKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMyB0YXJnZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgKFZpZXdTaWRlKSBFZGl0b3JHVUlMYXlvdXQuRW51bVBvcHVwKCJBdHRhY2sgc2lkZSIsIGFjdGlvbi5BdHRhY2tTaWRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIUFvZSkgcmV0dXJuIG5ldyBMaXN0PFBsYXllcj4oKXtib3QuR2V0T3Bwb25lbnQoKX07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhY3Rpb24uQXR0YWNrU2lkZSA9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX29wcG9uZW50cy5BZGQoYm90LkdldE9wcG9uZW50KCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc3Bhd25RdWV1ZVw+</last-search>
+      <last-search encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3Bhd25RdWV1ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50c1w+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -383,7 +383,6 @@
         <entry encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50XD4=</entry>
         <entry>getopp</entry>
         <entry>findnear</entry>
-        <entry encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50c1w+</entry>
         <entry>clog</entry>
         <entry>attackin</entry>
         <entry encoding="base64">XDxCb3RDb2RlTmFtZVw+</entry>
@@ -396,6 +395,7 @@
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxHZXRRdWV1ZUluU3Bhd25Qb2ludHNcPg==</entry>
         <entry encoding="base64">XDxfc3Bhd25RdWV1ZVw+</entry>
+        <entry encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
@@ -416,8 +416,8 @@
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHJvdGVjdGVkL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcm90ZWN0ZWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL25leHQvY3VycmVudC9n</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
