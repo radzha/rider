@@ -201,7 +201,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" timestamp="1551946486605">
         <mark key="'" line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" timestamp="1551873332796">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" timestamp="1551952478518">
+        <mark key="'" line="104" column="12" />
         <mark key="[" line="57" column="49" />
         <mark key="]" line="57" column="53" />
         <mark key="." line="57" column="53" />
@@ -601,17 +602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="49" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="44" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="41" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="30" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="52" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="27" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/SpawnActionDescriptionInspector.cs" />
-      <jump line="148" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
-      <jump line="195" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
-      <jump line="16" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="132" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="41" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="66" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
@@ -701,6 +691,17 @@
       <jump line="185" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="124" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="191" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
+      <jump line="55" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="72" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="330" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="334" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="339" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="341" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="347" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="349" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="22" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="147" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
+      <jump line="104" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -713,7 +714,7 @@
         <text>_target.rotation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTcGF3blw+</text>
+        <text encoding="base64">XDxVcGRhdGVMaW5lUmVuZGVyZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2F0aW9ucyA9IG5ldyBMaXN0PFNwYXduUXVldWUuTG9jYXRpb24+IHtuZXcgU3Bhd25RdWV1ZS5Mb2NhdGlvbihib25lLnBvc2l0aW9uLCBib25lLnJvdGF0aW9uLCB0cnVlKX07Cg==</text>
@@ -750,19 +751,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTcGF3blw+</last-search>
+      <last-search encoding="base64">XDxVcGRhdGVMaW5lUmVuZGVyZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTcGF3blw+</last-pattern>
+      <last-pattern encoding="base64">XDxVcGRhdGVMaW5lUmVuZGVyZXJcPg==</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>explo</entry>
-        <entry encoding="base64">XDxPbkdyZW5hZGVFeHBsb3Npb25cPg==</entry>
-        <entry>posit</entry>
         <entry encoding="base64">XDwoXD4=</entry>
         <entry encoding="base64">XDxHZXRRdWV1ZUluU3Bhd25Qb2ludHNcPg==</entry>
         <entry encoding="base64">XDxGaW5kTmVhcmVzdE9wcG9uZW50c1w+</entry>
@@ -780,6 +778,9 @@
         <entry encoding="base64">XDxVc2VSYXljYXN0XD4=</entry>
         <entry encoding="base64">XDxHZXRRdWV1ZUluTG9jYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxTcGF3blw+</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
+        <entry encoding="base64">XDxfb3JpZ2luRWZmZWN0XD4=</entry>
+        <entry encoding="base64">XDxVcGRhdGVMaW5lUmVuZGVyZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
