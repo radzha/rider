@@ -236,11 +236,12 @@
         <mark key="[" line="178" column="0" />
         <mark key="]" line="188" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" timestamp="1551950174055">
-        <mark key="[" line="204" column="73" />
-        <mark key="]" line="204" column="73" />
-        <mark key="." line="204" column="73" />
-        <mark key="^" line="200" column="7" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" timestamp="1551950951817">
+        <mark key="'" line="191" column="50" />
+        <mark key="[" line="209" column="92" />
+        <mark key="]" line="209" column="112" />
+        <mark key="." line="209" column="112" />
+        <mark key="^" line="209" column="112" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ActionDescription.cs" timestamp="1551950003325">
         <mark key="'" line="469" column="0" />
@@ -600,10 +601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="40" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
       <jump line="55" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
       <jump line="49" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" />
@@ -686,7 +683,6 @@
       <jump line="197" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="190" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="181" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
-      <jump line="191" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="199" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="30" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="59" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
@@ -700,66 +696,70 @@
       <jump line="468" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ActionDescription.cs" />
       <jump line="454" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ActionDescription.cs" />
       <jump line="469" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ActionDescription.cs" />
+      <jump line="187" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
+      <jump line="201" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
+      <jump line="185" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
+      <jump line="124" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
+      <jump line="191" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SpawnAction.</text>
+        <text>_target.rotation</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>SpawnAction.</text>
+        <text>_target.rotation</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVc2VSYXljYXN0XD4=</text>
+        <text encoding="base64">XDxTcGF3blw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBTUEFXTl9UQUcgPSAiU3Bhd24iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2F0aW9ucyA9IG5ldyBMaXN0PFNwYXduUXVldWUuTG9jYXRpb24+IHtuZXcgU3Bhd25RdWV1ZS5Mb2NhdGlvbihib25lLnBvc2l0aW9uLCBib25lLnJvdGF0aW9uLCB0cnVlKX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3Bhd24oYm90KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBmaWVsZCBpbiBHZXRUeXBlKCkuR2V0RmllbGRzKCkuVG9MaXN0KCkpCiAgICAgICAgICAgICAgICB7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb25zLkFkZChuZXcgU3Bhd25RdWV1ZS5Mb2NhdGlvbihib25lLnBvc2l0aW9uLCBib25lLnJvdGF0aW9uLCB0cnVlKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2F0aW9ucyA9IG5ldyBMaXN0PFNwYXduUXVldWUuTG9jYXRpb24+KCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBmaWVsZCBpbiBHZXRUeXBlKCkuR2V0RmllbGRzKCkuVG9MaXN0KCkpCiAgICAgICAgICAgICAgICB7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9jYXRpb25zLkFkZChuZXcgU3Bhd25RdWV1ZS5Mb2NhdGlvbihib25lLnBvc2l0aW9uLCBib25lLnJvdGF0aW9uLCB0cnVlKSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBzdGFydE9mZnNldDsgaSsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgdHJhbnNmb3JtID0gc3Bhd25Mb2NhdGlvbnNbaV07CiAgICAgICAgICAgICAgICBsb2NhdGlvbnMuQWRkKG5ldyBTcGF3blF1ZXVlLkxvY2F0aW9uKHRyYW5zZm9ybS5wb3NpdGlvbiwgdHJhbnNmb3JtLnJvdGF0aW9uLCBVc2VSYXljYXN0KSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGxvY2F0aW9ucyA9IG5ldyBMaXN0PFNwYXduUXVldWUuTG9jYXRpb24+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVc2VSYXljYXN0XD4=</last-search>
+      <last-search encoding="base64">XDxTcGF3blw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVc2VSYXljYXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTcGF3blw+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUaHJvd0dyZW5hZGVcPg==</entry>
         <entry>explo</entry>
         <entry encoding="base64">XDxPbkdyZW5hZGVFeHBsb3Npb25cPg==</entry>
         <entry>posit</entry>
@@ -776,9 +776,10 @@
         <entry encoding="base64">XDxfbGFzdExvY2F0aW9uSW5kZXhcPg==</entry>
         <entry encoding="base64">XDxWYXJpYWJsZXNcPg==</entry>
         <entry encoding="base64">XDxfc3Bhd25Qb2ludHNcPg==</entry>
-        <entry encoding="base64">XDxHZXRRdWV1ZUluTG9jYXRpb25zXD4=</entry>
         <entry>getsh</entry>
         <entry encoding="base64">XDxVc2VSYXljYXN0XD4=</entry>
+        <entry encoding="base64">XDxHZXRRdWV1ZUluTG9jYXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxTcGF3blw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
