@@ -53,8 +53,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/FX/Animations/fx_acid_bomber.controller" timestamp="1552900031280">
         <mark key="[" line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" timestamp="1552908856720">
-        <mark key="'" line="574" column="18" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" timestamp="1552921281887">
+        <mark key="'" line="153" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/IUserGlobePointsProvider.cs" timestamp="1551968538183">
         <mark key="'" line="23" column="45" />
@@ -76,12 +76,12 @@
         <mark key="." line="50" column="11" />
         <mark key="^" line="50" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" timestamp="1552919903284">
-        <mark key="'" line="29" column="68" />
-        <mark key="[" line="125" column="31" />
-        <mark key="]" line="125" column="15" />
-        <mark key="." line="125" column="15" />
-        <mark key="^" line="125" column="15" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" timestamp="1552921879976">
+        <mark key="'" line="126" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="65" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/FightPrepareModelController.cs" timestamp="1551873884946">
         <mark key="'" line="12" column="47" />
@@ -92,11 +92,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1552905342723">
-        <mark key="'" line="582" column="19" />
-        <mark key="[" line="648" column="0" />
-        <mark key="]" line="648" column="0" />
-        <mark key="." line="648" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1552921163735">
+        <mark key="'" line="788" column="76" />
+        <mark key="[" line="788" column="76" />
+        <mark key="]" line="788" column="76" />
+        <mark key="." line="788" column="76" />
         <mark key="^" line="648" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackController.cs" timestamp="1551953376879">
@@ -206,7 +206,7 @@
         <mark key="]" line="275" column="17" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552916106181">
+      <file name="/Dummy.txt" timestamp="1552921895944">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" timestamp="1551797398370">
@@ -256,13 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="263" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="253" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="234" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="228" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="264" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="23" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/IUserGlobePointsProvider.cs" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeCitadelPoint.cs" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeCitadelPoint.cs" />
@@ -341,7 +334,6 @@
       <jump line="2473" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="500" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="504" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
-      <jump line="534" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="568" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="574" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="59" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
@@ -349,65 +341,73 @@
       <jump line="112" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" />
       <jump line="58" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
       <jump line="72" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
-      <jump line="67" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
       <jump line="29" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
       <jump line="24" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/MoveActionDescription.cs" />
       <jump line="85" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/MoveActionDescription.cs" />
       <jump line="29" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/MoveActionDescription.cs" />
       <jump line="78" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/MoveActionDescription.cs" />
       <jump line="20" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/MoveActionDescription.cs" />
+      <jump line="788" column="76" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
+      <jump line="515" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="538" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="534" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="151" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="153" column="93" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="65" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
+      <jump line="67" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
+      <jump line="126" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNob290aW5nICYmIGJvdC5BaW1BdE9wcG9uZW50KCkgJiYgYm90LkN1cnJlbnRVbml0LkN1cnJlbnRXZWFwb24uQ2FuU2hvb3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzaG9vdCIuQ0xvZ0JsdWUoKTsKICAgICAgICAgICAgICAgIGJvdC5TaG9vdCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3ByZXBhdGVUaW1lci5DTG9nWWVsKCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Log();</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2hvdWxkUmVzdG9yZUlzRmlyaW5nXD4=</text>
+        <text>clog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKFNob290aW5nKSBib3QuU3RvcEZpcmUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNob290aW5nICYmIGJvdC5BaW1BdE9wcG9uZW50KCkgJiYgYm90LkN1cnJlbnRVbml0LkN1cnJlbnRXZWFwb24uQ2FuU2hvb3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzaG9vdCIuQ0xvZ0JsdWUoKTsKICAgICAgICAgICAgICAgIGJvdC5TaG9vdCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3ByZXBhdGVUaW1lci5DTG9nWWVsKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJzdG9wIGZpcmUiLkNMb2coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNob290aW5nICYmIGJvdC5BaW1BdE9wcG9uZW50KCkgJiYgYm90LkN1cnJlbnRVbml0LkN1cnJlbnRXZWFwb24uQ2FuU2hvb3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJvdC5TaG9vdCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF90aW1lciAtPSBHYW1lVGltZS5EZWx0YVRpbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNob290aW5nICYmIGJvdC5BaW1BdE9wcG9uZW50KCkgJiYgYm90LkN1cnJlbnRVbml0LkN1cnJlbnRXZWFwb24uQ2FuU2hvb3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJvdC5TaG9vdCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm90Lk1vdmVCeURpcmVjdGlvbihfZGlyZWN0aW9uKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBTaG9vdGluZzsKICAgICAgICBwdWJsaWMgZmxvYXQgUHJlcGFyZVRpbWU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJzaG9vdCIuQ0xvZ0JsdWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBJc0FsbHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJyZXR1cm4iLkNMb2dZZWwoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFNob290aW5nICYmIGJvdC5BaW1BdE9wcG9uZW50KCkgJiYgYm90LkN1cnJlbnRVbml0LkN1cnJlbnRXZWFwb24uQ2FuU2hvb3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICJzaG9vdCIuQ0xvZ0JsdWUoKTsKICAgICAgICAgICAgICAgIGJvdC5TaG9vdCgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc2hvdWxkUmVzdG9yZUlzRmlyaW5nXD4=</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2hvdWxkUmVzdG9yZUlzRmlyaW5nXD4=</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -415,12 +415,9 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFeHBsb3Npb25QcmVmYWJcPg==</entry>
-        <entry>&quot;Ex</entry>
         <entry encoding="base64">XDxfZGFtYWdlRHVyYXRpb25cPg==</entry>
         <entry>Expl</entry>
         <entry>Animat</entry>
-        <entry>clog</entry>
         <entry encoding="base64">XDxFZmZlY3RBbmltYXRvclw+</entry>
         <entry encoding="base64">XDxfZWZmZWN0XD4=</entry>
         <entry>Move</entry>
@@ -435,6 +432,9 @@
         <entry>blue</entry>
         <entry encoding="base64">XDxHZXRQb2ludHNcPg==</entry>
         <entry encoding="base64">XDxfc2hvdWxkUmVzdG9yZUlzRmlyaW5nXD4=</entry>
+        <entry>rotat</entry>
+        <entry>stra</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
