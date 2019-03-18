@@ -76,12 +76,12 @@
         <mark key="." line="50" column="11" />
         <mark key="^" line="50" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" timestamp="1552916740674">
-        <mark key="'" line="67" column="0" />
-        <mark key="[" line="67" column="26" />
-        <mark key="]" line="67" column="33" />
-        <mark key="." line="67" column="33" />
-        <mark key="^" line="67" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" timestamp="1552918318248">
+        <mark key="'" line="29" column="68" />
+        <mark key="[" line="97" column="13" />
+        <mark key="]" line="70" column="32" />
+        <mark key="." line="70" column="32" />
+        <mark key="^" line="70" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/FightPrepareModelController.cs" timestamp="1551873884946">
         <mark key="'" line="12" column="47" />
@@ -224,7 +224,7 @@
         <mark key="^" line="137" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1552908842262">
-        <mark key="'" line="2473" column="40" />
+        <mark key="'" line="2450" column="40" />
         <mark key="[" line="857" column="0" />
         <mark key="]" line="857" column="67" />
         <mark key="^" line="865" column="22" />
@@ -256,7 +256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="168" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="170" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="176" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
@@ -356,6 +355,7 @@
       <jump line="58" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
       <jump line="72" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
       <jump line="67" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
+      <jump line="29" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -368,7 +368,7 @@
         <text>Log();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaG9vdFByb2Nlc3NpbmdcPg==</text>
+        <text>blue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKF90aW1lciA+IEV4aXRUaW1lICsgX2R1cmF0aW9uKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfdGltZXIgLT0gR2FtZVRpbWUuRGVsdGFUaW1lOwo=</text>
@@ -405,17 +405,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaG9vdFByb2Nlc3NpbmdcPg==</last-search>
+      <last-search>blue</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaG9vdFByb2Nlc3NpbmdcPg==</last-pattern>
+      <last-pattern>blue</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Animator</entry>
         <entry>_effe</entry>
         <entry encoding="base64">XDxfZWZmZWN0UGF0aFw+</entry>
         <entry encoding="base64">XDxFeHBsb3Npb25QcmVmYWJcPg==</entry>
@@ -435,6 +434,7 @@
         <entry>-=</entry>
         <entry>timer</entry>
         <entry encoding="base64">XDxTaG9vdFByb2Nlc3NpbmdcPg==</entry>
+        <entry>blue</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
