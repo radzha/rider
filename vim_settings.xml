@@ -188,12 +188,12 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1552903416194">
-        <mark key="'" line="213" column="16" />
-        <mark key="[" line="340" column="158" />
-        <mark key="]" line="340" column="162" />
-        <mark key="." line="340" column="162" />
-        <mark key="^" line="340" column="162" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1552904850555">
+        <mark key="'" line="1044" column="0" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="35" />
+        <mark key="^" line="341" column="7" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GrenadeData.cs" timestamp="1551954696756">
         <mark key="[" line="41" column="0" />
@@ -279,11 +279,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
-      <jump line="198" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
-      <jump line="209" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
-      <jump line="221" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
-      <jump line="864" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="863" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="873" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="867" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -375,14 +370,19 @@
       <jump line="667" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="861" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="340" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="1045" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="1281" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="213" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="865" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="1046" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="860" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="346" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="1045" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="1042" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RhbWFnZUR1cmF0aW9uLkxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFuaW1hdG9yIF9hbmltYXRvcjsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -391,46 +391,46 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>Animat</text>
+        <text encoding="base64">XDxfZWZmZWN0XD4=</text>
       </register>
       <register name="0" type="4">
         <text>_storage.CitadelSettings.Mission.IsPassed(_userInfo)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2RhbWFnZUR1cmF0aW9uLkxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFuaW1hdG9yIF9hbmltYXRvcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEdhbWVPYmplY3QgX2FjdGl2ZUVmZmVjdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAidGhyb3ciLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHByZWZhYiA9IGRhdGEuUHJlZmFiICE9IG51bGwgPyBkYXRhLlByZWZhYi5Mb2FkUmVzb3VyY2U8R2FtZU9iamVjdD4oKSA6IF9ncmVuYWRlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImluaXQiLkNMb2dCbHVlKF9lZmZlY3RQYXRoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBhc3NlZCIuQ0xvZyhfc3RvcmFnZS5DaXRhZGVsU2V0dGluZ3MuTWlzc2lvbi5Jc1Bhc3NlZChfdXNlckluZm8pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm9uIHNob3cgZXhwbCIuQ0xvZ1JlZChlZmZlY3QubmFtZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImF0dGFja2VkIi5DTG9nKGlzQ2l0YWRlbEV2ZW50U3RhcnRlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkV4cGxvZGUiLkNMb2coX3RpbWVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkNoYWluIGF0dGFjayByb290IGJvdHMiLkNMb2cocmVzdWx0LlNlbGVjdChwID0+IHAuTmFtZSArICIvIiArIHAuVHlwZSkuR2V0U2VxKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInNldCB0cmlnZ2VyIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVGVtcCBsb2cK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm9uZW5hYmxlIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInByb2JsZW0iLkNMb2dSZWQoRWZmZWN0QW5pbWF0b3IpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>Animat</last-search>
+      <last-search encoding="base64">XDxfZWZmZWN0XD4=</last-search>
       <last-offset />
-      <last-pattern>Animat</last-pattern>
+      <last-pattern encoding="base64">XDxfZWZmZWN0XD4=</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -438,8 +438,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmF3SW1hZ2VcPg==</entry>
-        <entry encoding="base64">XDxFVkVOVF9TRVRfUkFXX0lNQUdFXD4=</entry>
         <entry>Now</entry>
         <entry encoding="base64">XDxHZXRTdG9yYWdlXD4=</entry>
         <entry encoding="base64">XDxfc3RvcmFnZVw+</entry>
@@ -447,7 +445,6 @@
         <entry encoding="base64">XDxfdXRjT2Zmc2V0U2Vjb25kc1w+</entry>
         <entry encoding="base64">XDxGaW5kRGF0ZVw+</entry>
         <entry>utc</entry>
-        <entry>clog</entry>
         <entry>GrenadeExpired</entry>
         <entry encoding="base64">XDxfZ3JlbmFkZVw+</entry>
         <entry>Animator</entry>
@@ -458,6 +455,9 @@
         <entry encoding="base64">XDxfZGFtYWdlRHVyYXRpb25cPg==</entry>
         <entry>Expl</entry>
         <entry>Animat</entry>
+        <entry>clog</entry>
+        <entry encoding="base64">XDxFZmZlY3RBbmltYXRvclw+</entry>
+        <entry encoding="base64">XDxfZWZmZWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
