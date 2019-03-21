@@ -50,9 +50,6 @@
         <mark key="." line="21" column="88" />
         <mark key="^" line="42" column="120" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/FX/Animations/fx_acid_bomber.controller" timestamp="1552900031280">
-        <mark key="[" line="10" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" timestamp="1552921281887">
         <mark key="'" line="153" column="93" />
       </file>
@@ -93,12 +90,12 @@
         <mark key="." line="788" column="76" />
         <mark key="^" line="648" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1553157803463">
-        <mark key="'" line="313" column="26" />
-        <mark key="[" line="798" column="9" />
-        <mark key="]" line="799" column="68" />
-        <mark key="." line="799" column="68" />
-        <mark key="^" line="799" column="68" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1553158489865">
+        <mark key="'" line="369" column="25" />
+        <mark key="[" line="584" column="0" />
+        <mark key="]" line="591" column="0" />
+        <mark key="." line="584" column="0" />
+        <mark key="^" line="378" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ChainAttackController.cs" timestamp="1551953376879">
         <mark key="'" line="47" column="0" />
@@ -242,6 +239,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1551710605258">
         <mark key="'" line="26" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HudCanvasController.cs" timestamp="1553158460125">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="65" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/DamageEffect.cs" timestamp="1553157551228">
         <mark key="'" line="151" column="17" />
         <mark key="[" line="61" column="0" />
@@ -249,18 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="466" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="467" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="867" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="1188" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="994" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="1194" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="163" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="1193" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="352" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="1201" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="1037" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="841" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="850" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="868" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="273" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
@@ -343,64 +332,76 @@
       <jump line="575" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="242" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="364" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="400" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="406" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="469" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="781" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="313" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="787" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="364" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="367" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="207" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="205" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="799" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="582" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="263" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="366" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="368" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="585" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="374" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="369" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25IdWRTdGF0ZUNoYW5nZShIdWRTdGF0ZURhdGEgZGF0YSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChkYXRhLlN0YXRlID09IEh1ZFN0YXRlRGF0YS5IdWRTdGF0ZS5HYW1lKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfZmlnaHRUaW1lciA9IDA7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>FpsCounter</text>
+        <text>arg1</text>
       </register>
       <register name="/" type="4">
-        <text>void Update(</text>
+        <text encoding="base64">XDxfZmlnaHRUaW1lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlRmlnaHRUaW1lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGEuU3RhdGUgPT0gSHVkU3RhdGVEYXRhLkh1ZFN0YXRlLkdhbWUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9nYW1lU3RhcnRlZCA9IHRydWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25IdWRTdGF0ZUNoYW5nZShIdWRTdGF0ZURhdGEgZGF0YSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChkYXRhLlN0YXRlID09IEh1ZFN0YXRlRGF0YS5IdWRTdGF0ZS5HYW1lKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfZmlnaHRUaW1lciA9IDA7CiAgICAgICAgICAgIH0KICAgICAgICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9nYW1lU3RhcnRlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZXRUaW1lKCksCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZsb2F0PyBfZmlnaHRUaW1lcjsKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIHZhbHVlID0gc3RyaW5nLkZvcm1hdCgiU1RBVEUgREVMQVk6ezd9XG5TVjp7Mn1cbkZQUzogezA6RjJ9ICh7MTpGMn0gbXMpXG57M30gezR9IFVJRDogezV9IHs2fSIsCi8vICAgICAgICAgICAgICAgICAgICBfZnBzLAovLyAgICAgICAgICAgICAgICAgICAgMTAwMC4wZiAvIF9mcHMsCi8vICAgICAgICAgICAgICAgICAgICBHZXREcmFnVmVsb2NpdHkoKSwKLy8gICAgICAgICAgICAgICAgICAgIF9zZXJ2ZXJOYW1lLAovLyAgICAgICAgICAgICAgICAgICAgQXBwbGljYXRpb24udmVyc2lvbiwKLy8gICAgICAgICAgICAgICAgICAgIEdldFVJRCgpLAovLyAgICAgICAgICAgICAgICAgICAgX2F1dGhTZXJ2ZXIgIT0gbnVsbCA/IF9hdXRoU2VydmVyLkNvbm5lY3Rpb25UeXBlIDogIiIsCi8vICAgICAgICAgICAgICAgICAgICBTdGF0ZU1hbmFnZXIuRGVsYXkKLy8gICAgICAgICAgICAgICAgICAgICk7Ci8vICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZXREcmFnVmVsb2NpdHkoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdGF0ZU1hbmFnZXIuRGVsYXkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3ByZXBhdGVUaW1lci5DTG9nWWVsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZXRUaW1lKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>void Update(</last-search>
+      <last-search encoding="base64">XDxfZmlnaHRUaW1lclw+</last-search>
       <last-offset />
-      <last-pattern>void Update(</last-pattern>
+      <last-pattern encoding="base64">XDxfZmlnaHRUaW1lclw+</last-pattern>
       <last-replace>current</last-replace>
       <last-substitute encoding="base64">XDxTaG93TGlzdFdpdGhPbmVSZXdhcmRcPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -408,7 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcmVwYXJlVGltZVw+</entry>
         <entry encoding="base64">XDxfd2FpdFRpbWVcPg==</entry>
         <entry encoding="base64">XDxfZHVyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxTaG9vdGluZ1w+</entry>
@@ -428,6 +428,7 @@
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>Update</entry>
         <entry>void Update(</entry>
+        <entry encoding="base64">XDxfZmlnaHRUaW1lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>action GoToFile()</entry>
