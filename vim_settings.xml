@@ -17,6 +17,13 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" timestamp="1553257479469">
+        <mark key="'" line="20" column="38" />
+        <mark key="[" line="190" column="102" />
+        <mark key="]" line="190" column="102" />
+        <mark key="^" line="190" column="102" />
+        <mark key="." line="190" column="102" />
+      </file>
       <file name="/Dummy.cs" timestamp="1552901547267">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,7 +106,7 @@
         <mark key="^" line="142" column="110" />
         <mark key="." line="142" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553254763528">
+      <file name="/Dummy.txt" timestamp="1553255126828">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/SocialOfferAvailableIndicator.cs" timestamp="1553156284695">
@@ -137,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="861" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="340" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="1281" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="213" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
@@ -237,58 +242,60 @@
       <jump line="146" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ChestDroneController.cs" />
       <jump line="99" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ChestDroneController.cs" />
       <jump line="142" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ChestDroneController.cs" />
+      <jump line="187" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
+      <jump line="20" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHZpZGVv</text>
+        <text>)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZpZGVv</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd2FpdGluZ0ZvckNoZXN0VG9DbG9zZVw+</text>
+        <text encoding="base64">XDxfcHJlbWl1bUR1cmF0aW9uXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJTaG93aW5nIHZpZGVvIi5DTG9nKGRlYnVnOiBmYWxzZSk7IC8vIFRlbXAgbG9nCg==</text>
+      <register name="0" type="4">
+        <text>TimeSpan.FromSeconds(premium.Duration).ToDaysTimerString()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNsaWNrIi5BZGRQYXJhbShfY2xpY2tMb2NrZWQpLkNMb2coX2NoZXN0LklzQXZhaWxhYmxlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFJld2FyZERhdGEoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNldCIuQ0xvZyhfc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQm9udXNMb2dJdGVtLlR5cGVFLlByZW1pdW06Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRlLkxvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEluaXRQcmVtaXVtKF9ib251cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNsaWNrIi5BZGRQYXJhbShfY2xpY2tMb2NrZWQpLkNMb2coX2NoZXN0LklzQXZhaWxhYmxlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNldCIuQ0xvZyhfc3RhdGUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwbGF5ZXIuVmlzdWFsUGxhY2UuQ0xvZyhwbGF5ZXIuU2NvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRlLkxvZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd2FpdGluZ0ZvckNoZXN0VG9DbG9zZVw+</last-search>
+      <last-search encoding="base64">XDxfcHJlbWl1bUR1cmF0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd2FpdGluZ0ZvckNoZXN0VG9DbG9zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcHJlbWl1bUR1cmF0aW9uXD4=</last-pattern>
       <last-replace>dict</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -296,7 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-=</entry>
         <entry>timer</entry>
         <entry encoding="base64">XDxTaG9vdFByb2Nlc3NpbmdcPg==</entry>
         <entry>blue</entry>
@@ -316,6 +322,7 @@
         <entry>score</entry>
         <entry encoding="base64">XDxQbGF5ZXJzXD4=</entry>
         <entry encoding="base64">XDxfd2FpdGluZ0ZvckNoZXN0VG9DbG9zZVw+</entry>
+        <entry encoding="base64">XDxfcHJlbWl1bUR1cmF0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
