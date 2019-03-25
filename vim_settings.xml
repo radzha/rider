@@ -156,11 +156,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/IUserGlobePointsProvider.cs" timestamp="1551968538183">
         <mark key="'" line="23" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" timestamp="1553527710101">
-        <mark key="[" line="48" column="21" />
-        <mark key="]" line="51" column="41" />
-        <mark key="^" line="51" column="41" />
-        <mark key="." line="51" column="41" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" timestamp="1553530144288">
+        <mark key="'" line="126" column="72" />
+        <mark key="[" line="126" column="67" />
+        <mark key="]" line="126" column="74" />
+        <mark key="^" line="126" column="74" />
+        <mark key="." line="126" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/ResponseErrorHandler.cs" timestamp="1553267550124" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1551709770819">
@@ -221,7 +222,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/18993E5E-1B57-43A2-9546-4A7174E203DB/31/d17ca047/GUI.cs" timestamp="1553522911676">
         <mark key="'" line="1351" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553522070946">
+      <file name="/Dummy.txt" timestamp="1553529401092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/ChainAttackActionDescriptionInspector.cs" timestamp="1551803787284">
@@ -245,12 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="799" column="97" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="651" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="1044" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="158" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="860" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="863" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="342" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="931" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="1033" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
@@ -345,52 +340,58 @@
       <jump line="582" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="580" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="581" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="32" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
+      <jump line="80" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
+      <jump line="20" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
+      <jump line="11" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
+      <jump line="125" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
+      <jump line="126" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>previousToLookupTime.ToString()</text>
+        <text>.ToString());</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>previousToLookupTime.ToString()</text>
+        <text>.ToString());</text>
       </register>
       <register name="/" type="4">
         <text>style</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgImNvdW50cnkiICwgIlVTIiB9LAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">RGljdGlvbmFyeTxpbnQsIFRvdXJuYW1lbnRQbGF5ZXJEYXRhPiBwbGF5ZXJz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwcmV2aW91c1RvTG9va3VwVGltZSA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHBsYXllckRhdGEuS2V5ID09IG5lYXJlc3RTYXZlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBib3VuZFRpbWUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG5lYXJlc3RUaW1lPT0wKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdFRpbWUgPSBuZWFyZXN0VGltZT4wPyBuZWFyZXN0VGltZS5Ub1N0cmluZygpOiBwbGFjZXNEYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgY3VycmVudERhdGEgPSB7VGltZU1hbmFnZXIuR2V0KCkuTm93LkdldFVuaXhUaW1lU3RhbXAoKS5Ub1N0cmluZygpLCBwbGFjZXN9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmVhcmVzdFRpbWU9IG5lYXJlc3RUaW1lPjAgPyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgdGltZXMuQWRkKGludC5QYXJzZShrZXkpKTsgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
