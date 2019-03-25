@@ -119,12 +119,12 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1553514152096">
-        <mark key="'" line="995" column="26" />
-        <mark key="[" line="1200" column="0" />
-        <mark key="]" line="1201" column="29" />
-        <mark key="^" line="1201" column="29" />
-        <mark key="." line="1201" column="29" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1553515370590">
+        <mark key="'" line="1285" column="0" />
+        <mark key="[" line="1212" column="85" />
+        <mark key="]" line="1215" column="76" />
+        <mark key="^" line="1215" column="76" />
+        <mark key="." line="1215" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1553254973608">
         <mark key="[" line="2718" column="77" />
@@ -320,18 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="10" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="118" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="117" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="127" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="134" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="175" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="59" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="100" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="114" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="116" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
-      <jump line="132" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
       <jump line="139" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
       <jump line="180" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
       <jump line="111" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
@@ -417,70 +405,80 @@
       <jump line="1212" column="77" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="292" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="468" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="868" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="995" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="65" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/EffectQueue.cs" />
+      <jump line="868" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="480" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="526" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="488" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="850" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="1202" column="93" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="273" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="420" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="876" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="870" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="879" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="853" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="1285" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>enabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwbG9zaW9uUHJlZmFiLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hdG9yPigpICE9IG51bGwK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>enabled</text>
+        <text encoding="base64">R2V0RWZmZWN0QW5pbWF0b3IoKSA9PSBudWxsIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZWZmZWN0UGF0aFw+</text>
+        <text>effe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFdhaXRGb3JNZWNoYW5pbUV2ZW50LkVWRU5UX0FOSU1BVElPTiwgbWVjYW5pbVBhcmFtZXRlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXhwbG9zaW9uUHJlZmFiLmdhbWVPYmplY3QuR2V0Q29tcG9uZW50PEFuaW1hdG9yPigpICE9IG51bGwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlPHN0cmluZywgR2FtZU9iamVjdD4oTWVjYW5pbUV2ZW50QnJvYWRjYXN0ZXIuRVZFTlRfTUVDQU5JTV9FVkVOVCwgT25NZWNhbmltRXZlbnQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGR1cmF0aW9uLkNMb2coKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAib24gbWVjaCBldmVudCIuQ0xvZ1llbChuYW1lKTsKLy8gICAgICAgICAgICBfa2VlcFdhaXRpbmcgPSBmYWxzZTsKLy8gICAgICAgICAgICBVdGlscy5EaXNwb3NlQW5kU2V0TnVsbChyZWYgX3N1YnNjcmlwdGlvbnMpOwovLyAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZWZmZWN0QW5pbWF0b3IgPSBfYWN0aXZlRWZmZWN0LkdldENvbXBvbmVudDxBbmltYXRvcj4oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgdm9pZCBPbk1lY2FuaW1FdmVudChzdHJpbmcgbmFtZSwgR2FtZU9iamVjdCBnbykKLy8gICAgICAgIHsKLy8gICAgICAgICAgICBpZiAoX2V2ZW50TmFtZSAhPSBuYW1lKSByZXR1cm47Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlPHN0cmluZywgR2FtZU9iamVjdD4oTWVjYW5pbUV2ZW50QnJvYWRjYXN0ZXIuRVZFTlRfTUVDQU5JTV9FVkVOVCwgT25NZWNhbmltRXZlbnQpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAib24gbWVjaCBldmVudCIuQ0xvZ1llbChuYW1lKTsKLy8gICAgICAgICAgICBfa2VlcFdhaXRpbmcgPSBmYWxzZTsKLy8gICAgICAgICAgICBVdGlscy5EaXNwb3NlQW5kU2V0TnVsbChyZWYgX3N1YnNjcmlwdGlvbnMpOwovLyAgICAgICAgfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFuaW1hdG9yIEVmZmVjdEFuaW1hdG9yCiAgICAgICAgewogICAgICAgICAgICBnZXQKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIF9hbmltYXRvciA9IF9hbmltYXRvciAhPSBudWxsCiAgICAgICAgICAgICAgICAgICAgPyBfYW5pbWF0b3IKICAgICAgICAgICAgICAgICAgICA6IF9hbmltYXRvciA9IF9hY3RpdmVFZmZlY3QgIT0gbnVsbCA/IF9hY3RpdmVFZmZlY3QuR2V0Q29tcG9uZW50PEFuaW1hdG9yPigpIDogbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICBzZXQgeyB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsgfQogICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgdm9pZCBPbk1lY2FuaW1FdmVudChzdHJpbmcgbmFtZSwgR2FtZU9iamVjdCBnbykKLy8gICAgICAgIHsKLy8gICAgICAgICAgICBpZiAoX2V2ZW50TmFtZSAhPSBuYW1lKSByZXR1cm47Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFZmZlY3RBbmltYXRvci5BZGRQYXJhbShnYW1lT2JqZWN0Lm5hbWUpLkFkZFBhcmFtKEVmZmVjdEFuaW1hdG9yLmdhbWVPYmplY3QubmFtZSkuQ0xvZyhFZmZlY3RBbmltYXRvci5lbmFibGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFuaW1hdG9yIEVmZmVjdEFuaW1hdG9yCiAgICAgICAgewogICAgICAgICAgICBnZXQKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIF9hbmltYXRvciA9IF9hbmltYXRvciAhPSBudWxsCiAgICAgICAgICAgICAgICAgICAgPyBfYW5pbWF0b3IKICAgICAgICAgICAgICAgICAgICA6IF9hbmltYXRvciA9IF9hY3RpdmVFZmZlY3QgIT0gbnVsbCA/IF9hY3RpdmVFZmZlY3QuR2V0Q29tcG9uZW50PEFuaW1hdG9yPigpIDogbnVsbDsKICAgICAgICAgICAgfQogICAgICAgICAgICBzZXQgeyB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsgfQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZWZmZWN0UGF0aFw+</last-search>
+      <last-search>effe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZWZmZWN0UGF0aFw+</last-pattern>
+      <last-pattern>effe</last-pattern>
       <last-replace>dict</last-replace>
       <last-substitute>data</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfd2FpdEdyZW5hZGVFeHBpcmVkXD4=</entry>
-        <entry>GrenadeExpired</entry>
         <entry encoding="base64">XDxfa2VlcFdhaXRpbmdcPg==</entry>
         <entry>&quot;Gre</entry>
         <entry>EventHandler</entry>
@@ -492,13 +490,15 @@
         <entry>effectan</entry>
         <entry encoding="base64">XDxFZmZlY3RBbmltYXRvclw+</entry>
         <entry>onsh</entry>
-        <entry>_activee</entry>
         <entry encoding="base64">XDxPblNob3dFeHBsb3Npb25cPg==</entry>
         <entry>activee</entry>
         <entry encoding="base64">XDxfYWN0aXZlRWZmZWN0XD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9BTklNQVRJT05cPg==</entry>
         <entry>_effect</entry>
         <entry encoding="base64">XDxfZWZmZWN0UGF0aFw+</entry>
+        <entry encoding="base64">XDxfZGFtYWdlRHVyYXRpb25cPg==</entry>
+        <entry>_activee</entry>
+        <entry>effe</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
