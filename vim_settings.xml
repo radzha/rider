@@ -229,6 +229,11 @@
         <mark key="[" line="198" column="0" />
         <mark key="]" line="198" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" timestamp="1553617544606">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="82" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/AttackInZoneDescriptionInspector.cs" timestamp="1551881634363">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -238,12 +243,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" timestamp="1551946486605">
         <mark key="'" line="47" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1553616903165">
-        <mark key="'" line="40" column="24" />
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="33" />
-        <mark key="^" line="40" column="33" />
-        <mark key="." line="40" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1553618156087">
+        <mark key="'" line="42" column="24" />
+        <mark key="[" line="55" column="52" />
+        <mark key="]" line="55" column="56" />
+        <mark key="." line="55" column="56" />
+        <mark key="^" line="55" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" timestamp="1551702065086">
         <mark key="'" line="31" column="32" />
@@ -334,7 +339,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePriceItem.cs" timestamp="1551873872807">
         <mark key="'" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1553614707700">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1553617131201">
         <mark key="'" line="30" column="44" />
         <mark key="[" line="186" column="43" />
         <mark key="]" line="186" column="43" />
@@ -396,8 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
-      <jump line="51" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
       <jump line="13" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" />
       <jump line="89" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AllyMoveActionDescription.cs" />
       <jump line="45" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
@@ -496,61 +499,63 @@
       <jump line="23" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="192" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="40" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
+      <jump line="82" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" />
+      <jump line="41" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Initialize</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Initialize</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYXZhdGFySWNvblw+</text>
+        <text encoding="base64">XDxfcGxhY2VEaWdpdHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2F2YXRhckljb24uSW5pdGlhbGl6ZShhbGx5LkF2YXRhcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBsYWNlID0gZGF0YS5WaXN1YWxQbGFjZTsKICAgICAgICAgICAgdmFyIGZyYW1lU3RhdGUgPSAxIDw9IHBsYWNlICYmIHBsYWNlIDw9IDMgPyBwbGFjZSA6IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgSW1hZ2UgX2F2YXRhcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdIHByaXZhdGUgVGV4dCBfcGxhY2VEZWx0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3IuU2V0Qm9vbChJc1BsYXllckFuaW0sIF91c2VySW5mby5Vc2VySWQuQ3VycmVudFZhbHVlID09IGRhdGEuSWQpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIEFuaW1hdG9yLlNldEJvb2woSXNQbGF5ZXJBbmltLCBfdXNlckluZm8uVXNlcklkLkN1cnJlbnRWYWx1ZSA9PSBkYXRhLklkKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIEFuaW1hdG9yLlNldEludGVnZXIoRnJhbWVBbmltLCBmcmFtZVN0YXRlKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGEuUGxhY2VEZWx0YSA+IDAgPyBUb3VybmFtZW50UGxheWVyUm93LlJhdGluZ0UuSW5jcmVhc2VkIDogVG91cm5hbWVudFBsYXllclJvdy5SYXRpbmdFLkRlY3JlYXNlZDsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHZhciBwbGFjZSA9IGRhdGEuVmlzdWFsUGxhY2U7CiAgICAgICAgICAgIHZhciBmcmFtZVN0YXRlID0gMSA8PSBwbGFjZSAmJiBwbGFjZSA8PSAzID8gcGxhY2UgOiAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmF0aW5nID0gZGF0YS5QbGFjZURlbHRhID09IDAgPyBUb3VybmFtZW50UGxheWVyUm93LlJhdGluZ0UuTm9DaGFuZ2VzIDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ICUgMiA9PSAxID8gU3RhdGVFLkV2ZW4gOiBTdGF0ZUUuT2RkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0QW5pbWF0b3JzKGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYXZhdGFySWNvblw+</last-search>
+      <last-search encoding="base64">XDxfcGxhY2VEaWdpdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYXZhdGFySWNvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcGxhY2VEaWdpdHNcPg==</last-pattern>
       <last-replace>dict</last-replace>
       <last-substitute>data</last-substitute>
       <last-dir>1</last-dir>
@@ -558,7 +563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>count</entry>
         <entry encoding="base64">XDxfYmF0dGxlQ291bnRcPg==</entry>
         <entry>contai</entry>
         <entry>FillR</entry>
@@ -578,6 +582,7 @@
         <entry encoding="base64">XDxfbG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxTdGF0ZVw+</entry>
         <entry encoding="base64">XDxfYXZhdGFySWNvblw+</entry>
+        <entry encoding="base64">XDxfcGxhY2VEaWdpdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJw==</entry>
