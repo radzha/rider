@@ -61,7 +61,7 @@
         <mark key="." line="21" column="88" />
         <mark key="^" line="42" column="120" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelAttackPrepareScreen.cs" timestamp="1553692631439">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelAttackPrepareScreen.cs" timestamp="1553693826342">
         <mark key="[" line="30" column="77" />
         <mark key="]" line="30" column="92" />
         <mark key="^" line="30" column="92" />
@@ -145,6 +145,12 @@
         <mark key="]" line="49" column="54" />
         <mark key="." line="49" column="47" />
         <mark key="^" line="56" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/MineFights.cs" timestamp="1553695679038">
+        <mark key="'" line="77" column="63" />
+        <mark key="[" line="77" column="57" />
+        <mark key="]" line="77" column="57" />
+        <mark key="." line="77" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelPointsCollection.cs" timestamp="1551711189128">
         <mark key="'" line="23" column="25" />
@@ -269,10 +275,17 @@
         <mark key="^" line="130" column="15" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CitadelAttacks.cs" timestamp="1553696221130">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="45" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="71" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/EffectQueue.cs" timestamp="1553513916615">
         <mark key="'" line="65" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553692767758">
+      <file name="/Dummy.txt" timestamp="1553692886203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" timestamp="1551797398370">
@@ -359,11 +372,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="79" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
-      <jump line="126" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="123" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="34" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="73" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="130" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="150" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
@@ -459,61 +467,66 @@
       <jump line="235" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="546" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="611" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="68" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/MineFights.cs" />
+      <jump line="77" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/MineFights.cs" />
+      <jump line="74" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CitadelAttacks.cs" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CitadelAttacks.cs" />
+      <jump line="78" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CitadelAttacks.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpZmZpY3VsdHkgPSBHZXREaWZmaWN1bHR5KCk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>int userRating</text>
       </register>
       <register name="/" type="4">
-        <text>consolef</text>
+        <text encoding="base64">XDx1c2VyUmF0aW5nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNraWxsTmFtZSAhPSBVc2VySW5mby5TS0lMTF9MRUFERVJTSElQKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpZmZpY3VsdHkgPSBHZXREaWZmaWN1bHR5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGlmaWVySW5mbyA9IFN0b3JhZ2UuTWluZUZpZ2h0c1NldHRpbmdzLlR5cGUuTW9kaWZpZXJzLkZpbmQoaXRlbSA9PiB1c2VyTGV2ZWwuSW5SYW5nZShpdGVtLkxldmVscy5NaW4sIGl0ZW0uTGV2ZWxzLk1heCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZmxvYXQgR2V0Qm90RGFtYWdlTXVsdGlwbGllcihpbnQgdXNlckxldmVsKQogICAgICAgIHsKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNraWxsTmFtZSA9PSBVc2VySW5mby5NSU5FX0NBUFRVUkVfUFJJQ0VfQk9OVVMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgZmxvYXQgR2V0Qm90SHBNdWx0aXBsaWVyKGludCB1c2VyTGV2ZWwpCiAgICAgICAgewogICAgICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlVzZXJTa2lsbFdhdGNoZXIiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEdldERpZmZpY3VsdHkoKS5FbmVteURhbWFnZU1vZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFmdGVyIi5DTG9nKHByaWNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGlmaWVySW5mbyA9IFN0b3JhZ2UuTWluZUZpZ2h0c1NldHRpbmdzLlR5cGUuTW9kaWZpZXJzLkZpbmQoaXRlbSA9PiB1c2VyTGV2ZWwuSW5SYW5nZShpdGVtLkxldmVscy5NaW4sIGl0ZW0uTGV2ZWxzLk1heCkpOwogICAgICAgICAgICBpZiAobW9kaWZpZXJJbmZvID09IG51bGwpIHJldHVybiAxZjsKICAgICAgICAgICAgdmFyIHdlaWdodGVkVXNlckxldmVsID0gTWF0aGYuTWF4KDFmLCB1c2VyTGV2ZWwgLSBtb2RpZmllckluZm8uTGV2ZWxzLk1pbik7CiAgICAgICAgICAgIHZhciBsZXZlbERlbHRhID0gTWF0aGYuTWF4KDFmLCBtb2RpZmllckluZm8uTGV2ZWxzLk1heCAtIG1vZGlmaWVySW5mby5MZXZlbHMuTWluKTsKICAgICAgICAgICAgcmV0dXJuIE1hdGhmLkxlcnAobW9kaWZpZXJJbmZvLkRhbWFnZS5NaW4sIG1vZGlmaWVySW5mby5EYW1hZ2UuTWF4LCB3ZWlnaHRlZFVzZXJMZXZlbCAvIGxldmVsRGVsdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImJlZm9yZSIuQ0xvZyhwcmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEdldERpZmZpY3VsdHkoKS5FbmVteUhwTW9kOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idXlvdXRQcmljZSA9IGJ1eW91dFByaWNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vZGlmaWVySW5mbyA9IFN0b3JhZ2UuTWluZUZpZ2h0c1NldHRpbmdzLlR5cGUuTW9kaWZpZXJzLkZpbmQoaXRlbSA9PiB1c2VyTGV2ZWwuSW5SYW5nZShpdGVtLkxldmVscy5NaW4sIGl0ZW0uTGV2ZWxzLk1heCkpOwogICAgICAgICAgICBpZiAobW9kaWZpZXJJbmZvID09IG51bGwpIHJldHVybiAxZjsKICAgICAgICAgICAgdmFyIHdlaWdodGVkVXNlckxldmVsID0gTWF0aGYuTWF4KDFmLCB1c2VyTGV2ZWwgLSBtb2RpZmllckluZm8uTGV2ZWxzLk1pbik7CiAgICAgICAgICAgIHZhciBsZXZlbERlbHRhID0gTWF0aGYuTWF4KDFmLCBtb2RpZmllckluZm8uTGV2ZWxzLk1heCAtIG1vZGlmaWVySW5mby5MZXZlbHMuTWluKTsKICAgICAgICAgICAgcmV0dXJuIE1hdGhmLkxlcnAobW9kaWZpZXJJbmZvLkhwLk1pbiwgbW9kaWZpZXJJbmZvLkhwLk1heCwgd2VpZ2h0ZWRVc2VyTGV2ZWwgLyBsZXZlbERlbHRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpdmF0ZSBzZXQgeyBfYnV5b3V0UHJpY2UgPSB2YWx1ZTsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>consolef</last-search>
+      <last-search encoding="base64">XDx1c2VyUmF0aW5nXD4=</last-search>
       <last-offset />
-      <last-pattern>consolef</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyUmF0aW5nXD4=</last-pattern>
       <last-replace>player</last-replace>
       <last-substitute>playerData.Value</last-substitute>
       <last-dir>1</last-dir>
@@ -521,7 +534,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZGVmYXVsdFRhYlw+</entry>
         <entry encoding="base64">XDxfaXRlbXNTZXRCb251c1N0YXRzQ29udGFpbmVyTWFuYWdlclw+</entry>
         <entry>cost</entry>
         <entry encoding="base64">XDxBdHRhY2tJbmZvcm1hdGlvblw+</entry>
@@ -541,6 +553,7 @@
         <entry encoding="base64">XDxCdXlvdXRQcmljZVw+</entry>
         <entry encoding="base64">XDxfc2NoZWR1bGVkU2NyZWVuc0Nsb3NlXD4=</entry>
         <entry>consolef</entry>
+        <entry encoding="base64">XDx1c2VyUmF0aW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
