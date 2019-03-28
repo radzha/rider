@@ -266,12 +266,12 @@
         <mark key="^" line="101" column="15" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" timestamp="1553784139769">
-        <mark key="'" line="22" column="86" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="29" column="131" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" timestamp="1553785838142">
+        <mark key="'" line="17" column="86" />
+        <mark key="[" line="29" column="55" />
+        <mark key="]" line="29" column="55" />
+        <mark key="^" line="29" column="55" />
+        <mark key="." line="29" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1553684384856">
         <mark key="'" line="17" column="20" />
@@ -611,13 +611,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JsonUtils.JsonGetDouble(&quot;endTime&quot;, data, 0)</text>
+        <text>.AddSeconds(Storage.GetStorage().Settings.ServerTimezone);</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>nearestDate</text>
+        <text>.AddSeconds(Storage.GetStorage().Settings.ServerTimezone);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGVkdWxlXD4=</text>
@@ -626,34 +626,34 @@
         <text>JsonUtils.JsonGetDouble(&quot;endTime&quot;, data, 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRHVlbEV2ZW50Tm90aWZpY2F0aW9uUHJvdmlkZXIoKSA6IGJhc2UoUHVzaE5vdGlmaWNhdGlvbnMuVHlwZUUuZHVlbEV2ZW50KQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnJlbnREYXRlVGltZSA9IFRpbWVNYW5hZ2VyLkdldCgpLk5vdy5BZGRTZWNvbmRzKFN0b3JhZ2UuR2V0U3RvcmFnZSgpLlNldHRpbmdzLlNlcnZlclRpbWV6b25lKTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNoZWR1bGVMaXN0ID0gX3N0b3JhZ2UuRHVlbFNjaGVkdWxlLkV2ZW50SWQuU2NoZWR1bGVMaXN0Lk9yZGVyQnkocyA9PiBzLldlZWtEYXlTdGFydCkuVG9MaXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBDcmVhdGVBbGxOb3RpZmljYXRpb25zKAogICAgICAgICAgICBMaXN0PE1SR1NOb3RpZmljYXRpb25NYW5hZ2VyLk1SR1NMb2NhbE5vdGlmaWNhdGlvbj4gbm90aWZpY2F0aW9ucykKICAgICAgICB7CiAgICAgICAgICAgIHZhciBjdXJyZW50RGF0ZVRpbWUgPSBUaW1lTWFuYWdlci5HZXQoKS5Ob3cuQWRkU2Vjb25kcyhTdG9yYWdlLkdldFN0b3JhZ2UoKS5TZXR0aW5ncy5TZXJ2ZXJUaW1lem9uZSk7Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBXZWVrRGF5cyBGcm9tRGF0ZVRpbWVUb1dlZWtEYXlzKERhdGVUaW1lIHRpbWUpCiAgICAgICAgewogICAgICAgICAgICB2YXIgd2Vla0RheU51bWJlciA9IChpbnQpIHRpbWUuRGF5T2ZXZWVrOwogICAgICAgICAgICByZXR1cm4gV2Vla0RheXNDb25zdHJ1Y3Rvci5DcmVhdGUod2Vla0RheU51bWJlci5Ub1N0cmluZygpKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRHVlbEV2ZW50Tm90aWZpY2F0aW9uUHJvdmlkZXIoKSA6IGJhc2UoUHVzaE5vdGlmaWNhdGlvbnMuVHlwZUUuZHVlbEV2ZW50KQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IGludCBEQVlTX0lOX1dFRUsgPSA3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNoZWR1bGVMaXN0ID0gX3N0b3JhZ2UuRHVlbFNjaGVkdWxlLkV2ZW50SWQuU2NoZWR1bGVMaXN0Lk9yZGVyQnkocyA9PiBzLldlZWtEYXlTdGFydCkuVG9MaXN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBXZWVrRGF5cyBGcm9tRGF0ZVRpbWVUb1dlZWtEYXlzKERhdGVUaW1lIHRpbWUpCiAgICAgICAgewogICAgICAgICAgICB2YXIgd2Vla0RheU51bWJlciA9IChpbnQpIHRpbWUuRGF5T2ZXZWVrOwogICAgICAgICAgICByZXR1cm4gV2Vla0RheXNDb25zdHJ1Y3Rvci5DcmVhdGUod2Vla0RheU51bWJlci5Ub1N0cmluZygpKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgRXZlbnRzID0gU2VydmVyRGF0YS5FdmVudHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IGludCBEQVlTX0lOX1dFRUsgPSA3Owo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
