@@ -114,7 +114,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MineInfo.cs" timestamp="1553680510517">
         <mark key="'" line="21" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Schedule.cs" timestamp="1553774551003" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Schedule.cs" timestamp="1553784840503">
+        <mark key="[" line="52" column="75" />
+        <mark key="]" line="52" column="87" />
+        <mark key="^" line="52" column="87" />
+        <mark key="." line="52" column="87" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" timestamp="1553686824604">
         <mark key="'" line="70" column="31" />
         <mark key="[" line="254" column="67" />
@@ -136,7 +141,7 @@
         <mark key="." line="99" column="88" />
         <mark key="^" line="99" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1553783490088">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1553784552069">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="12" column="52" />
         <mark key="]" line="12" column="53" />
@@ -605,8 +610,8 @@
       <jump line="25" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/SchedulesExt.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRHVlbEV2ZW50Tm90aWZpY2F0aW9uUHJvdmlkZXIoKSA6IGJhc2UoUHVzaE5vdGlmaWNhdGlvbnMuVHlwZUUuZHVlbEV2ZW50KQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>JsonUtils.JsonGetDouble(&quot;endTime&quot;, data, 0)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -618,7 +623,7 @@
         <text encoding="base64">XDxzaGVkdWxlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>GetStartTime(this, true)</text>
+        <text>JsonUtils.JsonGetDouble(&quot;endTime&quot;, data, 0)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgRHVlbEV2ZW50Tm90aWZpY2F0aW9uUHJvdmlkZXIoKSA6IGJhc2UoUHVzaE5vdGlmaWNhdGlvbnMuVHlwZUUuZHVlbEV2ZW50KQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICB9Cgo=</text>
