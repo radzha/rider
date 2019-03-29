@@ -152,12 +152,12 @@
         <mark key="." line="254" column="67" />
         <mark key="^" line="254" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" timestamp="1553874128971">
-        <mark key="'" line="79" column="49" />
-        <mark key="[" line="74" column="62" />
-        <mark key="]" line="76" column="42" />
-        <mark key="." line="76" column="42" />
-        <mark key="^" line="76" column="42" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" timestamp="1553875554223">
+        <mark key="'" line="98" column="33" />
+        <mark key="[" line="98" column="34" />
+        <mark key="]" line="98" column="34" />
+        <mark key="." line="98" column="34" />
+        <mark key="^" line="98" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1553700252988">
         <mark key="'" line="99" column="45" />
@@ -166,7 +166,7 @@
         <mark key="." line="99" column="88" />
         <mark key="^" line="99" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1553862037178">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1553874701474">
         <mark key="'" line="61" column="62" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -495,6 +495,9 @@
         <mark key="^" line="71" column="45" />
         <mark key="." line="66" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Events.cs" timestamp="1553875165502">
+        <mark key="'" line="33" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1553701375843">
         <mark key="'" line="29" column="12" />
         <mark key="[" line="91" column="58" />
@@ -568,8 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/TournamentTypes.cs" />
-      <jump line="14" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/TournamentTypes.cs" />
       <jump line="15" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/TournamentTypes.cs" />
       <jump line="38" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/TournamentTypes.cs" />
       <jump line="68" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
@@ -580,7 +581,6 @@
       <jump line="35" column="86" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/DuelEventNotificationProvider.cs" />
       <jump line="2053" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
       <jump line="104" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
-      <jump line="33" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Events.cs" />
       <jump line="103" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="55" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" />
       <jump line="43" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" />
@@ -642,7 +642,6 @@
       <jump line="38" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="152" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="353" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="63" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Events.cs" />
       <jump line="101" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="105" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
@@ -668,61 +667,65 @@
       <jump line="134" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
       <jump line="173" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
       <jump line="79" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
+      <jump line="90" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
+      <jump line="63" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Events.cs" />
+      <jump line="33" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Events.cs" />
+      <jump line="98" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>PlayerPrefsUtility.GetDateTime(CURRENT_CITADEL_SCHEDULE_ITEM_KEY).ToUniversalTime());</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDcmVhdGVBY3Rpb25BdFRpbWVcPg==</text>
+        <text encoding="base64">XDxTY2hlZHVsZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZS5HZXRIYXNoQ29kZSgpLkFkZFBhcmFtKHN0b3JhZ2UuQ2l0YWRlbEF0dGFja3NTZXR0aW5ncy5HZXRIYXNoQ29kZSgpKS5DTG9nKHN0b3JhZ2UuQ2l0YWRlbEF0dGFja3NTZXR0aW5ncy5FdmVudElkLkdldEhhc2hDb2RlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NoZWR1bGVzLkFkZFJhbmdlKC5TY2hlZHVsZXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIERhdGVUaW1lIEdldE5vdygpCiAgICAgICAgewogICAgICAgICAgICB2YXIgb2Zmc2V0ID0gR2V0VGltZXpvbmVPZmZzZXQoKTsKICAgICAgICAgICAgcmV0dXJuIFRpbWVNYW5hZ2VyLkdldCgpLk5vdyArIG9mZnNldDsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgc3RhdGljIERhdGVUaW1lIFRvR2xvYmFsVGltZShEYXRlVGltZSBsb2NhbFRpbWUpCiAgICAgICAgewogICAgICAgICAgICB2YXIgb2Zmc2V0ID0gR2V0VGltZXpvbmVPZmZzZXQoKTsKICAgICAgICAgICAgcmV0dXJuIGxvY2FsVGltZSAtIG9mZnNldDsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFjdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjaGVkdWxlcyA9IC5TY2hlZHVsZXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZS5HZXRIYXNoQ29kZSgpLkFkZFBhcmFtKHN0b3JhZ2UuQ2l0YWRlbEF0dGFja3NTZXR0aW5ncy5HZXRIYXNoQ29kZSgpKS5DTG9nKHN0b3JhZ2UuQ2l0YWRlbEF0dGFja3NTZXR0aW5ncy5FdmVudElkLkdldEhhc2hDb2RlKCkpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnJlbnRTY2hlZHVsZSA9IEdldEFsbFNjaGVkdWxlcygpLkdldEFjdGl2ZVNjaGVkdWxlKCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIERhdGVUaW1lIEdldE5vdygpCiAgICAgICAgewogICAgICAgICAgICB2YXIgb2Zmc2V0ID0gR2V0VGltZXpvbmVPZmZzZXQoKTsKICAgICAgICAgICAgcmV0dXJuIFRpbWVNYW5hZ2VyLkdldCgpLk5vdyArIG9mZnNldDsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgc3RhdGljIERhdGVUaW1lIFRvR2xvYmFsVGltZShEYXRlVGltZSBsb2NhbFRpbWUpCiAgICAgICAgewogICAgICAgICAgICB2YXIgb2Zmc2V0ID0gR2V0VGltZXpvbmVPZmZzZXQoKTsKICAgICAgICAgICAgcmV0dXJuIGxvY2FsVGltZSAtIG9mZnNldDsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFjdGlvbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWUgZW5kRGF0ZSA9IFRvR2xvYmFsVGltZShlbmREYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDcmVhdGVBY3Rpb25BdFRpbWVcPg==</last-search>
+      <last-search encoding="base64">XDxTY2hlZHVsZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDcmVhdGVBY3Rpb25BdFRpbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTY2hlZHVsZXNcPg==</last-pattern>
       <last-replace>player</last-replace>
       <last-substitute>playerData.Value</last-substitute>
       <last-dir>1</last-dir>
@@ -730,8 +733,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">IFVwZGF0ZQ==</entry>
-        <entry encoding="base64">XDxSZXNldFJlbG9hZGluZ1w+</entry>
         <entry>Reset</entry>
         <entry encoding="base64">XDxfZGlzYWJsZVw+</entry>
         <entry>IS</entry>
@@ -750,6 +751,8 @@
         <entry>_close</entry>
         <entry encoding="base64">XDxHZXRBY3RpdmVTY2hlZHVsZVw+</entry>
         <entry encoding="base64">XDxDcmVhdGVBY3Rpb25BdFRpbWVcPg==</entry>
+        <entry encoding="base64">XDxHZXRBbGxTY2hlZHVsZXNcPg==</entry>
+        <entry encoding="base64">XDxTY2hlZHVsZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
