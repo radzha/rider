@@ -188,8 +188,8 @@
         <mark key="." line="66" column="20" />
         <mark key="^" line="66" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" timestamp="1553884893091">
-        <mark key="'" line="77" column="25" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" timestamp="1554112157461">
+        <mark key="'" line="233" column="4" />
         <mark key="[" line="150" column="35" />
         <mark key="]" line="150" column="36" />
         <mark key="." line="150" column="36" />
@@ -299,12 +299,12 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/EventNotificationProvider.cs" timestamp="1554111303089">
-        <mark key="'" line="9" column="68" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="28" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/EventNotificationProvider.cs" timestamp="1554111310534">
+        <mark key="'" line="8" column="68" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/MRGS/MRGSAdvertising.cs" timestamp="1553858130585" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/AttackingAllyAbility.cs" timestamp="1554107678253">
@@ -386,7 +386,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Scheduler/SchedulerBehaviour.cs" timestamp="1553877419005">
         <mark key="'" line="10" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554109861613">
+      <file name="/Dummy.txt" timestamp="1554113059070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeItemWidget.cs" timestamp="1551958113494">
@@ -424,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="593" column="21" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/WeaponView.cs" />
       <jump line="28" column="43" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/SniperWeaponView.cs" />
       <jump line="63" column="20" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/SniperWeaponView.cs" />
       <jump line="66" column="26" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/SniperWeaponView.cs" />
@@ -524,10 +523,11 @@
       <jump line="64" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
       <jump line="65" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
       <jump line="9" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/EventNotificationProvider.cs" />
+      <jump line="233" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNyZWF0ZSBldiIuQ0xvZygpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -542,34 +542,34 @@
         <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlRXZlbnROb3RpZmljYXRpb25zKG5vdGlmaWNhdGlvbnMsIHNjaGVkdWxlcywgdGl0bGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNyZWF0ZSBldiIuQ0xvZygpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNyZWF0ZSBldiIuQ0xvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5lYXJlc3REYXRlID0gX3N0b3JhZ2UuRHVlbFNjaGVkdWxlLkV2ZW50SWQuU2NoZWR1bGVzLkdldE5lYXJlc3ROZXh0U3RhcnRUaW1lKF9zdG9yYWdlKTsKICAgICAgICAgICAgaWYgKG5lYXJlc3REYXRlID09IERhdGVUaW1lLk1pblZhbHVlKSByZXR1cm47CgogICAgICAgICAgICB2YXIgbmV3UHVzaCA9IENyZWF0ZU5vdGlmaWNhdGlvbihuZWFyZXN0RGF0ZSwgImFkZGl0aW9uIik7CiAgICAgICAgICAgIG5vdGlmaWNhdGlvbnMuQWRkKG5ld1B1c2gpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHZhciBuZWFyZXN0RGF0ZSA9IF9zdG9yYWdlLkR1ZWxTY2hlZHVsZS5FdmVudElkLlNjaGVkdWxlcy5HZXROZWFyZXN0TmV4dFN0YXJ0VGltZShfc3RvcmFnZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5lYXJlc3REYXRlID0gX3N0b3JhZ2UuRHVlbFNjaGVkdWxlLkV2ZW50SWQuU2NoZWR1bGVzLkdldE5lYXJlc3ROZXh0U3RhcnRUaW1lKF9zdG9yYWdlKTsKICAgICAgICAgICAgaWYgKG5lYXJlc3REYXRlID09IERhdGVUaW1lLk1pblZhbHVlKSByZXR1cm47CgogICAgICAgICAgICB2YXIgbmV3UHVzaCA9IENyZWF0ZU5vdGlmaWNhdGlvbihuZWFyZXN0RGF0ZSwgImFkZGl0aW9uIik7CiAgICAgICAgICAgIG5vdGlmaWNhdGlvbnMuQWRkKG5ld1B1c2gpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHZhciBuZWFyZXN0RGF0ZSA9IF9zdG9yYWdlLkR1ZWxTY2hlZHVsZS5FdmVudElkLlNjaGVkdWxlcy5HZXROZWFyZXN0TmV4dFN0YXJ0VGltZShfc3RvcmFnZSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZS5Vc2VySW5mb0NvbXBvbmVudHM7Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZS5Vc2VySW5mb0NvbXBvbmVudHM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
