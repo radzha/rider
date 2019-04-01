@@ -110,11 +110,11 @@
         <mark key="^" line="97" column="28" />
         <mark key="." line="97" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1554117289109">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1554119636245">
         <mark key="'" line="63" column="34" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="36" />
-        <mark key="." line="66" column="36" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
         <mark key="^" line="66" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1553880456191">
@@ -259,12 +259,12 @@
         <mark key="." line="63" column="58" />
         <mark key="^" line="63" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" timestamp="1553700939880">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" timestamp="1554119055652">
         <mark key="'" line="25" column="71" />
-        <mark key="[" line="128" column="49" />
-        <mark key="]" line="128" column="64" />
-        <mark key="." line="128" column="64" />
-        <mark key="^" line="128" column="64" />
+        <mark key="[" line="69" column="54" />
+        <mark key="]" line="70" column="42" />
+        <mark key="." line="70" column="42" />
+        <mark key="^" line="70" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1553613042594">
         <mark key="'" line="715" column="135" />
@@ -376,7 +376,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Scheduler/SchedulerBehaviour.cs" timestamp="1553877419005">
         <mark key="'" line="10" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554113101922">
+      <file name="/Dummy.txt" timestamp="1554119625203">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/UpgradeItemWidget.cs" timestamp="1551958113494">
@@ -516,14 +516,14 @@
       <jump line="63" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIGluZm8gPSBKc29uVXRpbHMuSnNvbkdldERpY3Qoc3RhdHVzRGljdFsic3RhdHVzIl0pOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>Storage.GetStorage()</text>
       </register>
       <register name="/" type="4">
         <text>clog</text>
@@ -532,34 +532,34 @@
         <text encoding="base64">ICAgICAgICAgICAgQ3JlYXRlRXZlbnROb3RpZmljYXRpb25zKG5vdGlmaWNhdGlvbnMsIHNjaGVkdWxlcywgdGl0bGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIGluZm8gPSBKc29uVXRpbHMuSnNvbkdldERpY3Qoc3RhdHVzRGljdFsic3RhdHVzIl0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNyZWF0ZSBldiIuQ0xvZygpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIHN0YXR1c0RpY3QgPSBKc29uVXRpbHMuSnNvbkdldERpY3QocGxheWVyRGljdFtpZC5Ub1N0cmluZygpXSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFyIGlkID0gaW50LlBhcnNlKHBsYXllckRpY3QuS2V5cy5GaXJzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNyZWF0ZSBldiIuQ0xvZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5lYXJlc3REYXRlID0gX3N0b3JhZ2UuRHVlbFNjaGVkdWxlLkV2ZW50SWQuU2NoZWR1bGVzLkdldE5lYXJlc3ROZXh0U3RhcnRUaW1lKF9zdG9yYWdlKTsKICAgICAgICAgICAgaWYgKG5lYXJlc3REYXRlID09IERhdGVUaW1lLk1pblZhbHVlKSByZXR1cm47CgogICAgICAgICAgICB2YXIgbmV3UHVzaCA9IENyZWF0ZU5vdGlmaWNhdGlvbihuZWFyZXN0RGF0ZSwgImFkZGl0aW9uIik7CiAgICAgICAgICAgIG5vdGlmaWNhdGlvbnMuQWRkKG5ld1B1c2gpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHZhciBuZWFyZXN0RGF0ZSA9IF9zdG9yYWdlLkR1ZWxTY2hlZHVsZS5FdmVudElkLlNjaGVkdWxlcy5HZXROZWFyZXN0TmV4dFN0YXJ0VGltZShfc3RvcmFnZSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZS5Vc2VySW5mb0NvbXBvbmVudHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5lYXJlc3REYXRlID0gX3N0b3JhZ2UuRHVlbFNjaGVkdWxlLkV2ZW50SWQuU2NoZWR1bGVzLkdldE5lYXJlc3ROZXh0U3RhcnRUaW1lKF9zdG9yYWdlKTsKICAgICAgICAgICAgaWYgKG5lYXJlc3REYXRlID09IERhdGVUaW1lLk1pblZhbHVlKSByZXR1cm47CgogICAgICAgICAgICB2YXIgbmV3UHVzaCA9IENyZWF0ZU5vdGlmaWNhdGlvbihuZWFyZXN0RGF0ZSwgImFkZGl0aW9uIik7CiAgICAgICAgICAgIG5vdGlmaWNhdGlvbnMuQWRkKG5ld1B1c2gpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
