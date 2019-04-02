@@ -222,11 +222,11 @@
         <mark key="^" line="1026" column="60" />
         <mark key="." line="866" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1554212838958">
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="45" column="29" />
-        <mark key="^" line="45" column="29" />
-        <mark key="." line="45" column="29" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1554213533231">
+        <mark key="'" line="20" column="26" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightManager.cs" timestamp="1554211347851">
         <mark key="'" line="18" column="41" />
@@ -550,9 +550,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="124" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="135" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="137" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="131" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="195" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
@@ -650,61 +647,64 @@
       <jump line="115" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="18" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightManager.cs" />
       <jump line="28" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/AimingUnitHighlighter.cs" />
+      <jump line="42" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
+      <jump line="44" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
+      <jump line="20" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY3RpdmUiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAmJiBDdXJyZW50QWN0aXZlRXZlbnQuSWQgIT0gU3RvcmFnZS5Ub3VybmFtZW50U2V0dGluZ3MuCg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>.EventId.Id;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCb3RDb2RlTmFtZVw+</text>
+        <text encoding="base64">XDxDdXJyZW50QWN0aXZlRXZlbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Q3VycmVudEFjdGl2ZUV2ZW50ICE9IG51bGwgJiYgQ3VycmVudEFjdGl2ZUV2ZW50LklkICE9IFN0b3JhZ2UuRHVlbFNjaGVkdWxlLkV2ZW50SWQuSWQ7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAmJiBDdXJyZW50QWN0aXZlRXZlbnQuSWQgIT0gU3RvcmFnZS5DaXRhZGVsQXR0YWNrc1NldHRpbmdzLkV2ZW50SWQuSWQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY3RpdmUiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAmJiBDdXJyZW50QWN0aXZlRXZlbnQuSWQgIT0gU3RvcmFnZS5Ub3VybmFtZW50U2V0dGluZ3MuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByZXZQbGFjZXMgPSBQbGFjZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKGFjdGl2ZSkgQ3VycmVudEFjdGl2ZUV2ZW50LklkLkNMb2coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY3RpdmUiLkNMb2coYWN0aXZlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhY3RpdmUiLkNMb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByZXZQbGFjZXMgPSBQbGFjZXM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChDb25uZWN0b3IuRVZFTlRfRVhJVCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCb3RDb2RlTmFtZVw+</last-search>
+      <last-search encoding="base64">XDxDdXJyZW50QWN0aXZlRXZlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCb3RDb2RlTmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxDdXJyZW50QWN0aXZlRXZlbnRcPg==</last-pattern>
       <last-replace>ReactiveList</last-replace>
       <last-substitute encoding="base64">XDxMaXN0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -712,7 +712,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRQb3NzaWJsZUV2ZW50c1w+</entry>
         <entry>isactive</entry>
         <entry encoding="base64">XDxMb2FkXD4=</entry>
         <entry>fights</entry>
@@ -732,6 +731,7 @@
         <entry encoding="base64">XDxDYWxjdWxhdGluZ1w+</entry>
         <entry>manager</entry>
         <entry encoding="base64">XDxCb3RDb2RlTmFtZVw+</entry>
+        <entry encoding="base64">XDxDdXJyZW50QWN0aXZlRXZlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0</entry>
@@ -752,8 +752,8 @@
         <entry encoding="base64">JzwsJz5zL2RhdGEvZGljdC9n</entry>
         <entry encoding="base64">JzwsJz5zL3BsYXllckRhdGEuVmFsdWUvcGxheWVyL2c=</entry>
         <entry encoding="base64">JXMvXDxMaXN0XD4vUmVhY3RpdmVMaXN0L2c=</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
