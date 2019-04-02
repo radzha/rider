@@ -193,12 +193,12 @@
         <mark key="." line="127" column="99" />
         <mark key="^" line="127" column="99" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" timestamp="1554133775521">
-        <mark key="'" line="32" column="26" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="117" column="126" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" timestamp="1554193287762">
+        <mark key="'" line="128" column="67" />
+        <mark key="[" line="128" column="56" />
+        <mark key="]" line="128" column="68" />
+        <mark key="^" line="128" column="68" />
+        <mark key="." line="128" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/SchedulesExt.cs" timestamp="1554132848554">
         <mark key="[" line="36" column="0" />
@@ -368,7 +368,7 @@
         <mark key="^" line="142" column="110" />
         <mark key="." line="142" column="110" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554133932746">
+      <file name="/Dummy.txt" timestamp="1554193317575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CBED0BF0-58A8-4738-8F8B-DDF15ED15CD1/8a/d77ef6eb/TournamentSettings.cs" timestamp="1554129084260" />
@@ -401,9 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="92" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
-      <jump line="38" column="126" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelPointsCollection.cs" />
-      <jump line="45" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelPointsCollection.cs" />
       <jump line="14" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelPointsCollection.cs" />
       <jump line="36" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelPointsCollection.cs" />
       <jump line="18" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" />
@@ -490,30 +487,33 @@
       <jump line="37" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
       <jump line="82" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
       <jump line="79" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
-      <jump line="29" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="232" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
-      <jump line="230" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="150" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="62" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="103" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="167" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="37" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="115" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="32" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="115" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="29" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="230" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="58" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="84" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="128" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGNvdW50ZXIgPSBub3RBdHRhY2tlZCArICIvIiArIChfdXNlckluZm8uVG91cm5hbWVudC5QbGF5ZXJzLkNvdW50IC0gMSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>StartTime</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>_userInfo.Tournament.</text>
+        <text>StartTime</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYmF0dGxlQ291bnRcPg==</text>
+        <text encoding="base64">XDxfdGltZXJGaW5pc2hUaW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZSA9IHN0b3JhZ2UgPz8gU3RvcmFnZS5HZXRTdG9yYWdlKCk7Cg==</text>
@@ -553,9 +553,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYmF0dGxlQ291bnRcPg==</last-search>
+      <last-search encoding="base64">XDxfdGltZXJGaW5pc2hUaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYmF0dGxlQ291bnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfdGltZXJGaW5pc2hUaW1lXD4=</last-pattern>
       <last-replace>ReactiveList</last-replace>
       <last-substitute encoding="base64">XDxMaXN0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -577,12 +577,12 @@
         <entry encoding="base64">XDxHZXRQb3NzaWJsZUV2ZW50c1w+</entry>
         <entry>isactive</entry>
         <entry encoding="base64">XDxMb2FkXD4=</entry>
-        <entry encoding="base64">XDxfdGltZXJcPg==</entry>
-        <entry encoding="base64">XDxfdGltZXJGaW5pc2hUaW1lXD4=</entry>
         <entry>fights</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxfdG91cm5hbWVudFw+</entry>
         <entry encoding="base64">XDxfYmF0dGxlQ291bnRcPg==</entry>
+        <entry encoding="base64">XDxfdGltZXJcPg==</entry>
+        <entry encoding="base64">XDxfdGltZXJGaW5pc2hUaW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0</entry>
