@@ -370,10 +370,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1551710605258">
         <mark key="'" line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" timestamp="1554193287762">
-        <mark key="'" line="128" column="67" />
-        <mark key="[" line="128" column="56" />
-        <mark key="]" line="128" column="68" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" timestamp="1554284330760">
+        <mark key="'" line="88" column="69" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="90" column="0" />
         <mark key="^" line="128" column="68" />
         <mark key="." line="128" column="68" />
       </file>
@@ -674,12 +674,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePriceItem.cs" timestamp="1551873872807">
         <mark key="'" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554207565623">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="138" column="48" />
-        <mark key="]" line="138" column="60" />
-        <mark key="^" line="138" column="60" />
-        <mark key="." line="138" column="60" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554284357601">
+        <mark key="'" line="53" column="89" />
+        <mark key="[" line="53" column="81" />
+        <mark key="]" line="53" column="84" />
+        <mark key="^" line="53" column="84" />
+        <mark key="." line="53" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/DamageTypeCode.cs" timestamp="1551789986258">
         <mark key="'" line="35" column="21" />
@@ -701,10 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/TournamentFight.cs" />
-      <jump line="757" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="750" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="761" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="69" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
       <jump line="1313" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="120" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
@@ -801,61 +797,65 @@
       <jump line="256" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" />
       <jump line="257" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" />
       <jump line="68" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
+      <jump line="109" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="88" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
+      <jump line="53" column="89" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ew</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ew</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>subs</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgU3luY1VJbnRWYWx1ZShpbnQgZGVmYXVsdFZhbHVlLCB1aW50IGZsYWcpIDogYmFzZShkZWZhdWx0VmFsdWUsIGZsYWcpCiAgICAgICAge30KCiAgICAgICAgcHJvdGVjdGVkIG92ZXJyaWRlIGJvb2wgRXF1YWxzKGludCBsZWZ0LCBpbnQgcmlnaHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbGVmdCA9PSByaWdodDsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBvdmVycmlkZSB2b2lkIFNlcmlhbGl6ZShOZXR3b3JrV3JpdGVyIHdyaXRlcikKICAgICAgICB7CiAgICAgICAgICAgIHdyaXRlci5Xcml0ZVBhY2tlZFVJbnQzMigodWludClWYWx1ZSk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgdm9pZCBEZXNlcmlhbGl6ZShOZXR3b3JrUmVhZGVyIHJlYWRlcikKICAgICAgICB7CiAgICAgICAgICAgIFZhbHVlID0gKGludClyZWFkZXIuUmVhZFBhY2tlZFVJbnQzMigpOwogICAgICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25FbmFibGUoKQogICAgICAgIHsKICAgICAgICAgICAgX3VzZXJJbmZvID0gX3VzZXJJbmZvID8/IChfdXNlckluZm8gPSBVc2VySW5mby5HZXRVc2VySW5mbygpKTsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBfc3RvcmFnZSA/PyAoX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKSk7CiAgICAgICAgICAgIF91c2VySW5mby5HZXRNb25leShBZG1pbkluZm8uTU9ORVlfQ09ERV9UT1VSTkFNRU5UKS5Db3VudC5TdWJzY3JpYmUoT25Ub3VybmFtZW50TW9uZXlVcGRhdGUpLldoaWxlRW5hYmxlZCh0aGlzKTsKICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlPFNjcmVlblR5cGU+KFVJTWFuYWdlci5FVkVOVF9UT1BfU0NSRUVOX0NIQU5HRUQsIF8gPT4gVXBkYXRlVmlldygpKS5XaGlsZUVuYWJsZWQodGhpcyk7CiAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZShUb3VybmFtZW50SW5mby5FVkVOVF9VUERBVEVELCBVcGRhdGVWaWV3KS5XaGlsZUVuYWJsZWQodGhpcyk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlPFNjcmVlblR5cGU+KFVJTWFuYWdlci5FVkVOVF9UT1BfU0NSRUVOX0NIQU5HRUQsIF8gPT4gVXBkYXRlVmlldygpKS5XaGlsZUVuYWJsZWQodGhpcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJJbmZvLkdldE1vbmV5KEFkbWluSW5mby5NT05FWV9DT0RFX1RPVVJOQU1FTlQpLkNvdW50LlN1YnNjcmliZShPblRvdXJuYW1lbnRNb25leVVwZGF0ZSkuV2hpbGVFbmFibGVkKHRoaXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0b3JhZ2UgPSBfc3RvcmFnZSA/PyAoX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX3RhcmdldC5nYW1lT2JqZWN0Lm5hbWUuTG9nKF90YXJnZXQuUGFyZW50Qm90SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJJbmZvID0gX3VzZXJJbmZvID8/IChfdXNlckluZm8gPSBVc2VySW5mby5HZXRVc2VySW5mbygpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoX3RhcmdldCAhPSBudWxsKQo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiZSIuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX3RhcmdldC5nYW1lT2JqZWN0Lm5hbWUuTG9nKF90YXJnZXQuUGFyZW50Qm90SWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>subs</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>subs</last-pattern>
       <last-replace>ReactiveList</last-replace>
       <last-substitute encoding="base64">XDxMaXN0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -863,7 +863,6 @@
     </search>
     <history>
       <history-search>
-        <entry>manager</entry>
         <entry encoding="base64">XDxDdXJyZW50QWN0aXZlRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxfbWVzaFJlbmRlcmVyc1w+</entry>
         <entry encoding="base64">XDxfdGFyZ2V0XD4=</entry>
@@ -883,6 +882,7 @@
         <entry>Parent</entry>
         <entry encoding="base64">XDxQYXJlbnRCb3RJZFw+</entry>
         <entry>clog</entry>
+        <entry>subs</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0</entry>
