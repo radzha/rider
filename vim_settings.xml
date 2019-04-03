@@ -374,8 +374,6 @@
         <mark key="'" line="88" column="69" />
         <mark key="[" line="82" column="0" />
         <mark key="]" line="90" column="0" />
-        <mark key="^" line="128" column="68" />
-        <mark key="." line="128" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/SchedulesExt.cs" timestamp="1554132848554">
         <mark key="[" line="36" column="0" />
@@ -564,6 +562,11 @@
         <mark key="." line="230" column="33" />
         <mark key="^" line="230" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1553616774410">
+        <mark key="'" line="192" column="43" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1553692875008">
         <mark key="'" line="611" column="70" />
         <mark key="[" line="615" column="19" />
@@ -584,7 +587,7 @@
         <mark key="." line="68" column="16" />
         <mark key="^" line="68" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" timestamp="1554206424278">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" timestamp="1554286418745">
         <mark key="'" line="15" column="84" />
         <mark key="[" line="37" column="17" />
         <mark key="]" line="37" column="24" />
@@ -597,6 +600,11 @@
         <mark key="]" line="171" column="66" />
         <mark key="^" line="171" column="66" />
         <mark key="." line="171" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" timestamp="1553617544606">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/PvpFightPart.cs" timestamp="1553765603916">
         <mark key="[" line="66" column="40" />
@@ -636,7 +644,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Scheduler/SchedulerBehaviour.cs" timestamp="1553877419005">
         <mark key="'" line="10" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554281439069">
+      <file name="/Dummy.txt" timestamp="1554285367090">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Editor/ChainAttackActionDescriptionInspector.cs" timestamp="1551803787284">
@@ -674,12 +682,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePriceItem.cs" timestamp="1551873872807">
         <mark key="'" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554284357601">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554288839560">
         <mark key="'" line="53" column="89" />
-        <mark key="[" line="53" column="81" />
-        <mark key="]" line="53" column="84" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="16" />
         <mark key="^" line="53" column="84" />
-        <mark key="." line="53" column="84" />
+        <mark key="." line="196" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/DamageTypeCode.cs" timestamp="1551789986258">
         <mark key="'" line="35" column="21" />
@@ -803,8 +811,8 @@
       <jump line="53" column="89" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ew</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3BsYXllcnMuQ2xlYXIoKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -816,7 +824,7 @@
         <text>subs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25FbmFibGUoKQogICAgICAgIHsKICAgICAgICAgICAgX3VzZXJJbmZvID0gX3VzZXJJbmZvID8/IChfdXNlckluZm8gPSBVc2VySW5mby5HZXRVc2VySW5mbygpKTsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBfc3RvcmFnZSA/PyAoX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKSk7CiAgICAgICAgICAgIF91c2VySW5mby5HZXRNb25leShBZG1pbkluZm8uTU9ORVlfQ09ERV9UT1VSTkFNRU5UKS5Db3VudC5TdWJzY3JpYmUoT25Ub3VybmFtZW50TW9uZXlVcGRhdGUpLldoaWxlRW5hYmxlZCh0aGlzKTsKICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlPFNjcmVlblR5cGU+KFVJTWFuYWdlci5FVkVOVF9UT1BfU0NSRUVOX0NIQU5HRUQsIF8gPT4gVXBkYXRlVmlldygpKS5XaGlsZUVuYWJsZWQodGhpcyk7CiAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZShUb3VybmFtZW50SW5mby5FVkVOVF9VUERBVEVELCBVcGRhdGVWaWV3KS5XaGlsZUVuYWJsZWQodGhpcyk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3BsYXllcnMuQ2xlYXIoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlPFNjcmVlblR5cGU+KFVJTWFuYWdlci5FVkVOVF9UT1BfU0NSRUVOX0NIQU5HRUQsIF8gPT4gVXBkYXRlVmlldygpKS5XaGlsZUVuYWJsZWQodGhpcyk7Cg==</text>
