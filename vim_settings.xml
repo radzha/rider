@@ -126,6 +126,9 @@
         <mark key="^" line="141" column="91" />
         <mark key="." line="141" column="91" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1554456184500">
+        <mark key="'" line="1841" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" timestamp="1554279577083">
         <mark key="'" line="33" column="22" />
         <mark key="[" line="33" column="0" />
@@ -172,12 +175,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="89" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" timestamp="1554368780078">
-        <mark key="[" line="90" column="21" />
-        <mark key="]" line="91" column="75" />
-        <mark key="^" line="91" column="75" />
-        <mark key="." line="91" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/DebugInfo.cs" timestamp="1554455511954">
         <mark key="'" line="25" column="22" />
@@ -386,11 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="350" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="557" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="1663" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="418" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="284" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="286" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="424" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
@@ -486,6 +478,11 @@
       <jump line="204" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="108" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/DebugInfo.cs" />
       <jump line="25" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/DebugInfo.cs" />
+      <jump line="1555" column="0" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="1575" column="12" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="1799" column="12" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="1819" column="12" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="1841" column="12" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -498,7 +495,7 @@
         <text>F</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZHRcPg==</text>
+        <text>Update(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGZsb2F0IF9mcmFtZUNvdW50OwogICAgICAgIHByaXZhdGUgZmxvYXQgX2R0OwogICAgICAgIHByaXZhdGUgZmxvYXQgX2ZwczsKICAgICAgICBwcml2YXRlIGZsb2F0IF91cGRhdGVSYXRlID0gNC4wZjsKICAgICAgICBwcml2YXRlIGZsb2F0IF9taW5GcHNWYWx1ZSA9IGZsb2F0Lk1heFZhbHVlOwogICAgICAgIHByaXZhdGUgZmxvYXQgX21heEZwc1ZhbHVlID0gZmxvYXQuTWluVmFsdWU7CiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfc3dpcGVEaXN0YW5jZUJ5QXhpc1g7CiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfdGltZSA9IDA7Cgo=</text>
@@ -538,9 +535,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfZHRcPg==</last-search>
+      <last-search>Update(</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZHRcPg==</last-pattern>
+      <last-pattern>Update(</last-pattern>
       <last-replace>ReactiveList</last-replace>
       <last-substitute encoding="base64">XDxMaXN0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -548,12 +545,10 @@
     </search>
     <history>
       <history-search>
-        <entry>raw</entry>
         <entry encoding="base64">XDxSZXNldFw+</entry>
         <entry encoding="base64">XDxVcGRhdGVBdmdGcHNcPg==</entry>
         <entry encoding="base64">XDxtX0N1cnJlbnRTdGF0ZVw+</entry>
         <entry>update</entry>
-        <entry>Update</entry>
         <entry encoding="base64">XDxEZWJ1Z1w+</entry>
         <entry encoding="base64">XDxDYWxsX1NldFVuaXR5QWN0aXZpdHlcPg==</entry>
         <entry>Awake</entry>
@@ -568,6 +563,8 @@
         <entry encoding="base64">XDxfZmlnaHRUaW1lclw+</entry>
         <entry>ongui</entry>
         <entry encoding="base64">XDxfZHRcPg==</entry>
+        <entry>Update</entry>
+        <entry>Update(</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0</entry>
