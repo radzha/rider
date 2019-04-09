@@ -125,8 +125,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/EffectQueue.cs" timestamp="1553513916615">
         <mark key="'" line="65" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" timestamp="1554818499194">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" timestamp="1554819885083">
         <mark key="'" line="79" column="21" />
+        <mark key="[" line="56" column="35" />
         <mark key="]" line="56" column="34" />
         <mark key="^" line="56" column="34" />
         <mark key="." line="56" column="34" />
@@ -250,8 +251,8 @@
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1554818829920">
-        <mark key="'" line="2330" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1554819127101">
+        <mark key="'" line="2138" column="13" />
         <mark key="[" line="2165" column="109" />
         <mark key="]" line="2170" column="12" />
         <mark key="^" line="2170" column="12" />
@@ -283,10 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" />
-      <jump line="66" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" />
-      <jump line="269" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" />
-      <jump line="25" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" />
       <jump line="72" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" />
       <jump line="71" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
       <jump line="74" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
@@ -383,6 +380,10 @@
       <jump line="131" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
       <jump line="79" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="2330" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="2333" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="2135" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="2136" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="2138" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -395,7 +396,7 @@
         <text>PlayerType</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>hitimpl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgYm9vbCBJc0ZyZWV6ZWQK</text>
@@ -435,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>hitimpl</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>hitimpl</last-pattern>
       <last-replace>ReactiveList</last-replace>
       <last-substitute encoding="base64">XDxMaXN0XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -445,7 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQQVlNRU5UU19LRVlcPg==</entry>
         <entry>log</entry>
         <entry encoding="base64">XDxVc2VyRGVwdGhTa2lsbHNcPg==</entry>
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
@@ -465,6 +465,7 @@
         <entry>model</entry>
         <entry>dequ</entry>
         <entry>clog</entry>
+        <entry>hitimpl</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0</entry>
