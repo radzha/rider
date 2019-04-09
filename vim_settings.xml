@@ -105,12 +105,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/MRGS/MRGSNotificationManager.cs" timestamp="1553858180085">
         <mark key="'" line="461" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" timestamp="1554801447253">
-        <mark key="'" line="32" column="23" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" timestamp="1554806998604">
+        <mark key="'" line="65" column="37" />
         <mark key="[" line="64" column="45" />
-        <mark key="]" line="65" column="53" />
-        <mark key="^" line="65" column="53" />
-        <mark key="." line="65" column="53" />
+        <mark key="]" line="65" column="55" />
+        <mark key="^" line="65" column="55" />
+        <mark key="." line="65" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/NewItemsScreenController.cs" timestamp="1554728855866">
         <mark key="'" line="41" column="20" />
@@ -175,12 +175,12 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1554456184500">
         <mark key="'" line="1854" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" timestamp="1554804023594">
-        <mark key="'" line="113" column="16" />
-        <mark key="[" line="118" column="40" />
-        <mark key="]" line="123" column="59" />
-        <mark key="." line="123" column="59" />
-        <mark key="^" line="123" column="59" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" timestamp="1554807127115">
+        <mark key="'" line="34" column="30" />
+        <mark key="[" line="95" column="16" />
+        <mark key="]" line="95" column="30" />
+        <mark key="." line="95" column="30" />
+        <mark key="^" line="95" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1554214798332">
         <mark key="'" line="868" column="34" />
@@ -492,8 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
-      <jump line="176" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="111" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="75" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
       <jump line="87" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
@@ -592,52 +590,54 @@
       <jump line="101" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
       <jump line="106" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
       <jump line="112" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
+      <jump line="65" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnActionDescription.cs" />
+      <jump line="34" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SpawnInProcess</text>
+        <text>HasFreezedParent(ai)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>SpawnInProcess</text>
+        <text>HasFreezedParent(ai)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcXVldWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGJvb2wgQ29ubmVjdGVkUGFydCB7IGdldDsgc2V0OyB9Cg==</text>
+      <register name="0" type="4">
+        <text>HasFreezedParent(ai)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBfcXVldWUuRGVxdWV1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzRnJlZXplZFBhcmVudChhaSkuQ0xvZygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBfcXVldWUuUGVlaygpOwogICAgICAgICAgICByZXR1cm4gZGF0YS4KICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhcmVudCA9IF9xdWV1ZS5QZWVrKCkuUGFyZW50Qm90SWQ7CiAgICAgICAgICAgIGlmIChJc0ZyZWV6ZWQocGFyZW50KSkgcmV0dXJuIFNwYXduUmVzdWx0LlNwYXduSW5Qcm9jZXNzOwogICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgSGFzRnJlZXplZFBhcmVudChBSVN5c3RlbSBhaSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChfcXVldWUuQ291bnQgPT0gMCkgcmV0dXJuIGZhbHNlOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhcmVudEJvdCA9IGFpLkJvdHMuRmluZChib3QgPT4gYm90LklkLkVxdWFscyhwYXJlbnQpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2FtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBhcmVudCA9IGRhdGEuUGFyZW50Qm90SWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIElzUGFyZW50RnJlZXplZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoX3F1ZXVlLlBlZWsoKS5QYXJlbnRCb3RJZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGFzRnJlZXplZFBhcmVudChhaSkuQ0xvZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSBfcXVldWUuCiAgICAgICAgICAgIHZhciBwYXJlbnQgPSBkYXRhLlBhcmVudEJvdElkOwogICAgICAgICAgICB2YXIgcGFyZW50Qm90ID0gYWkuQm90cy5GaW5kKGJvdCA9PiBib3QuSWQuRXF1YWxzKHBhcmVudCkpOwogICAgICAgICAgICByZXR1cm4gSXNGcmVlemVkKHBhcmVudEJvdCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlc3VsdCA9ICBNYXRoZi5MZXJwKG1pbiwgbWF4LCB3ZWlnaHRlZFVzZXJMZXZlbCAvIGxldmVsRGVsdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgSGFzRnJlZXplZFBhcmVudChBSVN5c3RlbSBhaSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBJc1BhcmVudEZyZWV6ZWQKICAgICAgICAgICAgaWYgKF9xdWV1ZS5Db3VudCA9PSAwKSByZXR1cm4gZmFsc2U7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
