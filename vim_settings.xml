@@ -78,12 +78,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightExit/PveDefeatSplashScreen.cs" timestamp="1554810430360">
         <mark key="'" line="21" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1554907273483">
-        <mark key="'" line="124" column="20" />
-        <mark key="[" line="135" column="56" />
-        <mark key="]" line="135" column="57" />
-        <mark key="." line="135" column="57" />
-        <mark key="^" line="135" column="29" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1554910103524">
+        <mark key="'" line="123" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="132" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/MissionPart.cs" timestamp="1554735792012">
         <mark key="'" line="7" column="41" />
@@ -438,14 +438,14 @@
       <jump line="124" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: TournamentState.Waiting;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>: TournamentState.Waiting;</text>
+        <text>hasLastInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZXRUb3VybmFtZW50U3RhdGVcPg==</text>
@@ -454,34 +454,34 @@
         <text encoding="base64">ICAgICAgICBwdWJsaWMgRGF0ZVRpbWUgR2V0UmVnaXN0cmF0aW9uRmluaXNoKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnJlbnRUb3VybmFtZW50ID0gVG91cm5hbWVudFR5cGVzLkdldEN1cnJlbnRUb3VybmFtZW50VHlwZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhc0xhc3RJbmZvID0gTGFzdFRhYmxlVXBkYXRlVGltZS5DdXJyZW50VmFsdWUgPiAwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYmIERhdGVUaW1lLk1pblZhbHVlIDwgVGltZVN0YXJ0LkN1cnJlbnRWYWx1ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmJiBUaW1lRW5kLkN1cnJlbnRWYWx1ZSA8IFRpbWVNYW5hZ2VyLkdldCgpLk5vdzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRUb3VybmFtZW50ICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiYgVGltZUVuZC5DdXJyZW50VmFsdWUgPCBUaW1lTWFuYWdlci5HZXQoKS5Ob3cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICYmIFRpbWVFbmQuQ3VycmVudFZhbHVlIDwgVGltZU1hbmFnZXIuR2V0KCkuTm93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA6IFRvdXJuYW1lbnRTdGF0ZS5XYWl0aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICYmIFRpbWVFbmQuQ3VycmVudFZhbHVlID4gRGF0ZVRpbWUuTWluVmFsdWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA/IFRvdXJuYW1lbnRTdGF0ZS5MYXN0UmVzdWx0c1Nob3dpbmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRlID0gdG91cm5hbWVudC5Jc0xhc3RUb3VybmFtZW50QXZhaWxhYmxlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGN1cnJlbnRUb3VybmFtZW50ID0gVG91cm5hbWVudFR5cGVzLkdldEN1cnJlbnRUb3VybmFtZW50VHlwZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGN1cnJlbnRUb3VybmFtZW50ICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
