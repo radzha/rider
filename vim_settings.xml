@@ -161,6 +161,7 @@
         <mark key="." line="159" column="7" />
         <mark key="^" line="159" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Android/res/values/bools.xml" timestamp="1554968777218" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1554195212273">
         <mark key="'" line="66" column="46" />
         <mark key="[" line="29" column="24" />
@@ -218,9 +219,6 @@
         <mark key="^" line="76" column="50" />
         <mark key="." line="84" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ActionDescription.cs" timestamp="1554814132470">
-        <mark key="'" line="11" column="17" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/EffectQueue.cs" timestamp="1553513916615">
         <mark key="'" line="65" column="17" />
       </file>
@@ -236,6 +234,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="89" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/DebugInfo.cs" timestamp="1554969414014">
+        <mark key="[" line="52" column="44" />
+        <mark key="]" line="52" column="50" />
+        <mark key="^" line="52" column="50" />
+        <mark key="." line="52" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/VideoAdController.cs" timestamp="1554900192811">
         <mark key="'" line="117" column="0" />
@@ -357,8 +361,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Scheduler/ScheduledActionFactory.cs" timestamp="1553877214749">
         <mark key="'" line="31" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1554454682782">
-        <mark key="'" line="204" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1554969318122">
+        <mark key="'" line="1797" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1554900172399">
         <mark key="'" line="706" column="0" />
@@ -475,7 +479,7 @@
       <file name="/MediaPlayerCtrl.cs" timestamp="1554452312001">
         <mark key="'" line="3893" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554915801899">
+      <file name="/Dummy.txt" timestamp="1554969215037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1554380920318">
@@ -510,12 +514,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePriceItem.cs" timestamp="1551873872807">
         <mark key="'" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554967884935">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554968960191">
         <mark key="'" line="99" column="73" />
-        <mark key="[" line="116" column="37" />
-        <mark key="]" line="116" column="47" />
-        <mark key="." line="116" column="47" />
-        <mark key="^" line="116" column="47" />
+        <mark key="[" line="58" column="73" />
+        <mark key="]" line="58" column="74" />
+        <mark key="." line="58" column="74" />
+        <mark key="^" line="58" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/DamageTypeCode.cs" timestamp="1551789986258">
         <mark key="'" line="35" column="21" />
@@ -529,18 +533,20 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobePointsCollection.cs" timestamp="1551711133385">
         <mark key="'" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" timestamp="1554889854176">
-        <mark key="'" line="159" column="95" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" timestamp="1554968849776">
+        <mark key="'" line="164" column="95" />
+        <mark key="[" line="71" column="24" />
+        <mark key="]" line="71" column="24" />
+        <mark key="." line="71" column="24" />
+        <mark key="^" line="71" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" timestamp="1554820514479">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" timestamp="1554968785986">
         <mark key="'" line="1080" column="82" />
+        <mark key="[" line="1082" column="0" />
+        <mark key="]" line="1082" column="61" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1680" column="12" filename="/ConsoleManager.cs" />
-      <jump line="1709" column="12" filename="/ConsoleManager.cs" />
-      <jump line="1723" column="12" filename="/ConsoleManager.cs" />
-      <jump line="1736" column="12" filename="/ConsoleManager.cs" />
       <jump line="1757" column="12" filename="/ConsoleManager.cs" />
       <jump line="1769" column="12" filename="/ConsoleManager.cs" />
       <jump line="1789" column="27" filename="/ConsoleManager.cs" />
@@ -637,69 +643,72 @@
       <jump line="139" column="20" filename="/TournamentInfo.cs" />
       <jump line="175" column="39" filename="/TournamentInfo.cs" />
       <jump line="170" column="23" filename="/TournamentInfo.cs" />
+      <jump line="132" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="360" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="588" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="1797" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LastResultsShowing</text>
+        <text>obj</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>LastResultsShowing</text>
+        <text>obj</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGF0ZUVcPg==</text>
+        <text encoding="base64">XDxHdWlEZWJ1Z0luZm9FbmFibGVkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgVG91cm5hbWVudFN0YXRlLkxhc3RSZXN1bHRzU2hvd2luZzoK</text>
+        <text encoding="base64">I2lmIEVWTzJfQ09ORklHX1RFU1QgfHwgRVZPMl9DT05GSUdfREVWIHx8IEVWTzJfQ09ORklHX0RPQ0tFUgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWVNYW5hZ2VyLkdldCgpLk5vdyAuQWRkUGFyYW0odG91cm5hbWVudC5HZXRSZWdpc3RyYXRpb25GaW5pc2goKSkuQ0xvZygpOwo=</text>
+        <text encoding="base64">I2VuZGlmCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWVNYW5hZ2VyLkdldCgpLk5vdyAuQWRkUGFyYW0odG91cm5hbWVudC5HZXRSZWdpc3RyYXRpb25GaW5pc2goKSkuQ0xvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90b3VybmFtZW50U3RhdGUgIT0gb2xkU3RhdGUpIF90b3VybmFtZW50U3RhdGUuQ0xvZygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF90b3VybmFtZW50U3RhdGUgIT0gb2xkU3RhdGUpIF90b3VybmFtZW50U3RhdGUuQ0xvZygpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVXBkYXRlVG91cm5hbWVudEluZm8oKTsKICAgICAgICAgICAgICAgIFNldFRpbWVyVmFsdWUoKTsKICAgICAgICAgICAgICAgIFVwZGF0ZVRpbWVyKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVwZGF0ZVRvdXJuYW1lbnRJbmZvKCk7CiAgICAgICAgICAgICAgICBTZXRUaW1lclZhbHVlKCk7CiAgICAgICAgICAgICAgICBVcGRhdGVUaW1lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVXBkYXRlVG91cm5hbWVudEluZm8oKTsKICAgICAgICAgICAgICAgIFNldFRpbWVyVmFsdWUoKTsKICAgICAgICAgICAgICAgIFVwZGF0ZVRpbWVyKCk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlVG91cm5hbWVudFN0YXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVwZGF0ZVRvdXJuYW1lbnRJbmZvKCk7CiAgICAgICAgICAgICAgICBTZXRUaW1lclZhbHVlKCk7CiAgICAgICAgICAgICAgICBVcGRhdGVUaW1lcigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9sZFN0YXRlID0gX3RvdXJuYW1lbnRTdGF0ZTsKICAgICAgICAgICAgX3RvdXJuYW1lbnRTdGF0ZSA9IEdldFRvdXJuYW1lbnRTdGF0ZSgpOwoKICAgICAgICAgICAgaWYgKF90b3VybmFtZW50U3RhdGUgIT0gb2xkU3RhdGUpIF90b3VybmFtZW50U3RhdGUuQ0xvZygpOwogICAgICAgICAgICBpZiAob2xkU3RhdGUgPT0gX3RvdXJuYW1lbnRTdGF0ZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVXBkYXRlVG91cm5hbWVudEluZm8oKTsKICAgICAgICAgICAgICAgIFNldFRpbWVyVmFsdWUoKTsKICAgICAgICAgICAgICAgIFVwZGF0ZVRpbWVyKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBVcGRhdGVUb3VybmFtZW50SW5mbygpOwogICAgICAgICAgICAgICAgU2V0VGltZXJWYWx1ZSgpOwogICAgICAgICAgICAgICAgVXBkYXRlVGltZXIoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlVG91cm5hbWVudFN0YXRlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdGF0ZUVcPg==</last-search>
+      <last-search encoding="base64">XDxHdWlEZWJ1Z0luZm9FbmFibGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGF0ZUVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHdWlEZWJ1Z0luZm9FbmFibGVkXD4=</last-pattern>
       <last-replace>ReactiveList</last-replace>
       <last-substitute encoding="base64">XDxMaXN0XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdGltZXJcPg==</entry>
         <entry encoding="base64">XDxTZXRUb3VybmFtZW50XD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVUaW1lclw+</entry>
         <entry encoding="base64">XDxTZXRNYWluSW5mb1w+</entry>
@@ -719,6 +728,7 @@
         <entry encoding="base64">XDxDYWxjdWxhdGluZ1w+</entry>
         <entry>clog</entry>
         <entry encoding="base64">XDxTdGF0ZUVcPg==</entry>
+        <entry encoding="base64">XDxHdWlEZWJ1Z0luZm9FbmFibGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0</entry>
