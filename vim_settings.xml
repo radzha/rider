@@ -44,7 +44,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" timestamp="1553620635248">
         <mark key="'" line="76" column="49" />
       </file>
-      <file name="/Dummy.cs" timestamp="1554290311332">
+      <file name="/Dummy.cs" timestamp="1554967785606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/Network/Client/AllyAbilities/ShotsAllyAbility.cs" timestamp="1553854501245">
@@ -475,7 +475,7 @@
       <file name="/MediaPlayerCtrl.cs" timestamp="1554452312001">
         <mark key="'" line="3893" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554915456992">
+      <file name="/Dummy.txt" timestamp="1554915801899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1554380920318">
@@ -510,12 +510,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePriceItem.cs" timestamp="1551873872807">
         <mark key="'" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554915450600">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1554967884935">
         <mark key="'" line="99" column="73" />
-        <mark key="[" line="51" column="9" />
-        <mark key="]" line="52" column="35" />
-        <mark key="." line="52" column="35" />
-        <mark key="^" line="52" column="35" />
+        <mark key="[" line="116" column="37" />
+        <mark key="]" line="116" column="47" />
+        <mark key="." line="116" column="47" />
+        <mark key="^" line="116" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Weapon/DamageTypeCode.cs" timestamp="1551789986258">
         <mark key="'" line="35" column="21" />
@@ -639,20 +639,20 @@
       <jump line="170" column="23" filename="/TournamentInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZW51bSBTdGF0ZUUKICAgICAgICB7CiAgICAgICAgICAgIFVucmVhY2hhYmxlQnlIZWxpY29wdGVyRGlzdGFuY2UsCiAgICAgICAgICAgIFVzZXJJc0ludm9sdmVkTm93LAogICAgICAgICAgICBXYWl0aW5nRm9yTmV4dFRvdXJuYW1lbnQsCiAgICAgICAgICAgIFdhaXRpbmdGb3JSZXN1bHRzLAogICAgICAgICAgICBBdmFpbEZvclJlZ2lzdHJhdGlvbgogICAgICAgIH0KCiAgICAgICAgcHVibGljIFN0YXRlRSBHZXRTZWN0b3JTdGF0ZShHbG9iZVNlY3RvcnMgc2VjdG9yLCBVc2VySW5mbyB1c2VySW5mbykKICAgICAgICB7CiAgICAgICAgICAgIGlmICghc2VjdG9yLklzUmVhY2hhYmxlKHVzZXJJbmZvKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIFN0YXRlRS5VbnJlYWNoYWJsZUJ5SGVsaWNvcHRlckRpc3RhbmNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgY3VycmVudFRvdXJuYW1lbnRUeXBlID0gVG91cm5hbWVudFR5cGVzLkdldEN1cnJlbnRUb3VybmFtZW50VHlwZSgpOwogICAgICAgICAgICBpZiAoY3VycmVudFRvdXJuYW1lbnRUeXBlID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBTdGF0ZUUuV2FpdGluZ0Zvck5leHRUb3VybmFtZW50OwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgaXNQYXJ0aWNpcGFudCA9IHVzZXJJbmZvLlRvdXJuYW1lbnQuSWQuQ3VycmVudFZhbHVlID09IGN1cnJlbnRUb3VybmFtZW50VHlwZS5JZDsKICAgICAgICAgICAgaWYgKCFpc1BhcnRpY2lwYW50KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gU3RhdGVFLkF2YWlsRm9yUmVnaXN0cmF0aW9uOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgaXNJbnZvbHZlZE5vdyA9IHVzZXJJbmZvLlRvdXJuYW1lbnQuSXNVc2VySW52b2x2ZWQoKTsKICAgICAgICAgICAgaWYgKGlzSW52b2x2ZWROb3cpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBTdGF0ZUUuVXNlcklzSW52b2x2ZWROb3c7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBpc1Jlc3VsdHNSZWNlaXZlZCA9IHVzZXJJbmZvLlRvdXJuYW1lbnQuTGV0dGVyU2VuZGVkLkN1cnJlbnRWYWx1ZTsKCiAgICAgICAgICAgIHJldHVybiBpc1Jlc3VsdHNSZWNlaXZlZCA/IFN0YXRlRS5XYWl0aW5nRm9yTmV4dFRvdXJuYW1lbnQgOiBTdGF0ZUUuV2FpdGluZ0ZvclJlc3VsdHM7CgogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>LastResultsShowing</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>MaxValue</text>
+        <text>LastResultsShowing</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTdGF0ZUVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZW51bSBTdGF0ZUUKICAgICAgICB7CiAgICAgICAgICAgIFVucmVhY2hhYmxlQnlIZWxpY29wdGVyRGlzdGFuY2UsCiAgICAgICAgICAgIFVzZXJJc0ludm9sdmVkTm93LAogICAgICAgICAgICBXYWl0aW5nRm9yTmV4dFRvdXJuYW1lbnQsCiAgICAgICAgICAgIFdhaXRpbmdGb3JSZXN1bHRzLAogICAgICAgICAgICBBdmFpbEZvclJlZ2lzdHJhdGlvbgogICAgICAgIH0KCiAgICAgICAgcHVibGljIFN0YXRlRSBHZXRTZWN0b3JTdGF0ZShHbG9iZVNlY3RvcnMgc2VjdG9yLCBVc2VySW5mbyB1c2VySW5mbykKICAgICAgICB7CiAgICAgICAgICAgIGlmICghc2VjdG9yLklzUmVhY2hhYmxlKHVzZXJJbmZvKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgcmV0dXJuIFN0YXRlRS5VbnJlYWNoYWJsZUJ5SGVsaWNvcHRlckRpc3RhbmNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgY3VycmVudFRvdXJuYW1lbnRUeXBlID0gVG91cm5hbWVudFR5cGVzLkdldEN1cnJlbnRUb3VybmFtZW50VHlwZSgpOwogICAgICAgICAgICBpZiAoY3VycmVudFRvdXJuYW1lbnRUeXBlID09IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBTdGF0ZUUuV2FpdGluZ0Zvck5leHRUb3VybmFtZW50OwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgaXNQYXJ0aWNpcGFudCA9IHVzZXJJbmZvLlRvdXJuYW1lbnQuSWQuQ3VycmVudFZhbHVlID09IGN1cnJlbnRUb3VybmFtZW50VHlwZS5JZDsKICAgICAgICAgICAgaWYgKCFpc1BhcnRpY2lwYW50KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZXR1cm4gU3RhdGVFLkF2YWlsRm9yUmVnaXN0cmF0aW9uOwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgaXNJbnZvbHZlZE5vdyA9IHVzZXJJbmZvLlRvdXJuYW1lbnQuSXNVc2VySW52b2x2ZWQoKTsKICAgICAgICAgICAgaWYgKGlzSW52b2x2ZWROb3cpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybiBTdGF0ZUUuVXNlcklzSW52b2x2ZWROb3c7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBpc1Jlc3VsdHNSZWNlaXZlZCA9IHVzZXJJbmZvLlRvdXJuYW1lbnQuTGV0dGVyU2VuZGVkLkN1cnJlbnRWYWx1ZTsKCiAgICAgICAgICAgIHJldHVybiBpc1Jlc3VsdHNSZWNlaXZlZCA/IFN0YXRlRS5XYWl0aW5nRm9yTmV4dFRvdXJuYW1lbnQgOiBTdGF0ZUUuV2FpdGluZ0ZvclJlc3VsdHM7CgogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgVG91cm5hbWVudFN0YXRlLkxhc3RSZXN1bHRzU2hvd2luZzoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRpbWVNYW5hZ2VyLkdldCgpLk5vdyAuQWRkUGFyYW0odG91cm5hbWVudC5HZXRSZWdpc3RyYXRpb25GaW5pc2goKSkuQ0xvZygpOwo=</text>
