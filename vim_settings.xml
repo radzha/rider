@@ -520,12 +520,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Events.cs" timestamp="1554107998835">
         <mark key="'" line="33" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1555342112382">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="119" column="116" />
-        <mark key="]" line="120" column="11" />
-        <mark key="." line="120" column="11" />
-        <mark key="^" line="120" column="11" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1555343117870">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="13" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="128" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/FPSDisplay.cs" timestamp="1555332213562">
         <mark key="'" line="43" column="8" />
@@ -558,7 +558,7 @@
         <mark key="." line="68" column="70" />
         <mark key="^" line="68" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555342217016">
+      <file name="/Dummy.txt" timestamp="1555342979827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/BuyoutMineHandler.cs" timestamp="1554730777937">
@@ -594,8 +594,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePriceItem.cs" timestamp="1551873872807">
         <mark key="'" line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1555341651207">
-        <mark key="'" line="155" column="97" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1555342901076">
+        <mark key="'" line="61" column="0" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="13" />
         <mark key="." line="102" column="0" />
@@ -641,11 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1120" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="1200" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="1203" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="1211" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="1213" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="162" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="234" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="225" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
@@ -741,52 +736,57 @@
       <jump line="78" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
       <jump line="118" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
+      <jump line="61" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
+      <jump line="49" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
+      <jump line="131" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
+      <jump line="125" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
+      <jump line="132" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IsOneOf(TournamentRatingTable.TournamentState.Calculating,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>IsOneOf(TournamentRatingTable.TournamentState.Calculating,</text>
+        <text encoding="base64">JiYg</text>
       </register>
       <register name="/" type="4">
         <text>calcu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRvdXJuYW1lbnRTdGF0ZS5Jc09uZU9mKFRvdXJuYW1lbnRSYXRpbmdUYWJsZS5Ub3VybmFtZW50U3RhdGUuQ2FsY3VsYXRpbmcsCiAgICAgICAgICAgICAgICBUb3VybmFtZW50UmF0aW5nVGFibGUuVG91cm5hbWVudFN0YXRlLkxhc3RSZXN1bHRzU2hvd2luZykpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUGxheWVyICYmIHRvdXJuYW1lbnRTdGF0ZSAhPSBUb3VybmFtZW50UmF0aW5nVGFibGUuVG91cm5hbWVudFN0YXRlLkxhc3RSZXN1bHRzU2hvd2luZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlByb2Nlc3NQdXNoSW5jb21pbmdEaWFsb2dJdGVtIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlByb2Nlc3NQdXNoSW5jb21pbmdEaWFsb2dJdGVtIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ3cmFwcGVyIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJydW4iLkNMb2dCbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgcmV0dXJuIFN0YXR1cy5EaXNhYmxlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGljIGJvb2wgU2hvd01pc3Npb25Qb3B1cDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2hvd1BvcHVwSWZOZWVkZWQoaXRlbSwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlByb2Nlc3NQdXNoSW5jb21pbmdEaWFsb2dJdGVtIi5DTG9nQmx1ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlByb2Nlc3NQdXNoSW5jb21pbmdEaWFsb2dJdGVtIi5DTG9nQmx1ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
