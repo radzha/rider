@@ -264,12 +264,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightManager.cs" timestamp="1554984649351">
         <mark key="'" line="240" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1555425301678">
-        <mark key="'" line="2072" column="37" />
-        <mark key="[" line="1917" column="49" />
-        <mark key="]" line="1917" column="52" />
-        <mark key="." line="1917" column="52" />
-        <mark key="^" line="1917" column="52" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1555426274633">
+        <mark key="'" line="2062" column="25" />
+        <mark key="[" line="2073" column="32" />
+        <mark key="]" line="2073" column="46" />
+        <mark key="." line="2073" column="46" />
+        <mark key="^" line="2073" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1554797879537">
         <mark key="'" line="179" column="16" />
@@ -382,6 +382,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1555416079933">
         <mark key="'" line="21" column="17" />
         <mark key="[" line="66" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/83/13da4b66/DateTime.cs" timestamp="1555425758465">
+        <mark key="'" line="395" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mine/MineInformation.cs" timestamp="1553681550165">
         <mark key="'" line="44" column="54" />
@@ -675,11 +678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/FPSDisplay.cs" />
-      <jump line="14" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/FPSDisplay.cs" />
-      <jump line="45" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/FPSDisplay.cs" />
-      <jump line="149" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/FPSDisplay.cs" />
-      <jump line="43" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/FPSDisplay.cs" />
       <jump line="199" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="184" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="18" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
@@ -774,62 +772,67 @@
       <jump line="61" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventButtonStateController.cs" />
       <jump line="114" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="37" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" />
-      <jump line="2072" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
+      <jump line="488" column="4" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/83/13da4b66/DateTime.cs" />
+      <jump line="395" column="20" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/ECB5D8E2-0A91-44BC-A4F2-58317D1E56F9/83/13da4b66/DateTime.cs" />
+      <jump line="2073" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
+      <jump line="2072" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
+      <jump line="2187" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
+      <jump line="2062" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKElkPT04NjQ4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiU1RBUlQiLkNMb2coSnNvblV0aWxzLkpzb25HZXREb3VibGUoInN0YXJ0VGltZSIsIGRhdGEsIDApKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>unixStart</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RhcnRUaW1lIDwgRGF0ZVRpbWUuVXRjTm93ICYmIEVuZFRpbWUgPiBEYXRlVGltZS5VdGNOb3c=</text>
+        <text>unixStart</text>
       </register>
       <register name="/" type="4">
-        <text>timemana</text>
+        <text encoding="base64">XDxfZGVmYXVsdFV0Y1RpbWVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>JsonUtils.JsonGetDouble(&quot;startTime&quot;, data, 0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKElkPT04NjQ4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiU1RBUlQiLkNMb2coSnNvblV0aWxzLkpzb25HZXREb3VibGUoInN0YXJ0VGltZSIsIGRhdGEsIDApKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIERhdGVUaW1lT2Zmc2V0LmZyb20K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoU3RhcnRUaW1lICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKElkPT04NjQ4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiU1RBUlQiLkNMb2coSnNvblV0aWxzLkpzb25HZXREb3VibGUoInN0YXJ0VGltZSIsIGRhdGEsIDApKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImdldCBmaW5pc2ggdGltZSIuTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoU3RhcnRUaW1lICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXJ0IHRpbWUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImdldCBmaW5pc2ggdGltZSIuTG9nKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKF9jKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXJ0IHRpbWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJub3QgbnVsbCIuQ0xvZ0JsdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKF9jKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJub3QgbnVsbCIuQ0xvZ0JsdWUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRlc3RyIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>timemana</last-search>
+      <last-search encoding="base64">XDxfZGVmYXVsdFV0Y1RpbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>timemana</last-pattern>
+      <last-pattern encoding="base64">XDxfZGVmYXVsdFV0Y1RpbWVcPg==</last-pattern>
       <last-replace>DDD</last-replace>
       <last-substitute encoding="base64">XDxTaG91bGRTaG93U2NyZWVuXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -837,8 +840,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaG91bGRTaG93U2NyZWVuXD4=</entry>
-        <entry>pushin</entry>
         <entry>Showm</entry>
         <entry>push</entry>
         <entry>ProcessU</entry>
@@ -857,6 +858,8 @@
         <entry>subs</entry>
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>timemana</entry>
+        <entry>addsecon</entry>
+        <entry encoding="base64">XDxfZGVmYXVsdFV0Y1RpbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0L2c=</entry>
