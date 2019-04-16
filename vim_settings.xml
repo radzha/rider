@@ -501,12 +501,12 @@
         <mark key="." line="40" column="36" />
         <mark key="^" line="39" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/AirDefenceScreen.cs" timestamp="1555405405088">
-        <mark key="'" line="84" column="40" />
-        <mark key="[" line="223" column="9" />
-        <mark key="]" line="74" column="11" />
-        <mark key="^" line="74" column="11" />
-        <mark key="." line="74" column="11" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/AirDefenceScreen.cs" timestamp="1555407050160">
+        <mark key="'" line="222" column="0" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="^" line="56" column="29" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePriceItem.cs" timestamp="1551873872807">
         <mark key="'" line="18" column="37" />
@@ -552,10 +552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1222" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="53" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="1527" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="84" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="577" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
       <jump line="1723" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" />
@@ -652,69 +648,72 @@
       <jump line="1963" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="1964" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="1965" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="71" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/AirDefenceScreen.cs" />
+      <jump line="62" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/AirDefenceScreen.cs" />
+      <jump line="74" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/AirDefenceScreen.cs" />
+      <jump line="222" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/AirDefenceScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiYg</text>
+        <text>Alive</text>
       </register>
       <register name="/" type="4">
-        <text>airdef</text>
+        <text encoding="base64">XDxTaG93QWlyRGVmZW5jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUGxheWVyICYmIHRvdXJuYW1lbnRTdGF0ZSAhPSBUb3VybmFtZW50UmF0aW5nVGFibGUuVG91cm5hbWVudFN0YXRlLkxhc3RSZXN1bHRzU2hvd2luZykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImRlc3RyIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25EZXN0cm95KCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkgcmV0dXJuIFN0YXR1cy5EaXNhYmxlZDsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2FtZU9iamVjdC5TZXRBY3RpdmUodHJ1ZSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlByb2Nlc3NQdXNoSW5jb21pbmdEaWFsb2dJdGVtIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlByb2Nlc3NQdXNoSW5jb21pbmdEaWFsb2dJdGVtIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>airdef</last-search>
+      <last-search encoding="base64">XDxTaG93QWlyRGVmZW5jZVw+</last-search>
       <last-offset />
-      <last-pattern>airdef</last-pattern>
+      <last-pattern encoding="base64">XDxTaG93QWlyRGVmZW5jZVw+</last-pattern>
       <last-replace>DDD</last-replace>
       <last-substitute encoding="base64">XDxTaG91bGRTaG93U2NyZWVuXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTaG93RGlhbG9nXD4=</entry>
         <entry encoding="base64">XDxTaG93TWlzc2lvblBvcHVwXD4=</entry>
         <entry encoding="base64">IFNob3c=</entry>
         <entry>helic</entry>
@@ -734,6 +733,7 @@
         <entry>calcu</entry>
         <entry>pvo</entry>
         <entry>airdef</entry>
+        <entry encoding="base64">XDxTaG93QWlyRGVmZW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0L2c=</entry>
