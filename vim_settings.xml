@@ -324,11 +324,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/SkipChestWarningController.cs" timestamp="1555503971030">
-        <mark key="[" line="31" column="55" />
-        <mark key="]" line="31" column="69" />
-        <mark key="." line="31" column="69" />
-        <mark key="^" line="31" column="69" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/SkipChestWarningController.cs" timestamp="1555506637521">
+        <mark key="'" line="43" column="20" />
+        <mark key="[" line="31" column="54" />
+        <mark key="]" line="31" column="54" />
+        <mark key="." line="31" column="54" />
+        <mark key="^" line="32" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/AimingUnitHighlighter.cs" timestamp="1554281446622">
         <mark key="'" line="94" column="0" />
@@ -651,7 +652,7 @@
         <mark key="." line="68" column="70" />
         <mark key="^" line="68" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555502780685">
+      <file name="/Dummy.txt" timestamp="1555506629329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1555070444566">
@@ -732,7 +733,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="49" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
       <jump line="131" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
@@ -832,19 +832,20 @@
       <jump line="183" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
       <jump line="99" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
       <jump line="101" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
+      <jump line="43" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/SkipChestWarningController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_shownWarningsCount</text>
+        <text>=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>_shownWarningsCount</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbml0UHJlbWl1bVw+</text>
+        <text encoding="base64">XDxTaG91bGRTaG93UG9wdXBcPg==</text>
       </register>
       <register name="0" type="4">
         <text>{
@@ -884,12 +885,15 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm1heCIuQ0xvZyhfc2hvd25XYXJuaW5nc0NvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNob3duIi5BZGRQYXJhbShfc2hvd25XYXJuaW5nc0NvdW50KS5DTG9nKG1heFdhcm5pbmdDb3VudCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIm1heCIuQ0xvZyhfc2hvd25XYXJuaW5nc0NvdW50KTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>{
             private readonly Action _callback;
             private string _rewardFightId;
@@ -923,43 +927,39 @@
             }
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25SZXNwb25zZS5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Y2Nlc3NDYWxsYmFjay5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9uU3VjY2Vzc0J1eUNoZXN0KGRhdGEpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRG9Pbk1haW5UaHJlYWQuSW5zdGFuY2UuU3RhcnRDb3JvdXRpbmUoTmV3TWV0aG9kKG9uUmVzcG9uc2UsIGRhdGEpKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlscwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbml0UHJlbWl1bVw+</last-search>
+      <last-search encoding="base64">XDxTaG91bGRTaG93UG9wdXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbml0UHJlbWl1bVw+</last-pattern>
+      <last-pattern encoding="base64">XDxTaG91bGRTaG93UG9wdXBcPg==</last-pattern>
       <last-replace>DDD</last-replace>
       <last-substitute encoding="base64">XDxTaG91bGRTaG93U2NyZWVuXD4=</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBTUZfRjNfTUFYX0lOVFw+</entry>
         <entry encoding="base64">XDxfdHlwZVw+</entry>
         <entry encoding="base64">XDxTZXRBbWZUeXBlXD4=</entry>
         <entry>avail</entry>
@@ -979,6 +979,7 @@
         <entry>loader</entry>
         <entry encoding="base64">IHVwZGF0ZSg=</entry>
         <entry encoding="base64">XDxJbml0UHJlbWl1bVw+</entry>
+        <entry encoding="base64">XDxTaG91bGRTaG93UG9wdXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1JlYWN0aXZlTGlzdC9MaXN0L2c=</entry>
