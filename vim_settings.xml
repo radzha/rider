@@ -186,12 +186,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServerBehaviour.cs" timestamp="1554369719624">
         <mark key="'" line="406" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Schedule.cs" timestamp="1555427591643">
-        <mark key="'" line="52" column="67" />
-        <mark key="[" line="55" column="64" />
-        <mark key="]" line="55" column="67" />
-        <mark key="." line="55" column="67" />
-        <mark key="^" line="55" column="67" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Schedule.cs" timestamp="1555507942674">
+        <mark key="'" line="56" column="67" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="51" column="13" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="50" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightExit/PveDefeatSplashScreen.cs" timestamp="1554810430360">
         <mark key="'" line="21" column="32" />
@@ -652,7 +652,7 @@
         <mark key="." line="68" column="70" />
         <mark key="^" line="68" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555506629329">
+      <file name="/Dummy.txt" timestamp="1555506658131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1555070444566">
@@ -835,14 +835,14 @@
       <jump line="43" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/SkipChestWarningController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKElkPT04NjQ4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiU1RBUlQiLkNMb2coSnNvblV0aWxzLkpzb25HZXREb3VibGUoInN0YXJ0VGltZSIsIGRhdGEsIDApKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>Long</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTaG91bGRTaG93UG9wdXBcPg==</text>
@@ -885,15 +885,18 @@
         }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNob3duIi5BZGRQYXJhbShfc2hvd25XYXJuaW5nc0NvdW50KS5DTG9nKG1heFdhcm5pbmdDb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKElkPT04NjQ4KQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAiU1RBUlQiLkNMb2coSnNvblV0aWxzLkpzb25HZXREb3VibGUoInN0YXJ0VGltZSIsIGRhdGEsIDApKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInNob3duIi5BZGRQYXJhbShfc2hvd25XYXJuaW5nc0NvdW50KS5DTG9nKG1heFdhcm5pbmdDb3VudCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIm1heCIuQ0xvZyhfc2hvd25XYXJuaW5nc0NvdW50KTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>{
             private readonly Action _callback;
             private string _rewardFightId;
@@ -927,23 +930,20 @@
             }
         }</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25SZXNwb25zZS5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Y2Nlc3NDYWxsYmFjay5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9uU3VjY2Vzc0J1eUNoZXN0KGRhdGEpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRG9Pbk1haW5UaHJlYWQuSW5zdGFuY2UuU3RhcnRDb3JvdXRpbmUoTmV3TWV0aG9kKG9uUmVzcG9uc2UsIGRhdGEpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlscwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlscwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
