@@ -332,12 +332,12 @@
         <mark key="^" line="89" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" timestamp="1555430710513" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/VideoAdController.cs" timestamp="1555494342947">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/VideoAdController.cs" timestamp="1555502543010">
         <mark key="'" line="140" column="21" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
+        <mark key="[" line="305" column="8" />
+        <mark key="]" line="339" column="9" />
         <mark key="^" line="78" column="30" />
-        <mark key="." line="85" column="0" />
+        <mark key="." line="305" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" timestamp="1551695293660">
         <mark key="'" line="60" column="12" />
@@ -453,11 +453,11 @@
         <mark key="^" line="78" column="17" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" timestamp="1555499926025">
-        <mark key="[" line="135" column="31" />
-        <mark key="]" line="135" column="33" />
-        <mark key="." line="135" column="33" />
-        <mark key="^" line="135" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" timestamp="1555502207240">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="36" />
+        <mark key="^" line="78" column="79" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/UI/DebugInfo.cs" timestamp="1554822558258">
         <mark key="'" line="79" column="27" />
@@ -645,7 +645,7 @@
         <mark key="." line="68" column="70" />
         <mark key="^" line="68" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555489313525">
+      <file name="/Dummy.txt" timestamp="1555502750997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1555070444566">
@@ -726,8 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
       <jump line="61" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="49" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
       <jump line="131" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
@@ -826,52 +824,150 @@
       <jump line="79" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
       <jump line="89" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
       <jump line="183" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" />
+      <jump line="99" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
+      <jump line="101" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+            private readonly Action _callback;
+            private string _rewardFightId;
+
+            public ChestItemBehaviour(Action callback)
+            {
+                _callback = callback;
+            }
+            
+            public override void TakeReward()
+            {
+                BuyChestHelper.OpenByVideo(_item, OnTakeRewardSuccess, OnTakeRewardError,
+                    isEventChest: _item.Chest.BehaviourIsEvent(), rewardFightId: _rewardFightId);
+            }
+            
+            private void OnTakeRewardSuccess()
+            {
+                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
+                _callback.SafeInvoke();
+            }
+            
+            private void OnTakeRewardError(string error)
+            {
+                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
+                Debug.LogError(error);
+            }
+
+            public void SetFightInfo(string rewardFightId)
+            {
+                _rewardFightId = rewardFightId;
+            }
+        }</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>onResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbml0UHJlbWl1bVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5TdGFydFdhaXRGb3JFbmRPZkZyYW1lQ29yb3V0aW5lKFN3aXRjaFNob3cpOwo=</text>
+      <register name="0" type="4">
+        <text>{
+            private readonly Action _callback;
+            private string _rewardFightId;
+
+            public ChestItemBehaviour(Action callback)
+            {
+                _callback = callback;
+            }
+            
+            public override void TakeReward()
+            {
+                LoaderScreenController.ShowLoader(this);
+                BuyChestHelper.OpenByVideo(_item, OnTakeRewardSuccess, OnTakeRewardError,
+                    isEventChest: _item.Chest.BehaviourIsEvent(), rewardFightId: _rewardFightId);
+            }
+            
+            private void OnTakeRewardSuccess()
+            {
+                LoaderScreenController.HideLoader(this);
+                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
+                _callback.SafeInvoke();
+            }
+            
+            private void OnTakeRewardError(string error)
+            {
+                LoaderScreenController.HideLoader(this);
+                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
+                Debug.LogError(error);
+            }
+
+            public void SetFightInfo(string rewardFightId)
+            {
+                _rewardFightId = rewardFightId;
+            }
+        }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+            private readonly Action _callback;
+            private string _rewardFightId;
+
+            public ChestItemBehaviour(Action callback)
+            {
+                _callback = callback;
+            }
+            
+            public override void TakeReward()
+            {
+                BuyChestHelper.OpenByVideo(_item, OnTakeRewardSuccess, OnTakeRewardError,
+                    isEventChest: _item.Chest.BehaviourIsEvent(), rewardFightId: _rewardFightId);
+            }
+            
+            private void OnTakeRewardSuccess()
+            {
+                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
+                _callback.SafeInvoke();
+            }
+            
+            private void OnTakeRewardError(string error)
+            {
+                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
+                Debug.LogError(error);
+            }
+
+            public void SetFightInfo(string rewardFightId)
+            {
+                _rewardFightId = rewardFightId;
+            }
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX2NhblN3aXRjaFNob3c7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25SZXNwb25zZS5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Y2Nlc3NDYWxsYmFjay5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0YXJ0Q29yb3V0aW5lKHRoaXMuRG9GcmFtZUxhdGVyKFN3aXRjaFNob3cpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uU3VjY2Vzc0J1eUNoZXN0KGRhdGEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRG9Pbk1haW5UaHJlYWQuSW5zdGFuY2UuU3RhcnRDb3JvdXRpbmUoTmV3TWV0aG9kKG9uUmVzcG9uc2UsIGRhdGEpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlscwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuQ3JlYXRlRW51bWVyYXRvcigoKSA9Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
