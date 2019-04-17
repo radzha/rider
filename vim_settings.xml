@@ -324,6 +324,12 @@
         <mark key="]" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/SkipChestWarningController.cs" timestamp="1555503971030">
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="31" column="69" />
+        <mark key="." line="31" column="69" />
+        <mark key="^" line="31" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/AimingUnitHighlighter.cs" timestamp="1554281446622">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="0" column="0" />
@@ -645,7 +651,7 @@
         <mark key="." line="68" column="70" />
         <mark key="^" line="68" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555502750997">
+      <file name="/Dummy.txt" timestamp="1555502780685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1555070444566">
@@ -829,44 +835,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-            private readonly Action _callback;
-            private string _rewardFightId;
-
-            public ChestItemBehaviour(Action callback)
-            {
-                _callback = callback;
-            }
-            
-            public override void TakeReward()
-            {
-                BuyChestHelper.OpenByVideo(_item, OnTakeRewardSuccess, OnTakeRewardError,
-                    isEventChest: _item.Chest.BehaviourIsEvent(), rewardFightId: _rewardFightId);
-            }
-            
-            private void OnTakeRewardSuccess()
-            {
-                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
-                _callback.SafeInvoke();
-            }
-            
-            private void OnTakeRewardError(string error)
-            {
-                CommandsStreams.Main.OnNext(EVENT_VIDEO_ENDED);
-                Debug.LogError(error);
-            }
-
-            public void SetFightInfo(string rewardFightId)
-            {
-                _rewardFightId = rewardFightId;
-            }
-        }</text>
+        <text>_shownWarningsCount</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>onResponse</text>
+        <text>_shownWarningsCount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbml0UHJlbWl1bVw+</text>
@@ -908,7 +883,13 @@
             }
         }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIm1heCIuQ0xvZyhfc2hvd25XYXJuaW5nc0NvdW50KTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>{
             private readonly Action _callback;
             private string _rewardFightId;
@@ -942,32 +923,26 @@
             }
         }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb25SZXNwb25zZS5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN1Y2Nlc3NDYWxsYmFjay5TYWZlSW52b2tlKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE9uU3VjY2Vzc0J1eUNoZXN0KGRhdGEpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRG9Pbk1haW5UaHJlYWQuSW5zdGFuY2UuU3RhcnRDb3JvdXRpbmUoTmV3TWV0aG9kKG9uUmVzcG9uc2UsIGRhdGEpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVdGlscwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
