@@ -77,12 +77,12 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/DebugInfo.cs" timestamp="1555408825657">
         <mark key="'" line="163" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" timestamp="1555687245157">
-        <mark key="'" line="16" column="19" />
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="45" />
-        <mark key="^" line="28" column="45" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" timestamp="1555689550292">
+        <mark key="'" line="51" column="35" />
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="56" />
+        <mark key="." line="42" column="56" />
+        <mark key="^" line="42" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" timestamp="1555499126208">
         <mark key="'" line="40" column="40" />
@@ -153,6 +153,10 @@
         <mark key="]" line="82" column="0" />
         <mark key="^" line="58" column="97" />
         <mark key="." line="58" column="97" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UpdateScreen.cs" timestamp="1555688657874">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="50" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1554979395833">
         <mark key="[" line="98" column="113" />
@@ -468,18 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="747" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="30" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="88" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="89" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="161" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="64" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="203" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="47" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="82" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="98" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="14" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeCitadelPoint.cs" />
       <jump line="18" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeCitadelPoint.cs" />
       <jump line="90" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
       <jump line="66" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
@@ -566,63 +558,75 @@
       <jump line="71" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
       <jump line="15" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
       <jump line="49" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
-      <jump line="51" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
-      <jump line="16" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="28" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="27" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="32" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="29" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="33" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="38" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="39" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="16" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="50" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="53" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="51" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>storage</text>
+        <text>LanguageUtils.PRELOADED_LANGUAGE.ToTwoLowerLetterIso());</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>storage</text>
+        <text>LanguageUtils.PRELOADED_LANGUAGE.ToTwoLowerLetterIso());</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGhyYXNlVGV4dFw+</text>
+        <text encoding="base64">XDxQaHJhc2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0UHJlbWl1bVN0YXR1cyhjb250ZXh0LCBhbGxJdGVtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBsYXRmb3Jtc0xpc3QgPSBCdWlsdGluU3RvcmFnZS5Mb2FkVGVtcGxhdGUoInBsYXRmb3JtcyIsIExhbmd1YWdlVXRpbHMuUFJFTE9BREVEX0xBTkdVQUdFLlRvVHdvTG93ZXJMZXR0ZXJJc28oKSk7CgogICAgICAgICAgICBmb3JlYWNoKHZhciBwYWlyIGluIHBsYXRmb3Jtc0xpc3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBwbGF0Zm9ybUpzb24gPSBKc29uVXRpbHMuSnNvbkdldERpY3QocGFpci5WYWx1ZSk7CiAgICAgICAgICAgICAgICByZXN1bHRbcGFpci5LZXldID0gSnNvblV0aWxzLkpzb25HZXRTdHJpbmcoImFwcFN0b3JlVVJMIiwgcGxhdGZvcm1Kc29uKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3BocmFzZVRleHQgPSBzdG9yYWdlLkdldFBocmFzZShQaHJhc2UpOwoKICAgICAgICAgICAgdGV4dC50ZXh0ID0gX2FyZ3MgIT0gbnVsbCA/IHN0cmluZy5Gb3JtYXQoX3BocmFzZVRleHQsIF9hcmdzKSA6IF9waHJhc2VUZXh0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBkaWN0W10K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdFtwYWlyLktleV0gPSBKc29uVXRpbHMuSnNvbkdldFN0cmluZygiYXBwU3RvcmVVUkwiLCBwbGF0Zm9ybUpzb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J5UHJlbWl1bSA9IGJ5UHJlbWl1bTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb250ZXh0ID0gVXRpbHMuV3JhcFRvQ29udGV4dChfaW5mb3JtYXRpb25Qb3B1cENvbnRleHQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBsYXRmb3JtSnNvbiA9IEpzb25VdGlscy5Kc29uR2V0RGljdChwYWlyLlZhbHVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5DaGVzdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W3BhaXIuS2V5XSA9IEpzb25VdGlscy5Kc29uR2V0U3RyaW5nKCJhcHBTdG9yZVVSTCIsIHBsYXRmb3JtSnNvbik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFuaW1hdG9yIF9hbmltYXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICBfcGhyYXNlVGV4dCA9IHN0b3JhZ2UuR2V0UGhyYXNlKFBocmFzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBfcGhyYXNlVGV4dCA9IHN0b3JhZ2UuR2V0UGhyYXNlKFBocmFzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGhyYXNlVGV4dFw+</last-search>
+      <last-search encoding="base64">XDxQaHJhc2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGhyYXNlVGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxQaHJhc2VcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -630,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isprem</entry>
         <entry>anima</entry>
         <entry>prem</entry>
         <entry>anim</entry>
@@ -650,6 +653,7 @@
         <entry encoding="base64">XDxTdGFydFRpbWVyXD4=</entry>
         <entry encoding="base64">XDxfdGltZXJQaHJhc2VMYWJlbFw+</entry>
         <entry encoding="base64">XDxfcGhyYXNlVGV4dFw+</entry>
+        <entry encoding="base64">XDxQaHJhc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
