@@ -77,6 +77,13 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/DebugInfo.cs" timestamp="1555408825657">
         <mark key="'" line="163" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" timestamp="1555687245157">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="45" />
+        <mark key="." line="28" column="45" />
+        <mark key="^" line="28" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" timestamp="1555499126208">
         <mark key="'" line="40" column="40" />
       </file>
@@ -101,7 +108,7 @@
         <mark key="^" line="48" column="51" />
         <mark key="." line="48" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1555586757198">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1555684221614">
         <mark key="'" line="97" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" timestamp="1554716824477">
@@ -168,13 +175,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/HighlightManager.cs" timestamp="1554984649351">
         <mark key="'" line="240" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1555665983122">
-        <mark key="'" line="43" column="45" />
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="59" column="28" />
-        <mark key="." line="59" column="28" />
-        <mark key="^" line="59" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1554797879537">
         <mark key="'" line="179" column="16" />
       </file>
@@ -190,7 +190,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/PlayersDB.cs" timestamp="1555066510261">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/SkipChestWarningController.cs" timestamp="1555506637521">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/SkipChestWarningController.cs" timestamp="1555684091954">
         <mark key="'" line="43" column="20" />
         <mark key="[" line="31" column="54" />
         <mark key="]" line="31" column="54" />
@@ -203,6 +203,9 @@
         <mark key="]" line="339" column="9" />
         <mark key="^" line="78" column="30" />
         <mark key="." line="305" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" timestamp="1555686711217">
+        <mark key="'" line="15" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" timestamp="1551695293660">
         <mark key="'" line="60" column="12" />
@@ -465,18 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="61" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="80" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="17" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="39" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
-      <jump line="68" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="40" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
-      <jump line="52" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
-      <jump line="72" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
-      <jump line="80" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
-      <jump line="160" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" />
-      <jump line="1062" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="747" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="30" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
       <jump line="88" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
@@ -565,61 +556,73 @@
       <jump line="57" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
       <jump line="64" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
       <jump line="43" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
+      <jump line="68" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="70" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="82" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="23" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="65" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="67" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="80" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="71" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="15" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LostConnection/LostConnectionScreen.cs" />
+      <jump line="49" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="51" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
+      <jump line="16" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Description.)</text>
+        <text>storage</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Description.)</text>
+        <text>storage</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd2F2ZXNcPg==</text>
+        <text encoding="base64">XDxfcGhyYXNlVGV4dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2V0UHJlbWl1bVN0YXR1cyhjb250ZXh0LCBhbGxJdGVtcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3BocmFzZVRleHQgPSBzdG9yYWdlLkdldFBocmFzZShQaHJhc2UpOwoKICAgICAgICAgICAgdGV4dC50ZXh0ID0gX2FyZ3MgIT0gbnVsbCA/IHN0cmluZy5Gb3JtYXQoX3BocmFzZVRleHQsIF9hcmdzKSA6IF9waHJhc2VUZXh0Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J5UHJlbWl1bSA9IGJ5UHJlbWl1bTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2J5UHJlbWl1bSA9IGJ5UHJlbWl1bTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb250ZXh0ID0gVXRpbHMuV3JhcFRvQ29udGV4dChfaW5mb3JtYXRpb25Qb3B1cENvbnRleHQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5DaGVzdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBjb250ZXh0ID0gVXRpbHMuV3JhcFRvQ29udGV4dChfaW5mb3JtYXRpb25Qb3B1cENvbnRleHQsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFuaW1hdG9yIF9hbmltYXRvcjsK</text>
+        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5DaGVzdHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIEFuaW1hdG9yIF9hbmltYXRvcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd2F2ZXNcPg==</last-search>
+      <last-search encoding="base64">XDxfcGhyYXNlVGV4dFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd2F2ZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfcGhyYXNlVGV4dFw+</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -627,10 +630,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdGltZXJcPg==</entry>
-        <entry encoding="base64">XDxDSVRBREVMX0VWRU5UX1NUQVRFX0NIQU5HRURcPg==</entry>
-        <entry encoding="base64">XDxIYXNBY3RpdmVDaXRhZGVsTGlrZUV2ZW50XD4=</entry>
-        <entry>isp</entry>
         <entry>isprem</entry>
         <entry>anima</entry>
         <entry>prem</entry>
@@ -647,6 +646,10 @@
         <entry encoding="base64">XDxfaGFzUHJlbWl1bVw+</entry>
         <entry encoding="base64">XDxJU19QUkVNSVVNX0JPTlVTX0FOSU1BVElPTlw+</entry>
         <entry encoding="base64">XDxfd2F2ZXNcPg==</entry>
+        <entry encoding="base64">XDxfdGltZXJcPg==</entry>
+        <entry encoding="base64">XDxTdGFydFRpbWVyXD4=</entry>
+        <entry encoding="base64">XDxfdGltZXJQaHJhc2VMYWJlbFw+</entry>
+        <entry encoding="base64">XDxfcGhyYXNlVGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
