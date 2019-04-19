@@ -319,6 +319,12 @@
         <mark key="." line="353" column="0" />
         <mark key="^" line="353" column="122" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1555682360757">
+        <mark key="[" line="1452" column="67" />
+        <mark key="]" line="1452" column="101" />
+        <mark key="^" line="1452" column="101" />
+        <mark key="." line="1452" column="101" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeCitadelPoint.cs" timestamp="1555581727791">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="0" column="0" />
@@ -358,6 +364,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/InfoPopup/BaseInfoPopupView.cs" timestamp="1555672180974">
         <mark key="'" line="25" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" timestamp="1555682094395">
+        <mark key="'" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackResultScreen.cs" timestamp="1554977260508">
         <mark key="[" line="14" column="47" />
@@ -456,9 +465,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="65" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
-      <jump line="40" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
       <jump line="39" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
       <jump line="61" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
       <jump line="80" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
@@ -556,19 +562,22 @@
       <jump line="130" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
       <jump line="21" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="21" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PremiumItemDecorator.cs" />
+      <jump line="57" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
+      <jump line="64" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
+      <jump line="43" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return</text>
+        <text>Description.)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>Description.)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJU19QUkVNSVVNX0JPTlVTX0FOSU1BVElPTlw+</text>
+        <text encoding="base64">XDxfd2F2ZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2V0UHJlbWl1bVN0YXR1cyhjb250ZXh0LCBhbGxJdGVtcyk7Cg==</text>
@@ -608,9 +617,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJU19QUkVNSVVNX0JPTlVTX0FOSU1BVElPTlw+</last-search>
+      <last-search encoding="base64">XDxfd2F2ZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJU19QUkVNSVVNX0JPTlVTX0FOSU1BVElPTlw+</last-pattern>
+      <last-pattern encoding="base64">XDxfd2F2ZXNcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -618,7 +627,6 @@
     </search>
     <history>
       <history-search>
-        <entry>timer</entry>
         <entry encoding="base64">XDxfdGltZXJcPg==</entry>
         <entry encoding="base64">XDxDSVRBREVMX0VWRU5UX1NUQVRFX0NIQU5HRURcPg==</entry>
         <entry encoding="base64">XDxIYXNBY3RpdmVDaXRhZGVsTGlrZUV2ZW50XD4=</entry>
@@ -638,6 +646,7 @@
         <entry encoding="base64">XDxPbkNsaWNrXD4=</entry>
         <entry encoding="base64">XDxfaGFzUHJlbWl1bVw+</entry>
         <entry encoding="base64">XDxJU19QUkVNSVVNX0JPTlVTX0FOSU1BVElPTlw+</entry>
+        <entry encoding="base64">XDxfd2F2ZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
