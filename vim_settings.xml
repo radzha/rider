@@ -74,11 +74,6 @@
         <mark key="^" line="100" column="20" />
         <mark key="." line="100" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" timestamp="1555933487262">
-        <mark key="'" line="551" column="39" />
-        <mark key="[" line="525" column="0" />
-        <mark key="]" line="525" column="91" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelResultScreen.cs" timestamp="1555600867280">
         <mark key="'" line="84" column="98" />
         <mark key="[" line="90" column="0" />
@@ -203,6 +198,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailListAdapter.cs" timestamp="1555947615465">
+        <mark key="[" line="30" column="116" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" timestamp="1555665264890">
         <mark key="'" line="28" column="21" />
         <mark key="[" line="215" column="0" />
@@ -295,8 +293,8 @@
         <mark key="." line="134" column="33" />
         <mark key="^" line="134" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1555944843867">
-        <mark key="'" line="343" column="92" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1555947440897">
+        <mark key="'" line="108" column="63" />
         <mark key="[" line="195" column="72" />
         <mark key="]" line="196" column="16" />
         <mark key="." line="196" column="16" />
@@ -743,11 +741,6 @@
         <mark key="." line="49" column="35" />
         <mark key="^" line="49" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1555676436704">
-        <mark key="'" line="21" column="28" />
-        <mark key="[" line="213" column="0" />
-        <mark key="]" line="214" column="70" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" timestamp="1555939841940">
         <mark key="'" line="209" column="12" />
         <mark key="[" line="22" column="0" />
@@ -910,7 +903,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" />
       <jump line="21" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" />
       <jump line="21" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PremiumItemDecorator.cs" />
       <jump line="57" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
@@ -1010,6 +1002,7 @@
       <jump line="43" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
       <jump line="97" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" />
       <jump line="138" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/SpawnQueue.cs" />
+      <jump line="108" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1022,7 +1015,7 @@
         <text>Groups.Red</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHcm91cFw+</text>
+        <text encoding="base64">XDxFVkVOVF9VUERBVEVEXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5Pbk5leHQoVVBEQVRFX01PTkVZX1VTRVJfQ09VTlQsIHJld2FyZERhdGEuTW9uZXlDb2RlLCByZXdhcmREYXRhLlVzZXJDb3VudCk7Cg==</text>
@@ -1062,9 +1055,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHcm91cFw+</last-search>
+      <last-search encoding="base64">XDxFVkVOVF9VUERBVEVEXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHcm91cFw+</last-pattern>
+      <last-pattern encoding="base64">XDxFVkVOVF9VUERBVEVEXD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,7 +1065,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQaHJhc2VcPg==</entry>
         <entry encoding="base64">XDxPbkhhbmRsZU5ld1Nsb3RcPg==</entry>
         <entry>opencit</entry>
         <entry encoding="base64">XDxHQU1FX0VWRU5UU19LRVlcPg==</entry>
@@ -1092,6 +1084,7 @@
         <entry>grou</entry>
         <entry encoding="base64">XDxJc1BhdHJvbEFsbHlcPg==</entry>
         <entry encoding="base64">XDxHcm91cFw+</entry>
+        <entry encoding="base64">XDxFVkVOVF9VUERBVEVEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
