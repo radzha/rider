@@ -108,6 +108,7 @@
         <mark key="^" line="100" column="20" />
         <mark key="." line="100" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/AirDefenceModelLoader.cs" timestamp="1556543868843" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" timestamp="1556271804561">
         <mark key="'" line="180" column="21" />
         <mark key="[" line="129" column="23" />
@@ -152,12 +153,12 @@
         <mark key="." line="63" column="11" />
         <mark key="^" line="63" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" timestamp="1556541831694">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" timestamp="1556542641048">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="28" column="46" />
-        <mark key="]" line="28" column="45" />
-        <mark key="." line="28" column="45" />
-        <mark key="^" line="28" column="45" />
+        <mark key="]" line="38" column="62" />
+        <mark key="." line="38" column="62" />
+        <mark key="^" line="38" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Promises/Promise_NonGeneric.cs" timestamp="1556269466831">
         <mark key="'" line="216" column="22" />
@@ -247,7 +248,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/WavesStatistics.cs" timestamp="1556293919629">
         <mark key="'" line="57" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1556184067399">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1556543985587">
         <mark key="'" line="111" column="52" />
         <mark key="[" line="216" column="40" />
         <mark key="]" line="216" column="54" />
@@ -541,8 +542,8 @@
         <mark key="." line="667" column="29" />
         <mark key="^" line="667" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1556291504427">
-        <mark key="'" line="595" column="80" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1556543619469">
+        <mark key="'" line="637" column="53" />
         <mark key="[" line="586" column="58" />
         <mark key="]" line="606" column="101" />
         <mark key="^" line="606" column="101" />
@@ -597,7 +598,7 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556541837777">
+      <file name="/Dummy.txt" timestamp="1556542418683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/BuyoutMineHandler.cs" timestamp="1554730777937">
@@ -679,9 +680,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
-      <jump line="53" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
-      <jump line="176" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="186" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="109" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="5" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LineBreakUtils.cs" />
@@ -779,6 +777,9 @@
       <jump line="300" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="297" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="74" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
+      <jump line="830" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="697" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="637" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -791,7 +792,7 @@
         <text>+</text>
       </register>
       <register name="/" type="4">
-        <text>priva</text>
+        <text>raw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbmNyZW1lbnQod2F2ZUJvdHNDb3VudCwgc3Vtcywgd2F2ZSwgd2F2ZVN0YXJ0VGltZSwgbGluZU51bWJlcik7Cg==</text>
@@ -831,9 +832,9 @@
       </register>
     </registers>
     <search>
-      <last-search>priva</last-search>
+      <last-search>raw</last-search>
       <last-offset />
-      <last-pattern>priva</last-pattern>
+      <last-pattern>raw</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -841,9 +842,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVc2VkRW52aXJvbm1lbnRcPg==</entry>
-        <entry encoding="base64">XDxPbldhdmVTdGFydGVkXD4=</entry>
-        <entry encoding="base64">XDxBZGRXYXZlc1N0YXRpc3RpY3NcPg==</entry>
         <entry>dest</entry>
         <entry>ondis</entry>
         <entry encoding="base64">XDxFVkVOVF9NT1ZFX0NPTVBBTklPTl9NT0RFTFw+</entry>
@@ -861,6 +859,9 @@
         <entry>0</entry>
         <entry>clog</entry>
         <entry>priva</entry>
+        <entry>terroras</entry>
+        <entry>model</entry>
+        <entry>raw</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
