@@ -12,8 +12,8 @@
         <mark key="^" line="39" column="66" />
         <mark key="." line="39" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/BaseConsumable.cs" timestamp="1556619021216">
-        <mark key="'" line="258" column="12" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/BaseConsumable.cs" timestamp="1556621408456">
+        <mark key="'" line="91" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/GamePlay/SniperWeaponView.cs" timestamp="1553851821821">
         <mark key="'" line="18" column="48" />
@@ -225,6 +225,9 @@
         <mark key="]" line="36" column="18" />
         <mark key="." line="36" column="18" />
         <mark key="^" line="36" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PsiPower/PsiPower.cs" timestamp="1556621406065">
+        <mark key="'" line="35" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/CitadelAttack.cs" timestamp="1554126317773">
         <mark key="'" line="67" column="12" />
@@ -571,11 +574,11 @@
         <mark key="^" line="518" column="122" />
         <mark key="." line="518" column="122" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/StasisGrenade.cs" timestamp="1556617730747">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/StasisGrenade.cs" timestamp="1556622102376">
         <mark key="'" line="70" column="12" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="[" line="102" column="1" />
+        <mark key="]" line="102" column="1" />
+        <mark key="." line="102" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/EnemyContainer.cs" timestamp="1554979702693">
         <mark key="'" line="89" column="42" />
@@ -629,7 +632,7 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556620909955">
+      <file name="/Dummy.txt" timestamp="1556622692841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/BuyoutMineHandler.cs" timestamp="1554730777937">
@@ -711,8 +714,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
-      <jump line="29" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
       <jump line="360" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="118" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="142" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
@@ -811,10 +812,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/StasisGrenade.cs" />
       <jump line="70" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/StasisGrenade.cs" />
       <jump line="258" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/BaseConsumable.cs" />
+      <jump line="35" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PsiPower/PsiPower.cs" />
+      <jump line="91" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/BaseConsumable.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2V5Q29kZS5HCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -823,49 +826,49 @@
         <text>UNITY_ANDROID</text>
       </register>
       <register name="/" type="4">
-        <text>firecli</text>
+        <text encoding="base64">XDxVbmxvY2tGaXJlRGVsYXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgRGljdGlvbmFyeTxpbnQsIEJhc2VTcXVhZEluZm8+IEJhc2VJbmZvIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgS2V5Q29kZS5HCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2V5Q29kZS5HCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2V5Q29kZS5HCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhc2UK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEVuZW15QmFzZUluZm8gYmFzZUluZm8gPSBuZXcgRW5lbXlCYXNlSW5mbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhc2VzLkFkZChiYXNlSW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgUmVhY3RpdmVMaXN0PEVuZW15QmFzZUluZm8+IEJhc2VzIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEVuZW15QmFzZUluZm8gYmFzZUluZm8gPSBuZXcgRW5lbXlCYXNlSW5mbygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGljdGlvbmFyeTxpbnQsIEJhc2VTcXVhZEluZm8+IEJhc2VJbmZvIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJhc2VzLkFkZChiYXNlSW5mbyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>firecli</last-search>
+      <last-search encoding="base64">XDxVbmxvY2tGaXJlRGVsYXlcPg==</last-search>
       <last-offset />
-      <last-pattern>firecli</last-pattern>
+      <last-pattern encoding="base64">XDxVbmxvY2tGaXJlRGVsYXlcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -873,7 +876,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYm90c1ByZWxvYWRlclw+</entry>
         <entry encoding="base64">XDxFVkVOVF9QUkVMT0FEX1RVUlJFVF9NT0RFTFw+</entry>
         <entry encoding="base64">XDxBaXJEZWZlbmNlXD4=</entry>
         <entry>onshowe</entry>
@@ -893,6 +895,7 @@
         <entry>sts</entry>
         <entry>gren</entry>
         <entry>firecli</entry>
+        <entry encoding="base64">XDxVbmxvY2tGaXJlRGVsYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
