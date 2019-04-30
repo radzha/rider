@@ -583,7 +583,7 @@
         <mark key="^" line="96" column="19" />
         <mark key="." line="96" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" timestamp="1554286418745">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" timestamp="1556636237316">
         <mark key="'" line="15" column="84" />
         <mark key="[" line="37" column="17" />
         <mark key="]" line="37" column="24" />
@@ -616,7 +616,7 @@
         <mark key="." line="35" column="36" />
         <mark key="^" line="35" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556630442994">
+      <file name="/Dummy.txt" timestamp="1556633073654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/BuyoutMineHandler.cs" timestamp="1554730777937">
@@ -647,8 +647,8 @@
         <mark key="^" line="56" column="29" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1556268578966">
-        <mark key="'" line="14" column="45" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1556635899165">
+        <mark key="'" line="183" column="49" />
         <mark key="[" line="201" column="0" />
         <mark key="]" line="201" column="12" />
         <mark key="^" line="201" column="35" />
@@ -692,8 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1348" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
-      <jump line="27" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
       <jump line="1325" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
       <jump line="83" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
       <jump line="63" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
@@ -792,6 +790,8 @@
       <jump line="26" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeCitadelPoint.cs" />
       <jump line="82" column="88" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/CitadelLikeEventStateController.cs" />
       <jump line="604" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
+      <jump line="30" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
+      <jump line="183" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -804,7 +804,7 @@
         <text encoding="base64">KGZsb2F0KSA=</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text encoding="base64">XDxfYmF0dGxlc0NvdW50XD4=</text>
       </register>
       <register name="0" type="4">
         <text>OnCitadelEventStateChanged</text>
@@ -844,9 +844,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search encoding="base64">XDxfYmF0dGxlc0NvdW50XD4=</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern encoding="base64">XDxfYmF0dGxlc0NvdW50XD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -854,7 +854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onshowe</entry>
         <entry>enemie</entry>
         <entry encoding="base64">XDxFbmVtaWVzU2hvd25cPg==</entry>
         <entry>enemiesa</entry>
@@ -874,6 +873,7 @@
         <entry encoding="base64">XDxVbmxvY2tGaXJlRGVsYXlcPg==</entry>
         <entry>Log</entry>
         <entry>clog</entry>
+        <entry encoding="base64">XDxfYmF0dGxlc0NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
