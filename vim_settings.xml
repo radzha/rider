@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelResultScreen.cs" timestamp="1557143805873">
         <mark key="'" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsPlayerInfo.cs" timestamp="1557234123712">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsPlayerInfo.cs" timestamp="1557237337668">
         <mark key="'" line="55" column="14" />
-        <mark key="[" line="57" column="16" />
-        <mark key="]" line="57" column="33" />
-        <mark key="." line="57" column="33" />
-        <mark key="^" line="57" column="33" />
+        <mark key="[" line="70" column="41" />
+        <mark key="]" line="70" column="45" />
+        <mark key="." line="70" column="45" />
+        <mark key="^" line="70" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" timestamp="1555690732051">
         <mark key="'" line="55" column="0" />
@@ -344,8 +344,8 @@
         <mark key="^" line="76" column="50" />
         <mark key="." line="84" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1557217352815">
-        <mark key="'" line="185" column="28" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1557234646565">
+        <mark key="'" line="11" column="17" />
         <mark key="[" line="175" column="16" />
         <mark key="]" line="175" column="41" />
         <mark key="^" line="175" column="41" />
@@ -709,7 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="506" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="1092" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="1175" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
@@ -809,22 +808,23 @@
       <jump line="19" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
       <jump line="16" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
       <jump line="55" column="14" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsPlayerInfo.cs" />
+      <jump line="11" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TournamentRatingTableRow.GetDeltaStatus(player.PlaceDelta(deltas, false))</text>
+        <text>Lines</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>TournamentRatingTableRow.GetDeltaStatus(player.PlaceDelta(deltas, false))</text>
+        <text>Lines</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IGluaXQ=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0b3IuU2V0SW50ZWdlcihEaWZBbmltLCAoaW50KSBHZXREZWx0YVN0YXR1cyhwbGF5ZXIuUGxhY2VEZWx0YShkZWx0YXMsIGZhbHNlKSkpOwo=</text>
+      <register name="0" type="4">
+        <text>fightInfo.TournamentScoreLines.ToString()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
