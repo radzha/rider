@@ -135,11 +135,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelResultScreen.cs" timestamp="1557143805873">
         <mark key="'" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsPlayerInfo.cs" timestamp="1557306702863">
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="48" column="59" />
-        <mark key="^" line="48" column="59" />
-        <mark key="." line="48" column="59" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsPlayerInfo.cs" timestamp="1557308054920">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="62" column="50" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SetPhrase.cs" timestamp="1555690732051">
         <mark key="'" line="55" column="0" />
@@ -608,11 +608,11 @@
         <mark key="." line="75" column="39" />
         <mark key="^" line="75" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1557306961133">
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="59" column="82" />
-        <mark key="." line="59" column="82" />
-        <mark key="^" line="59" column="82" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1557308049264">
+        <mark key="[" line="56" column="38" />
+        <mark key="]" line="56" column="49" />
+        <mark key="." line="56" column="49" />
+        <mark key="^" line="56" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/StartFightCommand.cs" timestamp="1557221719067">
         <mark key="'" line="52" column="63" />
@@ -832,53 +832,53 @@
       <jump line="50" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsPlayerInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZS5SZXNwb25jZXM7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text>enemyScoreLines, enemyScoreLines</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YXNrc0NvbXBsZXRlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpcnN0RGVsdGEgPSBwbGFjZXNEZWx0YVswXTsKICAgICAgICAgICAgdmFyIHNlY29uZERlbHRhID0gcGxhY2VzRGVsdGFbMV07Cg==</text>
+      <register name="0" type="4">
+        <text>Mathf.Abs(scores[0])</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpcnN0UGxheWVyID0gcGxheWVyRGF0YTsKICAgICAgICAgICAgdmFyIHNlY29uZFBsYXllciA9IGVuZW15RGF0YTsK</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZS5SZXNwb25jZXM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBsYWNlRGVsdGEgPSBwbGF5ZXJEYXRhWzBdOwo=</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZS5Db21tYW5kczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzUGxheWVyID0gX3VzZXJJbmZvLlVzZXJJZC5DdXJyZW50VmFsdWUgPT0gcGxheWVyLklkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlbHRhcyA9IFRvdXJuYW1lbnRQbGFjZXNEZWx0YUhlbHBlci5HZXRQbGFjZXNEZWx0YXMocGxheWVycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHZpc3VhbFNjb3JlcyA9IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3JlcyA9IFRvdXJuYW1lbnRJbmZvLkNhbGN1bGF0ZVNjb3JlcyhsaW5lc0NvbXBsZXRlZCwgdGFza3NDb21wbGV0ZWQsCiAgICAgICAgICAgICAgICBGaW5pc2hGaWdodENvbW1hbmQuR2V0RW5lbXlCYXNlTGluZXNDb3VudChlbmVteUJhc2VJbmZvKSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRlbHRhID0gcGxheWVyLlBsYWNlRGVsdGEoZGVsdGFzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlbGljb3B0ZXJBdHRhY2tlZExpbmVzID0gVG91cm5hbWVudEluZm8uR2V0SGVsaWNvcHRlckF0dGFja2VkTGluZXMoZW5lbXlCYXNlSW5mbyk7CiAgICAgICAgICAgIHZhciBsaW5lc0NvbXBsZXRlZCA9IHN0YXRbMF0gKyBoZWxpY29wdGVyQXR0YWNrZWRMaW5lczsKICAgICAgICAgICAgdmFyIHRhc2tzQ29tcGxldGVkID0gc3RhdFsxXSArIGhlbGljb3B0ZXJBdHRhY2tlZExpbmVzOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3JlVGFza3MgPSBzY29yZXNbMV07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBsYXlkZGVyID0gX3VzZXJJbmZvLlRvdXJuYW1lbnQuUGxheWVyc1tlbmVteUJhc2VJbmZvLlVzZXJJZF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3JlTGluZXMgPSBpc1BsYXllciA/IHNjb3Jlc1swXSA6IHNjb3Jlc1swXSArIHNjb3Jlc1sxXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBsYWNlRGVsdGFTdGF0dXMgPSBUb3VybmFtZW50UmF0aW5nVGFibGVSb3cuR2V0RGVsdGFTdGF0dXMocGxheWVyLlBsYWNlRGVsdGEoZGVsdGFzLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXllckluZm8uSW5pdChlbmVteUJhc2VJbmZvLCBkZWx0YXMsIHRvdXJuYW1lbnRTdGF0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGZpcnN0UGxheWVyID0gcGxheWVyRGF0YTsKICAgICAgICAgICAgdmFyIHNlY29uZFBsYXllciA9IGVuZW15RGF0YTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
@@ -932,8 +932,8 @@
         <entry encoding="base64">JXMvXDxMaXN0XD4vUmVhY3RpdmVMaXN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1VOSVRZX0VESVRPUi9EREQvZw==</entry>
         <entry>%s/Chest/CitadelLike/g</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
