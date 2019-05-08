@@ -89,6 +89,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" timestamp="1556202724303">
         <mark key="'" line="29" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1557325199685">
+        <mark key="'" line="71" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WaveData.cs" timestamp="1556294075684">
         <mark key="'" line="10" column="17" />
       </file>
@@ -121,9 +124,9 @@
         <mark key="^" line="17" column="31" />
         <mark key="." line="17" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1557324103340">
-        <mark key="'" line="314" column="23" />
-        <mark key="[" line="242" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1557325804378">
+        <mark key="'" line="321" column="30" />
+        <mark key="[" line="271" column="52" />
         <mark key="]" line="242" column="0" />
         <mark key="." line="242" column="0" />
       </file>
@@ -257,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
-      <jump line="107" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="153" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="157" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="4" column="6" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
@@ -357,6 +358,8 @@
       <jump line="87" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="315" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="79" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="71" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" />
+      <jump line="321" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -369,7 +372,7 @@
         <text>TournamentPlayerData</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRHYW1lT3ZlclNjcmVlblR5cGVcPg==</text>
+        <text encoding="base64">XDxCYXNlRGVmZW5jZVJld2FyZHNcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IG5ldyBMaXN0PFRvdXJuYW1lbnRQbGF5ZXJEYXRhPigpOw==</text>
@@ -409,9 +412,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRHYW1lT3ZlclNjcmVlblR5cGVcPg==</last-search>
+      <last-search encoding="base64">XDxCYXNlRGVmZW5jZVJld2FyZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRHYW1lT3ZlclNjcmVlblR5cGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCYXNlRGVmZW5jZVJld2FyZHNcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>-1</last-dir>
@@ -419,8 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFVkVOVF9TRVRfVE9VUk5BTUVOVF9TVEFUXD4=</entry>
-        <entry encoding="base64">XDxJbml0aWFsaXplRW5lbXlJbmZvXD4=</entry>
         <entry>storage</entry>
         <entry encoding="base64">XDxfc3RvcmFnZVw+</entry>
         <entry encoding="base64">XDxfdG91cm5hbWVudFN0YXRcPg==</entry>
@@ -439,6 +440,8 @@
         <entry encoding="base64">XDxfYmFja2dyb3VuZFw+</entry>
         <entry encoding="base64">XDxCYXNlV2lubmVyU2hvd2VyXD4=</entry>
         <entry encoding="base64">XDxHZXRHYW1lT3ZlclNjcmVlblR5cGVcPg==</entry>
+        <entry encoding="base64">XDxfcHZlRGVmZWF0R2FtZU92ZXJDb250cm9sbGVyXD4=</entry>
+        <entry encoding="base64">XDxCYXNlRGVmZW5jZVJld2FyZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
