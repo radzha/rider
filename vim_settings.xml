@@ -231,6 +231,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WaveData.cs" timestamp="1556294075684">
         <mark key="'" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ILocalGame.cs" timestamp="1557221218466">
+        <mark key="[" line="27" column="51" />
+        <mark key="]" line="27" column="60" />
+        <mark key="." line="27" column="60" />
+        <mark key="^" line="27" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" timestamp="1556278063616">
         <mark key="'" line="177" column="108" />
       </file>
@@ -470,6 +476,12 @@
         <mark key="^" line="931" column="33" />
         <mark key="." line="931" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FocusLastFightController.cs" timestamp="1557316523894">
+        <mark key="[" line="89" column="43" />
+        <mark key="]" line="89" column="52" />
+        <mark key="." line="89" column="52" />
+        <mark key="^" line="89" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" timestamp="1557293310356">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="72" />
@@ -570,8 +582,8 @@
         <mark key="." line="13" column="117" />
         <mark key="^" line="13" column="117" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1557216077784">
-        <mark key="'" line="222" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1557316084184">
+        <mark key="'" line="386" column="100" />
         <mark key="[" line="235" column="4" />
         <mark key="]" line="235" column="4" />
         <mark key="." line="235" column="27" />
@@ -715,8 +727,8 @@
         <mark key="^" line="76" column="22" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1557299664868">
-        <mark key="'" line="18" column="41" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1557316075207">
+        <mark key="'" line="187" column="31" />
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="113" />
         <mark key="." line="106" column="111" />
@@ -744,9 +756,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="255" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="404" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="45" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="113" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="31" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="131" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
@@ -844,22 +853,25 @@
       <jump line="78" column="42" filename="/TournamentResultsPlayerInfo.cs" />
       <jump line="63" column="93" filename="/TournamentResultsPlayerInfo.cs" />
       <jump line="50" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
+      <jump line="187" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="889" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
+      <jump line="386" column="100" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>BaseDefence</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>BaseDefence</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWx0YXNcPg==</text>
+        <text encoding="base64">XDxFVkVOVF9GTE9XX1NDUkVFTlNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>tournamentInfo.LastFightStart;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2FzZSBMb2NhbEdhbWVUeXBlLkJhc2VEZWZlbmNlOgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
@@ -896,9 +908,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWx0YXNcPg==</last-search>
+      <last-search encoding="base64">XDxFVkVOVF9GTE9XX1NDUkVFTlNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWx0YXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFVkVOVF9GTE9XX1NDUkVFTlNcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>-1</last-dir>
@@ -906,8 +918,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stat</entry>
-        <entry>stati</entry>
         <entry encoding="base64">XDxFVkVOVF9HQU1FX09WRVJcPg==</entry>
         <entry encoding="base64">XDxCbHVlSGVhbHRoUGVyY2VudFw+</entry>
         <entry encoding="base64">XDxfbGluZXNDb21wbGV0ZWRcPg==</entry>
@@ -926,6 +936,8 @@
         <entry>Round</entry>
         <entry encoding="base64">XDxMYXN0VGFibGVVcGRhdGVUaW1lXD4=</entry>
         <entry encoding="base64">XDxkZWx0YXNcPg==</entry>
+        <entry encoding="base64">XDxzY3JlZW5zXD4=</entry>
+        <entry encoding="base64">XDxFVkVOVF9GTE9XX1NDUkVFTlNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
