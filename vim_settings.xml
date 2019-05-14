@@ -157,6 +157,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="19" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/TournamentTypes.cs" timestamp="1557831109685" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1556195626997">
         <mark key="'" line="299" column="59" />
       </file>
@@ -296,7 +297,7 @@
         <mark key="^" line="58" column="97" />
         <mark key="." line="58" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1555424561289">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/Schedule.cs" timestamp="1557831121229">
         <mark key="'" line="37" column="41" />
         <mark key="[" line="35" column="44" />
         <mark key="]" line="36" column="37" />
@@ -600,14 +601,6 @@
         <mark key="." line="87" column="25" />
         <mark key="^" line="87" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceEnemyInfo.cs" timestamp="1557230664432">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/SetAvatarCommand.cs" timestamp="1557756800519">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="14" column="9" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Waves/WavesManager.cs" timestamp="1556537670065">
         <mark key="'" line="180" column="40" />
       </file>
@@ -632,12 +625,12 @@
         <mark key="." line="235" column="27" />
         <mark key="^" line="235" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1557830392427">
-        <mark key="'" line="57" column="25" />
-        <mark key="[" line="260" column="0" />
-        <mark key="]" line="260" column="0" />
-        <mark key="^" line="55" column="7" />
-        <mark key="." line="260" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1557833979174">
+        <mark key="'" line="62" column="49" />
+        <mark key="[" line="347" column="0" />
+        <mark key="]" line="347" column="64" />
+        <mark key="^" line="347" column="61" />
+        <mark key="." line="347" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" timestamp="1557820630785">
         <mark key="'" line="173" column="68" />
@@ -709,10 +702,6 @@
         <mark key="^" line="57" column="47" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/GiveBaseDefenseLossCommand.cs" timestamp="1557756813052">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="61" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1557238283618">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="77" column="0" />
@@ -747,7 +736,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557830098730">
+      <file name="/Dummy.txt" timestamp="1557830401170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1557154418032">
@@ -820,8 +809,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/BaseDefenceHistory.cs" />
-      <jump line="116" column="95" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/BaseDefenceHistory.cs" />
       <jump line="69" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/BaseDefenceHistory.cs" />
       <jump line="91" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/BaseDefenceHistory.cs" />
       <jump line="19" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/BaseDefenceHistory.cs" />
@@ -920,22 +907,24 @@
       <jump line="135" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="261" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="57" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
+      <jump line="254" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
+      <jump line="62" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlLkNMb2coaXNCb251cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xpa2VCdXR0b25zQW5pbWF0b3IuU2V0Qm9vbChIaWRlQnV0dG9uc0FuaW0sIHRydWUpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KSA=</text>
+        <text>IsAwesomeAnim</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbGlrZUJ1dHRvbnNBbmltYXRvclw+</text>
+        <text>clog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBBbmltYXRvciBfbGlrZUJ1dHRvbnNBbmltYXRvcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xpa2VCdXR0b25zQW5pbWF0b3IuU2V0Qm9vbChIaWRlQnV0dG9uc0FuaW0sIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlLkNMb2coaXNCb251cyk7Cg==</text>
@@ -972,9 +961,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfbGlrZUJ1dHRvbnNBbmltYXRvclw+</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbGlrZUJ1dHRvbnNBbmltYXRvclw+</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -982,7 +971,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaXNWaWV3ZWRUb3VybmFtZW50QmVoYXZpb3Vyc1w+</entry>
         <entry encoding="base64">XDxfaXNWaWV3ZWRCZWhhdmlvdXJzXD4=</entry>
         <entry>Load</entry>
         <entry encoding="base64">XDxQbGF5QnlUYWdcPg==</entry>
@@ -1002,6 +990,7 @@
         <entry encoding="base64">XDxJc0F3ZXNvbWVBbmltXD4=</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxfbGlrZUJ1dHRvbnNBbmltYXRvclw+</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
