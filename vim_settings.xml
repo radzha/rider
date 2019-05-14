@@ -482,11 +482,11 @@
         <mark key="^" line="931" column="33" />
         <mark key="." line="931" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" timestamp="1557846185543">
-        <mark key="[" line="18" column="29" />
-        <mark key="]" line="18" column="84" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="28" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" timestamp="1557846277064">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1557328067823">
         <mark key="'" line="1085" column="0" />
@@ -712,7 +712,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557841378155">
+      <file name="/Dummy.txt" timestamp="1557847295561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/BuyoutMineHandler.cs" timestamp="1554730777937">
@@ -750,8 +750,8 @@
         <mark key="^" line="56" column="29" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1557230798880">
-        <mark key="'" line="183" column="49" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1557847552011">
+        <mark key="'" line="23" column="12" />
         <mark key="[" line="208" column="0" />
         <mark key="]" line="208" column="54" />
         <mark key="^" line="201" column="35" />
@@ -790,8 +790,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="/Dummy.txt" />
-      <jump line="45" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="149" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="216" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
@@ -890,10 +888,12 @@
       <jump line="146" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
       <jump line="149" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
       <jump line="28" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" />
+      <jump line="23" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>letter.Text.Replace(&quot;{place}&quot;, letter.Place.ToString())</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -902,49 +902,49 @@
         <text>Text</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbGFjZVw+</text>
+        <text encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>letter.Text.Replace(&quot;{place}&quot;, letter.Place.ToString())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGFyYW1ldGVycy50cikK</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGV0dGVyLlRleHQuQ0xvZyhsZXR0ZXIuVGV4dC5SZXBsYWNlKCJ7cGxhY2V9IiwgbGV0dGVyLlBsYWNlLlRvU3RyaW5nKCkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlLkNMb2coaXNCb251cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGFyYW1ldGVycy50cikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9saWtlQnV0dG9uc0FuaW1hdG9yICE9IG51bGwpIF9saWtlQnV0dG9uc0FuaW1hdG9yLlNldEJvb2woVGVycm9yUmV3YXJkc1NjcmVlbi5Jc0F3ZXNvbWVBbmltLCAhaXNCb251cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9hbmltYXRvciAhPSBudWxsKSBfYW5pbWF0b3IuU2V0Qm9vbChUZXJyb3JSZXdhcmRzU2NyZWVuLklzQm9udXNBbmltLCBpc0JvbnVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlLkNMb2coaXNCb251cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yID0gR2V0Q29tcG9uZW50PEFuaW1hdG9yPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9saWtlQnV0dG9uc0FuaW1hdG9yICE9IG51bGwpIF9saWtlQnV0dG9uc0FuaW1hdG9yLlNldEJvb2woVGVycm9yUmV3YXJkc1NjcmVlbi5Jc0F3ZXNvbWVBbmltLCAhaXNCb251cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9hbmltYXRvciAhPSBudWxsKSBfYW5pbWF0b3IuU2V0Qm9vbChUZXJyb3JSZXdhcmRzU2NyZWVuLklzQm9udXNBbmltLCBpc0JvbnVzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yID0gR2V0Q29tcG9uZW50PEFuaW1hdG9yPigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbGFjZVw+</last-search>
+      <last-search encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbGFjZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -952,7 +952,6 @@
     </search>
     <history>
       <history-search>
-        <entry>coop</entry>
         <entry encoding="base64">XDxGaWdodEluZm9cPg==</entry>
         <entry encoding="base64">XDxPbkdhbWVPdmVyXD4=</entry>
         <entry>coopinfo</entry>
@@ -972,6 +971,7 @@
         <entry>p</entry>
         <entry>param</entry>
         <entry encoding="base64">XDxQbGFjZVw+</entry>
+        <entry encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
