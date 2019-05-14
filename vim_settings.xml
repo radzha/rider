@@ -264,8 +264,8 @@
         <mark key="^" line="97" column="28" />
         <mark key="." line="97" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1557825178167">
-        <mark key="'" line="317" column="14" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1557848049184">
+        <mark key="'" line="146" column="20" />
         <mark key="[" line="328" column="22" />
         <mark key="]" line="328" column="23" />
         <mark key="." line="328" column="23" />
@@ -482,11 +482,12 @@
         <mark key="^" line="931" column="33" />
         <mark key="." line="931" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" timestamp="1557846277064">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" timestamp="1557848619434">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="18" column="41" />
+        <mark key="]" line="18" column="44" />
+        <mark key="." line="18" column="44" />
+        <mark key="^" line="18" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1557328067823">
         <mark key="'" line="1085" column="0" />
@@ -790,12 +791,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="149" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="216" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="238" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="140" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="16" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/SetMarkCommand.cs" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/SetMarkCommand.cs" />
       <jump line="32" column="25" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="155" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/EconomicSettings.cs" />
@@ -890,19 +885,25 @@
       <jump line="28" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
       <jump line="20" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" />
       <jump line="23" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
+      <jump line="173" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="34" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="146" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="18" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LetterText.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Text</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</text>
+        <text encoding="base64">XDxQcmludFRhYmxlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>letter.Text.Replace(&quot;{place}&quot;, letter.Place.ToString())</text>
@@ -942,18 +943,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxQcmludFRhYmxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQcmludFRhYmxlXD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWdodEluZm9cPg==</entry>
-        <entry encoding="base64">XDxPbkdhbWVPdmVyXD4=</entry>
         <entry>coopinfo</entry>
         <entry>fillco</entry>
         <entry>animat</entry>
@@ -972,6 +971,8 @@
         <entry>param</entry>
         <entry encoding="base64">XDxQbGFjZVw+</entry>
         <entry encoding="base64">XDxMYXN0UmVzdWx0c1Nob3dpbmdcPg==</entry>
+        <entry encoding="base64">XDxMYXN0VGFibGVVcGRhdGVUaW1lXD4=</entry>
+        <entry encoding="base64">XDxQcmludFRhYmxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
