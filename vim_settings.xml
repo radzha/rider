@@ -93,6 +93,9 @@
         <mark key="^" line="79" column="37" />
         <mark key="." line="79" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" timestamp="1557928079121">
+        <mark key="'" line="22" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/AISystem.cs" timestamp="1556103664217">
         <mark key="'" line="14" column="17" />
         <mark key="[" line="280" column="62" />
@@ -474,7 +477,7 @@
         <mark key="." line="215" column="76" />
         <mark key="^" line="191" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1557920446002">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1557929882643">
         <mark key="'" line="56" column="83" />
         <mark key="[" line="90" column="78" />
         <mark key="]" line="90" column="87" />
@@ -854,9 +857,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="174" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="127" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="170" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="49" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
@@ -954,6 +954,9 @@
       <jump line="89" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="289" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="48" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="72" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" />
+      <jump line="40" column="99" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" />
+      <jump line="22" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryItemViewBase.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -966,7 +969,7 @@
         <text>citadel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfd2VhcG9uRXhwVmFsdWVzXD4=</text>
+        <text>rating</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGdsb2JlUG9pbnRzID0gX3N0b3JhZ2UuR2xvYmVTZWN0b3JzLlZhbHVlcy5Ub0xpc3QoKQogICAgICAgICAgICAgICAgLkZpbmRBbGwocG9pbnQgPT4gcG9pbnQuR2V0Q3VycmVudFR5cGUoKSA9PSBHbG9iZVBvaW50cy5UeXBlRS5jaXRhZGVsKTsKICAgICAgICAgICAgdmFyIHAgPSBnbG9iZVBvaW50cy5GaXJzdE9yRGVmYXVsdCgpOwogICAgICAgICAgICBpZiAocCA9PSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBPcGVuR2xvYmVQb2ludFdpdGhDb21tb25Qcmlvcml0aWVzKCk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHZhciBnbG9iZVBvaW50SWQgPSBwLklkOwogICAgICAgICAgICBTaG93UG9pbnQoZ2xvYmVQb2ludElkKTs=</text>
@@ -1006,9 +1009,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfd2VhcG9uRXhwVmFsdWVzXD4=</last-search>
+      <last-search>rating</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfd2VhcG9uRXhwVmFsdWVzXD4=</last-pattern>
+      <last-pattern>rating</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1016,7 +1019,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTS0lMTF9FWFBFUklFTkNFXD4=</entry>
         <entry>p</entry>
         <entry>param</entry>
         <entry encoding="base64">XDxQbGFjZVw+</entry>
@@ -1036,6 +1038,7 @@
         <entry encoding="base64">XDxFVkVOVF9PUEVOX0ZST01fQkFTRV9ERUZFTkNFX0ZJTklTSFw+</entry>
         <entry>weapon</entry>
         <entry encoding="base64">XDxfd2VhcG9uRXhwVmFsdWVzXD4=</entry>
+        <entry>rating</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
