@@ -355,11 +355,11 @@
         <mark key="^" line="358" column="56" />
         <mark key="." line="358" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/LettersExpireController.cs" timestamp="1557906808522">
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="35" />
-        <mark key="^" line="37" column="40" />
-        <mark key="." line="37" column="35" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/LettersExpireController.cs" timestamp="1557910991147">
+        <mark key="[" line="41" column="17" />
+        <mark key="]" line="41" column="21" />
+        <mark key="^" line="41" column="21" />
+        <mark key="." line="41" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1557844551804">
         <mark key="'" line="268" column="39" />
@@ -523,8 +523,8 @@
         <mark key="." line="1352" column="11" />
         <mark key="^" line="1351" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1555947440897">
-        <mark key="'" line="108" column="63" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1557910956783">
+        <mark key="'" line="166" column="21" />
         <mark key="[" line="195" column="72" />
         <mark key="]" line="196" column="16" />
         <mark key="." line="196" column="16" />
@@ -801,14 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="289" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="283" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="130" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
-      <jump line="67" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
-      <jump line="91" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="124" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="408" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="293" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
       <jump line="296" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
@@ -901,22 +893,30 @@
       <jump line="87" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/StaticLettersManager.cs" />
       <jump line="82" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/StaticLettersManager.cs" />
       <jump line="28" column="89" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailListAdapter.cs" />
+      <jump line="303" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="321" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="341" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="345" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="364" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="141" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="120" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="166" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>letter</text>
+        <text>before</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>letter</text>
+        <text>before</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVhZExldHRlcnNcPg==</text>
+        <text encoding="base64">XDxPbkxldHRlcnNVcGRhdGVkXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>letter.Text.Replace(&quot;{place}&quot;, letter.Place.ToString())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJiZWZvcmUiLkNMb2codXNlckluZm8uTGV0dGVycy5Db3VudCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
@@ -953,9 +953,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmVhZExldHRlcnNcPg==</last-search>
+      <last-search encoding="base64">XDxPbkxldHRlcnNVcGRhdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVhZExldHRlcnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxPbkxldHRlcnNVcGRhdGVkXD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>-1</last-dir>
@@ -963,9 +963,6 @@
     </search>
     <history>
       <history-search>
-        <entry>animat</entry>
-        <entry encoding="base64">XDxfYWxseUlkXD4=</entry>
-        <entry>bonus</entry>
         <entry encoding="base64">XDxfYWxseURhbWFnZVBlcmNlbnRcPg==</entry>
         <entry>||</entry>
         <entry encoding="base64">XDxJc0F3ZXNvbWVBbmltXD4=</entry>
@@ -983,6 +980,9 @@
         <entry encoding="base64">XDxQcmludFRhYmxlXD4=</entry>
         <entry encoding="base64">XDxfbGV0dGVyVGV4dFw+</entry>
         <entry encoding="base64">XDxfcmVhZExldHRlcnNcPg==</entry>
+        <entry encoding="base64">IFVwZA==</entry>
+        <entry encoding="base64">XDxVcGRhdGVMaXN0XD4=</entry>
+        <entry encoding="base64">XDxPbkxldHRlcnNVcGRhdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
