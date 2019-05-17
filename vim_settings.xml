@@ -276,12 +276,12 @@
         <mark key="^" line="97" column="28" />
         <mark key="." line="97" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1558009976372">
-        <mark key="'" line="159" column="0" />
-        <mark key="[" line="328" column="22" />
-        <mark key="]" line="328" column="23" />
-        <mark key="." line="328" column="23" />
-        <mark key="^" line="328" column="23" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1558079013820">
+        <mark key="'" line="330" column="35" />
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="35" column="53" />
+        <mark key="." line="35" column="53" />
+        <mark key="^" line="35" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Common/Utils.cs" timestamp="1556008523271">
         <mark key="'" line="1925" column="37" />
@@ -379,7 +379,7 @@
         <mark key="^" line="15" column="103" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1558020505305">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1558078825991">
         <mark key="'" line="439" column="45" />
         <mark key="[" line="441" column="38" />
         <mark key="]" line="441" column="41" />
@@ -858,11 +858,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/MercenaryModelLoader.cs" />
-      <jump line="12" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/FightPrepareModelController.cs" />
-      <jump line="432" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="426" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="422" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="418" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="415" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="410" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
@@ -958,22 +953,27 @@
       <jump line="207" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
       <jump line="434" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="57" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
+      <jump line="279" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="58" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="284" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="439" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="329" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJQbGFjZXMgZGVsdGEiLkFkZFBhcmFtKHBsYWNlc0RlbHRhWzBdKS5DTG9nKHBsYWNlc0RlbHRhWzFdKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">TGFzdFRhYmxlVXBkYXRlVGltZSA9IG5ldyBVbml0eUJlaGF2aW9yPGRvdWJsZT4oMGYpOw==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>enemyData.VisualPlace</text>
+        <text encoding="base64">TGFzdFRhYmxlVXBkYXRlVGltZSA9IG5ldyBVbml0eUJlaGF2aW9yPGRvdWJsZT4oMGYpOw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGaWxsUmV3YXJkc1w+</text>
+        <text encoding="base64">XDxfdG91cm5hbWVudFN0YXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJQbGFjZXMgZGVsdGEiLkFkZFBhcmFtKHBsYWNlc0RlbHRhWzBdKS5DTG9nKHBsYWNlc0RlbHRhWzFdKTsK</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgcmVhZG9ubHkgVW5pdHlCZWhhdmlvcjxkb3VibGU+IExhc3RUYWJsZVVwZGF0ZVRpbWUgPSBuZXcgVW5pdHlCZWhhdmlvcjxkb3VibGU+KDBmKTsK</text>
       </register>
       <register name="1" type="4">
         <text>var placesAfter = new[] {playerData.VisualPlace, enemyData.VisualPlace};
@@ -1013,9 +1013,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGaWxsUmV3YXJkc1w+</last-search>
+      <last-search encoding="base64">XDxfdG91cm5hbWVudFN0YXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGaWxsUmV3YXJkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfdG91cm5hbWVudFN0YXRcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1023,7 +1023,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CRE</entry>
         <entry encoding="base64">XDxfZHVlbEVmZmVjdFw+</entry>
         <entry encoding="base64">XDxfZHVlbEhvbG9ncmFtTWF0ZXJpYWxcPg==</entry>
         <entry>first</entry>
@@ -1043,6 +1042,7 @@
         <entry>globe</entry>
         <entry encoding="base64">XDxHbG9iZU9wZW5cPg==</entry>
         <entry encoding="base64">XDxGaWxsUmV3YXJkc1w+</entry>
+        <entry encoding="base64">XDxfdG91cm5hbWVudFN0YXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
