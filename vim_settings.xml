@@ -470,8 +470,8 @@
         <mark key="." line="113" column="92" />
         <mark key="^" line="89" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" timestamp="1558086190457">
-        <mark key="'" line="207" column="27" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" timestamp="1558086628376">
+        <mark key="'" line="193" column="76" />
         <mark key="[" line="203" column="81" />
         <mark key="]" line="203" column="81" />
         <mark key="^" line="203" column="93" />
@@ -732,11 +732,10 @@
         <mark key="^" line="63" column="50" />
         <mark key="." line="63" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1558080105739">
-        <mark key="[" line="41" column="45" />
-        <mark key="]" line="41" column="53" />
-        <mark key="^" line="41" column="53" />
-        <mark key="." line="41" column="53" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1558086823455">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1558083876040">
         <mark key="'" line="335" column="0" />
@@ -871,7 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="510" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="435" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="116" column="106" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/FightPrepareModelController.cs" />
       <jump line="11" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/FightPrepareModelController.cs" />
@@ -971,10 +969,11 @@
       <jump line="304" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
       <jump line="288" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
       <jump line="335" column="0" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="193" column="76" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC0gc3RhcnRJbmRleA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIlBsYWNlcyBkZWx0YSIuQWRkUGFyYW0ocGxhY2VzRGVsdGFbMF0pLkNMb2cocGxhY2VzRGVsdGFbMV0pOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -983,49 +982,49 @@
         <text encoding="base64">IC0gc3RhcnRJbmRleA==</text>
       </register>
       <register name="/" type="4">
-        <text>reject</text>
+        <text>clog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByb3cuSW5pdChkYXRhLlZhbHVlLCBfdG91cm5hbWVudCwgZGVsdGFzLCAoVG91cm5hbWVudFN0YXRlKSBfdG91cm5hbWVudFN0YXRlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlBsYWNlcyBkZWx0YSIuQWRkUGFyYW0ocGxhY2VzRGVsdGFbMF0pLkNMb2cocGxhY2VzRGVsdGFbMV0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlBsYWNlcyBhZnRlciIuQWRkUGFyYW0ocGxheWVyRGF0YS5WaXN1YWxQbGFjZSkuQ0xvZyhlbmVteURhdGEuVmlzdWFsUGxhY2UpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlBsYWNlcyBiZWZvcmUiLkNMb2cocGxhY2VzQmVmb3JlLkdldFNlcWkoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlByZWRpY3Rpb24gdXNlZCIuTG9nKHVzZVByZWRpY3Rpb24pOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYWNlcy5DTG9nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlByZWRpY3Rpb24gdXNlZCIuTG9nKHVzZVByZWRpY3Rpb24pOwoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>reject</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern>reject</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1042,7 +1041,6 @@
         <entry>sibli</entry>
         <entry>parent</entry>
         <entry encoding="base64">XDxfaG9sb2dyYW1CbGFrZUVmZmVjdFw+</entry>
-        <entry>clog</entry>
         <entry>reward</entry>
         <entry>rewar</entry>
         <entry encoding="base64">XDxfcmV3YXJkc1w+</entry>
@@ -1053,6 +1051,7 @@
         <entry>tourn</entry>
         <entry encoding="base64">XDxMYXN0UGxhY2VcPg==</entry>
         <entry>reject</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
