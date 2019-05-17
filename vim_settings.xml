@@ -293,12 +293,12 @@
         <mark key="^" line="97" column="28" />
         <mark key="." line="97" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1558087430407">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1558105146663">
         <mark key="'" line="325" column="43" />
-        <mark key="[" line="327" column="19" />
-        <mark key="]" line="327" column="59" />
-        <mark key="." line="327" column="59" />
-        <mark key="^" line="327" column="59" />
+        <mark key="[" line="341" column="29" />
+        <mark key="]" line="341" column="33" />
+        <mark key="." line="341" column="33" />
+        <mark key="^" line="341" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Common/Utils.cs" timestamp="1556008523271">
         <mark key="'" line="1925" column="37" />
@@ -396,8 +396,8 @@
         <mark key="^" line="15" column="103" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1558078825991">
-        <mark key="'" line="439" column="45" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1558104101947">
+        <mark key="'" line="248" column="14" />
         <mark key="[" line="441" column="38" />
         <mark key="]" line="441" column="41" />
         <mark key="." line="441" column="41" />
@@ -741,12 +741,12 @@
         <mark key="^" line="63" column="50" />
         <mark key="." line="63" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1558096648335">
-        <mark key="'" line="46" column="71" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="38" column="71" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1558105370656">
+        <mark key="'" line="70" column="36" />
+        <mark key="[" line="58" column="78" />
+        <mark key="]" line="58" column="88" />
+        <mark key="." line="58" column="88" />
+        <mark key="^" line="58" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1558083876040">
         <mark key="'" line="342" column="0" />
@@ -793,7 +793,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558099490796">
+      <file name="/Dummy.txt" timestamp="1558102583170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/BuyoutMineHandler.cs" timestamp="1554730777937">
@@ -874,9 +874,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
-      <jump line="12" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
-      <jump line="75" column="77" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" />
       <jump line="22" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" />
       <jump line="36" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" />
@@ -974,19 +971,22 @@
       <jump line="59" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="73" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
+      <jump line="219" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="248" column="14" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="70" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluaXQiLkNMb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Abs</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>§</text>
+        <text>Abs</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>predic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2hvd1RoYW5rc1RleHRBbmRIaWRlUGFuZWwoQ09OR1JBVFVMQVRJT05TX09OX0xJS0UpOwo=</text>
@@ -1022,13 +1022,13 @@
         <text encoding="base64">ICAgICAgICAgICAgQWxseUlkID0gYWxseS5Vc2VySWQuVG9JbnQoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>predic</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>predic</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1036,7 +1036,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sibli</entry>
         <entry>parent</entry>
         <entry encoding="base64">XDxfaG9sb2dyYW1CbGFrZUVmZmVjdFw+</entry>
         <entry>reward</entry>
@@ -1056,6 +1055,7 @@
         <entry encoding="base64">XDxUb3VybmFtZW50U3RhdGVcPg==</entry>
         <entry encoding="base64">XDxVcGRhdGVBbmltU3RhdGVcPg==</entry>
         <entry>clog</entry>
+        <entry>predic</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
@@ -1076,8 +1076,8 @@
         <entry encoding="base64">JXMvXDxMaXN0XD4vUmVhY3RpdmVMaXN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1VOSVRZX0VESVRPUi9EREQvZw==</entry>
         <entry>%s/Chest/CitadelLike/g</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
