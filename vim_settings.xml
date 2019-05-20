@@ -850,8 +850,8 @@
         <mark key="^" line="76" column="22" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1558366863215">
-        <mark key="'" line="172" column="23" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1558368214963">
+        <mark key="'" line="186" column="43" />
         <mark key="[" line="157" column="88" />
         <mark key="]" line="157" column="88" />
         <mark key="." line="157" column="88" />
@@ -876,7 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="219" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="248" column="14" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="70" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
@@ -976,6 +975,7 @@
       <jump line="72" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="27" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="170" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="186" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -988,7 +988,7 @@
         <text>storage.GetBaseDefenceLooseRating(rating, enemyBaseInfo.Rating)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmF0aW5nQmFyXD4=</text>
+        <text encoding="base64">XDxfYm9udXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHRvdXJuYW1lbnQgPSBUb3VybmFtZW50VHlwZXMuR2V0Q3VycmVudFRvdXJuYW1lbnRUeXBlKCk7CiAgICAgICAgICAgIGlmICh0b3VybmFtZW50ICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBtYXhTY29yZSA9IHRvdXJuYW1lbnQuV2luU2NvcmU7Cg==</text>
@@ -1028,17 +1028,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcmF0aW5nQmFyXD4=</last-search>
+      <last-search encoding="base64">XDxfYm9udXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmF0aW5nQmFyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYm9udXNcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmVzb3VyY2VEZWx0YVw+</entry>
         <entry encoding="base64">XDxfY2hlc3RTdGF0ZVw+</entry>
         <entry>requi</entry>
         <entry encoding="base64">XDxfcmVxdWlyZWRXYXZlXD4=</entry>
@@ -1058,6 +1057,7 @@
         <entry encoding="base64">XDxzdG9yYWdlXD4=</entry>
         <entry encoding="base64">XDxfZXhwZXJpZW5jZUJhclw+</entry>
         <entry encoding="base64">XDxfcmF0aW5nQmFyXD4=</entry>
+        <entry encoding="base64">XDxfYm9udXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
