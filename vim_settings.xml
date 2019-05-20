@@ -850,12 +850,12 @@
         <mark key="^" line="76" column="22" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1558366123492">
-        <mark key="'" line="155" column="47" />
-        <mark key="[" line="156" column="30" />
-        <mark key="]" line="155" column="33" />
-        <mark key="." line="156" column="35" />
-        <mark key="^" line="155" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1558366863215">
+        <mark key="'" line="172" column="23" />
+        <mark key="[" line="157" column="88" />
+        <mark key="]" line="157" column="88" />
+        <mark key="." line="157" column="88" />
+        <mark key="^" line="157" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" timestamp="1557217668174">
         <mark key="'" line="44" column="28" />
@@ -876,9 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="59" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="73" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="219" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="248" column="14" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
@@ -960,7 +957,6 @@
       <jump line="42" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
       <jump line="12" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
       <jump line="22" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="25" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="68" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="13" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/ExperienceBarEnemyBase.cs" />
       <jump line="11" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
@@ -976,19 +972,23 @@
       <jump line="32" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
       <jump line="67" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
       <jump line="155" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="25" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="72" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="27" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="170" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>storage.GetBaseDefenceLooseRating(rating, enemyBaseInfo.Rating)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>1f;</text>
+        <text>storage.GetBaseDefenceLooseRating(rating, enemyBaseInfo.Rating)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yYWdlXD4=</text>
+        <text encoding="base64">XDxfcmF0aW5nQmFyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHRvdXJuYW1lbnQgPSBUb3VybmFtZW50VHlwZXMuR2V0Q3VycmVudFRvdXJuYW1lbnRUeXBlKCk7CiAgICAgICAgICAgIGlmICh0b3VybmFtZW50ICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBtYXhTY29yZSA9IHRvdXJuYW1lbnQuV2luU2NvcmU7Cg==</text>
@@ -1028,9 +1028,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9yYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxfcmF0aW5nQmFyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfcmF0aW5nQmFyXD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1038,7 +1038,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSb2NrZXRTdGF0ZUFuaW1cPg==</entry>
         <entry encoding="base64">XDxfcmVzb3VyY2VEZWx0YVw+</entry>
         <entry encoding="base64">XDxfY2hlc3RTdGF0ZVw+</entry>
         <entry>requi</entry>
@@ -1051,13 +1050,14 @@
         <entry>exp</entry>
         <entry>exper</entry>
         <entry>ex</entry>
-        <entry encoding="base64">XDxfZXhwZXJpZW5jZUJhclw+</entry>
         <entry>rating</entry>
         <entry>tourn</entry>
         <entry encoding="base64">XDxHZXRCYXNlRGVmZW5jZVdpblJhdGluZ1w+</entry>
         <entry encoding="base64">XDxTZXRSYXRpbmdNdWx0aXBsaWVyXD4=</entry>
         <entry encoding="base64">XDxHZXRCYXNlRGVmZW5jZUxvb3NlUmF0aW5nXD4=</entry>
         <entry encoding="base64">XDxzdG9yYWdlXD4=</entry>
+        <entry encoding="base64">XDxfZXhwZXJpZW5jZUJhclw+</entry>
+        <entry encoding="base64">XDxfcmF0aW5nQmFyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
