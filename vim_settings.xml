@@ -501,8 +501,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558352237647">
-        <mark key="'" line="225" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558356944480">
+        <mark key="'" line="603" column="16" />
+        <mark key="[" line="642" column="48" />
+        <mark key="]" line="642" column="49" />
+        <mark key="^" line="642" column="49" />
+        <mark key="." line="642" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555937021776">
         <mark key="'" line="36" column="53" />
@@ -791,7 +795,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558352360868">
+      <file name="/Dummy.txt" timestamp="1558356658276">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/BuyoutMineHandler.cs" timestamp="1554730777937">
@@ -872,8 +876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="341" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="336" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="321" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="313" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
@@ -972,22 +974,24 @@
       <jump line="53" column="89" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
       <jump line="58" column="23" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
       <jump line="108" column="54" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" />
+      <jump line="199" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="603" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlRGVsdGEuQ0xvZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Storage.GetStorage().EconomicSettings.TournamentChest;</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>hasLost</text>
+        <text>Storage.GetStorage().EconomicSettings.TournamentChest;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdG9yZUl0ZW1cPg==</text>
+        <text>isto</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5pdFRvdXJuYW1lbnQoYmFzZURlZmVuY2VIaXN0b3J5SXRlbSk7Cg==</text>
+      <register name="0" type="4">
+        <text>Storage.GetStorage().EconomicSettings.TournamentChest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlRGVsdGEuQ0xvZygpOwo=</text>
@@ -1024,9 +1028,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdG9yZUl0ZW1cPg==</last-search>
+      <last-search>isto</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdG9yZUl0ZW1cPg==</last-pattern>
+      <last-pattern>isto</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1034,7 +1038,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clog</entry>
         <entry>predic</entry>
         <entry encoding="base64">XDxJc1ZpZXdlZEFuaW1cPg==</entry>
         <entry>&quot;</entry>
@@ -1054,6 +1057,7 @@
         <entry encoding="base64">XDxVcGRhdGVDaXRhZGVsVmlld1w+</entry>
         <entry>Update</entry>
         <entry encoding="base64">XDxTdG9yZUl0ZW1cPg==</entry>
+        <entry>isto</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
