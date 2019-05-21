@@ -513,12 +513,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558438072872">
-        <mark key="'" line="224" column="79" />
-        <mark key="[" line="224" column="57" />
-        <mark key="]" line="224" column="79" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558439900712">
+        <mark key="'" line="251" column="0" />
+        <mark key="[" line="251" column="0" />
+        <mark key="]" line="251" column="0" />
         <mark key="^" line="224" column="79" />
-        <mark key="." line="224" column="79" />
+        <mark key="." line="251" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555937021776">
         <mark key="'" line="36" column="53" />
@@ -894,7 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="225" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="63" column="0" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="179" column="22" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="199" column="16" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -991,13 +990,14 @@
       <jump line="73" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="51" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="227" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="251" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="224" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="22" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
+      <jump line="252" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="251" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbnNBbmltYXRvci5HZXRJbnRlZygiQ2l0YWRlbENoZXN0U3RhdGUiLCAoaW50KXN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIi5DTG9nKChpbnQpc3RhdGUpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -1006,49 +1006,49 @@
         <text>SetInteger</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGx1c1ZhbHVlc1w+</text>
+        <text>clog</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbnNBbmltYXRvci5TZXRJbnRlZ2VyKCJDaXRhZGVsQ2hlc3RTdGF0ZSIsIChpbnQpc3RhdGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbnNBbmltYXRvci5HZXRJbnRlZygiQ2l0YWRlbENoZXN0U3RhdGUiLCAoaW50KXN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIi5DTG9nKChpbnQpc3RhdGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbnNBbmltYXRvci5nYW1lT2JqZWN0LmFjdGl2ZUluSGllcmFyY2h5LkNMb2coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2J1dHRvbnNBbmltYXRvci5HZXRJbnRlZygiQ2l0YWRlbENoZXN0U3RhdGUiLCAoaW50KXN0YXRlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGhmLkZsb29yVG9JbnQoYm9udXNNb25leUluZm8uUHJlY2lzZVZhbHVlKS5DTG9nKG1vbmV5VW5jb25zdHJhaW5lZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGhmLkZsb29yVG9JbnQoYm9udXNNb25leUluZm8uUHJlY2lzZVZhbHVlKS5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGhmLkZsb29yVG9JbnQoYm9udXNNb25leUluZm8uUHJlY2lzZVZhbHVlKS5DTG9nKG1vbmV5VW5jb25zdHJhaW5lZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm11bHQiLkNMb2coUmF0aW5nTXVsdGlwbGllcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hdGhmLkZsb29yVG9JbnQoYm9udXNNb25leUluZm8uUHJlY2lzZVZhbHVlKS5DTG9nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcGx1c1ZhbHVlc1w+</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGx1c1ZhbHVlc1w+</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1072,10 +1072,10 @@
         <entry>predict</entry>
         <entry encoding="base64">XDxFVkVOVF9QUkVESUNURURfQk9OVVNfUkVDRUlWRURcPg==</entry>
         <entry encoding="base64">XDx3aGlsZVw+</entry>
-        <entry>clog</entry>
         <entry encoding="base64">XDxDaXRhZGVsU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</entry>
         <entry encoding="base64">XDxfcGx1c1ZhbHVlc1w+</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
