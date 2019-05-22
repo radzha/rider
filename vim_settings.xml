@@ -523,12 +523,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558442592523">
-        <mark key="'" line="46" column="7" />
-        <mark key="[" line="251" column="0" />
-        <mark key="]" line="251" column="0" />
-        <mark key="^" line="224" column="79" />
-        <mark key="." line="251" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558510755715">
+        <mark key="'" line="253" column="41" />
+        <mark key="[" line="227" column="25" />
+        <mark key="]" line="227" column="50" />
+        <mark key="^" line="227" column="24" />
+        <mark key="." line="227" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555937021776">
         <mark key="'" line="36" column="53" />
@@ -813,7 +813,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558453828976">
+      <file name="/Dummy.txt" timestamp="1558455960545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/GeneratorUtils.cs" timestamp="1558421946506">
@@ -925,7 +925,6 @@
       <jump line="227" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="224" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="22" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
-      <jump line="252" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="251" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="181" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
       <jump line="189" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
@@ -1012,10 +1011,11 @@
       <jump line="183" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="194" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="283" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="252" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNob3cgZXhwIi5BZGRQYXJhbShkYXRhLlVzZXJFeHBlcmllbmNlKS5BZGRQYXJhbShkYXRhLldlYXBvbkV4cGVyaWVuY2UuU2VsZWN0KGs9PmsuVmFsdWUuVG9TdHJpbmcoKSkuR2V0U2VxKCkpLkNMb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text>(int) CitadelState.Reward</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -1024,57 +1024,56 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>storeItem.Items.Bonus</text>
+        <text>(int) CitadelState.Reward</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNob3cgZXhwIi5BZGRQYXJhbShkYXRhLlVzZXJFeHBlcmllbmNlKS5BZGRQYXJhbShkYXRhLldlYXBvbkV4cGVyaWVuY2UuU2VsZWN0KGs9PmsuVmFsdWUuVG9TdHJpbmcoKSkuR2V0U2VxKCkpLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuQ0xvZygoaW50KXN0YXRlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm51bGwiLkNMb2dZZWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNob3cgZXhwIi5BZGRQYXJhbShkYXRhLlVzZXJFeHBlcmllbmNlKS5BZGRQYXJhbShkYXRhLldlYXBvbkV4cGVyaWVuY2UuU2VsZWN0KGs9PmsuVmFsdWUuVG9TdHJpbmcoKSkuR2V0U2VxKCkpLkNMb2coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm51bGwiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm51bGwiLkNMb2dZZWwoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAib24gd2VhcG9uIGV4cCB1cGRhdGUiLkNMb2coZXhwVmFsdWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm51bGwiLkNMb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5vdCBudWxsIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAib24gd2VhcG9uIGV4cCB1cGRhdGUiLkNMb2coZXhwVmFsdWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiQnJvYWRjYXN0RXhwZXJpZW5jZURhdGEiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5vdCBudWxsIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAiQnJvYWRjYXN0RXhwZXJpZW5jZURhdGEiLkNMb2coKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAib24gdXNlciBpbmZvIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBfc3Vic2NyaXB0aW9ucy5BZGQodXNlckluZm8uRXhwLlN1YnNjcmliZShPbkV4cGVyaWVuY2VVcGRhdGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAib24gdXNlciBpbmZvIi5DTG9nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onbuycit</entry>
         <entry>\/</entry>
         <entry>onus\</entry>
         <entry>subsc</entry>
@@ -1094,6 +1093,7 @@
         <entry encoding="base64">XDxHZXRXZWFwb25FeHBlcmllbmNlXD4=</entry>
         <entry>ratingdel</entry>
         <entry>clog</entry>
+        <entry encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
