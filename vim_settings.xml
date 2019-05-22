@@ -523,12 +523,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558510755715">
-        <mark key="'" line="253" column="41" />
-        <mark key="[" line="227" column="25" />
-        <mark key="]" line="227" column="50" />
-        <mark key="^" line="227" column="24" />
-        <mark key="." line="227" column="25" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558511921468">
+        <mark key="'" line="224" column="125" />
+        <mark key="[" line="224" column="114" />
+        <mark key="]" line="224" column="125" />
+        <mark key="^" line="224" column="125" />
+        <mark key="." line="224" column="125" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555937021776">
         <mark key="'" line="36" column="53" />
@@ -872,12 +872,19 @@
         <mark key="^" line="58" column="11" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" timestamp="1558452962698">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" timestamp="1558511376457">
         <mark key="'" line="191" column="0" />
-        <mark key="[" line="186" column="59" />
-        <mark key="]" line="186" column="62" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="209" column="14" />
         <mark key="^" line="186" column="62" />
         <mark key="." line="186" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1558511403011">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="159" column="93" />
+        <mark key="]" line="159" column="108" />
+        <mark key="^" line="159" column="108" />
+        <mark key="." line="159" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1556282176221">
         <mark key="'" line="84" column="0" />
@@ -902,7 +909,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" timestamp="1558369188198">
         <mark key="'" line="123" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/Base/GetChestPopup.prefab" timestamp="1558422322660" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/StoryController.cs" timestamp="1555340939501">
         <mark key="'" line="1263" column="8" />
         <mark key="[" line="1264" column="0" />
@@ -912,20 +918,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="74" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="260" column="8" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="261" column="8" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="271" column="8" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="262" column="8" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="282" column="19" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="273" column="19" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="73" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="51" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="227" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="224" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="22" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
-      <jump line="251" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="181" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
       <jump line="189" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandItem.cs" />
       <jump line="452" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -1012,52 +1005,65 @@
       <jump line="194" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="283" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="252" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="155" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
+      <jump line="146" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
+      <jump line="158" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
+      <jump line="675" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="247" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="258" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="114" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="253" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="251" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="261" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="265" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="224" column="125" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(int) CitadelState.Reward</text>
+        <text>Reward</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Reward</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>(int) CitadelState.Reward</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU2V0Q2l0YWRlbENoZXN0U3RhdGUoY2l0YWRlbENvbnRleHQuQ2l0YWRlbFN0YXRlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuQ0xvZygoaW50KXN0YXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIi5DTG9nKChpbnQpIENpdGFkZWxTdGF0ZS5SZXdhcmQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNob3cgZXhwIi5BZGRQYXJhbShkYXRhLlVzZXJFeHBlcmllbmNlKS5BZGRQYXJhbShkYXRhLldlYXBvbkV4cGVyaWVuY2UuU2VsZWN0KGs9PmsuVmFsdWUuVG9TdHJpbmcoKSkuR2V0U2VxKCkpLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfYnV0dG9uc0FuaW1hdG9yLlNldEludGVnZXIoIkNpdGFkZWxDaGVzdFN0YXRlIiwgKGludCkgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm51bGwiLkNMb2dZZWwoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm51bGwiLkNMb2coKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAib24gd2VhcG9uIGV4cCB1cGRhdGUiLkNMb2coZXhwVmFsdWUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5vdCBudWxsIi5DTG9nKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiQnJvYWRjYXN0RXhwZXJpZW5jZURhdGEiLkNMb2coKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRlID0gOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXRlID0gY2l0YWRlbENvbnRleHQuQ2l0YWRlbFN0YXRlOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RhdGUuQ0xvZygoaW50KXN0YXRlKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoX2NpdGFkZWxjaGVjKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0b3JlSWQgPSBzdG9yZUl0ZW0uU3RvcmVJZAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAib24gdXNlciBpbmZvIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0b3JlSXRlbSA9IHN0b3JlSXRlbSwK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -1069,13 +1075,11 @@
       <last-pattern encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>\/</entry>
-        <entry>onus\</entry>
         <entry>subsc</entry>
         <entry>Exper</entry>
         <entry encoding="base64">XDxsb2NhbEdhbWVcPg==</entry>
@@ -1093,6 +1097,8 @@
         <entry encoding="base64">XDxHZXRXZWFwb25FeHBlcmllbmNlXD4=</entry>
         <entry>ratingdel</entry>
         <entry>clog</entry>
+        <entry>citadelchestc</entry>
+        <entry encoding="base64">XDxTZXRDaXRhZGVsQ2hlc3RTdGF0ZVw+</entry>
         <entry encoding="base64">XDxDaXRhZGVsQ2hlc3RTdGF0ZVw+</entry>
       </history-search>
       <history-cmd>
