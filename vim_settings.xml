@@ -548,12 +548,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558528457075">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558538811054">
         <mark key="'" line="247" column="39" />
-        <mark key="[" line="665" column="95" />
-        <mark key="]" line="665" column="101" />
-        <mark key="^" line="665" column="101" />
-        <mark key="." line="665" column="102" />
+        <mark key="[" line="681" column="68" />
+        <mark key="]" line="681" column="65" />
+        <mark key="^" line="681" column="65" />
+        <mark key="." line="681" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555937021776">
         <mark key="'" line="36" column="53" />
@@ -656,6 +656,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1556630849415">
         <mark key="'" line="604" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/MinDangerousPointFinder.cs" timestamp="1558538221465" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Audio/SpeechController/BlakeSpeechController.cs" timestamp="1555062401041">
         <mark key="'" line="124" column="95" />
         <mark key="[" line="154" column="0" />
@@ -873,7 +874,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558535871123">
+      <file name="/Dummy.txt" timestamp="1558538786096">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRewards.cs" timestamp="1558535744282">
@@ -1082,8 +1083,8 @@
       <jump line="1452" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Yel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIF9jaGVzdENvbnRleHQuQ2hlc3QuQ2hlc3QgPT0gU3RvcmFnZS5HZXRTdG9yYWdlKCkuRWNvbm9taWNTZXR0aW5ncy5Ub3VybmFtZW50Q2hlc3Q7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -1098,34 +1099,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaXNQYXRyb2xBbGx5LkNMb2dZZWwoX3RhcmdldCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIF9jaGVzdENvbnRleHQuQ2hlc3QuQ2hlc3QgPT0gU3RvcmFnZS5HZXRTdG9yYWdlKCkuRWNvbm9taWNTZXR0aW5ncy5Ub3VybmFtZW50Q2hlc3Q7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRvdXJuYW1lbnRJbmZvLkNhbGN1bGF0ZVNjb3JlcyhsaW5lc0NvbXBsZXRlZCwgdGFza3NDb21wbGV0ZWQsIGVuZW15TGluZXNDb3VudCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NvcmVzIFsgXQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFRvdXJuYW1lbnRJbmZvLkNhbGN1bGF0ZVNjb3JlcyhsaW5lc0NvbXBsZXRlZCwgdGFza3NDb21wbGV0ZWQsIGVuZW15TGluZXNDb3VudCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcmVzIFsgXQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpcnN0VmlzdWFsU2NvcmVzWzFdID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
