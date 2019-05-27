@@ -544,12 +544,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558961757033">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558962013107">
         <mark key="'" line="598" column="42" />
-        <mark key="[" line="704" column="89" />
-        <mark key="]" line="704" column="89" />
+        <mark key="[" line="599" column="0" />
+        <mark key="]" line="599" column="0" />
         <mark key="^" line="599" column="26" />
-        <mark key="." line="704" column="89" />
+        <mark key="." line="599" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1558957695597">
         <mark key="." line="229" column="101" />
@@ -570,6 +570,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/LastSelectedWeapons.cs" timestamp="1558450225981">
         <mark key="'" line="122" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BattleChatController.cs" timestamp="1558962651950">
+        <mark key="[" line="93" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentPlayerRow.cs" timestamp="1557233830806">
         <mark key="'" line="33" column="22" />
@@ -1071,8 +1074,8 @@
       <jump line="598" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, _chestContext.IsEventChest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hlc3RUeXBlLkNMb2coKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -1087,34 +1090,34 @@
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5HZXRIYXNoQ29kZSgpLkNMb2coX2NoZXN0Q29udGV4dC5Jc0V2ZW50Q2hlc3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hlc3RUeXBlLkNMb2coKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF93YXNIaWRkZW4gPSBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5HZXRIYXNoQ29kZSgpLkNMb2coX2NoZXN0Q29udGV4dC5Jc0V2ZW50Q2hlc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF93YXNIaWRkZW4gPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5HZXRIYXNoQ29kZSgpLkNMb2coX2NoZXN0Q29udGV4dC5Jc0V2ZW50Q2hlc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5HZXRIYXNoQ29kZSgpLkNMb2coX2NoZXN0Q29udGV4dC5Jc0V2ZW50Q2hlc3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKc29uVXRpbHMuSnNvbkdldFN0cmluZygibGFzdFBsYWNlIiwgZGF0YSwgIjAiKS5Ub0ludCgpLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKc29uVXRpbHMuSnNvbkdldFN0cmluZygibGFzdFBsYWNlIiwgZGF0YSwgIjAiKS5Ub0ludCgpLkNMb2coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
