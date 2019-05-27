@@ -545,12 +545,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558973206463">
-        <mark key="'" line="138" column="30" />
-        <mark key="[" line="233" column="66" />
-        <mark key="]" line="233" column="71" />
-        <mark key="^" line="233" column="71" />
-        <mark key="." line="233" column="71" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558974223374">
+        <mark key="'" line="79" column="12" />
+        <mark key="[" line="237" column="23" />
+        <mark key="]" line="237" column="51" />
+        <mark key="^" line="237" column="51" />
+        <mark key="." line="237" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/EventChestScreen.cs" timestamp="1558957695597">
         <mark key="." line="229" column="101" />
@@ -759,6 +759,9 @@
         <mark key="]" line="1177" column="52" />
         <mark key="^" line="1177" column="52" />
         <mark key="." line="1177" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreenContext.cs" timestamp="1558973703653">
+        <mark key="'" line="28" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/StasisGrenade.cs" timestamp="1556625881838">
         <mark key="'" line="73" column="22" />
@@ -971,9 +974,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
-      <jump line="266" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
-      <jump line="269" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
       <jump line="284" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
       <jump line="291" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
       <jump line="307" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
@@ -1062,7 +1062,6 @@
       <jump line="241" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="270" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="228" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="234" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="238" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="262" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="272" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -1071,61 +1070,65 @@
       <jump line="271" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="233" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="138" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="234" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="28" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreenContext.cs" />
+      <jump line="163" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="79" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NotExclusive</text>
+        <text>Reward</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>NotExclusive</text>
+        <text>Reward</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfY2l0YWRlbFN0YXRlXD4=</text>
+        <text encoding="base64">XDxSZXdhcmRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2V0Q2l0YWRlbENoZXN0U3RhdGUoQ2l0YWRlbFN0YXRlLlJld2FyZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIENpdGFkZWxTdGF0ZSBfY2l0YWRlbFN0YXRlOwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfY2l0YWRlbFN0YXRlID0gX2NpdGFkZWxTdGF0ZSA/PyBfY2hlc3RDb250ZXh0LkNpdGFkZWxDb250ZXh0LkNpdGFkZWxTdGF0ZSBDaXRhZGVsU3RhdGUuUmV3YXJkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENpdGFkZWxTdGF0ZSBfY2l0YWRlbFN0YXRlOwogICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfYnV0dG9uc0FuaW1hdG9yLlNldEludGVnZXIoIkNoZXN0VHlwZSIsIChpbnQpIENoZXN0VHlwZS5DaXRhZGVsT3JDb29wKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChJc0NpdGFkZWxDaGVzdCgpIHx8IElzQ29vcFNob3BDaGVzdCgpIHx8Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoSXNUb3VybmFtZW50Q2hlc3QoKSAmJiBfY2l0YWRlbFN0YXRlICE9IENpdGFkZWxTdGF0ZS5Ob3RFeGNsdXNpdmUpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfYnV0dG9uc0FuaW1hdG9yLlNldEludGVnZXIoIkNoZXN0VHlwZSIsIChpbnQpIENoZXN0VHlwZS5DaXRhZGVsT3JDb29wKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hlc3RUeXBlLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChJc0NpdGFkZWxDaGVzdCgpIHx8IElzQ29vcFNob3BDaGVzdCgpIHx8Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfY2l0YWRlbFN0YXRlXD4=</last-search>
+      <last-search encoding="base64">XDxSZXdhcmRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfY2l0YWRlbFN0YXRlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSZXdhcmRcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1133,7 +1136,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pop</entry>
         <entry>event</entry>
         <entry>control</entry>
         <entry>close</entry>
@@ -1153,6 +1155,7 @@
         <entry encoding="base64">XDxTZXRDaXRhZGVsQ2hlc3RTdGF0ZVw+</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxfY2l0YWRlbFN0YXRlXD4=</entry>
+        <entry encoding="base64">XDxSZXdhcmRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
