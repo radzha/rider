@@ -150,6 +150,13 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" timestamp="1557240760437">
         <mark key="'" line="279" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" timestamp="1558944367538">
+        <mark key="'" line="70" column="16" />
+        <mark key="[" line="182" column="81" />
+        <mark key="]" line="184" column="45" />
+        <mark key="^" line="147" column="44" />
+        <mark key="." line="184" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelResultScreen.cs" timestamp="1557143805873">
         <mark key="'" line="52" column="42" />
       </file>
@@ -854,7 +861,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558543712756">
+      <file name="/Dummy.txt" timestamp="1558546296880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRewards.cs" timestamp="1558535744282">
@@ -961,12 +968,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="265" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
-      <jump line="983" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="97" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
-      <jump line="212" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
-      <jump line="83" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="207" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="84" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
       <jump line="63" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
       <jump line="41" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
@@ -1061,19 +1062,25 @@
       <jump line="33" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
       <jump line="74" column="27" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" />
       <jump line="55" column="12" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" />
+      <jump line="28" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
+      <jump line="183" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
+      <jump line="40" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
+      <jump line="62" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
+      <jump line="65" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
+      <jump line="70" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>break;</text>
+        <text>_</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>break;</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcGRhdGVWaXN1YWxQbGFjZXNcPg==</text>
+        <text encoding="base64">XDxfaW5kaWNhdG9yU3RhdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cHJvdGVjdGVkIA==</text>
@@ -1113,9 +1120,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVcGRhdGVWaXN1YWxQbGFjZXNcPg==</last-search>
+      <last-search encoding="base64">XDxfaW5kaWNhdG9yU3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcGRhdGVWaXN1YWxQbGFjZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfaW5kaWNhdG9yU3RhdGVcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1123,8 +1130,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQbGF5ZXJzXD4=</entry>
-        <entry>while</entry>
         <entry>W</entry>
         <entry encoding="base64">XDxfYmFzZURlZmVuY2VIaXN0b3J5UG9wdXBDb250cm9sbGVyXD4=</entry>
         <entry>EV</entry>
@@ -1143,6 +1148,8 @@
         <entry>Dict</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVWaXN1YWxQbGFjZXNcPg==</entry>
+        <entry encoding="base64">XDxUb3VybmFtZW50SGFzUHJlbWl1bVw+</entry>
+        <entry encoding="base64">XDxfaW5kaWNhdG9yU3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
