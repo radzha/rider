@@ -84,6 +84,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/StoreItems.cs" timestamp="1558451835668">
         <mark key="[" line="23" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/AllyAbilities/EffectsAllyAbility.cs" timestamp="1559038379706">
+        <mark key="[" line="56" column="44" />
+        <mark key="]" line="56" column="72" />
+        <mark key="^" line="56" column="43" />
+        <mark key="." line="56" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1557820721360">
         <mark key="'" line="602" column="26" />
       </file>
@@ -171,11 +177,6 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="96" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1558959366514">
-        <mark key="[" line="163" column="89" />
-        <mark key="]" line="163" column="89" />
-        <mark key="." line="163" column="89" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/StoreItem.cs" timestamp="1559035741610">
         <mark key="'" line="322" column="63" />
         <mark key="[" line="13" column="0" />
@@ -215,7 +216,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559035504754">
+      <file name="/Dummy.txt" timestamp="1559036408418">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/GeneratorUtils.cs" timestamp="1558421946506">
@@ -348,19 +349,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>CompanionInfo.ParameterValue</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>begin</text>
       </register>
       <register name="/" type="4">
         <text>che</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzVG91cm5hbWVudENoZXN0ID0gY2hlc3QuQ2hlc3RJZC5TaG93SW5Ub3VybmFtZW50U2hvcDsK</text>
+      <register name="0" type="4">
+        <text>CompanionInfo.ParameterValue</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzVG91cm5hbWVudENoZXN0ID0gY2hlc3QuQ2hlc3RJZC5TaG93SW5Ub3VybmFtZW50U2hvcDsK</text>
