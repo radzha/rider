@@ -146,7 +146,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1557243611168">
         <mark key="'" line="261" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559134932379">
+      <file name="/Dummy.txt" timestamp="1559141423707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/GeneratorUtils.cs" timestamp="1558421946506">
@@ -259,6 +259,13 @@
         <mark key="^" line="1329" column="44" />
         <mark key="." line="1329" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" timestamp="1559141468448">
+        <mark key="'" line="53" column="71" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="52" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1556630849415">
         <mark key="'" line="604" column="30" />
       </file>
@@ -269,18 +276,18 @@
         <mark key="'" line="111" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserPointsContainer.cs" timestamp="1559134036416" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" timestamp="1559139666699">
-        <mark key="'" line="87" column="25" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="42" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" timestamp="1559140680794">
+        <mark key="'" line="42" column="37" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1559139395477">
-        <mark key="'" line="8" column="29" />
-        <mark key="[" line="1177" column="53" />
-        <mark key="]" line="1177" column="52" />
-        <mark key="^" line="1177" column="52" />
-        <mark key="." line="1177" column="65" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1559140692930">
+        <mark key="'" line="1174" column="109" />
+        <mark key="[" line="1174" column="103" />
+        <mark key="]" line="1174" column="106" />
+        <mark key="^" line="1174" column="106" />
+        <mark key="." line="1174" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/StoreItem.cs" timestamp="1559035741610">
         <mark key="'" line="322" column="63" />
@@ -323,9 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="636" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="701" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="1189" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="107" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" />
       <jump line="110" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" />
@@ -423,16 +427,19 @@
       <jump line="8" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="77" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" />
       <jump line="87" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" />
+      <jump line="42" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" />
+      <jump line="52" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
+      <jump line="1174" column="109" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pc0Nvb3BNb2RlVmlzaWJsZS5DTG9nKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>rewards</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>onenabl</text>
@@ -441,34 +448,34 @@
         <text encoding="base64">RGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gcmV3YXJkcw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pc0Nvb3BNb2RlVmlzaWJsZS5DTG9nKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyU2lkZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgVW5pdHlFZGl0b3IuRXhwZXJpbWVudGFsLlVJRWxlbWVudHMuR3JhcGhWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFVzZXJJbmZvIF91c2VySW5mbzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNVcGRhdGVkLkNMb2coKTsK</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUmV3YXJkcyA9IG5ldyBCb251c0xvZ0luZm8ocmV3YXJkcyk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gcmV3YXJkczsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25FbmFibGUoKQogICAgICAgIHsKICAgICAgICAgICAgX2lzRmlyc3RUZXJyb3IgPSBmYWxzZTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJld2FyZHMgPSBuZXcgQm9udXNMb2dJbmZvKHJld2FyZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2lzRmlyc3RUZXJyb3IgPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
