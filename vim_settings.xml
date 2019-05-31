@@ -469,7 +469,13 @@
         <mark key="." line="89" column="20" />
         <mark key="^" line="89" column="20" />
       </file>
-      <file name="/FightPrepareEnergyIndicator.cs" timestamp="1559233015293" />
+      <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1559314978777">
+        <mark key="'" line="1249" column="62" />
+        <mark key="[" line="2280" column="74" />
+        <mark key="]" line="2282" column="31" />
+        <mark key="^" line="2282" column="31" />
+        <mark key="." line="2282" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" timestamp="1558947798387">
         <mark key="'" line="118" column="61" />
       </file>
@@ -524,8 +530,8 @@
         <mark key="." line="13" column="113" />
         <mark key="^" line="13" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1559304363612">
-        <mark key="'" line="1168" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1559313862472">
+        <mark key="'" line="2251" column="11" />
         <mark key="[" line="1166" column="15" />
         <mark key="]" line="1166" column="16" />
         <mark key="." line="1166" column="16" />
@@ -880,7 +886,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/LastSelectedWeapons.cs" timestamp="1558450225981">
         <mark key="'" line="122" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1559221168700" />
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1556008337799">
         <mark key="'" line="2157" column="81" />
         <mark key="[" line="931" column="17" />
@@ -1069,8 +1074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="674" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="56" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/FightController.cs" />
       <jump line="37" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="143" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="148" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
@@ -1169,22 +1172,24 @@
       <jump line="168" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
       <jump line="185" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/RunState.cs" />
+      <jump line="2251" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="1249" column="62" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0b3AiLkNMb2coX3RpbWVyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>owner.</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3Vic2NyaXB0aW9uIA==</text>
+        <text>owner.</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>getwea</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkRpZSIuQ0xvZ1JlZChVbml0UHJlZmFiUGF0aCk7Cg==</text>
+      <register name="0" type="4">
+        <text>owner.GetWeaponById(data.WeaponId)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInN0b3AiLkNMb2coX3RpbWVyKTsK</text>
@@ -1221,9 +1226,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>getwea</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>getwea</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1231,7 +1236,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcGRhdGVBbmltYXRvclw+</entry>
         <entry encoding="base64">XDxJc0Vub3VnaEVuZXJneVw+</entry>
         <entry encoding="base64">XDxNb25leVN0YXRlQW5pbVw+</entry>
         <entry encoding="base64">XDxfbWVyY2VuYXJ5UHJpY2VTaG93XD4=</entry>
@@ -1251,6 +1255,7 @@
         <entry>load</entry>
         <entry>Load</entry>
         <entry>clog</entry>
+        <entry>getwea</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
