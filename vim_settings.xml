@@ -239,7 +239,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/PlayerController.cs" timestamp="1559210859806">
         <mark key="'" line="204" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" timestamp="1559218033272" />
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" timestamp="1558546043807">
         <mark key="'" line="61" column="12" />
         <mark key="[" line="73" column="20" />
@@ -477,12 +476,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" timestamp="1558947798387">
         <mark key="'" line="118" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1559216442730">
-        <mark key="'" line="50" column="25" />
-        <mark key="[" line="80" column="16" />
-        <mark key="]" line="80" column="16" />
-        <mark key="^" line="80" column="16" />
-        <mark key="." line="80" column="115" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1559289359105">
+        <mark key="'" line="75" column="49" />
+        <mark key="[" line="69" column="67" />
+        <mark key="]" line="69" column="79" />
+        <mark key="^" line="69" column="79" />
+        <mark key="." line="69" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandPriceButton.cs" timestamp="1559035000855">
         <mark key="'" line="43" column="24" />
@@ -501,7 +500,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1557243611168">
         <mark key="'" line="261" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559233755892" />
+      <file name="/Dummy.txt" timestamp="1559233928137">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRewards.cs" timestamp="1558535744282">
         <mark key="'" line="58" column="75" />
         <mark key="[" line="58" column="77" />
@@ -1054,12 +1055,12 @@
         <mark key="." line="28" column="17" />
         <mark key="^" line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1559216984620">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1559289370034">
         <mark key="'" line="235" column="21" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="^" line="235" column="20" />
-        <mark key="." line="234" column="0" />
+        <mark key="[" line="235" column="92" />
+        <mark key="]" line="235" column="97" />
+        <mark key="^" line="235" column="97" />
+        <mark key="." line="235" column="97" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1559033510677">
         <mark key="[" line="11" column="0" />
@@ -1086,7 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/PlayerController.cs" />
       <jump line="163" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/PlayerController.cs" />
       <jump line="165" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/PlayerController.cs" />
       <jump line="171" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/PlayerController.cs" />
@@ -1186,19 +1186,20 @@
       <jump line="84" column="90" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="1099" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="40" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" />
+      <jump line="75" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgcmV0dXJuIGlzRW5vdWdoRW5lcmd5ICYmIGlzRW5vdWdoUmVzb3VyY2VzOwo=</text>
+      <register name="&quot;" type="4">
+        <text>GameObject</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcGxleGl0eSA+IDI7</text>
+        <text>GameObject</text>
       </register>
       <register name="/" type="4">
-        <text>video</text>
+        <text>this</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IV9tZXJjZW5hcnlQcmljZVNob3cg</text>
@@ -1238,9 +1239,9 @@
       </register>
     </registers>
     <search>
-      <last-search>video</last-search>
+      <last-search>this</last-search>
       <last-offset />
-      <last-pattern>video</last-pattern>
+      <last-pattern>this</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1248,7 +1249,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFVkVOVF9HRVRfUExBWUVSX1VOSVRcPg==</entry>
         <entry encoding="base64">XDxBbmltYXRvclw+</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxPbkhwQ2hhbmdlZFw+</entry>
@@ -1268,6 +1268,7 @@
         <entry encoding="base64">XDxPbkVuZXJneUNvdW50Q2hhbmdlZFw+</entry>
         <entry encoding="base64">XDxfbWVyY2VuYXJ5UHJpY2VcPg==</entry>
         <entry>video</entry>
+        <entry>this</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
