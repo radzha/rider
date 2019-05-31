@@ -523,6 +523,12 @@
         <mark key="." line="27" column="65" />
         <mark key="^" line="27" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Game/Cheats/EnabledCheatsController.cs" timestamp="1559317481610">
+        <mark key="[" line="142" column="170" />
+        <mark key="]" line="135" column="90" />
+        <mark key="." line="135" column="90" />
+        <mark key="^" line="135" column="90" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerData/extensions/SchedulesExt.cs" timestamp="1555086377570">
         <mark key="'" line="13" column="106" />
         <mark key="[" line="13" column="106" />
@@ -1028,6 +1034,13 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1559317094229">
+        <mark key="'" line="325" column="15" />
+        <mark key="[" line="325" column="16" />
+        <mark key="]" line="325" column="15" />
+        <mark key="^" line="325" column="15" />
+        <mark key="." line="325" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1559220986328">
         <mark key="'" line="292" column="27" />
       </file>
@@ -1074,9 +1087,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="143" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="148" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="150" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="151" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="42" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
@@ -1174,61 +1184,64 @@
       <jump line="37" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/RunState.cs" />
       <jump line="2251" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="1249" column="62" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="45" column="17" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="294" column="11" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="325" column="15" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/ConsoleManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>owner.</text>
+        <text>Player.PlayerType.Ally</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>owner.</text>
+        <text>Player.PlayerType.Ally</text>
       </register>
       <register name="/" type="4">
-        <text>getwea</text>
+        <text>killcomp</text>
       </register>
       <register name="0" type="4">
         <text>owner.GetWeaponById(data.WeaponId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0b3AiLkNMb2coX3RpbWVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVyLkFkZFBhcmFtKCJhbSIsIGFtb3VudCkuTG9nKGNvbnRleHQuQWNjZWxlcmF0aW9uKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgWWFyeC5FeHRlbnRpb25zOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRpc3Bvc2UiLkNMb2coKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluaXQiLkNMb2coKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21vbmV5U3RhdGUuQ0xvZygpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInN0b3AiLkNMb2coX3RpbWVyKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVyLkFkZFBhcmFtKCJhbSIsIGFtb3VudCkuTG9nKGNvbnRleHQuQWNjZWxlcmF0aW9uKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNpbmcgWWFyeC5FeHRlbnRpb25zOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImRpc3Bvc2UiLkNMb2coKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImluaXQiLkNMb2coKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9zdWJzY3JpcHRpb25zLkFkZChzdWJzY3JpcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21vbmV5U3RhdGUuQ0xvZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>getwea</last-search>
+      <last-search>killcomp</last-search>
       <last-offset />
-      <last-pattern>getwea</last-pattern>
+      <last-pattern>killcomp</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1236,8 +1249,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc0Vub3VnaEVuZXJneVw+</entry>
-        <entry encoding="base64">XDxNb25leVN0YXRlQW5pbVw+</entry>
         <entry encoding="base64">XDxfbWVyY2VuYXJ5UHJpY2VTaG93XD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9MT0FEX1NUT1JBR0VcPg==</entry>
         <entry>init</entry>
@@ -1256,6 +1267,8 @@
         <entry>Load</entry>
         <entry>clog</entry>
         <entry>getwea</entry>
+        <entry encoding="base64">IFVwZGF0ZQ==</entry>
+        <entry>killcomp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
