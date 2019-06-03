@@ -925,12 +925,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" timestamp="1559575090609">
-        <mark key="'" line="35" column="84" />
-        <mark key="[" line="104" column="13" />
-        <mark key="]" line="105" column="27" />
-        <mark key="^" line="105" column="27" />
-        <mark key="." line="105" column="27" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" timestamp="1559576398394">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="145" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555937021776">
         <mark key="'" line="36" column="53" />
@@ -1164,8 +1164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="88" filename="/DetonateActionDescription.cs" />
-      <jump line="35" column="22" filename="/DetonateActionDescription.cs" />
       <jump line="214" column="35" filename="/DetonateActionDescription.cs" />
       <jump line="115" column="87" filename="/DetonateActionDescription.cs" />
       <jump line="162" column="21" filename="/DetonateActionDescription.cs" />
@@ -1264,52 +1262,54 @@
       <jump line="117" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
       <jump line="12" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
       <jump line="35" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="116" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LocalGameType.Duel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5GaWdodFByZXBhcmUuQXNzYXVsdDsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>LocalGameType.Duel</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFVkVOVF9HRVRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hdG9yLlBsYXlCeVRhZyhBbmltYXRpb25NYWNoaW5lU3RhdGVUYWcuT25VbmxvY2spOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZpcnN0IHRyeSIuQ0xvZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5GaWdodFByZXBhcmUuQXNzYXVsdDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGVycm9yQXNzYXVsdEhlbGljb3B0ZXJNb2RlbExvYWRlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFuaW1hdG9yID0gR2V0Q29tcG9uZW50PEFuaW1hdGlvbk1hY2hpbmU+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJEaWUxIi5BZGRQYXJhbShJc01vdmluZykuQWRkUGFyYW0obmVlZFN0b3ApLkNMb2dSZWQoVW5pdFByZWZhYlBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkRpZSIuQ0xvZ1JlZChVbml0UHJlZmFiUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBsYXllciIuQWRkUGFyYW0oVW5pdFByZWZhYikuQ0xvZyhJZCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFuaW1hdG9yID0gR2V0Q29tcG9uZW50PEFuaW1hdGlvbk1hY2hpbmU+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJEaWUxIi5BZGRQYXJhbShJc01vdmluZykuQWRkUGFyYW0obmVlZFN0b3ApLkNMb2dSZWQoVW5pdFByZWZhYlBhdGgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkRpZSIuQ0xvZ1JlZChVbml0UHJlZmFiUGF0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
