@@ -925,12 +925,12 @@
         <mark key="^" line="67" column="31" />
         <mark key="." line="67" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" timestamp="1559576398394">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="145" column="35" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" timestamp="1559577110413">
+        <mark key="'" line="85" column="91" />
+        <mark key="[" line="85" column="107" />
+        <mark key="]" line="85" column="119" />
+        <mark key="^" line="85" column="119" />
+        <mark key="." line="85" column="119" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555937021776">
         <mark key="'" line="36" column="53" />
@@ -1164,11 +1164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="35" filename="/DetonateActionDescription.cs" />
-      <jump line="115" column="87" filename="/DetonateActionDescription.cs" />
-      <jump line="162" column="21" filename="/DetonateActionDescription.cs" />
-      <jump line="354" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="352" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="324" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="195" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="193" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
@@ -1264,61 +1259,66 @@
       <jump line="35" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
       <jump line="116" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="149" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="103" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="104" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="106" column="91" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5GaWdodFByZXBhcmUuQXNzYXVsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF5Q2FzdEluVGVycmFpbiA9IDsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>first</text>
+        <text>rayCastInTerrain</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVkVOVF9HRVRcPg==</text>
+        <text>clog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZpcnN0IHRyeSIuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJheUNhc3RJblRlcnJhaW4gPSBDYXN0KHJheSwgbWF4RGlzdGFuY2UpOwogICAgICAgICAgICBpZiAocmF5Q2FzdEluVGVycmFpbiAhPSBudWxsKSByZXR1cm4gcmF5Q2FzdEluVGVycmFpbjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5GaWdodFByZXBhcmUuQXNzYXVsdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF5Q2FzdEluVGVycmFpbiA9IDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGVycm9yQXNzYXVsdEhlbGljb3B0ZXJNb2RlbExvYWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhc3QocmF5LCBtYXhEaXN0YW5jZSwgb3V0IHJheUNhc3RJblRlcnJhaW4pKSByZXR1cm4gcmF5Q2FzdEluVGVycmFpbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmF5Q2FzdEluVGVycmFpbiA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFuaW1hdG9yID0gR2V0Q29tcG9uZW50PEFuaW1hdGlvbk1hY2hpbmU+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByYXlDYXN0SW5UZXJyYWluID0gcmVzdWx0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJEaWUxIi5BZGRQYXJhbShJc01vdmluZykuQWRkUGFyYW0obmVlZFN0b3ApLkNMb2dSZWQoVW5pdFByZWZhYlBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkRpZSIuQ0xvZ1JlZChVbml0UHJlZmFiUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVkVOVF9HRVRcPg==</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVkVOVF9HRVRcPg==</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1326,7 +1326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zoom</entry>
         <entry>animator</entry>
         <entry encoding="base64">XDxXZWFwb25BbmltYXRvclw+</entry>
         <entry>if (weapon.an</entry>
@@ -1346,6 +1345,7 @@
         <entry>Explod</entry>
         <entry encoding="base64">XDxSYXljYXN0SW5UZXJyYWluXD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9HRVRcPg==</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
