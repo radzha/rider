@@ -80,8 +80,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LineBreakUtils.cs" timestamp="1556283673462">
         <mark key="'" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/FFS/Scripts/AnimationMachine/AnimationMachine.cs" timestamp="1557153779111">
-        <mark key="'" line="454" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/FFS/Scripts/AnimationMachine/AnimationMachine.cs" timestamp="1559562953217">
+        <mark key="'" line="457" column="0" />
+        <mark key="[" line="190" column="38" />
+        <mark key="]" line="191" column="31" />
+        <mark key="^" line="191" column="31" />
+        <mark key="." line="191" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/BattleFpsStat.cs" timestamp="1554465268453">
         <mark key="'" line="206" column="69" />
@@ -389,6 +393,10 @@
         <mark key="^" line="3190" column="0" />
         <mark key="." line="3190" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/MovementStaminaView.cs" timestamp="1559562319318">
+        <mark key="[" line="27" column="58" />
+        <mark key="." line="27" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BuildConfig.cs" timestamp="1554970732288">
         <mark key="'" line="119" column="4" />
         <mark key="[" line="21" column="73" />
@@ -482,7 +490,6 @@
         <mark key="." line="89" column="20" />
         <mark key="^" line="89" column="20" />
       </file>
-      <file name="/FightPrepareEnergyIndicator.cs" timestamp="1559233015293" />
       <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1559318965426">
         <mark key="'" line="1369" column="41" />
       </file>
@@ -794,6 +801,9 @@
         <mark key="^" line="58" column="97" />
         <mark key="." line="58" column="97" />
       </file>
+      <file name="/MovementStaminaView.cs" timestamp="1559562363178">
+        <mark key="'" line="37" column="25" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/WavesStatistics.cs" timestamp="1556293919629">
         <mark key="'" line="57" column="45" />
       </file>
@@ -865,7 +875,12 @@
         <mark key="^" line="704" column="15" />
         <mark key="." line="704" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelScoreView.cs" timestamp="1559558539274" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelScoreView.cs" timestamp="1559563216349">
+        <mark key="[" line="42" column="60" />
+        <mark key="]" line="44" column="53" />
+        <mark key="." line="44" column="53" />
+        <mark key="^" line="44" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/ExperienceBarEnemyBase.cs" timestamp="1558364057141">
         <mark key="'" line="13" column="26" />
       </file>
@@ -929,7 +944,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/LastSelectedWeapons.cs" timestamp="1558450225981">
         <mark key="'" line="122" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ChainAttackActionDescription.cs" timestamp="1559221168700" />
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1556008337799">
         <mark key="'" line="2157" column="81" />
         <mark key="[" line="931" column="17" />
@@ -1149,9 +1163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="138" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="154" column="111" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="12" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/StorageLoadStateController.cs" />
       <jump line="212" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="129" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
@@ -1249,61 +1260,64 @@
       <jump line="3066" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3071" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3156" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="92" column="33" filename="/MovementStaminaView.cs" />
+      <jump line="43" column="12" filename="/MovementStaminaView.cs" />
+      <jump line="37" column="25" filename="/MovementStaminaView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJGcmVlemVkIi5DTG9nQmx1ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>LocalGameType.Duel</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>LocalGameType.Duel</text>
       </register>
       <register name="/" type="4">
-        <text>SetFreeze(</text>
+        <text encoding="base64">XDxfYW5pbWF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJGcmVlemVkIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hdG9yLlBsYXlCeVRhZyhBbmltYXRpb25NYWNoaW5lU3RhdGVUYWcuT25VbmxvY2spOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJEaWUxIi5BZGRQYXJhbShJc01vdmluZykuQWRkUGFyYW0obmVlZFN0b3ApLkNMb2dSZWQoVW5pdFByZWZhYlBhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkRpZSIuQ0xvZ1JlZChVbml0UHJlZmFiUGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInBsYXllciIuQWRkUGFyYW0oVW5pdFByZWZhYikuQ0xvZyhJZCk7IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFuaW1hdG9yID0gR2V0Q29tcG9uZW50PEFuaW1hdGlvbk1hY2hpbmU+KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJEaWUxIi5BZGRQYXJhbShJc01vdmluZykuQWRkUGFyYW0obmVlZFN0b3ApLkNMb2dSZWQoVW5pdFByZWZhYlBhdGgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkRpZSIuQ0xvZ1JlZChVbml0UHJlZmFiUGF0aCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInBsYXllciIuQWRkUGFyYW0oVW5pdFByZWZhYikuQ0xvZyhJZCk7IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRQYXJhbSgiaDEiLCAoSGVhbHRoK3Rha2VuRGFtYWdlKSkuQWRkUGFyYW0oImgyIiwgSGVhbHRoKS5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhpdCIuQWRkUGFyYW0oImRhbSIsIGRhdGEuRGFtYWdlKS5BZGRQYXJhbSgibW9kaWZpZWQiLCBtb2RpZmllZERhbWFnZSkuQWRkUGFyYW0oInRha2VuIiwgdGFrZW5EYW1hZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzZW5kIGhpdCIuQWRkUGFyYW0oInRhcmdldCIsIGRhdGEuVGFyZ2V0SWQpLkFkZFBhcmFtKCJyZWFsIiwgZGF0YS5SZWFsRGFtYWdlKS5BZGRQYXJhbSgiaCIsIGRhdGEuSGVhbHRoKS5DTG9nWWVsKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>SetFreeze(</last-search>
+      <last-search encoding="base64">XDxfYW5pbWF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern>SetFreeze(</last-pattern>
+      <last-pattern encoding="base64">XDxfYW5pbWF0b3JcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1311,8 +1325,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZXRvbmF0ZUFjdGlvbkRlc2NyaXB0aW9uXD4=</entry>
-        <entry>load</entry>
         <entry>Load</entry>
         <entry>clog</entry>
         <entry>getwea</entry>
@@ -1331,6 +1343,8 @@
         <entry>SetFree</entry>
         <entry>SetFreezed</entry>
         <entry>SetFreeze(</entry>
+        <entry>bar</entry>
+        <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
