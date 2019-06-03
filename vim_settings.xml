@@ -270,10 +270,6 @@
         <mark key="." line="215" column="76" />
         <mark key="^" line="191" column="59" />
       </file>
-      <file name="/Player.cs" timestamp="1559319809881">
-        <mark key="[" line="2249" column="0" />
-        <mark key="]" line="2249" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1557931279447">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="113" column="71" />
@@ -344,6 +340,9 @@
         <mark key="]" line="18" column="44" />
         <mark key="." line="18" column="44" />
         <mark key="^" line="18" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/Grenade.cs" timestamp="1559573506959">
+        <mark key="'" line="132" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" timestamp="1559033445519">
         <mark key="'" line="0" column="0" />
@@ -843,8 +842,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/StoreItems.cs" timestamp="1558451835668">
         <mark key="[" line="23" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1559568634782">
-        <mark key="'" line="675" column="44" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" timestamp="1559571615405">
+        <mark key="'" line="829" column="18" />
         <mark key="[" line="807" column="0" />
         <mark key="]" line="807" column="0" />
         <mark key="^" line="1028" column="11" />
@@ -1158,10 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="348" column="20" filename="/DetonateActionDescription.cs" />
-      <jump line="32" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="168" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="170" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="251" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
       <jump line="6" column="0" filename="/DetonateActionDescription.cs" />
       <jump line="227" column="45" filename="/DetonateActionDescription.cs" />
@@ -1258,6 +1253,10 @@
       <jump line="129" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="420" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="675" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="709" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="829" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
+      <jump line="130" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/Grenade.cs" />
+      <jump line="132" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Consumable/Grenade.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1270,7 +1269,7 @@
         <text>LocalGameType.Duel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaXN0YW5jZVw+</text>
+        <text encoding="base64">XDxSYXljYXN0SW5UZXJyYWluXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuaW1hdG9yLlBsYXlCeVRhZyhBbmltYXRpb25NYWNoaW5lU3RhdGVUYWcuT25VbmxvY2spOwo=</text>
@@ -1310,9 +1309,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEaXN0YW5jZVw+</last-search>
+      <last-search encoding="base64">XDxSYXljYXN0SW5UZXJyYWluXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaXN0YW5jZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxSYXljYXN0SW5UZXJyYWluXD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1320,8 +1319,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUYXJnZXRSYXlcPg==</entry>
-        <entry encoding="base64">XDxTZXRQbGF5ZXJUYXJnZXRSYXlcPg==</entry>
         <entry>updatefor</entry>
         <entry>zoom</entry>
         <entry>animator</entry>
@@ -1340,6 +1337,8 @@
         <entry encoding="base64">XDxfdGFyZ2V0XD4=</entry>
         <entry>distan</entry>
         <entry encoding="base64">XDxEaXN0YW5jZVw+</entry>
+        <entry>Explod</entry>
+        <entry encoding="base64">XDxSYXljYXN0SW5UZXJyYWluXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
