@@ -509,6 +509,12 @@
         <mark key="^" line="101" column="31" />
         <mark key="." line="101" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" timestamp="1559557120995">
+        <mark key="[" line="1070" column="52" />
+        <mark key="]" line="1070" column="52" />
+        <mark key="^" line="1070" column="52" />
+        <mark key="." line="1070" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1557243611168">
         <mark key="'" line="261" column="41" />
       </file>
@@ -606,8 +612,8 @@
         <mark key="^" line="39" column="66" />
         <mark key="." line="39" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1559555983476">
-        <mark key="'" line="675" column="25" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1559556999350">
+        <mark key="'" line="3156" column="35" />
         <mark key="[" line="365" column="59" />
         <mark key="]" line="365" column="69" />
         <mark key="." line="365" column="69" />
@@ -729,6 +735,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Tools/Promises/Promise_NonGeneric.cs" timestamp="1558010138854">
         <mark key="'" line="485" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" timestamp="1559556683053">
+        <mark key="'" line="296" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBarManager.cs" timestamp="1559218856020">
         <mark key="'" line="110" column="25" />
@@ -1137,17 +1146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="218" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="107" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="112" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="102" column="80" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="110" column="116" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="152" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="161" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="192" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="53" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
-      <jump line="103" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="111" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="138" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
       <jump line="154" column="111" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareEnergyIndicator.cs" />
@@ -1237,6 +1235,17 @@
       <jump line="290" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="49" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/CoopLikeHistoryRowItem.cs" />
       <jump line="861" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="33" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" />
+      <jump line="29" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" />
+      <jump line="69" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" />
+      <jump line="296" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Weapon.cs" />
+      <jump line="3149" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="1999" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="2055" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="3066" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="3071" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="3156" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1249,7 +1258,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>zoom</text>
+        <text>SetFreeze(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJGcmVlemVkIi5DTG9nQmx1ZSgpOwo=</text>
@@ -1289,9 +1298,9 @@
       </register>
     </registers>
     <search>
-      <last-search>zoom</last-search>
+      <last-search>SetFreeze(</last-search>
       <last-offset />
-      <last-pattern>zoom</last-pattern>
+      <last-pattern>SetFreeze(</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1299,13 +1308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>deton</entry>
-        <entry>detonatemo</entry>
-        <entry encoding="base64">XDxEYW5nZXJab25lXD4=</entry>
-        <entry encoding="base64">XDxfdmVsb2NpdHlcPg==</entry>
-        <entry encoding="base64">XDxkdXJhdGlvblw+</entry>
-        <entry encoding="base64">XDxDYWxjdWxhdGVTbG90VG9SdW5BbmRWZWxvY2l0eVw+</entry>
-        <entry encoding="base64">XDxfc2xvdFRvUnVuXD4=</entry>
         <entry encoding="base64">XDxEZXRvbmF0ZUFjdGlvbkRlc2NyaXB0aW9uXD4=</entry>
         <entry>load</entry>
         <entry>Load</entry>
@@ -1319,6 +1321,13 @@
         <entry encoding="base64">XDxTZXRQbGF5ZXJUYXJnZXRSYXlcPg==</entry>
         <entry>updatefor</entry>
         <entry>zoom</entry>
+        <entry>animator</entry>
+        <entry encoding="base64">XDxXZWFwb25BbmltYXRvclw+</entry>
+        <entry>if (weapon.an</entry>
+        <entry>if (weapon</entry>
+        <entry>SetFree</entry>
+        <entry>SetFreezed</entry>
+        <entry>SetFreeze(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
