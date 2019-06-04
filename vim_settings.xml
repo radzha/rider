@@ -49,6 +49,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC3B329D-40BD-4675-AE0E-985E302972AF/bf/edddc74a/Enumerable.cs" timestamp="1558421962875">
         <mark key="'" line="948" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/ProxySceneLoader.cs" timestamp="1559655650052">
+        <mark key="[" line="100" column="89" />
+        <mark key="]" line="97" column="26" />
+        <mark key="." line="97" column="26" />
+        <mark key="^" line="97" column="48" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/GamePlay/ChainAttackEffect.cs" timestamp="1556010461228">
         <mark key="'" line="21" column="26" />
         <mark key="[" line="78" column="13" />
@@ -1073,8 +1079,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1559220986328">
         <mark key="'" line="292" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/ClientConnector.cs" timestamp="1559650640399">
-        <mark key="'" line="56" column="63" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/ClientConnector.cs" timestamp="1559654903295">
+        <mark key="'" line="223" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/PerformanceStats/AverageFPS.cs" timestamp="1554453251217">
         <mark key="'" line="41" column="40" />
@@ -1129,7 +1135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1176" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1093" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1149" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="1354" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
@@ -1229,22 +1234,23 @@
       <jump line="378" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" />
       <jump line="176" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="97" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" />
+      <jump line="223" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/ClientConnector.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJldmVudCBleGl0Ii5DTG9nQmx1ZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Cached</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVkVOVF9FWElUXD4=</text>
+        <text encoding="base64">XDxTaG93RGlzY29ubmVjdFBvcHVwT25OZXh0RnJhbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KENvbm5lY3Rvci5FVkVOVF9FWElUKTsK</text>
+      <register name="0" type="4">
+        <text>&quot;unloading &quot; + oldScene.name</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJldmVudCBleGl0Ii5DTG9nQmx1ZSgpOwo=</text>
@@ -1281,17 +1287,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVkVOVF9FWElUXD4=</last-search>
+      <last-search encoding="base64">XDxTaG93RGlzY29ubmVjdFBvcHVwT25OZXh0RnJhbWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVkVOVF9FWElUXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxTaG93RGlzY29ubmVjdFBvcHVwT25OZXh0RnJhbWVcPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdGFyZ2V0XD4=</entry>
         <entry>distan</entry>
         <entry encoding="base64">XDxEaXN0YW5jZVw+</entry>
         <entry>Explod</entry>
@@ -1311,6 +1316,7 @@
         <entry>cached</entry>
         <entry encoding="base64">XDxDYWNoZWRTcGxhc2hTY3JlZW5Db250ZXh0XD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9FWElUXD4=</entry>
+        <entry encoding="base64">XDxTaG93RGlzY29ubmVjdFBvcHVwT25OZXh0RnJhbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
