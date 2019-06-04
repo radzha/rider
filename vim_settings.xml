@@ -362,8 +362,8 @@
         <mark key="." line="134" column="33" />
         <mark key="^" line="134" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1559635005019">
-        <mark key="'" line="377" column="29" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1559636840076">
+        <mark key="'" line="59" column="28" />
         <mark key="[" line="463" column="13" />
         <mark key="]" line="465" column="20" />
         <mark key="." line="465" column="20" />
@@ -1000,8 +1000,8 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" timestamp="1559635508386">
-        <mark key="'" line="148" column="44" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" timestamp="1559636830422">
+        <mark key="'" line="29" column="33" />
         <mark key="[" line="148" column="86" />
         <mark key="]" line="149" column="50" />
         <mark key="^" line="149" column="50" />
@@ -1153,15 +1153,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="168" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="185" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="37" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/RunState.cs" />
-      <jump line="2251" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1249" column="62" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="45" column="17" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="294" column="11" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/ConsoleManager.cs" />
-      <jump line="325" column="15" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="2419" column="40" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2284" column="40" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2280" column="43" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -1241,7 +1232,6 @@
       <jump line="106" column="91" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
       <jump line="29" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="36" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
-      <jump line="59" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="374" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="377" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="93" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
@@ -1253,6 +1243,16 @@
       <jump line="141" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
       <jump line="161" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
       <jump line="148" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="43" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="35" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="55" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="61" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="65" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="67" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="70" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="20" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="29" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/AudioButton.cs" />
+      <jump line="59" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1265,7 +1265,7 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRMb2FkZXJcPg==</text>
+        <text encoding="base64">XDxfYXVkaW9CdXR0b25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>StartOrContinueLoadAudio</text>
@@ -1305,9 +1305,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRMb2FkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxfYXVkaW9CdXR0b25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRMb2FkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfYXVkaW9CdXR0b25cPg==</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1315,11 +1315,7 @@
     </search>
     <history>
       <history-search>
-        <entry>SetFree</entry>
-        <entry>SetFreezed</entry>
-        <entry>SetFreeze(</entry>
         <entry>bar</entry>
-        <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxIaXRNZXRob2RcPg==</entry>
         <entry>Update</entry>
         <entry>Update(</entry>
@@ -1332,9 +1328,13 @@
         <entry encoding="base64">XDxFVkVOVF9HRVRcPg==</entry>
         <entry>clog</entry>
         <entry>audi</entry>
-        <entry encoding="base64">XDxfYXVkaW9CdXR0b25cPg==</entry>
         <entry encoding="base64">XDxJc0Fub3RoZXJVcmxcPg==</entry>
         <entry encoding="base64">XDxHZXRMb2FkZXJcPg==</entry>
+        <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
+        <entry encoding="base64">XDxnYW1lT2JqZWN0XD4=</entry>
+        <entry>enabl</entry>
+        <entry>enab</entry>
+        <entry encoding="base64">XDxfYXVkaW9CdXR0b25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
