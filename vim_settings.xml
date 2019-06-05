@@ -279,10 +279,6 @@
         <mark key="^" line="78" column="30" />
         <mark key="." line="305" column="8" />
       </file>
-      <file name="/AllyMoveActionDescription.cs" timestamp="1559645111430">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/CitadelInfo.cs" timestamp="1556630365487">
         <mark key="'" line="140" column="63" />
         <mark key="[" line="215" column="0" />
@@ -324,7 +320,9 @@
         <mark key="^" line="185" column="28" />
         <mark key="." line="185" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1559659608911" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" timestamp="1559726239858">
+        <mark key="'" line="128" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/Screens/Citadel/PopupCitadelNewSlotScreen.cs" timestamp="1555936420712">
         <mark key="'" line="23" column="22" />
         <mark key="[" line="49" column="26" />
@@ -509,6 +507,7 @@
         <mark key="^" line="69" column="79" />
         <mark key="." line="69" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopInviteScreen.cs" timestamp="1559726036255" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandPriceButton.cs" timestamp="1559035000855">
         <mark key="'" line="43" column="24" />
         <mark key="[" line="43" column="43" />
@@ -706,7 +705,7 @@
         <mark key="^" line="16" column="73" />
         <mark key="." line="16" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1559724587854">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1559724685208">
         <mark key="'" line="299" column="59" />
         <mark key="[" line="152" column="47" />
       </file>
@@ -1152,8 +1151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="412" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
-      <jump line="477" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="541" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="673" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
       <jump line="694" column="75" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Grenade.cs" />
@@ -1252,6 +1249,8 @@
       <jump line="256" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/PauseButtonController.cs" />
       <jump line="65" column="94" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/PauseButtonController.cs" />
       <jump line="409" column="10" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServerBehaviour.cs" />
+      <jump line="687" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
+      <jump line="128" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1264,7 +1263,7 @@
         <text>ToString()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPbkFwcGxpY2F0aW9uRm9jdXNcPg==</text>
+        <text encoding="base64">XDxfY2hlc3RDb250ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG9sZFNjZW5lcyA9IEdldEN1cnJlbnRTY2VuZXMoKTsK</text>
@@ -1304,17 +1303,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPbkFwcGxpY2F0aW9uRm9jdXNcPg==</last-search>
+      <last-search encoding="base64">XDxfY2hlc3RDb250ZXh0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPbkFwcGxpY2F0aW9uRm9jdXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfY2hlc3RDb250ZXh0XD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxnYW1lT2JqZWN0XD4=</entry>
         <entry>enabl</entry>
@@ -1334,6 +1332,7 @@
         <entry encoding="base64">XDxfd2VhcG9uRXhwVmFsdWVzXD4=</entry>
         <entry>onapplic</entry>
         <entry encoding="base64">XDxPbkFwcGxpY2F0aW9uRm9jdXNcPg==</entry>
+        <entry encoding="base64">XDxfY2hlc3RDb250ZXh0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
