@@ -550,7 +550,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1559653319029">
         <mark key="'" line="97" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559817080207">
+      <file name="/Dummy.txt" timestamp="1559817313884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRewards.cs" timestamp="1558535744282">
@@ -922,6 +922,9 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfoComponents/Store/StoreController.cs" timestamp="1557917331284">
         <mark key="[" line="114" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" timestamp="1559820806706">
+        <mark key="'" line="104" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" timestamp="1559292416095">
         <mark key="'" line="193" column="76" />
         <mark key="[" line="196" column="39" />
@@ -986,6 +989,13 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
         <mark key="^" line="146" column="75" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/FakeFailedTerrorPointController.cs" timestamp="1559821219854">
+        <mark key="'" line="40" column="27" />
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="43" />
+        <mark key="." line="60" column="43" />
+        <mark key="^" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1559205212083">
         <mark key="'" line="597" column="12" />
@@ -1155,6 +1165,9 @@
         <mark key="^" line="235" column="97" />
         <mark key="." line="235" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/DestroyablePoint.cs" timestamp="1559820578385">
+        <mark key="'" line="84" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" timestamp="1559556094305">
         <mark key="'" line="861" column="27" />
         <mark key="[" line="860" column="42" />
@@ -1187,11 +1200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="162" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="134" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="84" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="129" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="275" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="272" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="133" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
@@ -1287,10 +1295,15 @@
       <jump line="71" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
       <jump line="72" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/TerrainContainer.cs" />
+      <jump line="24" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/DestroyablePoint.cs" />
+      <jump line="84" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/DestroyablePoint.cs" />
+      <jump line="104" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" />
+      <jump line="26" column="95" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/FakeFailedTerrorPointController.cs" />
+      <jump line="40" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/FakeFailedTerrorPointController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFkZGluZyBmYWtlIgo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -1299,49 +1312,49 @@
         <text>directionChanged ? Utils.Less : Utils.Greater</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>EVENT_POINT_HIDDEN</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGJvb2wgTGVzcyhSYXljYXN0SGl0IGxlZnQsIFJheWNhc3RIaXQgcmlnaHQpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gbGVmdC5kaXN0YW5jZSA8IHJpZ2h0LmRpc3RhbmNlOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkZha2VGYWlsZWRUZXJyb3JQb2ludENvbnRyb2xsZXIiLkNMb2coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFkZGluZyBmYWtlIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJuZXcgcmF5Ii5DTG9nKHJheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJuZXcgY291bnQiLkNMb2dCbHVlKGNvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvdW50MSIuQ0xvZyhjb3VudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJuZXcgcmF5Ii5DTG9nKHJheSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJheTEiLkNMb2cocmF5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJuZXcgY291bnQiLkNMb2dCbHVlKGNvdW50KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZpbmlzaCIuQ0xvZyhfdGVycmFpbk9iamVjdHMuQ291bnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvdW50MSIuQ0xvZyhjb3VudCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhZGRlZCIuQ0xvZyh0ZXJyYWluLmdhbWVPYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInJheTEiLkNMb2cocmF5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImluaXQiLkFkZFBhcmFtKFRlcnJhaW5PYmplY3RzLkNvdW50KS5DTG9nQmx1ZShHZXRIYXNoQ29kZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZpbmlzaCIuQ0xvZyhfdGVycmFpbk9iamVjdHMuQ291bnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>clog</last-search>
+      <last-search>EVENT_POINT_HIDDEN</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>EVENT_POINT_HIDDEN</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -1349,7 +1362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry encoding="base64">XDxUcnlDbG9zZVw+</entry>
         <entry encoding="base64">bG9hZCA=</entry>
         <entry>Lo</entry>
@@ -1369,6 +1381,7 @@
         <entry>tourn</entry>
         <entry encoding="base64">XDxfdG91cm5hbWVudFw+</entry>
         <entry>clog</entry>
+        <entry>EVENT_POINT_HIDDEN</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
