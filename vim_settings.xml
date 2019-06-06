@@ -393,8 +393,8 @@
         <mark key="." line="465" column="20" />
         <mark key="^" line="465" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" timestamp="1559823674772">
-        <mark key="'" line="73" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" timestamp="1559824379602">
+        <mark key="'" line="75" column="17" />
         <mark key="[" line="48" column="9" />
         <mark key="]" line="49" column="43" />
         <mark key="^" line="49" column="43" />
@@ -709,6 +709,13 @@
         <mark key="]" line="140" column="35" />
         <mark key="." line="140" column="35" />
         <mark key="^" line="140" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/GlobeRefresher.cs" timestamp="1559827730562">
+        <mark key="'" line="58" column="32" />
+        <mark key="[" line="64" column="87" />
+        <mark key="]" line="64" column="141" />
+        <mark key="^" line="64" column="86" />
+        <mark key="." line="64" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/CitadelAttackNotificationProvider.cs" timestamp="1554109767839">
         <mark key="'" line="10" column="8" />
@@ -1199,7 +1206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="97" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="98" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="111" column="98" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
@@ -1297,12 +1303,13 @@
       <jump line="84" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" />
       <jump line="19" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" />
       <jump line="86" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/GlobePointController.cs" />
-      <jump line="75" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" />
       <jump line="73" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" />
+      <jump line="75" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" />
+      <jump line="58" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/GlobeRefresher.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRyaWdnZXIgZmFpbCIK</text>
+      <register name="&quot;" type="4">
+        <text>LocalCommandCache.HasCommand(FinishFightCommand.EVENT)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -1314,7 +1321,7 @@
         <text encoding="base64">XDxPblBvaW50QWRkZWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>ShowDestroingPoint</text>
+        <text>LocalCommandCache.HasCommand(FinishFightCommand.EVENT)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInRyaWdnZXIgZmFpbCIK</text>
