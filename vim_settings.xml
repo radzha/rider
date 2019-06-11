@@ -222,12 +222,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1558421540153">
         <mark key="'" line="192" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1560253699300">
-        <mark key="'" line="87" column="29" />
-        <mark key="[" line="47" column="77" />
-        <mark key="]" line="47" column="87" />
-        <mark key="." line="47" column="87" />
-        <mark key="^" line="47" column="87" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1560254351777">
+        <mark key="'" line="72" column="26" />
+        <mark key="[" line="75" column="51" />
+        <mark key="]" line="75" column="61" />
+        <mark key="." line="75" column="61" />
+        <mark key="^" line="75" column="61" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BaseComponentInfo.cs" timestamp="1556272606720">
         <mark key="'" line="15" column="28" />
@@ -282,6 +282,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1556630849415">
         <mark key="'" line="604" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OpenScreenOnClick.cs" timestamp="1560253975838" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/CoopLikeHistoryRowItem.cs" timestamp="1559551471345">
         <mark key="'" line="49" column="64" />
       </file>
@@ -454,7 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileTab.cs" />
       <jump line="132" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
       <jump line="133" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
       <jump line="124" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
@@ -554,16 +554,17 @@
       <jump line="100" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="21" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="87" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
+      <jump line="72" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TabStateSelected</text>
+        <text>true</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>TabStateSelected</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>clog</text>
@@ -572,34 +573,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgVGFiU3RhdGVTZWxlY3RlZEFuaW0gPSBBbmltYXRvci5TdHJpbmdUb0hhc2goIlRhYlN0YXRlU2VsZWN0ZWQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWxseQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUl0ZW1JbmZvIHNlbGVjdGVkVGFiID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSUl0ZW1JbmZvIHNlbGVjdGVkVGFiID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1pc3Npb25JZCA+IDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFRhYkluZm8gPSBzZWxlY3RlZFRhYjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKEZyb21NaXNzaW9uQW5pbSwgdHJ1ZSk7CiAgICAgICAgICAgIGlmIChtaXNzaW9uSWQgPiAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5mbyA9IF91c2VySW5mby5Db21wYW5pb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKEZyb21NaXNzaW9uQW5pbSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5mbyA9IF91c2VySW5mby5Bcm1vcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWxseQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5mbyA9IF91c2VySW5mby5BbGxXZWFwb25zLkZpbmQod2VhcG9uID0+IHdlYXBvbi5JZCA9PSBsYXN0U2VsZWN0ZWRXZWFwb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUl0ZW1JbmZvIHNlbGVjdGVkVGFiID0gbnVsbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIGxhc3RTZWxlY3RlZFdlYXBvbklkID0gX3VzZXJJbmZvLkxhc3RTZWxlY3RlZFdlYXBvbnMuR2V0TGFzdFdlYXBvbih0YWJUeXBlKS5DdXJyZW50VmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSUl0ZW1JbmZvIHNlbGVjdGVkVGFiID0gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFRhYkluZm8gPSBzZWxlY3RlZFRhYjsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
