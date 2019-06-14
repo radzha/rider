@@ -217,8 +217,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" timestamp="1559120473222">
         <mark key="'" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1560438362005">
-        <mark key="'" line="81" column="99" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1560499730432">
+        <mark key="'" line="92" column="9" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="45" column="28" />
         <mark key="." line="45" column="27" />
@@ -328,7 +328,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560442677461">
+      <file name="/Dummy.txt" timestamp="1560443125127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1560427657664">
@@ -389,9 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
-      <jump line="122" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
-      <jump line="68" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
       <jump line="108" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
       <jump line="149" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
       <jump line="57" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
@@ -489,6 +486,9 @@
       <jump line="12" column="28" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/UpgradeWeaponModelController.cs" />
       <jump line="27" column="77" filename="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/UI/UpgradeWeaponModelController.cs" />
       <jump line="31" column="121" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/DragRotationModel.cs" />
+      <jump line="21" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="93" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="92" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -501,7 +501,7 @@
         <text>SetPreviewMode</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVkVOVF9TRVRfUFJFVklFV19NT0RFXD4=</text>
+        <text encoding="base64">XDxVc2VkSW1wbGljaXRseVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFfaXNQcmV2aWV3TW9kZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KEJvdE1vZGVsTG9hZGVyLkVWRU5UX1NFVF9NT0RFTF9QTEFDRUhPTERFUiwgX2NoYXJhY3RlclBsYWNlaG9sZGVyKTsKICAgICAgICAgICAgfQo=</text>
@@ -541,9 +541,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVkVOVF9TRVRfUFJFVklFV19NT0RFXD4=</last-search>
+      <last-search encoding="base64">XDxVc2VkSW1wbGljaXRseVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVkVOVF9TRVRfUFJFVklFV19NT0RFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxVc2VkSW1wbGljaXRseVw+</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>Chest</last-substitute>
       <last-dir>1</last-dir>
@@ -551,8 +551,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcGRhdGVDb250ZW50XD4=</entry>
-        <entry encoding="base64">XDxfZmlyc3RUaXRsZVw+</entry>
         <entry encoding="base64">XDxFVkVOVF9TRVRfV0VBUE9OX1RZUEVcPg==</entry>
         <entry encoding="base64">XDxBTklNQVRPUl9UUklHR0VSX0lTX1BSRVNTRURcPg==</entry>
         <entry encoding="base64">XDxfc2Vjb25kVGl0bGVcPg==</entry>
@@ -571,6 +569,8 @@
         <entry>drag</entry>
         <entry encoding="base64">XDxfcmF3SW1hZ2VcPg==</entry>
         <entry encoding="base64">XDxFVkVOVF9TRVRfUFJFVklFV19NT0RFXD4=</entry>
+        <entry>click</entry>
+        <entry encoding="base64">XDxVc2VkSW1wbGljaXRseVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
