@@ -282,12 +282,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" timestamp="1559120473222">
         <mark key="'" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1560771601074">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="107" column="59" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" timestamp="1560771804355">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
         <mark key="^" line="107" column="59" />
-        <mark key="." line="107" column="59" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1560756736111">
         <mark key="'" line="446" column="66" />
@@ -472,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
       <jump line="70" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
       <jump line="77" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
       <jump line="20" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
@@ -572,10 +571,11 @@
       <jump line="233" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="167" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFybW9yICIuQWRkUGFyYW0ocHJldlNlbGVjdGVkKS5DTG9nKHVwZGF0ZU1vZGVsKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -584,49 +584,49 @@
         <text>Red</text>
       </register>
       <register name="/" type="4">
-        <text>model</text>
+        <text>playerarm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU2NyZWVuTW9kZWxWaWV3LlNldENhbWVyYVRhcmdldChfcmF3SW1hZ2UsIFNjcmVlblR5cGUuQXJtb3JVcGdyYWRlKTsKICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFBsYXllckFybW9yTG9hZGVyLkVWRU5UX1NIT1dfQVJNT1IsIEN1cnJlbnRJdGVtLklkLCB0cnVlKTsKICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KEJvdE1vZGVsTG9hZGVyLkVWRU5UX1NFVF9NT0RFTF9QTEFDRUhPTERFUiwgX2NoYXJhY3RlclBsYWNlaG9sZGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFybW9yICIuQWRkUGFyYW0ocHJldlNlbGVjdGVkKS5DTG9nKHVwZGF0ZU1vZGVsKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJtbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFBsYXllckFybW9yTG9hZGVyLkVWRU5UX1NIT1dfQVJNT1IsIEN1cnJlbnRJdGVtLklkLCB0cnVlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc0F2YWlsYWJsZS5DTG9nKCk7CgogICAgICAgICAgICAgICAgICAgIFN0YXJ0Q29yb3V0aW5lKHRoaXMuRG9GcmFtZXNMYXRlcigzLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJtbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpc0F2YWlsYWJsZS5DTG9nKCk7CgogICAgICAgICAgICAgICAgICAgIFN0YXJ0Q29yb3V0aW5lKHRoaXMuRG9GcmFtZXNMYXRlcigzLCAoKSA9PgogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5DTG9nQmx1ZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3Vic2NyaWJlV2VhcG9uRXF1aXAoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3Vic2NyaWJlV2VhcG9uRXF1aXAoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>model</last-search>
+      <last-search>playerarm</last-search>
       <last-offset />
-      <last-pattern>model</last-pattern>
+      <last-pattern>playerarm</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>LastS</last-substitute>
       <last-dir>1</last-dir>
@@ -634,7 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFVkVOVF9VUERBVEVfQ09OVEVOVFw+</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry encoding="base64">XDxPbkl0ZW1TZWxlY3RlZFw+</entry>
         <entry>lastused</entry>
@@ -654,6 +653,7 @@
         <entry encoding="base64">XDxQcm9maWxlVGFiSWNvblw+</entry>
         <entry encoding="base64">XDxJc0xvY2tlZEFuaW1cPg==</entry>
         <entry>model</entry>
+        <entry>playerarm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
