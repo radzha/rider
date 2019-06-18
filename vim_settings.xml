@@ -272,8 +272,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1558421540153">
         <mark key="'" line="192" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1560858895719">
-        <mark key="'" line="19" column="17" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1560863734267">
+        <mark key="'" line="64" column="36" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="47" />
       </file>
@@ -457,7 +457,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/PveDefeatGameOverController.cs" timestamp="1557326961304">
         <mark key="'" line="64" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560853550055">
+      <file name="/Dummy.txt" timestamp="1560862842170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1560427657664">
@@ -500,6 +500,9 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/CommandSubject.cs" timestamp="1560524244496" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1560863942884">
+        <mark key="'" line="22" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scenes/CoreGameplay.unity" timestamp="1558968470718">
         <mark key="'" line="26" column="17" />
       </file>
@@ -537,8 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TouchDragBroadcaster.cs" />
-      <jump line="24" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TouchDragBroadcaster.cs" />
       <jump line="224" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="39" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TouchDragBroadcaster.cs" />
       <jump line="227" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
@@ -637,6 +638,8 @@
       <jump line="474" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemInfoExt.cs" />
       <jump line="53" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionPopup.cs" />
       <jump line="649" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/ScreenSettings/ScreenSettings_Base.asset" />
+      <jump line="64" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
+      <jump line="22" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -649,7 +652,7 @@
         <text>new IItemInfo[] {previousItem, CurrentItem}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3B1cEV2b2x2ZUl0ZW1cPg==</text>
+        <text encoding="base64">XDxfY3VycmVudENsYXNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX3Bvd2VyQ3VycmVudC50ZXh0ID0gTWF0aGYuUm91bmRUb0ludChjdXJyZW50SW5mby5JdGVtLkdldFBvd2VyKGN1cnJlbnRJbmZvLkxldmVsKSkuVG9TdHJpbmcoKTsKICAgICAgICAgICAgX3Bvd2VyTmV4dC50ZXh0ID0gTWF0aGYuUm91bmRUb0ludChuZXh0SW5mby5JdGVtLkdldFBvd2VyKG5leHRJbmZvLkxldmVsKSkuVG9TdHJpbmcoKTsK</text>
@@ -689,9 +692,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQb3B1cEV2b2x2ZUl0ZW1cPg==</last-search>
+      <last-search encoding="base64">XDxfY3VycmVudENsYXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3B1cEV2b2x2ZUl0ZW1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfY3VycmVudENsYXNzXD4=</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>LastS</last-substitute>
       <last-dir>1</last-dir>
@@ -699,8 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>moen</entry>
-        <entry>mone</entry>
         <entry>money</entry>
         <entry encoding="base64">XDxPbk1vbmV5Q291bnRDaGFuZ2VkXD4=</entry>
         <entry encoding="base64">XDxUYWJTdGF0ZUFuaW1cPg==</entry>
@@ -719,6 +720,8 @@
         <entry encoding="base64">XDxIYXNUZWNoVG9Fdm9sdmVcPg==</entry>
         <entry encoding="base64">XDxDYW5Fdm9sdmVcPg==</entry>
         <entry encoding="base64">XDxQb3B1cEV2b2x2ZUl0ZW1cPg==</entry>
+        <entry encoding="base64">XDxUYWJTdGF0ZVNlbGVjdGVkQW5pbVw+</entry>
+        <entry encoding="base64">XDxfY3VycmVudENsYXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
