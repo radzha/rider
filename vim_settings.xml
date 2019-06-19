@@ -145,12 +145,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/StorageLoadStateController.cs" timestamp="1559296217168">
         <mark key="'" line="12" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" timestamp="1560944712023">
-        <mark key="'" line="74" column="35" />
-        <mark key="[" line="130" column="23" />
-        <mark key="]" line="130" column="26" />
-        <mark key="^" line="130" column="26" />
-        <mark key="." line="130" column="26" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" timestamp="1560949303989">
+        <mark key="'" line="95" column="33" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="96" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1560947402800">
         <mark key="'" line="479" column="25" />
@@ -542,10 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
-      <jump line="182" column="90" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
-      <jump line="15" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ArmorInfo.cs" />
-      <jump line="17" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ArmorInfo.cs" />
       <jump line="152" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ArmorInfo.cs" />
       <jump line="147" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ArmorInfo.cs" />
       <jump line="150" column="86" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ArmorInfo.cs" />
@@ -642,64 +638,68 @@
       <jump line="177" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="235" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="37" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
+      <jump line="62" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
+      <jump line="188" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
+      <jump line="173" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
+      <jump line="95" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>HasPieces();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>HasPieces();</text>
+        <text>.WhileEnabled(this)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHV6emxlUHJpY2VcPg==</text>
+        <text>subs</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFybW9yIGluaXQiLkNMb2coKTsK</text>
+      <register name="0" type="4">
+        <text>_subscriptions.Add(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFybW9yIGluaXQiLkNMb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbXBvc2l0ZURpc3Bvc2FibGUgX3N1YnNjcmlwdGlvbnM7CiAgICAgICAgICAgIElEaXNwb3NhYmxlIGFybW9yU3Vic2NyaXB0aW9uOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSURpc3Bvc2FibGUgYXJtb3JTdWJzY3JpcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uU3Vic2NyaWJlPEl0ZW0+KEl0ZW0uRVZFTlRfSVRFTV9WSUVXRUQsIE9uSXRlbVZpZXdlZCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuRGlzcG9zZUFuZFNldE51bGwocmVmIF9pdGVtU3Vic2NyaXB0aW9uKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImFybW9yIGluaXQiLkNMb2coKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGluZm8uSXRlbSA9PSBDdXJyZW50SXRlbS5JdGVtKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBJbml0VmlzdWFsQ29tcG9uZW50cygpOwoKICAgICAgICAgICAgICAgIFN1YnNjcmliZSgpOwoKICAgICAgICAgICAgICAgIFNldFVwZ3JhZGVTdGF0ZSgpOwoKICAgICAgICAgICAgICAgIFNldEV2b2x1dGlvbkluZm8oKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENvbXBvc2l0ZURpc3Bvc2FibGUgX3N1YnNjcmlwdGlvbnM7CiAgICAgICAgICAgIElEaXNwb3NhYmxlIGFybW9yU3Vic2NyaXB0aW9uOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIFNLSUxMX0NPTlNVTUFCTEVTX0hFQUxJTkdfU0NBTEUgPSAiQ09OU19IRUFMSU5HX1NDQUxFIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSURpc3Bvc2FibGUgYXJtb3JTdWJzY3JpcHRpb247Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIFBTSV9LRVkgPSAiUFNJX1BPV0VSIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfcHV6emxlUHJpY2VcPg==</last-search>
+      <last-search>subs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHV6emxlUHJpY2VcPg==</last-pattern>
+      <last-pattern>subs</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>LastS</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -721,9 +721,9 @@
         <entry>companions</entry>
         <entry encoding="base64">XDxDb21wYW5pb25zXD4=</entry>
         <entry encoding="base64">XDxfYXJtb3JTdWJzY3JpcHRpb25cPg==</entry>
-        <entry>subs</entry>
         <entry>subsc</entry>
         <entry encoding="base64">XDxfcHV6emxlUHJpY2VcPg==</entry>
+        <entry>subs</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
