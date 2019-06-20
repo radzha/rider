@@ -8,8 +8,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Stats/PlayerStatsTab.cs" timestamp="1560517724172">
         <mark key="'" line="38" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1561017986670">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1561018315218">
+        <mark key="'" line="292" column="18" />
         <mark key="[" line="545" column="5" />
         <mark key="]" line="545" column="5" />
         <mark key="." line="545" column="5" />
@@ -36,6 +36,13 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1559124983427">
         <mark key="'" line="347" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" timestamp="1561019796064">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="111" column="56" />
+        <mark key="]" line="112" column="19" />
+        <mark key="^" line="112" column="19" />
+        <mark key="." line="112" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC3B329D-40BD-4675-AE0E-985E302972AF/bf/edddc74a/Enumerable.cs" timestamp="1558421962875">
         <mark key="'" line="948" column="26" />
@@ -467,13 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="109" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="114" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="132" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="146" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="150" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="152" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="185" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="187" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="32" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
@@ -567,19 +567,26 @@
       <jump line="621" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="534" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="3672" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="133" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="292" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
+      <jump line="112" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
+      <jump line="100" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
+      <jump line="116" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/TargetManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">ICYm</text>
       </register>
       <register name="/" type="4">
-        <text>hasta</text>
+        <text>chest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFtTZXJpYWxpemVGaWVsZF0gcHJpdmF0ZSBHYW1lT2JqZWN0IF9ncmVuYWRlOwo=</text>
@@ -619,9 +626,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hasta</last-search>
+      <last-search>chest</last-search>
       <last-offset />
-      <last-pattern>hasta</last-pattern>
+      <last-pattern>chest</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>LastS</last-substitute>
       <last-dir>1</last-dir>
@@ -629,8 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRUYWJBdE9wZW5cPg==</entry>
-        <entry encoding="base64">XDxTZXRDYW1lcmFUYXJnZXRcPg==</entry>
         <entry encoding="base64">XDxUYWJTdGF0ZVNlbGVjdGVkQW5pbVw+</entry>
         <entry encoding="base64">XDxFVkVOVF9CQUNLXD4=</entry>
         <entry encoding="base64">XDxfY29udGFpbmVyc1w+</entry>
@@ -649,6 +654,8 @@
         <entry>high</entry>
         <entry encoding="base64">XDxTZXJpYWxpemVGaWVsZFw+</entry>
         <entry>hasta</entry>
+        <entry encoding="base64">XDxfc3luY0hwRGF0YVw+</entry>
+        <entry>chest</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
