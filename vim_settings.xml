@@ -400,12 +400,11 @@
         <mark key="." line="170" column="62" />
         <mark key="^" line="170" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ItemPowerView.cs" timestamp="1560965997436">
-        <mark key="'" line="47" column="51" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="45" column="88" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ItemPowerView.cs" timestamp="1561103983173">
+        <mark key="[" line="53" column="34" />
+        <mark key="]" line="53" column="34" />
+        <mark key="^" line="53" column="34" />
+        <mark key="." line="53" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponPreviewArrowController.cs" timestamp="1561046516410">
         <mark key="[" line="10" column="0" />
@@ -542,7 +541,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DangerZoneMeter.cs" timestamp="1561032556942">
         <mark key="'" line="31" column="100" />
       </file>
-      <file name="/Dummy.txt" timestamp="1561047981080">
+      <file name="/Dummy.txt" timestamp="1561049085001">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeSelectScreen.cs" timestamp="1560427657664">
@@ -634,8 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="677" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="218" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="52" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="10" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
       <jump line="13" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ThrowGrenadeActionDescription.cs" />
@@ -734,55 +731,57 @@
       <jump line="173" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ItemEvolutionHandler.cs" />
       <jump line="57" column="128" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionPopup.cs" />
       <jump line="38" column="101" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ItemPowerCalculator.cs" />
+      <jump line="50" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ItemPowerView.cs" />
+      <jump line="51" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ItemPowerView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uZXdJdGVtSW5mbyA9IF9pdGVtSW5mbzsK</text>
+      <register name="&quot;" type="4">
+        <text>.Clone();</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IHRydWU=</text>
+        <text>.Clone();</text>
       </register>
       <register name="/" type="4">
         <text>containerma</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uZXdJdGVtSW5mbyA9IF9pdGVtSW5mby5JdGVtLkNyZWF0ZUl0ZW1JbmZvKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmFkZSA9IG5ld0l0ZW0uSXRlbS5DbGFzcygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uZXdJdGVtSW5mbyA9IF9pdGVtSW5mbzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmFkZSA9IG5ld0l0ZW0uSXRlbS5DbGFzcygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uZXdJdGVtSW5mby5MZXZlbCA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3dlciA9IGl0ZW0uSXRlbS5HZXRQb3dlcihuZXh0Q2xhc3MsIG5leHRDbGFzcy5MZXZlbE1heCAtIDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5TdWJzY3JpYmU8UG9pbnRlckV2ZW50RGF0YSwgVG91Y2hEcmFnQnJvYWRjYXN0ZXIuVHlwZUU+KFRvdWNoRHJhZ0Jyb2FkY2FzdGVyLkVWRU5UX1BPSU5URVJfVVAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2lmICFVTklUWV9FRElUT1IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJSXRlbUluZm8gbmV3SXRlbTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I2VuZGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJSXRlbUluZm8gbmV3SXRlbTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3dlciA9IG5ld0l0ZW0uSXRlbS5HZXRQb3dlcihncmFkZSwgZ3JhZGUuTGV2ZWxNYXggLSAxKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJSXRlbUluZm8gbmV3SXRlbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3dlciA9IGl0ZW0uSXRlbS5HZXRQb3dlcihuZXh0Q2xhc3MsIG5leHRDbGFzcy5MZXZlbE1heCAtIDEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIElJdGVtSW5mbyBuZXdJdGVtOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -836,8 +835,8 @@
         <entry encoding="base64">JXMvXDxMaXN0XD4vUmVhY3RpdmVMaXN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1VOSVRZX0VESVRPUi9EREQvZw==</entry>
         <entry>%s/Chest/CitadelLike/g</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
