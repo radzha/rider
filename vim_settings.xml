@@ -8,12 +8,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Stats/PlayerStatsTab.cs" timestamp="1560517724172">
         <mark key="'" line="38" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" timestamp="1561460532066">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="84" column="12" />
-        <mark key="^" line="83" column="27" />
-        <mark key="." line="84" column="15" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" timestamp="1561463344882">
+        <mark key="[" line="82" column="19" />
+        <mark key="]" line="82" column="40" />
+        <mark key="." line="82" column="40" />
+        <mark key="^" line="82" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewardsPvP/PvpPlayerItem.cs" timestamp="1560249507127">
         <mark key="'" line="58" column="53" />
@@ -27,7 +26,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1559124983427">
         <mark key="'" line="347" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/QuestInfo.cs" timestamp="1561459221543">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/QuestInfo.cs" timestamp="1561462370974">
+        <mark key="'" line="10" column="45" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -94,12 +94,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PsiPower/PsiPower.cs" timestamp="1556621406065">
         <mark key="'" line="35" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Quests.cs" timestamp="1561459728624">
-        <mark key="'" line="42" column="67" />
-        <mark key="[" line="57" column="48" />
-        <mark key="]" line="57" column="63" />
-        <mark key="^" line="57" column="63" />
-        <mark key="." line="57" column="63" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Quests.cs" timestamp="1561462432069">
+        <mark key="'" line="20" column="44" />
+        <mark key="[" line="60" column="12" />
+        <mark key="]" line="60" column="27" />
+        <mark key="^" line="60" column="27" />
+        <mark key="." line="60" column="27" />
       </file>
       <file name="/WeaponUpgradeScreen.cs" timestamp="1560520924466">
         <mark key="'" line="160" column="77" />
@@ -587,9 +587,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="13" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="34" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="82" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="87" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="96" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
@@ -687,61 +684,64 @@
       <jump line="186" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" />
+      <jump line="79" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" />
+      <jump line="20" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Quests.cs" />
+      <jump line="10" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/QuestInfo.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_dailyRowsContainer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgWWFyeC5TdWJqZWN0czsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>_dailyRowsContainer</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>ondes</text>
+        <text>compa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVtb3ZlZERhaWx5UXVlc3RzLkZvckVhY2goaW5mbyA9PiBEYWlseVF1ZXN0SW5mb3MuUmVtb3ZlKGluZm8pKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGFpbHlRdWVzdEluZm9zLlNvcnQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
+        <text encoding="base64">dXNpbmcgWWFyeC5TdWJqZWN0czsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25HbG9iZVNob3coKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgdmFyIGlzVW5sb2NrZWQgPSBfdXNlckluZm8uVGFza3MuVGFza0luZm9zLkZpbmQoaXRlbSA9PiBpdGVtLklkID09IHN0b3JhZ2UuUXVlc3RzU2V0dGluZ3MuVGFzay5JZCkgIT0gbnVsbDsKICAgICAgICAgICAgZ2FtZU9iamVjdC5TZXRBY3RpdmUoaXNVbmxvY2tlZCk7CgogICAgICAgICAgICB2YXIgdW50YWtlblJld2FyZFF1ZXN0ID0gX3VzZXJJbmZvLlF1ZXN0cy5EYWlseVF1ZXN0SW5mb3MKICAgICAgICAgICAgICAgIC5GaW5kKHF1ZXN0ID0+IHF1ZXN0LlN0YXR1cy5DdXJyZW50VmFsdWUgPT0gUXVlc3RJbmZvQmFzZS5TdGF0dXNUeXBlLkNvbXBsZXRlZCk7CiAgICAgICAgICAgIFNldE9wZW5lZCh1bnRha2VuUmV3YXJkUXVlc3QgIT0gbnVsbCk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHZvaWQgT25HbG9iZUhpZGUoKQogICAgICAgIHsKICAgICAgICAgICAgX2lzT3BlbmVkID0gZmFsc2U7CiAgICAgICAgICAgIGdhbWVPYmplY3QuU2V0QWN0aXZlKGZhbHNlKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlckluZm8gdXNlckluZm87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByZW1vdmVkSW5mb3MgPSBzdG9yYWdlUXVlc3QuSXNXZWVrbHkgPyByZW1vdmVkV2Vla2x5UXVlc3RzIDogcmVtb3ZlZERhaWx5UXVlc3RzOwoK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIExpc3Q8UXVlc3RJbmZvPiBHZXRNYWluUXVlc3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>ondes</last-search>
+      <last-search>compa</last-search>
       <last-offset />
-      <last-pattern>ondes</last-pattern>
+      <last-pattern>compa</last-pattern>
       <last-replace>CitadelLike</last-replace>
       <last-substitute>weapon</last-substitute>
       <last-dir>1</last-dir>
@@ -749,7 +749,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcGdyYWRlU3RhdGVQYXJhbVw+</entry>
         <entry>canev</entry>
         <entry encoding="base64">XDxfdXBncmFkZVByaWNlXD4=</entry>
         <entry encoding="base64">XDxHZXRVcGdyYWRlUHJpY2VcPg==</entry>
@@ -769,6 +768,7 @@
         <entry encoding="base64">XDxfdXNlckluZm9cPg==</entry>
         <entry>userinf</entry>
         <entry>ondes</entry>
+        <entry>compa</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ReactiveList/List/g</entry>
