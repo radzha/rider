@@ -8,11 +8,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/Stats/PlayerStatsTab.cs" timestamp="1560517724172">
         <mark key="'" line="38" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" timestamp="1561455665243">
-        <mark key="[" line="67" column="54" />
-        <mark key="]" line="67" column="54" />
-        <mark key="." line="67" column="54" />
-        <mark key="^" line="67" column="67" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanel.cs" timestamp="1561457935664">
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="39" />
+        <mark key="." line="26" column="39" />
+        <mark key="^" line="26" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewardsPvP/PvpPlayerItem.cs" timestamp="1560249507127">
         <mark key="'" line="58" column="53" />
@@ -374,6 +374,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicoptersScreen.cs" timestamp="1560850460225">
         <mark key="'" line="154" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Quests/QuestPanelRow.cs" timestamp="1561457541726" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileSkillValue.cs" timestamp="1560956891077" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/CutScenes/CutScene.cs" timestamp="1556288367746">
         <mark key="'" line="79" column="21" />
@@ -519,11 +520,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Resources/GUI/ScreenSettings/ScreenSettings_Base.asset" timestamp="1560860578182">
         <mark key="'" line="649" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/PlayerModelLoader.cs" timestamp="1561381463815">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Notifications/HangarNotificationDependency.cs" timestamp="1560850450437">
         <mark key="'" line="55" column="73" />
       </file>
@@ -632,52 +628,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DailyTime</text>
+        <text>y</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>DailyTime</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>desce</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVuaXhUaW1lID0gSnNvblV0aWxzLkpzb25HZXRJbnRBbHdheXMoUVVFU1RfREFJTFlfVElNRV9LRVksIGRhdGEsIDApOwogICAgICAgICAgICBpZiAodW5peFRpbWUgPiAwKSBEYWlseVRpbWUgPSBVdGlscy5DcmVhdGVGcm9tVW5peFRpbWUodW5peFRpbWUpLlRvTG9jYWxUaW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBDb250YWluZXJNYW5hZ2VyIF9kYWlseVJvd3NDb250YWluZXI7Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFNldFBocmFzZSBfdGltZVBocmFzZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVuaXhUaW1lID0gSnNvblV0aWxzLkpzb25HZXRJbnRBbHdheXMoUVVFU1RfREFJTFlfVElNRV9LRVksIGRhdGEsIDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcXVlc3RzVGltZSA9IHF1ZXN0c1RpbWUuQWRkU2Vjb25kcyhvZmZzZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVuaXhUaW1lID0gSnNvblV0aWxzLkpzb25HZXRJbnRBbHdheXMoUVVFU1RfREFJTFlfVElNRV9LRVksIGRhdGEsIDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9mZnNldCA9IChEYXRlVGltZS5Ob3cgLSBUaW1lTWFuYWdlci5HZXQoKS5Ob3cpLlRvdGFsU2Vjb25kczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlc3RzVGltZSA9IHF1ZXN0c1RpbWUuQWRkU2Vjb25kcyhvZmZzZXQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgR2FtZVBsYXk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9mZnNldCA9IChEYXRlVGltZS5Ob3cgLSBUaW1lTWFuYWdlci5HZXQoKS5Ob3cpLlRvdGFsU2Vjb25kczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBUZXh0IF92YXA7CiAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgR2FtZVBsYXk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInJlc29sdmUiLkNMb2dCbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBUZXh0IF92YXA7CiAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNvbW1hbmQgc2VuZCIuQ0xvZ1llbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInJlc29sdmUiLkNMb2dCbHVlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhdHRlbXRzIi5BZGRQYXJhbShVc2VySW5mby5HZXRVc2VySW5mbygpLlRvdXJuYW1lbnQuTGFzdFRhYmxlVXBkYXRlVGltZSkuQ0xvZyhhdHRlbXB0cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNvbW1hbmQgc2VuZCIuQ0xvZ1llbCgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
@@ -731,8 +727,8 @@
         <entry encoding="base64">JXMvXDxMaXN0XD4vUmVhY3RpdmVMaXN0L2c=</entry>
         <entry encoding="base64">JzwsJz5zL1VOSVRZX0VESVRPUi9EREQvZw==</entry>
         <entry>%s/Chest/CitadelLike/g</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
