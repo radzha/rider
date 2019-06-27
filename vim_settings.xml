@@ -31,8 +31,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="101" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionItemInList.cs" timestamp="1561393762149">
-        <mark key="'" line="39" column="22" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionItemInList.cs" timestamp="1561630507430">
+        <mark key="'" line="167" column="21" />
         <mark key="[" line="121" column="0" />
         <mark key="]" line="121" column="72" />
         <mark key="." line="121" column="50" />
@@ -394,7 +394,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1558421540153">
         <mark key="'" line="192" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1561563463550">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1561630463997">
         <mark key="'" line="183" column="33" />
         <mark key="[" line="180" column="57" />
         <mark key="]" line="180" column="60" />
@@ -570,12 +570,12 @@
         <mark key="^" line="152" column="41" />
         <mark key="." line="152" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ItemEvolutionHandler.cs" timestamp="1561365348062">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ItemEvolutionHandler.cs" timestamp="1561630949626">
         <mark key="'" line="123" column="43" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="49" />
-        <mark key="^" line="154" column="16" />
-        <mark key="." line="122" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="79" />
+        <mark key="^" line="144" column="75" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" timestamp="1561374262290">
         <mark key="'" line="107" column="31" />
@@ -687,7 +687,8 @@
         <mark key="." line="245" column="62" />
         <mark key="^" line="245" column="67" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1561048779754">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" timestamp="1561630716692">
+        <mark key="'" line="96" column="31" />
         <mark key="[" line="176" column="30" />
         <mark key="]" line="176" column="38" />
         <mark key="." line="176" column="38" />
@@ -730,18 +731,11 @@
       <file name="/TargetManager.cs" timestamp="1561106321746">
         <mark key="'" line="285" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1561630746685">
+        <mark key="'" line="21" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="209" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="119" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="180" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="173" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="183" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="182" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="179" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
-      <jump line="187" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="549" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
       <jump line="25" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
@@ -832,10 +826,20 @@
       <jump line="352" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="343" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="357" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="167" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionItemInList.cs" />
+      <jump line="124" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
+      <jump line="96" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/CompanionInfo.cs" />
+      <jump line="28" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="286" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="22" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="23" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="85" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="87" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
+      <jump line="21" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LogItems</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2l0ZW1JbmZvLkdldFNraWxsc1VwZ3JhZGVzRGF0YSgpLk9uTmV4dChuZXcgU2tpbGxzVXBncmFkZXNEYXRhKCkpOwo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -844,10 +848,10 @@
         <text>LogItems</text>
       </register>
       <register name="/" type="4">
-        <text>addra</text>
+        <text>Set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvbnVjZXMgPSBib251c2VzLkl0ZW1zLk9mVHlwZTxCb251c01vbmV5SW5mbz4oKS5TZWxlY3QoaW5mbyA9PiBpbmZvIGFzIEJvbnVzTG9nSXRlbSkuVG9MaXN0KCk7CiAgICAgICAgICAgIGlmIChib251Y2VzLkNvdW50ID4gMCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgX3Jld2FyZHMuSXRlbXMuQWRkUmFuZ2UoYm9udWNlcyk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2l0ZW1JbmZvLkdldFNraWxsc1VwZ3JhZGVzRGF0YSgpLk9uTmV4dChuZXcgU2tpbGxzVXBncmFkZXNEYXRhKCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
@@ -884,9 +888,9 @@
       </register>
     </registers>
     <search>
-      <last-search>addra</last-search>
+      <last-search>Set</last-search>
       <last-offset />
-      <last-pattern>addra</last-pattern>
+      <last-pattern>Set</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -894,9 +898,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbW9kZWxBbmltYXRvclw+</entry>
-        <entry>event</entry>
-        <entry>isnew</entry>
         <entry>new</entry>
         <entry encoding="base64">XDxfY3VycmVudFRhYlw+</entry>
         <entry encoding="base64">XDxfYm9udXNJdGVtc1w+</entry>
@@ -914,6 +915,9 @@
         <entry>Uni</entry>
         <entry encoding="base64">XDxUcnlDcmVhdGVVbml0ZWRCb251c0xvZ1w+</entry>
         <entry>addra</entry>
+        <entry encoding="base64">XDxPbkNvbXBhbmlvblVwZ3JhZGVcPg==</entry>
+        <entry>maxle</entry>
+        <entry>Set</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
