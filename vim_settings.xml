@@ -334,8 +334,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1558421540153">
         <mark key="'" line="192" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1561630463997">
-        <mark key="'" line="183" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" timestamp="1561642537427">
+        <mark key="'" line="22" column="63" />
         <mark key="[" line="180" column="57" />
         <mark key="]" line="180" column="60" />
         <mark key="." line="180" column="60" />
@@ -481,6 +481,11 @@
         <mark key="^" line="152" column="41" />
         <mark key="." line="152" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/MissionPrepareScreen.cs" timestamp="1561642553931">
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="61" column="46" />
+        <mark key="." line="61" column="46" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ItemEvolutionHandler.cs" timestamp="1561632866433">
         <mark key="'" line="144" column="12" />
         <mark key="[" line="123" column="0" />
@@ -495,7 +500,6 @@
         <mark key="." line="107" column="60" />
         <mark key="^" line="107" column="60" />
       </file>
-      <file name="/NewLevelScreen.cs" timestamp="1561626852374" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1561636420322">
         <mark key="'" line="695" column="58" />
         <mark key="j" line="677" column="12" />
@@ -652,9 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="235" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="236" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="259" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="261" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="267" column="95" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
@@ -752,19 +753,22 @@
       <jump line="549" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
       <jump line="178" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="500" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
+      <jump line="135" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
+      <jump line="21" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
+      <jump line="22" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</text>
+        <text>contex</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNraWxsRGF0YS5WYWx1ZS5DTG9nKCk7Cg==</text>
@@ -804,17 +808,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</last-search>
+      <last-search>contex</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</last-pattern>
+      <last-pattern>contex</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>maxle</entry>
         <entry>Set</entry>
         <entry>model</entry>
         <entry encoding="base64">XDxFVkVOVF9TSE9XX0FSTU9SXD4=</entry>
@@ -834,6 +837,7 @@
         <entry encoding="base64">XDxPbkJvbnVzTG9nSW5mb1w+</entry>
         <entry>rew</entry>
         <entry encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</entry>
+        <entry>contex</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
