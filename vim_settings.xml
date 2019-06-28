@@ -197,8 +197,8 @@
         <mark key="." line="67" column="115" />
         <mark key="^" line="67" column="115" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1561714135631">
-        <mark key="'" line="199" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1561717906557">
+        <mark key="'" line="162" column="20" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="13" />
         <mark key="." line="194" column="0" />
@@ -582,8 +582,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" timestamp="1561646541498">
         <mark key="'" line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1561715041149">
-        <mark key="'" line="244" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1561717891283">
+        <mark key="'" line="131" column="44" />
         <mark key="[" line="245" column="62" />
         <mark key="]" line="245" column="62" />
         <mark key="." line="245" column="62" />
@@ -596,12 +596,12 @@
         <mark key="." line="176" column="38" />
         <mark key="^" line="176" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" timestamp="1561717534769">
-        <mark key="'" line="107" column="48" />
-        <mark key="[" line="99" column="25" />
-        <mark key="]" line="99" column="33" />
-        <mark key="." line="99" column="33" />
-        <mark key="^" line="99" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" timestamp="1561718699293">
+        <mark key="'" line="60" column="33" />
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="60" column="38" />
+        <mark key="^" line="60" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scenes/CoreGameplay.unity" timestamp="1558968470718">
         <mark key="'" line="26" column="17" />
@@ -644,12 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="314" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="334" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="348" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="350" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
-      <jump line="354" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="362" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="114" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" />
       <jump line="128" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
@@ -744,61 +738,67 @@
       <jump line="22" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
       <jump line="99" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
       <jump line="107" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
+      <jump line="131" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
+      <jump line="162" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="47" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
+      <jump line="66" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
+      <jump line="45" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
+      <jump line="60" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GetUserInfo()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0b3VybmFtZW50LklzVXNlckludm9sdmVkKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGNhbGxiYWNrLlNhZmVJbnZva2UoVG91cm5hbWVudFJhdGluZ1RhYmxlLkdldFRvdXJuYW1lbnRTdGF0ZSgpICE9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvdXJuYW1lbnRSYXRpbmdUYWJsZS5Ub3VybmFtZW50U3RhdGUuQWN0aXZlKTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>GetUserInfo()</text>
+        <text>tournament.IsUserInvolved()</text>
       </register>
       <register name="/" type="4">
-        <text>userin</text>
+        <text encoding="base64">XDxUb3VybmFtZW50U3RhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJ1cGRhdGUgaW5mbyAxIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF0b3VybmFtZW50LklzVXNlckludm9sdmVkKCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGNhbGxiYWNrLlNhZmVJbnZva2UoVG91cm5hbWVudFJhdGluZ1RhYmxlLkdldFRvdXJuYW1lbnRTdGF0ZSgpICE9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvdXJuYW1lbnRSYXRpbmdUYWJsZS5Ub3VybmFtZW50U3RhdGUuQWN0aXZlKTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHZXRFbmVteUJhc2VzKEdldFBsYXllcnNUYWJsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEdldEVuZW15QmFzZXMoR2V0UGxheWVyc1RhYmxlKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">VG91cm5hbWVudFJhdGluZ1RhYmxlLkdldFRvdXJuYW1lbnRTdGF0ZSgpID09IFRvdXJuYW1lbnRSYXRpbmdUYWJsZS5Ub3VybmFtZW50U3RhdGUuQWN0aXZlICYmCiAgICAgICAgICAgICAgICB0b3VybmFtZW50LkVuZW15QmFzZXMgIT0gbnVsbA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvdXJuYW1lbnRSYXRpbmdUYWJsZS5Ub3VybmFtZW50U3RhdGUuQWN0aXZlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzVG91cm5hbWVudEFjdGl2ZSA9IFRvdXJuYW1lbnRSYXRpbmdUYWJsZS5HZXRUb3VybmFtZW50U3RhdGUoKSA9PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlzIHZhbGlkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlzIHZhbGlkIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNhZmUgcmVzb2x2ZSIuQ0xvZ0JsdWUoInByb2dyIiwgSW5Qcm9ncmVzcygpKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">VG91cm5hbWVudFJhdGluZ1RhYmxlLkdldFRvdXJuYW1lbnRTdGF0ZSgpID09IFRvdXJuYW1lbnRSYXRpbmdUYWJsZS5Ub3VybmFtZW50U3RhdGUuQWN0aXZlICYmCiAgICAgICAgICAgICAgICB0b3VybmFtZW50LkVuZW15QmFzZXMgIT0gbnVsbA==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>userin</last-search>
+      <last-search encoding="base64">XDxUb3VybmFtZW50U3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern>userin</last-pattern>
+      <last-pattern encoding="base64">XDxUb3VybmFtZW50U3RhdGVcPg==</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -806,8 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</entry>
-        <entry>static</entry>
         <entry>red</entry>
         <entry encoding="base64">XDxJc1dhcmVob3VzZUV4Y2VlZGVkXD4=</entry>
         <entry encoding="base64">XDxLaWxsZWRCb3RzV2l0aFJld2FyZHNcPg==</entry>
@@ -826,6 +824,8 @@
         <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
         <entry encoding="base64">XDx1c2VySW5mb1w+</entry>
         <entry>userin</entry>
+        <entry>gettour</entry>
+        <entry encoding="base64">XDxUb3VybmFtZW50U3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
@@ -846,8 +846,8 @@
         <entry encoding="base64">JzwsJz5zL1VOSVRZX0VESVRPUi9EREQvZw==</entry>
         <entry>%s/Chest/CitadelLike/g</entry>
         <entry encoding="base64">JzwsJz5zL0hwL01hc3RlcnkvZw==</entry>
-        <entry>action ReformatCode</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
       <history-expr />
       <history-input />
