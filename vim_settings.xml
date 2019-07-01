@@ -277,6 +277,9 @@
         <mark key="." line="61" column="64" />
         <mark key="^" line="61" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" timestamp="1561990972906">
+        <mark key="'" line="175" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponInfo.cs" timestamp="1561374262290">
         <mark key="'" line="107" column="31" />
         <mark key="[" line="107" column="51" />
@@ -440,12 +443,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/CoopShopLabelNotifier.cs" timestamp="1557930539804">
         <mark key="'" line="117" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1561990738198">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1561991983177">
         <mark key="'" line="62" column="12" />
-        <mark key="[" line="230" column="9" />
-        <mark key="]" line="231" column="31" />
-        <mark key="^" line="231" column="31" />
-        <mark key="." line="231" column="31" />
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="^" line="172" column="32" />
+        <mark key="." line="170" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/EquipWeaponCommand.cs" timestamp="1560758506091">
         <mark key="[" line="4" column="37" />
@@ -779,8 +782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Target.cs" />
-      <jump line="335" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Target.cs" />
       <jump line="74" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Target.cs" />
       <jump line="108" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Target.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileArmorPageView.cs" />
@@ -879,10 +880,12 @@
       <jump line="165" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="26" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="62" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="283" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
+      <jump line="175" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIi5DTG9nKF9zdGF0ZSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -891,57 +894,56 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>setstate</text>
+        <text encoding="base64">XDxPbkNvb3BTZWFyY2hcPg==</text>
       </register>
       <register name="0" type="4">
         <text>_userInfo.CoopInformation.IsHost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dENsYXNzLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIi5DTG9nKF9zdGF0ZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9taXNzaW9uLklkLkNMb2coX21pc3Npb24uVGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm9uIHBhdXNlIi5DTG9nKF91c2VySW5mby5Db29wSW5mb3JtYXRpb24uSXNIb3N0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dENsYXNzLkNMb2coKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5leHQiLkNMb2cobmV4dE1pc3Npb24hPW51bGw/IG5leHRNaXNzaW9uLklkLlRvU3RyaW5nKCkgOiAibnVsbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9taXNzaW9uLklkLkNMb2coX21pc3Npb24uVGl0bGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUG93ZXJWaWV3KCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5leHQiLkNMb2cobmV4dE1pc3Npb24hPW51bGw/IG5leHRNaXNzaW9uLklkLlRvU3RyaW5nKCkgOiAibnVsbCIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKEZyb21NaXNzaW9uQW5pbSwgbWlzc2lvbklkID4gMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUG93ZXJWaWV3KCk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtaXNzaW9uSWQgPSBtaXNzaW9uSW5mbyAhPSBudWxsID8gbWlzc2lvbkluZm9bMF0gOiBHbG9iYWxDb25zdGFudHMuVU5LTk9XTl9JRDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKEZyb21NaXNzaW9uQW5pbSwgbWlzc2lvbklkID4gMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>setstate</last-search>
+      <last-search encoding="base64">XDxPbkNvb3BTZWFyY2hcPg==</last-search>
       <last-offset />
-      <last-pattern>setstate</last-pattern>
+      <last-pattern encoding="base64">XDxPbkNvb3BTZWFyY2hcPg==</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTcGF3blNwaGVyZXNcPg==</entry>
         <entry>dont</entry>
         <entry encoding="base64">XDxEYW1hZ2VNdWx0T25Qc2lQb3dlcmVkRW5lbWllc1w+</entry>
         <entry encoding="base64">XDxPbktpbGxCb3RXaXRoUHNpUG90ZW50aWFsXD4=</entry>
@@ -961,6 +963,7 @@
         <entry>aim</entry>
         <entry encoding="base64">XDxIYXZlRXZvQnV0Tm90RW5vdWdoU2NpTGV2ZWxcPg==</entry>
         <entry>setstate</entry>
+        <entry encoding="base64">XDxPbkNvb3BTZWFyY2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
