@@ -70,8 +70,8 @@
         <mark key="." line="517" column="28" />
         <mark key="^" line="517" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" timestamp="1561994045588">
-        <mark key="'" line="74" column="52" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" timestamp="1561994407807">
+        <mark key="'" line="55" column="20" />
         <mark key="[" line="63" column="17" />
         <mark key="]" line="64" column="35" />
         <mark key="^" line="64" column="35" />
@@ -94,6 +94,12 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1561544224204">
         <mark key="'" line="49" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" timestamp="1561996092140">
+        <mark key="[" line="65" column="114" />
+        <mark key="]" line="65" column="114" />
+        <mark key="." line="65" column="114" />
+        <mark key="^" line="65" column="114" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/GameSettings.cs" timestamp="1560756682300">
         <mark key="'" line="133" column="40" />
@@ -304,15 +310,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Target.cs" timestamp="1561725765188">
         <mark key="'" line="108" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/PsiSphereController.cs" timestamp="1561975380616">
-        <mark key="'" line="117" column="21" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="120" column="41" />
-        <mark key="." line="119" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1561993746898">
-        <mark key="'" line="2584" column="25" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1561994457410">
+        <mark key="'" line="363" column="85" />
         <mark key="[" line="2246" column="0" />
         <mark key="]" line="2246" column="0" />
         <mark key="^" line="2237" column="26" />
@@ -685,9 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="236" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="243" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="246" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="248" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="189" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
@@ -785,22 +781,25 @@
       <jump line="250" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="251" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
       <jump line="253" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
+      <jump line="55" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" />
+      <jump line="2925" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="363" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNldCIuQ0xvZ0JsdWUoc3RhdGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>GetTaskDuration(lineNumber)</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text encoding="base64">d2F2ZS5UaW1lIC0gd2F2ZVN0YXJ0VGltZSA8PSBHZXRUYXNrRHVyYXRpb24obGluZU51bWJlcik=</text>
       </register>
       <register name="/" type="4">
-        <text>timer</text>
+        <text>onwaves</text>
       </register>
       <register name="0" type="4">
-        <text>_userInfo.CoopInformation.IsHost</text>
+        <text>GetTaskDuration(lineNumber)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInNldCIuQ0xvZ0JsdWUoc3RhdGUpOwo=</text>
@@ -837,9 +836,9 @@
       </register>
     </registers>
     <search>
-      <last-search>timer</last-search>
+      <last-search>onwaves</last-search>
       <last-offset />
-      <last-pattern>timer</last-pattern>
+      <last-pattern>onwaves</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -847,7 +846,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPbktpbGxCb3RXaXRoUHNpUG90ZW50aWFsXD4=</entry>
         <entry encoding="base64">XDxQc2lQb3dlclw+</entry>
         <entry encoding="base64">XDxJc1BzaVBvd2VyRW5hYmxlZFw+</entry>
         <entry>psi</entry>
@@ -867,6 +865,7 @@
         <entry encoding="base64">XDxPbkNvb3BTZWFyY2hcPg==</entry>
         <entry encoding="base64">XDxMaW5lc1N0YXRpc3RpY3NcPg==</entry>
         <entry>timer</entry>
+        <entry>onwaves</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
