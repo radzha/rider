@@ -70,12 +70,12 @@
         <mark key="." line="517" column="28" />
         <mark key="^" line="517" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" timestamp="1561994407807">
-        <mark key="'" line="55" column="20" />
-        <mark key="[" line="63" column="17" />
-        <mark key="]" line="64" column="35" />
-        <mark key="^" line="64" column="35" />
-        <mark key="." line="64" column="35" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" timestamp="1562059562460">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="101" column="45" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelResultScreen.cs" timestamp="1557143805873">
         <mark key="'" line="52" column="42" />
@@ -309,13 +309,6 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Target.cs" timestamp="1561725765188">
         <mark key="'" line="108" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" timestamp="1561994457410">
-        <mark key="'" line="363" column="85" />
-        <mark key="[" line="2246" column="0" />
-        <mark key="]" line="2246" column="0" />
-        <mark key="^" line="2237" column="26" />
-        <mark key="." line="2246" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" timestamp="1561646541498">
         <mark key="'" line="67" column="0" />
@@ -684,9 +677,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="248" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
-      <jump line="189" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="132" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="92" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
       <jump line="94" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileScreen.cs" />
@@ -784,61 +774,64 @@
       <jump line="55" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" />
       <jump line="2925" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="363" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="64" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" />
+      <jump line="103" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentTaskView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GetTaskDuration(lineNumber)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAic3VjY2VkZWQiLkNMb2coKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2F2ZS5UaW1lIC0gd2F2ZVN0YXJ0VGltZSA8PSBHZXRUYXNrRHVyYXRpb24obGluZU51bWJlcik=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>onwaves</text>
+        <text>clog</text>
       </register>
       <register name="0" type="4">
         <text>GetTaskDuration(lineNumber)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNldCIuQ0xvZ0JsdWUoc3RhdGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAic3VjY2VkZWQiLkNMb2coKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIi5DTG9nKF9zdGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIndhdmUiLkFkZFBhcmFtKGluZGV4KS5BZGRQYXJhbSgibGFzdCIsIF9sYXN0TGluZSkuQWRkUGFyYW0oInRpbWVyIiwgX3RpbWVyKS5DTG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm9uIHBhdXNlIi5DTG9nKF91c2VySW5mby5Db29wSW5mb3JtYXRpb24uSXNIb3N0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInNldCIuQ0xvZ0JsdWUoc3RhdGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV4dENsYXNzLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXRlIi5DTG9nKF9zdGF0ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9taXNzaW9uLklkLkNMb2coX21pc3Npb24uVGl0bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm9uIHBhdXNlIi5DTG9nKF91c2VySW5mby5Db29wSW5mb3JtYXRpb24uSXNIb3N0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dENsYXNzLkNMb2coKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm5leHQiLkNMb2cobmV4dE1pc3Npb24hPW51bGw/IG5leHRNaXNzaW9uLklkLlRvU3RyaW5nKCkgOiAibnVsbCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9taXNzaW9uLklkLkNMb2coX21pc3Npb24uVGl0bGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUG93ZXJWaWV3KCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm5leHQiLkNMb2cobmV4dE1pc3Npb24hPW51bGw/IG5leHRNaXNzaW9uLklkLlRvU3RyaW5nKCkgOiAibnVsbCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>onwaves</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern>onwaves</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -846,8 +839,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQc2lQb3dlclw+</entry>
-        <entry encoding="base64">XDxJc1BzaVBvd2VyRW5hYmxlZFw+</entry>
         <entry>psi</entry>
         <entry encoding="base64">XDxGaWxsUGFuZWxcPg==</entry>
         <entry encoding="base64">XDxVcGRhdGVPcGVuZWRTdGF0ZVw+</entry>
@@ -866,6 +857,8 @@
         <entry encoding="base64">XDxMaW5lc1N0YXRpc3RpY3NcPg==</entry>
         <entry>timer</entry>
         <entry>onwaves</entry>
+        <entry>(int)</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
