@@ -279,8 +279,8 @@
         <mark key="^" line="152" column="41" />
         <mark key="." line="152" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" timestamp="1562143535170">
-        <mark key="'" line="529" column="14" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" timestamp="1562152974106">
+        <mark key="'" line="410" column="123" />
         <mark key="[" line="551" column="38" />
         <mark key="]" line="551" column="42" />
         <mark key="." line="551" column="42" />
@@ -380,6 +380,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" timestamp="1561634444285">
         <mark key="'" line="46" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" timestamp="1562152290672" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/FightPowerCalculator.cs" timestamp="1561388922120">
         <mark key="'" line="90" column="19" />
       </file>
@@ -654,15 +655,18 @@
       <file name="/FightPrepareScreen.cs" timestamp="1562084217576">
         <mark key="'" line="494" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1562143685107">
-        <mark key="'" line="19" column="17" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" timestamp="1562152671413">
+        <mark key="'" line="410" column="39" />
         <mark key="[" line="894" column="0" />
         <mark key="]" line="894" column="0" />
         <mark key="." line="894" column="0" />
         <mark key="^" line="896" column="158" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabelsManager.cs" timestamp="1562151350485">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabelsManager.cs" timestamp="1562152056775">
         <mark key="'" line="72" column="34" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileArmorPageBack.cs" timestamp="1562067477590" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileScreenListItem.cs" timestamp="1561373797950">
@@ -804,11 +808,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
-      <jump line="105" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBarManager.cs" />
-      <jump line="340" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBarManager.cs" />
-      <jump line="310" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBarManager.cs" />
-      <jump line="10" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBarManager.cs" />
       <jump line="99" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
       <jump line="103" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
       <jump line="200" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
@@ -904,10 +903,15 @@
       <jump line="2907" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="1671" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="72" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabelsManager.cs" />
+      <jump line="410" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/Bot.cs" />
+      <jump line="71" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
+      <jump line="149" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
+      <jump line="212" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
+      <jump line="410" column="123" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pc1Nob3dlZCkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5Pd25lcklkLgo=</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -916,49 +920,49 @@
         <text>prefab</text>
       </register>
       <register name="/" type="4">
-        <text>crea</text>
+        <text>players</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGxhYmVsID0gT2JqZWN0Lkluc3RhbnRpYXRlKF9wcmVmYWIsIF9wYXJlbnQsIGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pc1Nob3dlZCkgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS5Pd25lcklkLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUG9zaXRpb24oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pc1Nob3dlZCkgcmV0dXJuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBPYmplY3QuSW5zdGFudGlhdGUoX3ByZWZhYiwgX3BhcmVudCwgZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlUG9zaXRpb24oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwuVG9TdHJpbmcoKS53b3IK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBPYmplY3QuSW5zdGFudGlhdGUoX3ByZWZhYiwgX3BhcmVudCwgZmFsc2UpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFiZWwuVG9TdHJpbmcoKS53b3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIFZlY3RvcjMgX3VuaXRCaW5kT2Zmc2V0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VuaXRCaW5kT2Zmc2V0ID0gbmV3IFZlY3RvcjMoMGYsIDBmLCAwZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFZlY3RvcjMgX3VuaXRCaW5kT2Zmc2V0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3VuaXRCaW5kT2Zmc2V0ID0gbmV3IFZlY3RvcjMoMGYsIDBmLCAwZik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBPblVwZGF0ZSgpCiAgICAgICAgewogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search>crea</last-search>
+      <last-search>players</last-search>
       <last-offset />
-      <last-pattern>crea</last-pattern>
+      <last-pattern>players</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -966,9 +970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>OnM</entry>
-        <entry>Me</entry>
-        <entry>event</entry>
         <entry>On</entry>
         <entry>mec</entry>
         <entry>deac</entry>
@@ -986,6 +987,9 @@
         <entry>Unit</entry>
         <entry encoding="base64">XDxTaGFyZWRQb29sXD4=</entry>
         <entry>crea</entry>
+        <entry encoding="base64">XDxfYm90UmV3YXJkTGFiZWxzTWFuYWdlclw+</entry>
+        <entry>DB</entry>
+        <entry>players</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
