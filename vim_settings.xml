@@ -237,8 +237,8 @@
         <mark key="." line="59" column="51" />
         <mark key="^" line="59" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" timestamp="1562150636522">
-        <mark key="'" line="139" column="8" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" timestamp="1562164297345">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="469" column="0" />
         <mark key="]" line="495" column="5" />
       </file>
@@ -269,7 +269,7 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfoComponents/Store/StoreController.cs" timestamp="1557917331284">
         <mark key="[" line="114" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabel.cs" timestamp="1562163939784">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabel.cs" timestamp="1562164314390">
         <mark key="'" line="27" column="87" />
         <mark key="[" line="61" column="29" />
         <mark key="]" line="62" column="28" />
@@ -311,7 +311,8 @@
         <mark key="." line="894" column="0" />
         <mark key="^" line="896" column="158" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabelsManager.cs" timestamp="1562163974167">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabelsManager.cs" timestamp="1562164211114">
+        <mark key="'" line="50" column="21" />
         <mark key="^" line="88" column="11" />
       </file>
       <file name="/RewardItemBase.cs" timestamp="1561651154144">
@@ -350,9 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabel.cs" />
-      <jump line="204" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="94" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bot.cs" />
       <jump line="75" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabel.cs" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
       <jump line="521" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
@@ -450,6 +448,9 @@
       <jump line="2219" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2224" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2226" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
+      <jump line="50" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabelsManager.cs" />
+      <jump line="487" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/HpBar.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -462,7 +463,7 @@
         <text encoding="base64">ICBpZiAoX2lzU2hvd2VkKSByZXR1cm47</text>
       </register>
       <register name="/" type="4">
-        <text>hitimp</text>
+        <text>Init(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGJvdCA9IEFzQm90KCk7Cg==</text>
@@ -502,9 +503,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hitimp</last-search>
+      <last-search>Init(</last-search>
       <last-offset />
-      <last-pattern>hitimp</last-pattern>
+      <last-pattern>Init(</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -512,7 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>crea</entry>
         <entry encoding="base64">XDxfYm90UmV3YXJkTGFiZWxzTWFuYWdlclw+</entry>
         <entry>DB</entry>
         <entry>players</entry>
@@ -532,6 +532,7 @@
         <entry>hitim</entry>
         <entry encoding="base64">XDx1bml0XD4=</entry>
         <entry>hitimp</entry>
+        <entry>Init(</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
