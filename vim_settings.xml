@@ -381,12 +381,12 @@
         <mark key="^" line="258" column="58" />
         <mark key="." line="258" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562601772799">
-        <mark key="'" line="239" column="47" />
-        <mark key="[" line="244" column="52" />
-        <mark key="]" line="244" column="68" />
-        <mark key="." line="244" column="68" />
-        <mark key="^" line="244" column="68" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562602811593">
+        <mark key="'" line="58" column="21" />
+        <mark key="[" line="249" column="41" />
+        <mark key="]" line="249" column="62" />
+        <mark key="^" line="249" column="62" />
+        <mark key="." line="249" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" timestamp="1559911760018">
         <mark key="'" line="80" column="35" />
@@ -954,10 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="21" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" />
-      <jump line="84" column="16" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerAvatar.cs" />
-      <jump line="385" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="385" column="37" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="3668" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="3114" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="357" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -1054,61 +1050,65 @@
       <jump line="141" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="288" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="310" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="229" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="32" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="244" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="58" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MoneyType.LoadBigIconSprite();</text>
+        <text>moneyBonus.Value.ToString();</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>MoneyType.LoadBigIconSprite();</text>
+        <text>moneyBonus.Value.ToString();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYm9udXNMb2dJbmZvXD4=</text>
+        <text encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZFBpY3R1cmUuc3ByaXRlID0gbW9uZXlCb251cy5Nb25leVR5cGUuTG9hZEJpZ0ljb25TcHJpdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZExhYmVsLnRleHQgPSBtb25leUJvbnVzLlZhbHVlLlRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZExhYmVsLnRleHQgPSBtb25leUJvbnVzLlZhbHVlLlRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c0xvZ0luZm8uSXRlbXMuRmluZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJNb25leUNhY2hlID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5Nb25leUNhY2hlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJNb25leUNhY2hlID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5Nb25leUNhY2hlOwogICAgICAgICAgICB2YXIgdG90YWxNb25leSA9IHVzZXJNb25leUNhY2hlLkdldE1vbmV5KF9tb25leVR5cGUuQ29kZS5Ub1N0cmluZygpKSArIEdldFRvdGFsUmV3YXJkZWRNb25leSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgSW5pdGlhbGl6ZUJvdHNCb251c1Jld2FyZCgpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c0xvZ0luZm8uSXRlbXMuRmluZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxvYWQgd2VhcG9uIi5DTG9nQmx1ZSh3ZWFwb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNob3cgd2VhcG9uIi5DTG9nKGFsbHlJbmZvKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBtdWx0aXBsaWVyID0gaGFzTXVsdGlwbGllciAmJiBtb25leS5EYXRhLk1vbmV5VHlwZS5TY2FsYWJsZSA/IHJhdGluZ011bHRpcGxpZXIgOiAxZjsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgSW5pdGlhbGl6ZUJvdHNCb251c1Jld2FyZCgpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImxvYWQgd2VhcG9uIi5DTG9nQmx1ZSh3ZWFwb25JZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYm9udXNMb2dJbmZvXD4=</last-search>
+      <last-search encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYm9udXNMb2dJbmZvXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -1116,11 +1116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>trans</entry>
-        <entry>clog</entry>
-        <entry encoding="base64">XDxMb2FkV2VhcG9uXD4=</entry>
-        <entry>onswapw</entry>
-        <entry encoding="base64">XDxPblN3YXBXZWFwb25cPg==</entry>
         <entry>rewa</entry>
         <entry>Bot</entry>
         <entry>killedbo</entry>
@@ -1136,6 +1131,11 @@
         <entry encoding="base64">XDxfYm9udXNSZXdhcmRcPg==</entry>
         <entry>bonuslog</entry>
         <entry encoding="base64">XDxfYm9udXNMb2dJbmZvXD4=</entry>
+        <entry>capa</entry>
+        <entry>totalc</entry>
+        <entry encoding="base64">XDxfdG90YWxDb3VudE1lZGFsc1w+</entry>
+        <entry>title</entry>
+        <entry encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
