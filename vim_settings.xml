@@ -381,12 +381,12 @@
         <mark key="^" line="258" column="58" />
         <mark key="." line="258" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562602811593">
-        <mark key="'" line="58" column="21" />
-        <mark key="[" line="249" column="41" />
-        <mark key="]" line="249" column="62" />
-        <mark key="^" line="249" column="62" />
-        <mark key="." line="249" column="62" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562658838296">
+        <mark key="'" line="60" column="21" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="^" line="252" column="67" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" timestamp="1559911760018">
         <mark key="'" line="80" column="35" />
@@ -954,10 +954,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3668" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="3114" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
-      <jump line="357" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1169" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="55" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/UnitDeathController.cs" />
       <jump line="3672" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="95" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
@@ -1054,61 +1050,65 @@
       <jump line="32" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="244" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="58" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="247" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="257" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="249" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="60" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>moneyBonus.Value.ToString();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>moneyBonus.Value.ToString();</text>
+        <text>totalMoney.ToString();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</text>
+        <text encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZExhYmVsLnRleHQgPSBtb25leUJvbnVzLlZhbHVlLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZFRvdGFsLnRleHQgPSB0b3RhbE1vbmV5LlRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZExhYmVsLnRleHQgPSBtb25leUJvbnVzLlZhbHVlLlRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJNb25leUNhY2hlID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5Nb25leUNhY2hlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZExhYmVsLnRleHQgPSBtb25leUJvbnVzLlZhbHVlLlRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJNb25leUNhY2hlID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5Nb25leUNhY2hlOwogICAgICAgICAgICB2YXIgdG90YWxNb25leSA9IHVzZXJNb25leUNhY2hlLkdldE1vbmV5KF9tb25leVR5cGUuQ29kZS5Ub1N0cmluZygpKSArIEdldFRvdGFsUmV3YXJkZWRNb25leSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJNb25leUNhY2hlID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5Nb25leUNhY2hlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJNb25leUNhY2hlID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5Nb25leUNhY2hlOwogICAgICAgICAgICB2YXIgdG90YWxNb25leSA9IHVzZXJNb25leUNhY2hlLkdldE1vbmV5KF9tb25leVR5cGUuQ29kZS5Ub1N0cmluZygpKSArIEdldFRvdGFsUmV3YXJkZWRNb25leSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c0xvZ0luZm8uSXRlbXMuRmluZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2JvdHNCb251c0xvZ0luZm8uSXRlbXMuRmluZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgSW5pdGlhbGl6ZUJvdHNCb251c1Jld2FyZCgpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImxvYWQgd2VhcG9uIi5DTG9nQmx1ZSh3ZWFwb25JZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgSW5pdGlhbGl6ZUJvdHNCb251c1Jld2FyZCgpCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</last-search>
+      <last-search encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -1116,8 +1116,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rewa</entry>
-        <entry>Bot</entry>
         <entry>killedbo</entry>
         <entry>killedp</entry>
         <entry encoding="base64">XDxTdGF0aXN0aWNzXD4=</entry>
@@ -1136,6 +1134,8 @@
         <entry encoding="base64">XDxfdG90YWxDb3VudE1lZGFsc1w+</entry>
         <entry>title</entry>
         <entry encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkTGFiZWxcPg==</entry>
+        <entry>titles</entry>
+        <entry encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
