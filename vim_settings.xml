@@ -129,11 +129,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1562593321293">
         <mark key="'" line="1294" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionUpgradeEffectController.cs" timestamp="1562759911046">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="27" column="35" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionUpgradeEffectController.cs" timestamp="1562760917639">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="59" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Schedule.cs" timestamp="1561721082190">
         <mark key="'" line="23" column="28" />
@@ -803,11 +802,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DangerZoneMeter.cs" timestamp="1561032556942">
         <mark key="'" line="31" column="100" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CommonUpgradeEffectController.cs" timestamp="1562759685401">
-        <mark key="'" line="31" column="17" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CommonUpgradeEffectController.cs" timestamp="1562760617536">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="51" column="9" />
+        <mark key="]" line="21" column="25" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" timestamp="1562314595650">
         <mark key="'" line="539" column="16" />
@@ -884,7 +884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="78" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
       <jump line="19" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
       <jump line="23" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
       <jump line="42" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/EvolutionScreen.cs" />
@@ -984,16 +983,17 @@
       <jump line="13" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponData.cs" />
       <jump line="29" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ItemUpgradeEffectController.cs" />
       <jump line="28" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CommonUpgradeEffectController.cs" />
+      <jump line="21" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CommonUpgradeEffectController.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25TZWxlY3RJdGVtKFVzZXJJbmZvLkdldFVzZXJJbmZvKCkuQ29tcGFuaW9uKTsK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>OnEquipItem</text>
+        <text>OnCompanionSelected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbmFibGVkXD4=</text>
@@ -1002,34 +1002,34 @@
         <text encoding="base64">ICAgICAgICAgICAgYmFzZS5PblNlbGVjdEl0ZW0oaW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25TZWxlY3RJdGVtKFVzZXJJbmZvLkdldFVzZXJJbmZvKCkuQ29tcGFuaW9uKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25Db21wYW5pb25TZWxlY3RlZChVc2VySW5mby5HZXRVc2VySW5mbygpLkNvbXBhbmlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZW0gIT0gbnVsbCkgX3VwZ3JhZGVTdWJzY3JpcHRpb24gPSBpdGVtLlNraWxsc1VwZ3JhZGVzRGF0YS5TdWJzY3JpYmUoT25Ta2lsbHNVcGdyYWRlKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGl0ZW0gPSB1c2VyLkFybW9ycy5GaXJzdE9yRGVmYXVsdCh3ID0+IHcuSWQgPT0gaW5mby5JZCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGl0ZW0gIT0gbnVsbCkgX3VwZ3JhZGVTdWJzY3JpcHRpb24gPSBpdGVtLlNraWxsc1VwZ3JhZGVzRGF0YS5TdWJzY3JpYmUoT25Ta2lsbHNVcGdyYWRlKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25FcXVpcEl0ZW0oSUl0ZW1JbmZvIGluZm8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGl0ZW0gPSB1c2VyLkFybW9ycy5GaXJzdE9yRGVmYXVsdCh3ID0+IHcuSWQgPT0gaW5mby5JZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFlbmFibGVkKSByZXR1cm47CgogICAgICAgICAgICB2YXIgdXNlciA9IFVzZXJJbmZvLkdldFVzZXJJbmZvKCk7CiAgICAgICAgICAgIFV0aWxzLkRpc3Bvc2VBbmRTZXROdWxsKHJlZiBfdXBncmFkZVN1YnNjcmlwdGlvbik7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25FcXVpcEl0ZW0oSUl0ZW1JbmZvIGluZm8pCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
