@@ -373,12 +373,12 @@
         <mark key="^" line="197" column="47" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" timestamp="1562745248125">
-        <mark key="'" line="137" column="38" />
-        <mark key="[" line="178" column="9" />
-        <mark key="]" line="179" column="45" />
-        <mark key="^" line="179" column="45" />
-        <mark key="." line="179" column="45" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" timestamp="1562748643760">
+        <mark key="'" line="178" column="21" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="0" />
+        <mark key="^" line="231" column="21" />
+        <mark key="." line="178" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562658838296">
         <mark key="'" line="60" column="21" />
@@ -934,7 +934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
       <jump line="237" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
       <jump line="236" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
       <jump line="229" column="113" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
@@ -1034,10 +1033,11 @@
       <jump line="42" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
       <jump line="60" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
       <jump line="50" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="178" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/WeaponUpgrade/WeaponUpgradeScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isTournament</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInRocm93IGV2ZW50cyIuQ0xvZyhfaXNQcmV2aWV3TW9kZSk7Cg==</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
@@ -1046,49 +1046,49 @@
         <text>isTournament</text>
       </register>
       <register name="/" type="4">
-        <text>opp</text>
+        <text>clog</text>
       </register>
       <register name="0" type="4">
         <text>(</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpc1RvdXJuYW1lbnQgPSBfZW5lbXlCYXNlSW5mby5JZCA9PSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRocm93IGV2ZW50cyIuQ0xvZyhfaXNQcmV2aWV3TW9kZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVwZGF0ZSB2aWV3Ii5BZGRQYXJhbSgidXBkYXRlbSIsIHVwZGF0ZU1vZGVsKS5DTG9nKGl0ZW1JbmZvICE9IG51bGwgPyBpdGVtSW5mby5JdGVtLlRpdGxlIDogIm51bGwiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpc1RvdXJuYW1lbnQgPSBfZW5lbXlCYXNlSW5mby5JZCA9PSAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAia2lsbCIuQWRkUGFyYW0oYm90SWQpLkNMb2coYm90U3RhdC5WYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAia2lsbCIuQWRkUGFyYW0oYm90SWQpLkNMb2coYm90U3RhdC5WYWx1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgWWFyeC5FeHRlbnRpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZC4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5Db21wYW5pb25zUHJvZmlsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAic3Vic2NyaXZlIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgWWFyeC5FeHRlbnRpb25zOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action ReformatCode</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>opp</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern>opp</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -1096,7 +1096,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdWJtYWNoaW5lR3VuXD4=</entry>
         <entry encoding="base64">XDxHZXRXZWFwb25UeXBlXD4=</entry>
         <entry>prior</entry>
         <entry encoding="base64">XDxUYWJMaXN0QnlQcmlvcml0eVw+</entry>
@@ -1116,6 +1115,7 @@
         <entry>model</entry>
         <entry>tourn</entry>
         <entry>opp</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
@@ -1136,8 +1136,8 @@
         <entry encoding="base64">JzwsJz5zL1VOSVRZX0VESVRPUi9EREQvZw==</entry>
         <entry>%s/Chest/CitadelLike/g</entry>
         <entry encoding="base64">JzwsJz5zL0hwL01hc3RlcnkvZw==</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry>action ReformatCode</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
