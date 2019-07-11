@@ -304,12 +304,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1562772543927">
         <mark key="'" line="189" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1562844020259">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1562847465212">
         <mark key="'" line="168" column="71" />
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="^" line="194" column="11" />
-        <mark key="." line="196" column="0" />
+        <mark key="[" line="197" column="40" />
+        <mark key="]" line="197" column="40" />
+        <mark key="^" line="196" column="11" />
+        <mark key="." line="197" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" timestamp="1562153250642">
         <mark key="'" line="410" column="123" />
@@ -375,7 +375,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1559653319029">
         <mark key="'" line="97" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562838207711">
+      <file name="/Dummy.txt" timestamp="1562847002784">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1562236088763">
@@ -540,6 +540,10 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/StorageLoadStateController.cs" timestamp="1559296217168">
         <mark key="'" line="12" column="28" />
+      </file>
+      <file name="/TerrorRewardsScreen.cs" timestamp="1562847454715">
+        <mark key="[" line="200" column="0" />
+        <mark key="]" line="205" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1561542134788">
         <mark key="'" line="148" column="66" />
@@ -1011,19 +1015,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new BonusMoneyInfo(money.Data.MoneyType, moneyCount, moneyCount)</text>
+        <text>_</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>new BonusMoneyInfo(money.Data.MoneyType, moneyCount, moneyCount)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfYm9udXNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxSZXdhcmREYXRhPiA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIG1vbmV5UmV3YXJkIGluIF9tb25leVJld2FyZHMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciByZXdhcmQgPSBfbW9uZXlSZXdhcmRzSXRlbXBzUG9vbC5UYWtlKCk7CiAgICAgICAgICAgICAgICByZXdhcmQuSW5pdChtb25leVJld2FyZCk7CiAgICAgICAgICAgICAgICByZXdhcmQuZ2FtZU9iamVjdC5HZXRDb21wb25lbnQ8RmFkZU91dEhvcml6b250YWxTY3JvbGxJdGVtPigpLmVuYWJsZWQgPSBmYWxzZTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
