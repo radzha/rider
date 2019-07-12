@@ -105,11 +105,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelResultScreen.cs" timestamp="1557143805873">
         <mark key="'" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" timestamp="1562923620384">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" timestamp="1562924916312">
         <mark key="'" line="238" column="16" />
-        <mark key="[" line="153" column="0" />
-        <mark key="]" line="153" column="103" />
-        <mark key="." line="245" column="0" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="153" column="95" />
+        <mark key="^" line="153" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultBotsPreloader.cs" timestamp="1562844911278">
         <mark key="'" line="37" column="39" />
@@ -173,7 +174,7 @@
       <file name="/WeaponUpgradeScreen.cs" timestamp="1560520924466">
         <mark key="'" line="160" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" timestamp="1562924265998">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" timestamp="1562924619803">
         <mark key="'" line="24" column="29" />
         <mark key="[" line="78" column="54" />
         <mark key="]" line="78" column="55" />
@@ -1145,8 +1146,6 @@
       <jump line="159" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="219" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="342" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
-      <jump line="243" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" />
-      <jump line="238" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" />
       <jump line="181" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
       <jump line="58" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
@@ -1163,64 +1162,66 @@
       <jump line="370" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
       <jump line="369" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
       <jump line="364" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
+      <jump line="243" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" />
+      <jump line="238" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fightSettings.GrayscaleOnAim</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KSwK</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>fightSettings.GrayscaleOnAim</text>
+        <text>Reset</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</text>
+        <text encoding="base64">XDxSZXNldFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERpc2FibGVFZmZlY3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF91bml0ICE9IG51bGwgJiYgX3VuaXQuSWQgPT0gZGF0YS5QbGF5ZXJJZCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU2V0QWltaW5nU3RhdHVzKGZhbHNlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">KSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9kaXNhYmxlID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0QWltaW5nU3RhdHVzKGZhbHNlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9lbGFwc2VkVGltZSA9IDAuMGY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlc2F0dXJhdGlvbiA9IDAuMGY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3RpbWVyVGltZVNjYWxlID0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVzYXR1cmF0aW9uID0gMC4wZjsKICAgICAgICAgICAgX2VsYXBzZWRUaW1lID0gMC4wZjsKICAgICAgICAgICAgX2Rpc2FibGUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlc2F0dXJhdGlvbiA9IDAuMGY7CiAgICAgICAgICAgICAgICBfZWxhcHNlZFRpbWUgPSAwLjBmOwogICAgICAgICAgICAgICAgX2Rpc2FibGUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldEFpbWluZ1N0YXR1cyhmYWxzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlc2F0dXJhdGlvbiA9IDAuMGY7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF91bml0ICE9IG51bGwgJiYgX3VuaXQuSWQgPT0gZGF0YS5QbGF5ZXJJZCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</last-search>
+      <last-search encoding="base64">XDxSZXNldFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNldFw+</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -1241,10 +1242,10 @@
         <entry>Reset</entry>
         <entry>laser</entry>
         <entry encoding="base64">XDxfYWltaW5nTGFzZXJcPg==</entry>
-        <entry encoding="base64">XDxSZXNldFw+</entry>
         <entry encoding="base64">XDxEZXNhdHVyYXRpb25cPg==</entry>
         <entry>gray</entry>
         <entry encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</entry>
+        <entry encoding="base64">XDxSZXNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
