@@ -85,8 +85,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/WeaponSettings.cs" timestamp="1560787136907">
         <mark key="'" line="454" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" timestamp="1562847697539">
-        <mark key="'" line="382" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" timestamp="1562918948244">
+        <mark key="'" line="595" column="33" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="376" column="60" />
@@ -223,6 +223,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ModelLoader.cs" timestamp="1562834407593">
         <mark key="'" line="19" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562919296027" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/PlayerController.cs" timestamp="1562315786891">
         <mark key="'" line="184" column="71" />
       </file>
@@ -398,8 +399,8 @@
         <mark key="]" line="227" column="0" />
         <mark key="." line="227" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562918062038">
-        <mark key="'" line="60" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562918941636">
+        <mark key="'" line="250" column="65" />
         <mark key="[" line="250" column="112" />
         <mark key="]" line="251" column="74" />
         <mark key="^" line="251" column="74" />
@@ -1045,8 +1046,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="131" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="132" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
       <jump line="132" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
       <jump line="169" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ArmorUpgrade/ArmorUpgradeScreen.cs" />
@@ -1145,6 +1144,8 @@
       <jump line="58" column="1" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/OutlineToggler.cs" />
       <jump line="29" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileView.cs" />
       <jump line="60" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="250" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
+      <jump line="595" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1157,7 +1158,7 @@
         <text>_userID</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</text>
+        <text encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJEYXRhID0gbmV3IEFub3RoZXJQbGF5ZXJQcm9maWxlRGF0YShyYXdEYXRhKTsKICAgICAgICAgICAgdXNlckRhdGEuU2V0SWQoaW50LlBhcnNlKF91c2VySUQpKTsKICAgICAgICAgICAgdmFyIGNvbnRleHQgPSBuZXcgQW5vdGhlclBsYXllclByb2ZpbGVDb250ZXh0KFBhZ2VUeXBlLk1haW4sIHVzZXJEYXRhLCBmYWxzZSk7CiAgICAgICAgICAgIFVJTWFuYWdlci5PcGVuU2NyZWVuKFNjcmVlblR5cGUuQW5vdGhlclBsYXllclByb2ZpbGUsIFV0aWxzLldyYXBUb0NvbnRleHQoY29udGV4dCkpOwo=</text>
@@ -1197,17 +1198,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</last-search>
+      <last-search encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>clog</entry>
         <entry encoding="base64">XDxDTEFTU19LRVlcPg==</entry>
         <entry encoding="base64">XDxfYmVzdEFybW9yXD4=</entry>
         <entry encoding="base64">XDxfc3RvcmFnZVw+</entry>
@@ -1227,6 +1227,7 @@
         <entry encoding="base64">XDxVcGRhdGVPdXRsaW5lXD4=</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry encoding="base64">XDxfYm90c0JvbnVzUmV3YXJkVG90YWxcPg==</entry>
+        <entry encoding="base64">XDxHZXRSZXdhcmREYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
