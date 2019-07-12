@@ -105,7 +105,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Duel/DuelResultScreen.cs" timestamp="1557143805873">
         <mark key="'" line="52" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" timestamp="1562922811536">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" timestamp="1562923620384">
         <mark key="'" line="238" column="16" />
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="103" />
@@ -172,6 +172,13 @@
       </file>
       <file name="/WeaponUpgradeScreen.cs" timestamp="1560520924466">
         <mark key="'" line="160" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" timestamp="1562924265998">
+        <mark key="'" line="24" column="29" />
+        <mark key="[" line="78" column="54" />
+        <mark key="]" line="78" column="55" />
+        <mark key="^" line="78" column="55" />
+        <mark key="." line="78" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileView.cs" timestamp="1562859065968">
         <mark key="'" line="29" column="25" />
@@ -344,6 +351,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1562772543927">
         <mark key="'" line="189" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" timestamp="1562924277029">
+        <mark key="'" line="364" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorRewardsScreen.cs" timestamp="1562847707061">
         <mark key="'" line="167" column="71" />
@@ -1053,21 +1063,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="202" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsProfileScreen.cs" />
-      <jump line="28" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionUpgradeEffectController.cs" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionUpgradeEffectController.cs" />
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionUpgradeEffectController.cs" />
-      <jump line="111" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
-      <jump line="13" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponData.cs" />
-      <jump line="114" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
-      <jump line="89" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
-      <jump line="117" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
-      <jump line="113" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
-      <jump line="110" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
-      <jump line="37" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ArmorPagePresenter.cs" />
-      <jump line="38" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ArmorPagePresenter.cs" />
       <jump line="55" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ArmorPagePresenter.cs" />
       <jump line="23" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ArmorPagePresenter.cs" />
       <jump line="703" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
@@ -1153,71 +1148,83 @@
       <jump line="243" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" />
       <jump line="238" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/ClientFireController.cs" />
       <jump line="181" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Aiming/PlayerAimingManager.cs" />
+      <jump line="58" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="99" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="94" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="74" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="93" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="105" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="127" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="145" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="150" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="24" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="398" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
+      <jump line="370" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
+      <jump line="369" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
+      <jump line="364" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Reset</text>
+        <text>fightSettings.GrayscaleOnAim</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>Reset</text>
+        <text>fightSettings.GrayscaleOnAim</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXNldFw+</text>
+        <text encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZShDaG9zZW5EZWF0aEFiaWxpdHlDb250cm9sbGVyLkVWRU5UX0NIT1NFTl9ERUFUSCwgUmVzZXQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERpc2FibGVFZmZlY3QoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">X2JvdHNCb251c1Jld2FyZFRvdGFsOwogICAgICAgIFtTZXJpYWxpemVGaWVsZF0KICAgICAgICBwcml2YXRlIFRleHQgX2JvdHNCb251c1Jld2FyZFRpdGxlOwoKICAgICAgICBwcml2YXRlIFN0b3JhZ2UgX3N0b3JhZ2U7CiAgICAgICAgcHJpdmF0ZSBib29sIF9yZWNlaXZlZERvbWluYXRpb25SZXdhcmQ7CiAgICAgICAgcHJpdmF0ZSBib29sIF9pc0RvdWJsZU1lZGFsc0V2ZW50QWN0aXZlOwogICAgICAgIHByaXZhdGUgQm9udXNMb2dJbmZvIF9ib3RzQm9udXNMb2dJbmZvOwogICAgICAgIAogICAgICAgIHByaXZhdGUgTW9uZXlUeXBlIF9tb25leVR5cGU7CiAgICAgICAgcHJpdmF0ZSBpbnQgX21vbmV5QW1vdW50OwoKICAgICAgICBbVXNlZEltcGxpY2l0bHldCiAgICAgICAgcHVibGljIHZvaWQgT25GcmllbmRCdXR0b25Ub3VjaCgpCiAgICAgICAgewogICAgICAgICAgICBEZWJ1Zy5Mb2coIk9uRnJpZW5kQnV0dG9uVG91Y2giKTsKICAgICAgICB9CgogICAgICAgIFtVc2VkSW1wbGljaXRseV0KICAgICAgICBwdWJsaWMgdm9pZCBPblNob3dJbmZvcm1hdGlvblBvcHVwKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChfbW9uZXlUeXBlICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciB1c2VySW5mbyA9IFVzZXJJbmZvLkdldFVzZXJJbmZvKCk7CiAgICAgICAgICAgICAgICB2YXIgbW9uZXlUeXBlID0gX21vbmV5VHlwZTsKICAgICAgICAgICAgICAgIHZhciB1c2VyQ291bnQgPSB1c2VySW5mby5HZXRNb25leUNvdW50KG1vbmV5VHlwZS5Db2RlLlRvU3RyaW5nKCkpOwogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlbkluZm9ybWF0aW9uUG9wdXAobW9uZXlUeXBlLCB1c2VyQ291bnQpOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIGludCBHZXRUb3RhbFJld2FyZGVkTW9uZXkoKQogICAgICAgIHsKICAgICAgICAgICAgdmFyIG1lZGFsc011bHRpcGxpZXIgPSBfaXNEb3VibGVNZWRhbHNFdmVudEFjdGl2ZSA/IF9zdG9yYWdlLkZpZ2h0U2V0dGluZ3MuQ29vcEV2ZW50TXVsdGlwbGllciA6IDFmOwogICAgICAgICAgICB2YXIgcmV3YXJkZWRNb25leSA9IF9tb25leUFtb3VudCAqIG1lZGFsc011bHRpcGxpZXI7CiAgICAgICAgICAgIHZhciBkb21pbmF0aW9uQm9udXMgPSBNYXRoZi5GbG9vclRvSW50KHJld2FyZGVkTW9uZXkgKiAoX3N0b3JhZ2UuVGVycm9yc1NldHRpbmdzLkRvbWluYXRpb25Cb251cyAvIDEwMCkpOwogICAgICAgICAgICByZXR1cm4gKGludCkoKF9yZWNlaXZlZERvbWluYXRpb25SZXdhcmQgPyBkb21pbmF0aW9uQm9udXMgOiAwKSArIHJld2FyZGVkTW9uZXkpOwogICAgICAgIH0KCiAgICAgICAgW1VzZWRJbXBsaWNpdGx5XQogICAgICAgIHB1YmxpYyB2b2lkIE9uTmV4dEJ1dHRvblRvdWNoKCkKICAgICAgICB7CiAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChDb25uZWN0b3IuRVZFTlRfRVhJVCk7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBJbml0V2l0aENvbnRleHQob2JqZWN0IGNvbnRleHQpCiAgICAgICAgewogICAgICAgICAgICB2YXIgdXNlckluZm8gPSBVc2VySW5mby5HZXRVc2VySW5mbygpOwogICAgICAgICAgICB2YXIgZ2FtZU92ZXJEYXRhID0gVXRpbHMuR2V0RnJvbUNvbnRleHQ8R2FtZU92ZXJEYXRhPihjb250ZXh0KTsKICAgICAgICAgICAgdmFyIGZpZ2h0RmluaXNoSW5mbyA9IFV0aWxzLkdldEZyb21Db250ZXh0PEZpZ2h0RmluaXNoSW5mbz4oY29udGV4dCk7CiAgICAgICAgICAgIHZhciBjb29wSW5mbyA9IHVzZXJJbmZvLkNvb3BJbmZvcm1hdGlvbjsKICAgICAgICAgICAgdmFyIHVzZXIgPSBjb29wSW5mby5Vc2VyOwogICAgICAgICAgICBfdXNlcm5hbWUudGV4dCA9IHVzZXIuTmFtZTsKICAgICAgICAgICAgX2ZsYWcuc3ByaXRlID0gRmxhZ1V0aWxzLkdldEZsYWdTcHJpdGUodXNlci5Db3VudHJ5KTsKICAgICAgICAgICAgX2F2YXRhckljb24uSW5pdGlhbGl6ZSh1c2VyLkF2YXRhcik7CiAgICAgICAgICAgIF9zdG9yYWdlID0gU3RvcmFnZS5HZXRTdG9yYWdlKCk7CiAgICAgICAgICAgIHZhciBsb2NhbEdhbWUgPSBVdGlscy5HZXRGcm9tQ29udGV4dDxJTG9jYWxHYW1lPihjb250ZXh0KSBhcyBUZXJyb3I7CiAgICAgICAgICAgIHZhciBiYXNlRGVmZW5jZUxvY2FsR2FtZSA9IFV0aWxzLkdldEZyb21Db250ZXh0PElMb2NhbEdhbWU+KGNvbnRleHQpIGFzIEJhc2VGaWdodDsKICAgICAgICAgICAgdmFyIGlzQmFzZUZpZ2h0ID0gYmFzZURlZmVuY2VMb2NhbEdhbWUgIT0gbnVsbDsKICAgICAgICAgICAgX2lzRG91YmxlTWVkYWxzRXZlbnRBY3RpdmUgPSBnYW1lT3ZlckRhdGEuSXNEb3VibGVNZWRhbHNFdmVudEFjdGl2ZTsKICAgICAgICAgICAgX2JvdHNCb251c0xvZ0luZm8gPSBVdGlscy5HZXRGcm9tQ29udGV4dDxCb251c0xvZ0luZm8+KGNvbnRleHQpOwoKICAgICAgICAgICAgdmFyIGhhc0NoZXN0ID0gZmlnaHRGaW5pc2hJbmZvLkNoZXN0QWxseUlkICE9IEdsb2JhbENvbnN0YW50cy5VTktOT1dOX0lEOwogICAgICAgICAgICBfY2hlc3QuZ2FtZU9iamVjdC5TZXRBY3RpdmUoaGFzQ2hlc3QpOwogICAgICAgICAgICBpZiAoaGFzQ2hlc3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBmaWdodEluZGV4ID0gVXNlckluZm8uR2V0VXNlckluZm8oKS5DYWNoZWRTcGxhc2hTY3JlZW5Db250ZXh0LlNoYXJlZFNwbGFzaFNjcmVlbkluZm8uR2FtZUluZm8uRmlnaHRJbmRleDsKICAgICAgICAgICAgICAgIHZhciBvYmplY3RJZCA9ICJ7MH1fezF9Ii5GKGdhbWVPdmVyRGF0YS5Mb2NhbEdhbWVJZCwgZmlnaHRJbmRleCk7CiAgICAgICAgICAgICAgICBfY2hlc3QuSW5pdChmaWdodEZpbmlzaEluZm8uQ2hlc3RBbGx5SWQsIG9iamVjdElkKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgQm9udXMgYm9udXM7CiAgICAgICAgICAgIGlmICghaXNCYXNlRmlnaHQpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGJvbnVzID0gbG9jYWxHYW1lLlR5cGUuQm9udXNXaW5BbGx5LkZpbmQoaXRlbSA9PiBpdGVtLkRhdGFJc01vbmV5KCkpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgYm9udXMgPSBiYXNlRGVmZW5jZUxvY2FsR2FtZS5UeXBlLkJvbnVzV2luQWxseS5GaW5kKGl0ZW0gPT4gaXRlbS5EYXRhSXNNb25leSgpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKGJvbnVzICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHZhciBtb25leSA9IGJvbnVzLkRhdGFBc01vbmV5KCk7CiAgICAgICAgICAgICAgICBfbW9uZXlUeXBlID0gbW9uZXkuRGF0YS5Nb25leVR5cGU7CiAgICAgICAgICAgICAgICBfbW9uZXlBbW91bnQgPSBtb25leS5EYXRhLk1vbmV5OwogICAgICAgICAgICAgICAgdmFyIGN1cnJlbnRSZXdhcmRNdWx0aXBsaWVyID0gdXNlckluZm8uR2V0Q3VycmVudFJld2FyZE11bHRpcGxpZXIoKTsKICAgICAgICAgICAgICAgIGlmIChjdXJyZW50UmV3YXJkTXVsdGlwbGllciA+IDApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgX21vbmV5QW1vdW50ID0gTWF0aGYuRmxvb3JUb0ludChfbW9uZXlBbW91bnQgKiBjdXJyZW50UmV3YXJkTXVsdGlwbGllcik7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICBTZXRSZXdhcmRJbmZvKCk7CgogICAgICAgICAgICB2YXIgYWNjZXByRGF0YSA9IFV0aWxzLkdldEZyb21Db250ZXh0PEFjY2VwdERhdGE+KGNvbnRleHQpOwogICAgICAgICAgICB2YXIgcGxheWVySWQgPSBhY2NlcHJEYXRhLlBsYXllcklkOwogICAgICAgICAgICB2YXIgZGFtYWdlSW5mbyA9IGdhbWVPdmVyRGF0YS5EYW1hZ2VJbmZvLkZpbmQoaW5mbyA9PiBpbmZvLlBsYXllcklkID09IHBsYXllcklkKTsKICAgICAgICAgICAgdmFyIGFsbHlEYW1hZ2VJbmZvID0gZ2FtZU92ZXJEYXRhLkRhbWFnZUluZm8uRmluZChpbmZvID0+IGluZm8uUGxheWVySWQgPT0gY29vcEluZm8uVXNlcklkKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIF9hbGx5UHJvZmlsZUJ1dHRvbi5Jbml0aWFsaXplKGNvb3BJbmZvLlVzZXJJZCk7CgogICAgICAgICAgICBTZXRBbGx5SWQoY29vcEluZm8pOwoKICAgICAgICAgICAgdmFyIGlzQm9udXMgPSBmYWxzZTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIChkYW1hZ2VJbmZvICE9IG51bGwgJiYgYWxseURhbWFnZUluZm8gIT0gbnVsbCkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGFsbHlEYW1hZ2VQZXJjZW50ID0gR2V0QWxseURhbWFnZVBlcmNlbnQoZ2FtZU92ZXJEYXRhLCBjb29wSW5mby5Jc0hvc3QsIGFsbHlEYW1hZ2VJbmZvLkRhbWFnZSk7CiAgICAgICAgICAgICAgICBfcmVjZWl2ZWREb21pbmF0aW9uUmV3YXJkID0gYWxseURhbWFnZVBlcmNlbnQgPCA1MDsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgX2RhbWFnZUluZm8udGV4dCA9IF9zdG9yYWdlLkdldFBocmFzZSgiVmljdG9yeUNvb3BQcm9maXRMYmwiKS5GKGFsbHlEYW1hZ2VQZXJjZW50KTsKCiAgICAgICAgICAgICAgICBpZiAoX3JlY2VpdmVkRG9taW5hdGlvblJld2FyZCAmJiBfbW9uZXlUeXBlICE9IG51bGwpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgaXNCb251cyA9IHRydWU7CgogICAgICAgICAgICAgICAgICAgIHZhciBtZWRhbHNNdWx0aXBsaWVyID0gX2lzRG91YmxlTWVkYWxzRXZlbnRBY3RpdmUgPyBfc3RvcmFnZS5GaWdodFNldHRpbmdzLkNvb3BFdmVudE11bHRpcGxpZXIgOiAxZjsKICAgICAgICAgICAgICAgICAgICB2YXIgZG9taW5hdGlvblJld2FyZFZhbHVlID0KICAgICAgICAgICAgICAgICAgICAgICAgTWF0aGYuRmxvb3JUb0ludChfbW9uZXlBbW91bnQgKiBtZWRhbHNNdWx0aXBsaWVyICogX3N0b3JhZ2UuVGVycm9yc1NldHRpbmdzLkRvbWluYXRpb25Cb251cyAvIDEwMCk7CiAgICAgICAgICAgICAgICAgICAgX2RvbWluYXRpb25SZXdhcmRCb251cy50ZXh0ID0gX3N0b3JhZ2UuR2V0UGhyYXNlKCJDb29wVmljdG9yeV9Cb251c1RleHQiKQogICAgICAgICAgICAgICAgICAgICAgICAuRihkb21pbmF0aW9uUmV3YXJkVmFsdWUsIF9tb25leVR5cGUuQ29kZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBfZGFtYWdlSW5mby50ZXh0ID0gX3N0b3JhZ2UuR2V0UGhyYXNlKCJWaWN0b3J5Q29vcFByb2ZpdExibCIpLkYoMCk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEFuaW1hdG9yID0gR2V0Q29tcG9uZW50PEFuaW1hdG9yPigpOwogICAgICAgICAgICBpZiAoQW5pbWF0b3IgIT0gbnVsbCkgQW5pbWF0b3IuU2V0Qm9vbChUZXJyb3JSZXdhcmRzU2NyZWVuLklzQm9udXNBbmltLCBpc0JvbnVzKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIF9saWtlQnV0dG9uc0FuaW1hdG9yLlNldEJvb2woVGVycm9yUmV3YXJkc1NjcmVlbi5Jc0F3ZXNvbWVBbmltLCAhaXNCb251cyk7CiAgICAgICAgICAgIHZhciB1c2VyTW9uZXlDYWNoZSA9IFVzZXJJbmZvLkdldFVzZXJJbmZvKCkuTW9uZXlDYWNoZTsKICAgICAgICAgICAgdmFyIHRvdGFsTW9uZXkgPSB1c2VyTW9uZXlDYWNoZS5HZXRNb25leShfbW9uZXlUeXBlLkNvZGUuVG9TdHJpbmcoKSkgKyBHZXRUb3RhbFJld2FyZGVkTW9uZXkoKTsKICAgICAgICAgICAgX3RvdGFsQ291bnRNZWRhbHMudGV4dCA9IHRvdGFsTW9uZXkuVG9TdHJpbmcoKTsKCiAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dDxBY3Rpb248UmVuZGVyVGV4dHVyZT4+KEdhbWVwbGF5SW1hZ2VFZmZlY3RzLkVWRU5UX0dFVF9URVhUVVJFLCBPbkdldFRleHR1cmUpOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSB2b2lkIFNldFJld2FyZEluZm8oKQogICAgICAgIHsKICAgICAgICAgICAgU2V0UmV3YXJkc1RpdGxlKCk7CiAgICAgICAgICAgIF9yZXdhcmRQaWN0dXJlLnNwcml0ZSA9IF9tb25leVR5cGUuTG9hZEJpZ0ljb25TcHJpdGUoKTsKICAgICAgICAgICAgX3Jld2FyZExhYmVsLnRleHQgPSAiK3swfSIuRihfbW9uZXlBbW91bnQpOwoKICAgICAgICAgICAgSW5pdGlhbGl6ZUJvbnVzUmV3YXJkKG51bGwsIF9pc0RvdWJsZU1lZGFsc0V2ZW50QWN0aXZlKTsKICAgICAgICAgICAgSW5pdGlhbGl6ZUJvdHNCb251c1Jld2FyZCgpOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSB2b2lkIEluaXRpYWxpemVCb251c1Jld2FyZChNb25leSByZXdhcmQsIGJvb2wgaXNEb3VibGVNZWRhbHNFdmVudEFjdGl2ZSkKICAgICAgICB7CiAgICAgICAgICAgIF9ib251c1Jld2FyZC5TZXRBY3RpdmUoaXNEb3VibGVNZWRhbHNFdmVudEFjdGl2ZSk7CgogICAgICAgICAgICBpZiAoIWlzRG91YmxlTWVkYWxzRXZlbnRBY3RpdmUpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgdmFyIGFkZE1lZGFsc01vZGlmaWVyID0gX3N0b3JhZ2UuRmlnaHRTZXR0aW5ncy5Db29wRXZlbnRNdWx0aXBsaWVyIC0gMTsKICAgICAgICAgICAgaWYgKF9ib251c01vZGlmaWVyICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9ib251c01vZGlmaWVyLlVwZGF0ZVBocmFzZShfc3RvcmFnZS5GaWdodFNldHRpbmdzLkNvb3BFdmVudE11bHRpcGxpZXIpOwogICAgICAgICAgICB9CgogICAgICAgICAgICB2YXIgbW9uZXlUeXBlID0gX21vbmV5VHlwZTsKICAgICAgICAgICAgdmFyIG1vbmV5QW1vdW50ID0gX21vbmV5QW1vdW50OwogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKHJld2FyZCAhPSBudWxsKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBtb25leVR5cGUgPSByZXdhcmQuRGF0YS5Nb25leVR5cGU7CiAgICAgICAgICAgICAgICBtb25leUFtb3VudCA9IHJld2FyZC5EYXRhLk1vbmV5OwogICAgICAgICAgICB9CiAgICAgICAgICAgIAogICAgICAgICAgICBfYm9udXNSZXdhcmRQaWN0dXJlLnNwcml0ZSA9IG1vbmV5VHlwZS5Mb2FkQmlnSWNvblNwcml0ZSgpOwogICAgICAgICAgICBfYm9udXNSZXdhcmRMYWJlbC50ZXh0ID0gIit7MH0iLkYobW9uZXlBbW91bnQgKiBhZGRNZWRhbHNNb2RpZmllcik7CiAgICAgICAgfQogICAgICAgIAogICAgICAgIHByaXZhdGUgdm9pZCBJbml0aWFsaXplQm90c0JvbnVzUmV3YXJkKCkKICAgICAgICB7CiAgICAgICAgICAgIF9ib3RzQm9udXNSZXdhcmQuU2V0QWN0aXZlKGZhbHNlKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGlmIChfYm90c0JvbnVzTG9nSW5mbyA9PSBudWxsKSByZXR1cm47CiAgICAgICAgICAgIHZhciBtb25leUJvbnVzID0gX2JvdHNCb251c0xvZ0luZm8uSXRlbXMuRmlyc3RPckRlZmF1bHQoaXRlbSA9PiBpdGVtLlR5cGUgPT0gQm9udXNMb2dJdGVtLlR5cGVFLk1vbmV5KSBhcyBCb251c01vbmV5SW5mbzsKICAgICAgICAgICAgaWYgKG1vbmV5Qm9udXMgPT0gbnVsbCkgcmV0dXJuOwogICAgICAgICAgICAKICAgICAgICAgICAgX2JvdHNCb251c1Jld2FyZC5TZXRBY3RpdmUodHJ1ZSk7CiAgICAgICAgICAgIF9ib3RzQm9udXNSZXdhcmRQaWN0dXJlLnNwcml0ZSA9IG1vbmV5Qm9udXMuTW9uZXlUeXBlLkxvYWRCaWdJY29uU3ByaXRlKCk7CiAgICAgICAgICAgIF9ib3RzQm9udXNSZXdhcmRMYWJlbC50ZXh0ID0gbW9uZXlCb251cy5WYWx1ZS5Ub1N0cmluZygpOwogICAgICAgICAgICAKICAgICAgICAgICAgdmFyIHRvdGFsTW9uZXkgPSBQdmVQdnBSZXdhcmRTY3JlZW4uQ2FsY3VsYXRlRmluYWxVc2VyTW9uZXkoVXNlckluZm8uR2V0VXNlckluZm8oKSwgbW9uZXlCb251cywgMWYpOwogICAgICAgICAgICBfYm90c0JvbnVzUmV3YXJkVG8=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pc0JvdCkKICAgICAgICAgICAgewogICAgICAgICAgICB2YXIgdXNlckRhdGEgPSBuZXcgQW5vdGhlclBsYXllclByb2ZpbGVEYXRhKHJhd0RhdGEpOwogICAgICAgICAgICB1c2VyRGF0YS5TZXRJZChpbnQuUGFyc2UoX3VzZXJJRCkpOwogICAgICAgICAgICB2YXIgY29udGV4dCA9IG5ldyBBbm90aGVyUGxheWVyUHJvZmlsZUNvbnRleHQoUGFnZVR5cGUuTWFpbiwgdXNlckRhdGEsIGZhbHNlKTsKICAgICAgICAgICAgVUlNYW5hZ2VyLk9wZW5TY3JlZW4oU2NyZWVuVHlwZS5Bbm90aGVyUGxheWVyUHJvZmlsZSwgVXRpbHMuV3JhcFRvQ29udGV4dChjb250ZXh0KSk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9kaXNhYmxlID0gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Vycm9yKCJQbGF5ZXIgaXMgYm90Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9lbGFwc2VkVGltZSA9IDAuMGY7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlc2F0dXJhdGlvbiA9IDAuMGY7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbHVlLkFkZFBhcmFtKHRoaXMpLkNMb2dSZWQoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRGVzYXR1cmF0aW9uID0gMC4wZjsKICAgICAgICAgICAgX2VsYXBzZWRUaW1lID0gMC4wZjsKICAgICAgICAgICAgX2Rpc2FibGUgPSB0cnVlOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlc2F0dXJhdGlvbiA9IDAuMGY7CiAgICAgICAgICAgICAgICBfZWxhcHNlZFRpbWUgPSAwLjBmOwogICAgICAgICAgICAgICAgX2Rpc2FibGUgPSB0cnVlOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlc2F0dXJhdGlvbiA9IDAuMGY7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZhbHVlIDwgMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXNldFw+</last-search>
+      <last-search encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXNldFw+</last-pattern>
+      <last-pattern encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
-        <entry>weap</entry>
-        <entry encoding="base64">XDxfbW9uZXlSZXdhcmRzXD4=</entry>
         <entry>max</entry>
         <entry>predict</entry>
         <entry>Bot</entry>
@@ -1235,6 +1242,9 @@
         <entry>laser</entry>
         <entry encoding="base64">XDxfYWltaW5nTGFzZXJcPg==</entry>
         <entry encoding="base64">XDxSZXNldFw+</entry>
+        <entry encoding="base64">XDxEZXNhdHVyYXRpb25cPg==</entry>
+        <entry>gray</entry>
+        <entry encoding="base64">XDxHcmF5c2NhbGVPbkFpbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
