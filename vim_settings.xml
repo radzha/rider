@@ -244,6 +244,13 @@
         <mark key="^" line="197" column="47" />
         <mark key="." line="209" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1563190856850">
+        <mark key="'" line="25" column="12" />
+        <mark key="[" line="188" column="73" />
+        <mark key="]" line="188" column="78" />
+        <mark key="." line="188" column="78" />
+        <mark key="^" line="188" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1562918941636">
         <mark key="'" line="250" column="65" />
         <mark key="[" line="250" column="112" />
@@ -260,7 +267,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Connector.cs" timestamp="1559653319029">
         <mark key="'" line="97" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563188499251">
+      <file name="/Dummy.txt" timestamp="1563189136503">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1563188255873">
@@ -655,7 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="251" column="12" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="60" column="21" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" />
       <jump line="159" column="23" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
       <jump line="160" column="68" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
@@ -755,61 +761,62 @@
       <jump line="96" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelController.cs" />
       <jump line="219" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
       <jump line="56" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/FovScalerByAspectRatio.cs" />
+      <jump line="25" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UpdateFov</text>
+        <text>LastResultsShowing</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>UpdateFov</text>
+        <text>LastResultsShowing</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPblByZVJlbmRlclw+</text>
+        <text encoding="base64">XDxTaG93QmF0dGxlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZTxib29sLCBmbG9hdCwgV2VhcG9uS2luZHM+KFBsYXllckNvbnRyb2xsZXIuRVZFTlRfU05JUEVSX1NDT1BFX0NIQU5HRSwgT25ab29tKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG91Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuQWRkUGFyYW0obW9kZWwudHJhbnNmb3JtLmxvY2FsUG9zaXRpb24uVG9TdHJpbmcoIiIpKS5DTG9nKG1vZGVsLnRyYW5zZm9ybS5wb3NpdGlvbi5Ub1N0cmluZygiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kZWwuQWRkUGFyYW0obW9kZWwudHJhbnNmb3JtLmxvY2FsUG9zaXRpb24uVG9TdHJpbmcoIiIpKS5DTG9nKG1vZGVsLnRyYW5zZm9ybS5wb3NpdGlvbi5Ub1N0cmluZygiIikpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIFByaW50KFRyYW5zZm9ybSBtb2RlbCkK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyB2b2lkIFByaW50KFRyYW5zZm9ybSBtb2RlbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFwcGx5Ii5BZGRQYXJhbShfY2FtZXJhLm5hbWUpLkNMb2coc2V0dGluZ3MuRm92KTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImFwcGx5Ii5BZGRQYXJhbShfY2FtZXJhLm5hbWUpLkNMb2coc2V0dGluZ3MuRm92KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPblByZVJlbmRlclw+</last-search>
+      <last-search encoding="base64">XDxTaG93QmF0dGxlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPblByZVJlbmRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxTaG93QmF0dGxlXD4=</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
@@ -817,8 +824,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfaXNBaW1pbmdTdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxfaXNBaW1pbmdQcmVzc2VkXD4=</entry>
         <entry>IsAim</entry>
         <entry>onresp</entry>
         <entry>aimingpres</entry>
@@ -837,6 +842,8 @@
         <entry>apply</entry>
         <entry>clog</entry>
         <entry encoding="base64">XDxPblByZVJlbmRlclw+</entry>
+        <entry>button</entry>
+        <entry encoding="base64">XDxTaG93QmF0dGxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
