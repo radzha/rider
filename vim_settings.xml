@@ -211,6 +211,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileView.cs" timestamp="1562859065968">
         <mark key="'" line="29" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" timestamp="1563194643504" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponData.cs" timestamp="1562770920744">
         <mark key="'" line="13" column="28" />
       </file>
@@ -765,7 +766,7 @@
         <text>LastResultsShowing</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTaG93QmF0dGxlXD4=</text>
+        <text>paus</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZTxib29sLCBmbG9hdCwgV2VhcG9uS2luZHM+KFBsYXllckNvbnRyb2xsZXIuRVZFTlRfU05JUEVSX1NDT1BFX0NIQU5HRSwgT25ab29tKSwK</text>
@@ -805,18 +806,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTaG93QmF0dGxlXD4=</last-search>
+      <last-search>paus</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTaG93QmF0dGxlXD4=</last-pattern>
+      <last-pattern>paus</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute>Hp</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>IsAim</entry>
-        <entry>onresp</entry>
         <entry>aimingpres</entry>
         <entry>onchose</entry>
         <entry>chosen</entry>
@@ -835,6 +834,8 @@
         <entry encoding="base64">XDxPblByZVJlbmRlclw+</entry>
         <entry>button</entry>
         <entry encoding="base64">XDxTaG93QmF0dGxlXD4=</entry>
+        <entry>appl</entry>
+        <entry>paus</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
