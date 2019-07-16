@@ -28,8 +28,8 @@
         <mark key="." line="57" column="55" />
         <mark key="^" line="56" column="70" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1563287328288">
-        <mark key="'" line="47" column="36" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" timestamp="1563288967798">
+        <mark key="'" line="52" column="36" />
         <mark key="[" line="265" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/DialogScreen.cs" timestamp="1562933455826">
@@ -541,9 +541,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" timestamp="1562837478847">
         <mark key="'" line="55" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1563288832090">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1563290529488">
         <mark key="'" line="614" column="42" />
-        <mark key="[" line="612" column="0" />
+        <mark key="[" line="612" column="65" />
         <mark key="]" line="612" column="0" />
         <mark key="." line="612" column="0" />
         <mark key="^" line="614" column="54" />
@@ -715,9 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
-      <jump line="278" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
-      <jump line="303" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
       <jump line="322" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
       <jump line="358" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
       <jump line="367" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
@@ -815,6 +812,9 @@
       <jump line="162" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
       <jump line="1579" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
       <jump line="614" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
+      <jump line="25" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
+      <jump line="355" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
+      <jump line="52" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -827,7 +827,7 @@
         <text>botsCount</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxraWxsZWRCb3RzXD4=</text>
+        <text encoding="base64">XDxLaWxsZWRCb3RzV2l0aFJld2FyZHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXllckRhdGEuQWRkKCJraWxsZWRCb3RzIiwgSnNvblV0aWxzLlRvRGljdGlvbmFyeShzdGF0aXN0aWNzLktpbGxlZEJvdHMpKTsK</text>
@@ -867,19 +867,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxraWxsZWRCb3RzXD4=</last-search>
+      <last-search encoding="base64">XDxLaWxsZWRCb3RzV2l0aFJld2FyZHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxraWxsZWRCb3RzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxLaWxsZWRCb3RzV2l0aFJld2FyZHNcPg==</last-pattern>
       <last-replace>Mastery</last-replace>
-      <last-substitute>Hp</last-substitute>
+      <last-substitute encoding="base64">XDxLaWxsc0NvdW50XD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZW5hYmxlZFw+</entry>
-        <entry>Upda</entry>
-        <entry>_info</entry>
         <entry encoding="base64">XDxfaW5mb1w+</entry>
         <entry>close</entry>
         <entry encoding="base64">XDxfcmVxdWVzdHNRdWV1ZVw+</entry>
@@ -897,6 +894,9 @@
         <entry encoding="base64">XDxfa2lsbGVkQm90c1w+</entry>
         <entry encoding="base64">XDxLaWxsZWRCb3RzXD4=</entry>
         <entry encoding="base64">XDxraWxsZWRCb3RzXD4=</entry>
+        <entry>killescount</entry>
+        <entry encoding="base64">XDxLaWxsc0NvdW50XD4=</entry>
+        <entry encoding="base64">XDxLaWxsZWRCb3RzV2l0aFJld2FyZHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
