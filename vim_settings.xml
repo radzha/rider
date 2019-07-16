@@ -126,8 +126,8 @@
         <mark key="." line="195" column="0" />
         <mark key="^" line="60" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1562845933908">
-        <mark key="'" line="310" column="19" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1563271738590">
+        <mark key="'" line="97" column="29" />
         <mark key="[" line="348" column="92" />
         <mark key="]" line="352" column="47" />
         <mark key="^" line="352" column="47" />
@@ -405,8 +405,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A875D0F2-A5C4-4098-A5BC-22B856177090/fa/dbce5004/Camera.cs" timestamp="1562944890131">
         <mark key="'" line="706" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1561121027380">
-        <mark key="'" line="2810" column="23" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1563272180514">
+        <mark key="'" line="2851" column="40" />
+        <mark key="[" line="2851" column="26" />
+        <mark key="]" line="2851" column="43" />
+        <mark key="." line="2851" column="43" />
+        <mark key="^" line="2851" column="43" />
       </file>
       <file name="/Game.cs" timestamp="1558536140228">
         <mark key="'" line="747" column="34" />
@@ -523,11 +527,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" timestamp="1562332774596">
         <mark key="'" line="71" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1563269192528">
-        <mark key="[" line="59" column="13" />
-        <mark key="]" line="60" column="45" />
-        <mark key="^" line="60" column="45" />
-        <mark key="." line="60" column="45" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1563272541679">
+        <mark key="[" line="109" column="63" />
+        <mark key="]" line="109" column="72" />
+        <mark key="^" line="109" column="72" />
+        <mark key="." line="109" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/GlobePoints.cs" timestamp="1561458510323">
         <mark key="'" line="95" column="22" />
@@ -623,8 +627,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
-      <jump line="97" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
       <jump line="99" column="103" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
       <jump line="100" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/BotModelLoader.cs" />
       <jump line="8" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/FovScalerByAspectRatio.cs" />
@@ -723,22 +725,24 @@
       <jump line="29" column="131" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A875D0F2-A5C4-4098-A5BC-22B856177090/19/4f6e97e9/Mathf.cs" />
       <jump line="14" column="60" filename="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A875D0F2-A5C4-4098-A5BC-22B856177090/d8/1e54ad2e/MathfInternal.cs" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
+      <jump line="97" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
+      <jump line="2851" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scoresTasksRounded</text>
+        <text>text ? &quot;lime&quot; : &quot;red&quot;</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>scoresTasksRounded</text>
+        <text>text ? &quot;lime&quot; : &quot;red&quot;</text>
       </register>
       <register name="/" type="4">
         <text>tourn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNjb3Jlc1N1bSA9IHNjb3JlTGluZXMgKyBzY29yZVRhc2tzOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgQ0xvZ0Jvb2wodGhpcyBib29sIHRleHQsIG9iamVjdCBhZGRpdGlvbiA9IG51bGwsIGJvb2wgZGVidWcgPSB0cnVlKQogICAgICAgIHsKICAgICAgICAgICAgdGV4dC5Db2xvckxvZyh0ZXh0ID8gImxpbWUiIDogInJlZCIsIGRlYnVnLCBhZGRpdGlvbik7CiAgICAgICAgfQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2NvcmVUYXNrcy5BZGRQYXJhbSgiLT4iKS5DTG9nKHNjb3Jlc1Rhc2tzUm91bmRlZCk7Cg==</text>
