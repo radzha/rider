@@ -37,6 +37,9 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="ctrl meta alt close_bracket" />
+  </action>
   <action id="ParameterInfo" />
   <action id="RunDashboard.Debug" />
   <action id="TriggerPauseInUnityEditor">
