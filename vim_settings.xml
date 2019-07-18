@@ -337,7 +337,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Pvp/PvpController.cs" timestamp="1563197666582">
         <mark key="'" line="83" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563377371917">
+      <file name="/Dummy.txt" timestamp="1563440133212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1563188255873">
@@ -570,6 +570,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Tasks/TaskListItem.cs" timestamp="1562671255344">
         <mark key="'" line="131" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" timestamp="1563441770082">
+        <mark key="'" line="147" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/TerrorChestRewardItem.cs" timestamp="1562837478847">
         <mark key="'" line="55" column="12" />
       </file>
@@ -771,10 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="244" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="338" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" />
-      <jump line="225" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="375" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
       <jump line="71" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
       <jump line="325" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
       <jump line="329" column="118" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
@@ -871,6 +870,10 @@
       <jump line="103" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonShower.cs" />
       <jump line="254" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonsController.cs" />
       <jump line="28" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOfferInfo.cs" />
+      <jump line="23" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" />
+      <jump line="31" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" />
+      <jump line="53" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" />
+      <jump line="147" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -883,7 +886,7 @@
         <text>xOffer</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdGFydFRpbWVcPg==</text>
+        <text encoding="base64">XDxTZWxlY3RQcmlvcml0eVRhcmdldENoYW5jZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzTmV3Q29tcGFyZVJlc3VsdCA9IHkuSXNOZXcuQ29tcGFyZVRvKHguSXNOZXcpOwogICAgICAgICAgICBpZiAoaXNOZXdDb21wYXJlUmVzdWx0ICE9IDApIHJldHVybiBpc05ld0NvbXBhcmVSZXN1bHQ7CgogICAgICAgICAgICB2YXIgeE9mZmVyID0gVXRpbHMuR2V0RnJvbUNvbnRleHQ8U3BlY2lhbE9mZmVySW5mbz4oeC5Db250ZXh0KTsKICAgICAgICAgICAgdmFyIHlPZmZlciA9IFV0aWxzLkdldEZyb21Db250ZXh0PFNwZWNpYWxPZmZlckluZm8+KHkuQ29udGV4dCk7Cg==</text>
@@ -923,9 +926,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTdGFydFRpbWVcPg==</last-search>
+      <last-search encoding="base64">XDxTZWxlY3RQcmlvcml0eVRhcmdldENoYW5jZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdGFydFRpbWVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxTZWxlY3RQcmlvcml0eVRhcmdldENoYW5jZVw+</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute encoding="base64">XDxLaWxsc0NvdW50XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -933,9 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbGFzdFBvc2l0aW9uXD4=</entry>
-        <entry encoding="base64">XDxfb3BlbmVkXD4=</entry>
-        <entry>forced</entry>
         <entry encoding="base64">XDxKdW1wVG9Qb3NpdGlvblw+</entry>
         <entry>clog</entry>
         <entry>battle</entry>
@@ -953,6 +953,9 @@
         <entry>New</entry>
         <entry encoding="base64">XDxfb2ZmZXJDb21wYXJlclw+</entry>
         <entry encoding="base64">XDxTdGFydFRpbWVcPg==</entry>
+        <entry>prior</entry>
+        <entry encoding="base64">XDxQUklPUklUWV9UQVJHRVRcPg==</entry>
+        <entry encoding="base64">XDxTZWxlY3RQcmlvcml0eVRhcmdldENoYW5jZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
