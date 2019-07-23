@@ -81,8 +81,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/HoloFlagController.cs" timestamp="1558534386640">
         <mark key="'" line="24" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1563811390289">
-        <mark key="'" line="281" column="38" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1563876170337">
+        <mark key="'" line="199" column="61" />
         <mark key="[" line="123" column="59" />
         <mark key="]" line="123" column="69" />
         <mark key="." line="123" column="69" />
@@ -415,11 +415,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1563811360047">
-        <mark key="'" line="292" column="30" />
-        <mark key="[" line="276" column="0" />
-        <mark key="]" line="285" column="0" />
-        <mark key="." line="276" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1563876189609">
+        <mark key="'" line="293" column="30" />
+        <mark key="[" line="289" column="37" />
+        <mark key="]" line="289" column="44" />
+        <mark key="." line="289" column="44" />
+        <mark key="^" line="289" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterHangarModelLoader.cs" timestamp="1562852782957">
         <mark key="[" line="87" column="0" />
@@ -615,12 +616,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlayerData.cs" timestamp="1562332774596">
         <mark key="'" line="71" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1563811385145">
-        <mark key="'" line="92" column="63" />
-        <mark key="[" line="83" column="66" />
-        <mark key="]" line="84" column="81" />
-        <mark key="^" line="84" column="81" />
-        <mark key="." line="84" column="81" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1563876175893">
+        <mark key="'" line="93" column="63" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/GlobePoints.cs" timestamp="1561458510323">
         <mark key="'" line="95" column="22" />
@@ -657,6 +657,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/ClientConnector.cs" timestamp="1559654903295">
         <mark key="'" line="223" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" timestamp="1563874450484">
+        <mark key="'" line="117" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTable.cs" timestamp="1563369286752">
         <mark key="'" line="209" column="26" />
@@ -722,9 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" />
-      <jump line="30" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOfferInfo.cs" />
-      <jump line="3" column="6" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOfferInfo.cs" />
       <jump line="34" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/SpecialOffers.cs" />
       <jump line="93" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonShower.cs" />
       <jump line="25" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/OfferButtonShower.cs" />
@@ -751,7 +751,6 @@
       <jump line="283" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
       <jump line="58" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="195" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="199" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="113" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="115" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="189" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
@@ -822,61 +821,65 @@
       <jump line="41" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/ClientPool.cs" />
       <jump line="112" column="68" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/SpawnableObjects.cs" />
       <jump line="38" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/SpawnableObjects.cs" />
+      <jump line="65" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
+      <jump line="105" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
+      <jump line="117" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
+      <jump line="199" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bz0+by4=</text>
+        <text>helicopterAttackedLines</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bz0+by4=</text>
+        <text>helicopterAttackedLines</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPblVuc3Bhd25BbGxcPg==</text>
+        <text>place</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">byA9PiBvLkFzc2V0SWQgKyAiIC8gIiArIG8uQ3VzdG9tRGF0YVR5cGUgKyBvLlBhdGg=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgImdldCBzY29yZXMiLkNMb2coImF0dGFja2VkIiwgaGVsaWNvcHRlckF0dGFja2VkTGluZXMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9vYmplY3RzLkNvdW50LkNMb2coaW5kZXgpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9vYmplY3RzLkNvdW50IDwgaW5kZXgpCg==</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9vYmplY3RzLkNvdW50LkNMb2coaW5kZXgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9vYmplY3RzLkNvdW50IDwgaW5kZXgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXNlcm5hbWUuQWRkUGFyYW0ocGwuSWQpLkFkZFBhcmFtKHBsLkJvdElkKS5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPblVuc3Bhd25BbGxcPg==</last-search>
+      <last-search>place</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPblVuc3Bhd25BbGxcPg==</last-pattern>
+      <last-pattern>place</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute encoding="base64">XDxLaWxsc0NvdW50XD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -884,8 +887,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxraWxsZWRCb3RzV2l0aFJld2FyZHNcPg==</entry>
-        <entry>name</entry>
         <entry encoding="base64">XDxTZXRBY3RpdmVcPg==</entry>
         <entry encoding="base64">XDxHZXRMYWJlbFw+</entry>
         <entry>compa</entry>
@@ -904,6 +905,8 @@
         <entry encoding="base64">XDxDYWxjdWxhdGVTY29yZXNcPg==</entry>
         <entry encoding="base64">XDxCYXNlSW5mb1w+</entry>
         <entry encoding="base64">XDxPblVuc3Bhd25BbGxcPg==</entry>
+        <entry>tourn</entry>
+        <entry>place</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
