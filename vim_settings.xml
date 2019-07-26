@@ -227,12 +227,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareMedkitPopup.cs" timestamp="1563277502459">
         <mark key="'" line="59" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/LightingEffectSpawner.cs" timestamp="1563963513360">
-        <mark key="'" line="55" column="83" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="55" column="86" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/LightingEffectSpawner.cs" timestamp="1564129665383">
+        <mark key="'" line="64" column="83" />
+        <mark key="[" line="54" column="117" />
+        <mark key="]" line="54" column="120" />
+        <mark key="." line="54" column="120" />
+        <mark key="^" line="54" column="120" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ItemPowerCalculator.cs" timestamp="1561049041724">
         <mark key="'" line="38" column="101" />
@@ -987,50 +987,50 @@
       <jump line="69" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentGlobeView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBY3RpdmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG11bHRpcGxpZXIgPSAoYm9udXNNb25leUluZm8uTW9uZXlUeXBlLlNjYWxhYmxlICYmIGhhc011bHRpcGxpZXIgPyBjdXJyZW50UmV3YXJkTXVsdGlwbGllciA6IDEpICogIGFkTXVsdGlwbGllcjsK</text>
+      <register name="0" type="4">
+        <text>.AddParam(&quot;owner&quot;, data.OwnerId).AddParam(&quot;target&quot;, data.TargetId)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkFkZFBhcmFtKCJtdWx0IiwgY3VycmVudFJld2FyZE11bHRpcGxpZXIpLkNMb2coX21vbmV5QW1vdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhbW91bnQiLkFkZFBhcmFtKG1vbmV5LkRhdGEuTW9uZXkpLkFkZFBhcmFtKG1vbmV5LkRhdGEuTW9uZXlUeXBlLlRpdGxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkFkZFBhcmFtKCJtdWx0IiwgY3VycmVudFJld2FyZE11bHRpcGxpZXIpLkNMb2coX21vbmV5QW1vdW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYW1vdW50Ii5BZGRQYXJhbShtb25leS5EYXRhLk1vbmV5KS5BZGRQYXJhbShtb25leS5EYXRhLk1vbmV5VHlwZS5UaXRsZSkKICAgICAgICAgICAgICAgICAgICAgICAgLkFkZFBhcmFtKCJtdWx0IiwgY3VycmVudFJld2FyZE11bHRpcGxpZXIpLkNMb2coX21vbmV5QW1vdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhbW91bnQiLkFkZFBhcmFtKG1vbmV5LkRhdGEuTW9uZXkpLkFkZFBhcmFtKG1vbmV5LkRhdGEuTW9uZXlUeXBlLlRpdGxlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG11bHRpcGxpZXIgPSAmJiBhZE11bHRpcGxpZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiYW1vdW50Ii5BZGRQYXJhbShtb25leS5EYXRhLk1vbmV5KS5BZGRQYXJhbShtb25leS5EYXRhLk1vbmV5VHlwZS5UaXRsZSkKICAgICAgICAgICAgICAgICAgICAgICAgLkFkZFBhcmFtKCJtdWx0IiwgY3VycmVudFJld2FyZE11bHRpcGxpZXIpLkNMb2coX21vbmV5QW1vdW50KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG11bHRpcGxpZXIgPSAoYm9udXNNb25leUluZm8uTW9uZXlUeXBlLlNjYWxhYmxlICYmIGhhc011bHRpcGxpZXIgPyBjdXJyZW50UmV3YXJkTXVsdGlwbGllciA6IDEpICogIGFkTXVsdGlwbGllcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG11bHRpcGxpZXIgPSAmJiBhZE11bHRpcGxpZXI7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG11bHRpcGxpZXIgPSAoYm9udXNNb25leUluZm8uTW9uZXlUeXBlLlNjYWxhYmxlICYmIGhhc011bHRpcGxpZXIgPyBjdXJyZW50UmV3YXJkTXVsdGlwbGllciA6IDEpICogIGFkTXVsdGlwbGllcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhbW91bnQiLkFkZFBhcmFtKF9tb25leUFtb3VudCkuQWRkUGFyYW0obW9uZXkuRGF0YS5Nb25leVR5cGUuVGl0bGUpLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG11bHRpcGxpZXIgPSAoYm9udXNNb25leUluZm8uTW9uZXlUeXBlLlNjYWxhYmxlICYmIGhhc011bHRpcGxpZXIgPyBjdXJyZW50UmV3YXJkTXVsdGlwbGllciA6IDEpICogIGFkTXVsdGlwbGllcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuQWRkUGFyYW0oIm93bmVyIiwgb3duZXIgIT0gbnVsbCA/IG93bmVyLklkICsgIi8iICsgb3duZXIuTmFtZSA6IHN0cmluZy5FbXB0eSkuTG9nKGRhdGEuVG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhbW91bnQiLkFkZFBhcmFtKF9tb25leUFtb3VudCkuQWRkUGFyYW0obW9uZXkuRGF0YS5Nb25leVR5cGUuVGl0bGUpLkNMb2coKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
