@@ -150,8 +150,8 @@
       <file name="/WeaponUpgradeScreen.cs" timestamp="1560520924466">
         <mark key="'" line="160" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" timestamp="1564133403428">
-        <mark key="'" line="97" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" timestamp="1564133476675">
+        <mark key="'" line="80" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileView.cs" timestamp="1562859065968">
         <mark key="'" line="29" column="25" />
@@ -232,11 +232,9 @@
         <mark key="'" line="59" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/LightingEffectSpawner.cs" timestamp="1564132517304">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="114" column="13" />
-        <mark key="]" line="115" column="11" />
-        <mark key="." line="115" column="11" />
-        <mark key="^" line="115" column="11" />
+        <mark key="]" line="52" column="11" />
+        <mark key="." line="52" column="11" />
+        <mark key="^" line="52" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ItemPowerCalculator.cs" timestamp="1561049041724">
         <mark key="'" line="38" column="101" />
@@ -345,7 +343,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Pvp/PvpController.cs" timestamp="1563197666582">
         <mark key="'" line="83" column="77" />
       </file>
-      <file name="/Dummy.txt" timestamp="1564132542428">
+      <file name="/Dummy.txt" timestamp="1564134164592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenModelView.cs" timestamp="1563188255873">
@@ -856,12 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="560" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="92" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/BotRewardLabelsManager.cs" />
-      <jump line="84" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="173" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="54" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="261" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="218" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/PlayerStatistics.cs" />
       <jump line="37" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
@@ -956,6 +948,12 @@
       <jump line="2990" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
       <jump line="60" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/LightingEffectSpawner.cs" />
       <jump line="97" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="93" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="115" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="135" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="145" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="23" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
+      <jump line="80" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ImageEffects/GameplayImageEffects.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -968,7 +966,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPbkhwXD4=</text>
+        <text encoding="base64">XDxEZXNhdHVyYXRpb25cPg==</text>
       </register>
       <register name="0" type="4">
         <text>.AddParam(&quot;owner&quot;, data.OwnerId).AddParam(&quot;target&quot;, data.TargetId)</text>
@@ -1008,17 +1006,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxPbkhwXD4=</last-search>
+      <last-search encoding="base64">XDxEZXNhdHVyYXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPbkhwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEZXNhdHVyYXRpb25cPg==</last-pattern>
       <last-replace>Mastery</last-replace>
-      <last-substitute encoding="base64">XDxLaWxsc0NvdW50XD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-substitute encoding="base64">XDxPbkhwXD4=</last-substitute>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isdev</entry>
         <entry encoding="base64">XDxFVkVOVF9GTE9XX1NDUkVFTlNcPg==</entry>
         <entry encoding="base64">XDxGbG93U2NyZWVuc0ludGVybmFsXD4=</entry>
         <entry encoding="base64">XDxfaXNSdW5uaW5nXD4=</entry>
@@ -1038,6 +1035,7 @@
         <entry encoding="base64">XDxJc0V4ZWN1dGlvbmVyQWJpbGl0eURhbWFnZVw+</entry>
         <entry>hitimp</entry>
         <entry encoding="base64">XDxPbkhwXD4=</entry>
+        <entry encoding="base64">XDxEZXNhdHVyYXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
