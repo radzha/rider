@@ -18,8 +18,8 @@
       <file name="$USER_HOME$/Documents/svn/release/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1560510932068">
         <mark key="'" line="747" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" timestamp="1563809004237">
-        <mark key="'" line="48" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" timestamp="1564399995009">
+        <mark key="'" line="165" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/FightFinishInfo.cs" timestamp="1563274840210">
         <mark key="'" line="67" column="84" />
@@ -261,6 +261,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" timestamp="1563279137136">
         <mark key="'" line="111" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/AutoWalls.cs" timestamp="1564401248042">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="110" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/CoopLikeHistoryRowItem.cs" timestamp="1559551471345">
         <mark key="'" line="49" column="64" />
       </file>
@@ -334,6 +338,12 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemViewBuilder.cs" timestamp="1561647857025">
         <mark key="'" line="54" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" timestamp="1564395305652">
+        <mark key="'" line="121" column="22" />
+        <mark key="[" line="701" column="0" />
+        <mark key="]" line="701" column="0" />
+        <mark key="." line="701" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Pvp/PvpController.cs" timestamp="1563197666582">
         <mark key="'" line="83" column="77" />
@@ -542,8 +552,12 @@
       <file name="/Game.cs" timestamp="1558536140228">
         <mark key="'" line="747" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" timestamp="1564392934754">
-        <mark key="'" line="198" column="20" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" timestamp="1564401386541">
+        <mark key="'" line="171" column="0" />
+        <mark key="[" line="147" column="37" />
+        <mark key="]" line="148" column="25" />
+        <mark key="." line="148" column="25" />
+        <mark key="^" line="148" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/ReactiveList.cs" timestamp="1561126569162">
         <mark key="'" line="67" column="27" />
@@ -579,7 +593,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/HelicopterScreenBase.cs" timestamp="1560844820685">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ExecutionerAbilityController.cs" timestamp="1563959991878">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ExecutionerAbilityController.cs" timestamp="1564393112906">
         <mark key="'" line="19" column="38" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="72" />
@@ -786,8 +800,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" timestamp="1563379234342">
         <mark key="'" line="117" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" timestamp="1564393055515">
-        <mark key="'" line="689" column="12" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" timestamp="1564395001374">
+        <mark key="'" line="555" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scenes/CoreGameplay.unity" timestamp="1558968470718">
         <mark key="'" line="26" column="17" />
@@ -838,65 +852,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemExt.cs" timestamp="1561630746685">
         <mark key="'" line="21" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" timestamp="1562578540283">
-        <mark key="'" line="290" column="57" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" timestamp="1564400007351">
+        <mark key="'" line="19" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="175" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="191" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="948" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="393" column="100" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="978" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1004" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1027" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1068" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="355" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="963" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="976" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1002" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="196" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="36" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="128" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="1083" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1018" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="117" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="40" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="61" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="66" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="87" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="97" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="99" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="104" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="106" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="108" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
-      <jump line="293" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" />
-      <jump line="956" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="127" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="199" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="213" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="224" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="228" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="241" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="51" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="66" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="85" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="101" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/DetonateActionDescription.cs" />
-      <jump line="1400" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="1460" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
-      <jump line="259" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1141" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1075" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1072" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1067" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1046" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1026" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1025" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="1038" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="587" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="719" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="721" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="968" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="205" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
@@ -943,61 +903,115 @@
       <jump line="370" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="373" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" />
       <jump line="689" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="729" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" />
+      <jump line="732" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" />
+      <jump line="735" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" />
+      <jump line="121" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/WeaponView.cs" />
+      <jump line="246" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="475" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="49" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="20" column="72" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="92" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="182" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="53" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="95" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="472" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="50" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="141" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="254" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="350" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="351" column="88" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="399" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="450" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="555" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Bullet.cs" />
+      <jump line="114" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="42" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="197" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="204" column="116" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="329" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="313" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="46" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="155" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="57" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="164" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="165" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Movement/PlayerMovementController.cs" />
+      <jump line="17" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="19" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Camera/PlayerMovementManager.cs" />
+      <jump line="122" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="35" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="57" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="65" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="182" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="186" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="192" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="130" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="131" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="133" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="165" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="190" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="189" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="161" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="150" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
+      <jump line="168" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/AI/ShootActionDescription.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>playerPos</text>
       </register>
       <register name="d" type="4">
         <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>playerPos</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaXNGaXJpbmdcPg==</text>
+        <text encoding="base64">XDxHZXRPcHBvbmVudFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>.AddParam(&quot;owner&quot;, data.OwnerId).AddParam(&quot;target&quot;, data.TargetId)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFZlY3RvcjIgYTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2l6bW9zLmNvbG9yID0gQ29sb3IuYmx1ZTsKICAgICAgICAgICAgR2l6bW9zLkRyYXdTcGhlcmUocGxheWVyUG9zLCAyKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhYSIuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2l6bW9zLmNvbG9yID0gQ29sb3IucmVkOwogICAgICAgICAgICBHaXptb3MuRHJhd1NwaGVyZShhbmNob3IsIDIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgR2l6bW9zLmNvbG9yID0gQ29sb3IueWVsbG93OwogICAgICAgICAgICBHaXptb3MuRHJhd1NwaGVyZShib3RQb3MsIDIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGEuSXNFeGVjdXRpb25lckFiaWxpdHlEYW1hZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElzR3JlbmFkZSA9IGlzRXhlY3V0aW9uZXJEYW1hZ2UsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBHaXptb3MuRHJhd1JheShpcG9zLCBucG9zIC0gaXBvcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbnBvcyA9IHRyYW5zZm9ybS5HZXRDaGlsZCgwKS50cmFuc2Zvcm0ucG9zaXRpb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaXBvcyA9IHRyYW5zZm9ybS5HZXRDaGlsZChjaGlsZENvdW50IC0gMSkudHJhbnNmb3JtLnBvc2l0aW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLkFkZFBhcmFtKCJtdWx0IiwgY3VycmVudFJld2FyZE11bHRpcGxpZXIpLkNMb2coX21vbmV5QW1vdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJhbW91bnQiLkFkZFBhcmFtKG1vbmV5LkRhdGEuTW9uZXkpLkFkZFBhcmFtKG1vbmV5LkRhdGEuTW9uZXlUeXBlLlRpdGxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChJc05lZWRDeWNsZSAmJiBjaGlsZENvdW50ID4gMSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaXNGaXJpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxHZXRPcHBvbmVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaXNGaXJpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxHZXRPcHBvbmVudFw+</last-pattern>
       <last-replace>Mastery</last-replace>
       <last-substitute encoding="base64">XDxPbkhwXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1005,26 +1019,26 @@
     </search>
     <history>
       <history-search>
-        <entry>update(</entry>
-        <entry>isde</entry>
-        <entry>isdev(</entry>
-        <entry>flow</entry>
-        <entry>closed scr</entry>
-        <entry>flowsc</entry>
-        <entry encoding="base64">XDxfZmxvd1NjcmVlbnNcPg==</entry>
-        <entry encoding="base64">XDxFVkVOVF9DTE9TRV9TQ1JFRU5cPg==</entry>
-        <entry encoding="base64">XDxBY3RpdmVcPg==</entry>
-        <entry>sendh</entry>
-        <entry encoding="base64">XDxJc0V4ZWN1dGlvbmVyQWJpbGl0eURhbWFnZVw+</entry>
-        <entry>hitimp</entry>
-        <entry encoding="base64">XDxPbkhwXD4=</entry>
-        <entry encoding="base64">XDxEZXNhdHVyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxfZHVyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxJc0F2YWlsYWJsZVw+</entry>
         <entry encoding="base64">XDxSYW5kb21cPg==</entry>
         <entry>Update</entry>
         <entry>Update(</entry>
         <entry encoding="base64">XDxfaXNGaXJpbmdcPg==</entry>
+        <entry encoding="base64">XDxfbWF4RGlzdGFuY2VGb3JGYXJGaXJpbmdcPg==</entry>
+        <entry>maxd</entry>
+        <entry>radi</entry>
+        <entry>Get</entry>
+        <entry>getradi</entry>
+        <entry encoding="base64">XDxfbWF4RGlzdGFuY2VcPg==</entry>
+        <entry encoding="base64">XDxEaXN0YW5jZVw+</entry>
+        <entry>target</entry>
+        <entry>getra</entry>
+        <entry encoding="base64">XDxfdGFyZ2V0XD4=</entry>
+        <entry encoding="base64">XDxfcGxheWVyTW92ZW1lbnRNYW5hZ2VyXD4=</entry>
+        <entry encoding="base64">XDxQbGF5ZXJNb3ZlbWVudE1hbmFnZXJcPg==</entry>
+        <entry>oppon</entry>
+        <entry encoding="base64">XDxHZXRPcHBvbmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/static //</entry>
