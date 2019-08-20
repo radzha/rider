@@ -1,6 +1,41 @@
 <application>
   <component name="VimSettings">
-    <state version="5" enabled="true" />
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="/Dummy.txt" timestamp="1566315968590">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1566315923605">
+        <mark key="'" line="26" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" timestamp="1566315561260">
+        <mark key="'" line="93" column="16" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="95" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" />
+      <jump line="93" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" />
+      <jump line="26" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" />
+    </jumps>
+    <registers>
+      <register name="/" type="4">
+        <text encoding="base64">XDxFVkVOVF9HRVRfUE9JTlRfSURfV0lUSF9DT01NT05fUFJJT1JJVFlcPg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxFVkVOVF9HRVRfUE9JTlRfSURfV0lUSF9DT01NT05fUFJJT1JJVFlcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxFVkVOVF9HRVRfUE9JTlRfSURfV0lUSF9DT01NT05fUFJJT1JJVFlcPg==</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxfbGFzdEZhaWxlZFRlcnJvclw+</entry>
+        <entry encoding="base64">XDxFVkVOVF9HRVRfUE9JTlRfSURfV0lUSF9DT01NT05fUFJJT1JJVFlcPg==</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
@@ -42,10 +77,5 @@
     <editor>
       <key-repeat enabled="false" />
     </editor>
-    <notifications>
-      <idea-join enabled="true" />
-      <idea-put enabled="true" />
-      <template-selectmode enabled="false" />
-    </notifications>
   </component>
 </application>
