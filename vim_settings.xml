@@ -3,15 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1566315968590">
+      <file name="/Dummy.txt" timestamp="1566376839682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1566373451645">
-        <mark key="'" line="1386" column="42" />
-        <mark key="[" line="1395" column="60" />
-        <mark key="]" line="1395" column="79" />
-        <mark key="^" line="1395" column="79" />
-        <mark key="." line="1395" column="79" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" timestamp="1566374975803">
+        <mark key="'" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1566377123417">
+        <mark key="'" line="762" column="19" />
+        <mark key="[" line="1397" column="62" />
+        <mark key="]" line="1397" column="77" />
+        <mark key="^" line="1397" column="77" />
+        <mark key="." line="1397" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1566315923605">
         <mark key="'" line="26" column="28" />
@@ -29,11 +32,14 @@
         <mark key="^" line="77" column="57" />
         <mark key="." line="77" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FlyingDronesController.cs" timestamp="1566373821151">
-        <mark key="[" line="112" column="83" />
-        <mark key="]" line="111" column="43" />
-        <mark key="." line="111" column="43" />
-        <mark key="^" line="111" column="43" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FlyingDronesController.cs" timestamp="1566377364169">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="112" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1566376427914">
+        <mark key="'" line="147" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" timestamp="1566315561260">
         <mark key="'" line="93" column="16" />
@@ -55,37 +61,60 @@
       <jump line="1011" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1385" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1386" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="19" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" />
+      <jump line="38" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" />
+      <jump line="80" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" />
+      <jump line="147" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" />
+      <jump line="1451" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="82" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="762" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>pointController</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xvCg==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2xvCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>droneInfo.Id</text>
+        <text>patrolPointPrefab</text>
       </register>
       <register name="/" type="4">
-        <text>failed</text>
+        <text encoding="base64">XDxfcGF0cm9sUG9pbnRQcmVmYWJcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBHYW1lT2JqZWN0IF9wYXRyb2xQb2ludFByZWZhYjsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIkdsb2JlIGhleCBpcyBudWxsIGZvciB7MH0vezF9Ii5GKGRyb25lSW5mby5JZCwgZHJvbmVJbmZvLkdsb2JlUG9pbnRJZCkuTG9nRXIoKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoZ2xvYmVIZXggPT0gbnVsbCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZHJvbmVJbmZvLkdsb2JlUG9pbnRJZC5DTG9nKCk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImhleCIuQ0xvZyhnbG9iZUhleCk7Cg==</text>
       </register>
     </registers>
     <search>
-      <last-search>failed</last-search>
+      <last-search encoding="base64">XDxfcGF0cm9sUG9pbnRQcmVmYWJcPg==</last-search>
       <last-offset />
-      <last-pattern>failed</last-pattern>
+      <last-pattern encoding="base64">XDxfcGF0cm9sUG9pbnRQcmVmYWJcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -95,6 +124,10 @@
         <entry encoding="base64">XDxFVkVOVF9HRVRfUE9JTlRfSURfV0lUSF9DT01NT05fUFJJT1JJVFlcPg==</entry>
         <entry encoding="base64">XDxQYXRyb2xcPg==</entry>
         <entry>failed</entry>
+        <entry encoding="base64">XDxGT1JDRV9GQUlMX1RSSUdHRVJcPg==</entry>
+        <entry encoding="base64">XDxfY29sbGlkZXJcPg==</entry>
+        <entry>_pat</entry>
+        <entry encoding="base64">XDxfcGF0cm9sUG9pbnRQcmVmYWJcPg==</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
