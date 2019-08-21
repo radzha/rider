@@ -54,11 +54,12 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="112" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1566397245760">
-        <mark key="[" line="69" column="66" />
-        <mark key="]" line="69" column="66" />
-        <mark key="^" line="68" column="77" />
-        <mark key="." line="69" column="70" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1566398349829">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="118" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" timestamp="1566374975803">
         <mark key="'" line="19" column="29" />
@@ -83,17 +84,11 @@
         <mark key="^" line="115" column="11" />
         <mark key="." line="113" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1566396621839">
-        <mark key="'" line="129" column="33" />
-        <mark key="[" line="634" column="33" />
-        <mark key="]" line="634" column="33" />
-        <mark key="^" line="634" column="33" />
-        <mark key="." line="634" column="33" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1566371847206">
         <mark key="'" line="431" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/PatrolGlobePoints.cs" timestamp="1566373647662" />
+      <file name="/ChestBankView.cs" timestamp="1566398168701" />
     </filemarks>
     <jumps>
       <jump line="95" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedTerrorGlobePoints.cs" />
@@ -140,61 +135,64 @@
       <jump line="104" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/RatingProgressbar.cs" />
       <jump line="115" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" />
       <jump line="129" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" />
+      <jump line="93" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
+      <jump line="126" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
+      <jump line="122" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>chest.Chest.RectSettings</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuU2VydmVyRGF0YTsK</text>
       </register>
       <register name="-" type="4">
-        <text>chest.Chest.RectSettings</text>
+        <text>rectSettings</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc05lZ2F0aXZlXD4=</text>
+        <text encoding="base64">XDxTZXRSZXdhcmRJY29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhdGluZ0RlbHRhID0gaXNXaW4gPyB3aW5EZWx0YSA6IGRlZmVhdERlbHRhOwogICAgICAgICAgICB2YXIgZmluYWxSYXRpbmcgPSByYXRpbmcgKyByYXRpbmdEZWx0YTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemVEZWx0YSA9IG5ldyBWZWN0b3IyKHJlY3RTZXR0aW5ncy5TaXplRGVsdGFYLCByZWN0U2V0dGluZ3MuU2l6ZURlbHRhWSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhdGluZ0RlbHRhID0gMDsK</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuU2VydmVyRGF0YTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlzIHJhaWQiLkNMb2coTG9jYWxHYW1lLklzUmFpZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByYXRpbmcgPSB1c2VySW5mby5TdGFydEZpZ2h0UmF0aW5nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpemVEZWx0YSA9IG5ldyBWZWN0b3IyKHJlY3RTZXR0aW5ncy5TaXplRGVsdGFYLCByZWN0U2V0dGluZ3MuU2l6ZURlbHRhWSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaXplRGVsdGEgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmVjdG9yMiBzaXplRGVsdGE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlY3QgPT0gbnVsbCkgcmV0dXJuOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNoZXN0LkVuYWJsZUV4Y2x1c2l2ZVJvdGF0aW9uKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICByZWN0LnNpemVEZWx0YSA9IG5ldyBWZWN0b3IyKHJlY3RTZXR0aW5ncy5TaXplRGVsdGFYLCByZWN0U2V0dGluZ3MuU2l6ZURlbHRhWSk7CiAgICAgICAgICAgICAgICByZWN0LmFuY2hvcmVkUG9zaXRpb24gPSByZWN0LmFuY2hvcmVkUG9zaXRpb24uQ2hhbmdlWChyZWN0U2V0dGluZ3MuQW5jaG9yZWRQb3NpdGlvblgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
+        <text>action ReformatCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc05lZ2F0aXZlXD4=</last-search>
+      <last-search encoding="base64">XDxTZXRSZXdhcmRJY29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc05lZ2F0aXZlXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTZXRSZXdhcmRJY29uXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbGFzdEZhaWxlZFRlcnJvclw+</entry>
         <entry encoding="base64">XDxFVkVOVF9HRVRfUE9JTlRfSURfV0lUSF9DT01NT05fUFJJT1JJVFlcPg==</entry>
         <entry encoding="base64">XDxQYXRyb2xcPg==</entry>
         <entry>failed</entry>
@@ -214,9 +212,11 @@
         <entry>rating</entry>
         <entry encoding="base64">XDxfcmF0aW5nQmFyXD4=</entry>
         <entry encoding="base64">XDxpc05lZ2F0aXZlXD4=</entry>
+        <entry encoding="base64">XDxTZXRSZXdhcmRJY29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
+        <entry>action ReformatCode</entry>
       </history-cmd>
     </history>
     <shortcut-conflicts>
