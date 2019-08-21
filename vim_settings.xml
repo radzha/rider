@@ -24,6 +24,9 @@
         <mark key="^" line="112" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/MailPopupController.cs" timestamp="1566382953543" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/LocalNotificationsController.cs" timestamp="1566386494675">
+        <mark key="'" line="26" column="36" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/News.cs" timestamp="1566382058547">
         <mark key="'" line="97" column="31" />
       </file>
@@ -34,10 +37,14 @@
         <mark key="." line="24" column="41" />
         <mark key="^" line="24" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/LocalNotificationsProvider.cs" timestamp="1566386523393">
+        <mark key="'" line="9" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" timestamp="1566374975803">
         <mark key="'" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" timestamp="1566383529419">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" timestamp="1566383634620">
+        <mark key="'" line="139" column="16" />
         <mark key="[" line="150" column="23" />
         <mark key="]" line="150" column="23" />
         <mark key="." line="150" column="23" />
@@ -50,6 +57,13 @@
         <mark key="^" line="1397" column="77" />
         <mark key="." line="1817" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1566391187488">
+        <mark key="'" line="195" column="24" />
+        <mark key="[" line="194" column="39" />
+        <mark key="]" line="194" column="42" />
+        <mark key="^" line="194" column="42" />
+        <mark key="." line="194" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1566315923605">
         <mark key="'" line="26" column="28" />
       </file>
@@ -57,7 +71,8 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" timestamp="1566383535905">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" timestamp="1566387787052">
+        <mark key="'" line="74" column="36" />
         <mark key="[" line="113" column="56" />
         <mark key="]" line="113" column="56" />
         <mark key="^" line="115" column="11" />
@@ -105,52 +120,61 @@
       <jump line="29" column="80" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
       <jump line="150" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
       <jump line="97" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/News.cs" />
+      <jump line="139" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
+      <jump line="26" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/LocalNotificationsController.cs" />
+      <jump line="9" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/LocalNotificationsProvider.cs" />
+      <jump line="72" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="74" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="136" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="29" column="51" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
+      <jump line="194" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>news</text>
-      </register>
-      <register name="-" type="4">
-        <text>news</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxUaW1lVG9MaXZlXD4=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgVHJ5VXNlTXVsdGlVcGdyYWRlRGlzY291bnRFdmVudFRpbWVzKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChUeXBlICE9IFR5cGVFLlNhbGVNdWx0aXVwZ3JhZGUpIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciB1c2VySW5mbyA9IFVzZXJJbmZvLkdldFVzZXJJbmZvKCk7CiAgICAgICAgICAgIHZhciBkaXNjb3VudEV2ZW50ID0gdXNlckluZm8uRXZlbnRzLkFjdGl2ZU11bHRpVXBncmFkZURpc2NvdW50RXZlbnQ7CiAgICAgICAgICAgIGlmIChkaXNjb3VudEV2ZW50ICE9IG51bGwpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIF9jYWNoZWRFdmVudFN0YXJ0RGF0ZSA9IGRpc2NvdW50RXZlbnQuU3RhcnRUaW1lLkN1cnJlbnRWYWx1ZTsKICAgICAgICAgICAgICAgIF9jYWNoZWRFdmVudEVuZERhdGUgPSBkaXNjb3VudEV2ZW50LkZpbmlzaFRpbWUuQ3VycmVudFZhbHVlOwogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="-" type="4">
+        <text>BaseFight.</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxfcmF0aW5nQmFyXD4=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhdGluZ0RlbHRhID0gaXNXaW4gPyB3aW5EZWx0YSA6IGRlZmVhdERlbHRhOwogICAgICAgICAgICB2YXIgZmluYWxSYXRpbmcgPSByYXRpbmcgKyByYXRpbmdEZWx0YTsKCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3cy5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RvcEFsbENvcm91dGluZXMoKS5jCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjdGl2ZVNjaGVkdWxlID09IG51bGwpIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3cy5DTG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwYW4gPSBUaW1lVG9MaXZlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RvcEFsbENvcm91dGluZXMoKS5jCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5leHRSb3RhdGlvblRpbWUgPSBDaGVzdHMuR2V0TmV4dENoYW5nZVJvdGF0aW9uVGltZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFjdGl2ZVNjaGVkdWxlID09IG51bGwpIHJldHVybjsK</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUaW1lVG9MaXZlXD4=</last-search>
+      <last-search encoding="base64">XDxfcmF0aW5nQmFyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUaW1lVG9MaXZlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfcmF0aW5nQmFyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -167,6 +191,14 @@
         <entry>clog</entry>
         <entry encoding="base64">XDxJc0FjdGl2ZUxldHRlclw+</entry>
         <entry encoding="base64">XDxUaW1lVG9MaXZlXD4=</entry>
+        <entry encoding="base64">XDxfY2FjaGVkRXZlbnRTdGFydERhdGVcPg==</entry>
+        <entry>letter</entry>
+        <entry encoding="base64">XDxBTklNX0lOVF9NQUlMX1NUQVRFXD4=</entry>
+        <entry encoding="base64">XDxNYWlsU3RhdGVcPg==</entry>
+        <entry>reaid</entry>
+        <entry>raid</entry>
+        <entry>rating</entry>
+        <entry encoding="base64">XDxfcmF0aW5nQmFyXD4=</entry>
       </history-search>
     </history>
     <shortcut-conflicts>
