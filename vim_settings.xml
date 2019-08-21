@@ -46,6 +46,10 @@
         <mark key="^" line="1397" column="77" />
         <mark key="." line="1817" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/FakeFailedTerrorPointController.cs" timestamp="1566373372940">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1566376427914">
         <mark key="'" line="147" column="34" />
       </file>
@@ -71,18 +75,25 @@
         <mark key="." line="123" column="11" />
         <mark key="^" line="123" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1566407027617">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1566407538772">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="116" column="53" />
-        <mark key="]" line="70" column="65" />
-        <mark key="." line="102" column="27" />
-        <mark key="^" line="102" column="27" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
+        <mark key="^" line="117" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/TerrorPoint.cs" timestamp="1566374975803">
         <mark key="'" line="19" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/RatingProgressbar.cs" timestamp="1566392380596">
         <mark key="'" line="104" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/OpenBankOnClick.cs" timestamp="1566407841868">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="117" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" timestamp="1566407900040">
+        <mark key="'" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/BaseDefenceRewardsScreen.cs" timestamp="1566392621114">
         <mark key="'" line="193" column="0" />
@@ -94,12 +105,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1566315923605">
         <mark key="'" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" timestamp="1566406755166">
-        <mark key="'" line="172" column="9" />
-        <mark key="[" line="328" column="54" />
-        <mark key="]" line="328" column="101" />
-        <mark key="." line="328" column="101" />
-        <mark key="^" line="328" column="101" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" timestamp="1566408384510">
+        <mark key="[" line="216" column="58" />
+        <mark key="]" line="216" column="58" />
+        <mark key="." line="216" column="58" />
+        <mark key="^" line="216" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1566398765068">
         <mark key="'" line="741" column="33" />
@@ -194,63 +204,64 @@
       <jump line="356" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="280" column="90" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="172" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="285" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="210" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="19" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" />
+      <jump line="20" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldHRlci5UaXRsZS5DTG9nKGxldHRlci5Jc0xvY2FsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IGxldHRlci5UeXBlID09IExldHRlci5UeXBlRS5FeGNsdXNpdmVzUm90YXRpb24=</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>bank</text>
+        <text>initw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXphYmxlXQogICAgICAgIHB1YmxpYyBjbGFzcyBSZXNTcHJpdGUKICAgICAgICB7CiAgICAgICAgICAgIHB1YmxpYyBBZG1pbkluZm8uQ29tbW9uTW9uZXlDb2RlcyBDb2RlOwogICAgICAgICAgICBwdWJsaWMgU3ByaXRlIFNwcml0ZTsKICAgICAgICB9CiAgICAgICAgW1NlcmlhbGl6ZUZpZWxkXQogICAgICAgIHByaXZhdGUgTGlzdDxSZXNTcHJpdGU+IF9taW5lUmVzU3ByaXRlczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBVSU1hbmFnZXIuT3BlblNjcmVlbihTY3JlZW5UeXBlLk1haWxTY3JlZW4sIFV0aWxzLldyYXBUb0NvbnRleHQoZmFsc2UpLCB0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldHRlci5UaXRsZS5DTG9nKGxldHRlci5Jc0xvY2FsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3JhZ2VDaGVzdHMuRGlzcG9zZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvdXJuYW1lbnRVdGlscy5UcnlPcGVuR2xvYmVPblRvdXJuYW1lbnRTZWN0b3IoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yYWdlQ2hlc3RzLk1vdmVOZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXdhcmRTcHJpdGVQYXRoLkNMb2dSYW5kKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuT3JkZXJCeShjaGVzdCA9PiBjaGVzdC5PcmRlcikuR2V0RW51bWVyYXRvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxldHRlci5UaXRsZS5DTG9nKGxldHRlci5Jc0xvY2FsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkxpbnE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbmRleCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3JhZ2VDaGVzdHMuRGlzcG9zZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3JhZ2VDaGVzdHMuU2VsZWN0KHMgPT4gcy5LZXkpLkdldFNlcWkoKS5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yYWdlQ2hlc3RzLk1vdmVOZXh0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuT3JkZXJCeShjaGVzdCA9PiBjaGVzdC5PcmRlcikuR2V0RW51bWVyYXRvcigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
     <search>
-      <last-search>bank</last-search>
+      <last-search>initw</last-search>
       <last-offset />
-      <last-pattern>bank</last-pattern>
+      <last-pattern>initw</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc0FjdGl2ZUxldHRlclw+</entry>
-        <entry encoding="base64">XDxUaW1lVG9MaXZlXD4=</entry>
-        <entry encoding="base64">XDxfY2FjaGVkRXZlbnRTdGFydERhdGVcPg==</entry>
         <entry>letter</entry>
         <entry encoding="base64">XDxBTklNX0lOVF9NQUlMX1NUQVRFXD4=</entry>
         <entry>reaid</entry>
@@ -268,6 +279,9 @@
         <entry encoding="base64">XDxTZXRTcHJpdGVcPg==</entry>
         <entry>usedim</entry>
         <entry>bank</entry>
+        <entry>impl</entry>
+        <entry>citadel</entry>
+        <entry>initw</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
