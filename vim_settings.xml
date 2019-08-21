@@ -71,9 +71,9 @@
         <mark key="." line="123" column="11" />
         <mark key="^" line="123" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1566403739034">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" timestamp="1566407027617">
         <mark key="'" line="129" column="0" />
-        <mark key="[" line="70" column="0" />
+        <mark key="[" line="116" column="53" />
         <mark key="]" line="70" column="65" />
         <mark key="." line="102" column="27" />
         <mark key="^" line="102" column="27" />
@@ -94,8 +94,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" timestamp="1566315923605">
         <mark key="'" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" timestamp="1566406580176">
-        <mark key="'" line="356" column="16" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" timestamp="1566406755166">
+        <mark key="'" line="172" column="9" />
         <mark key="[" line="328" column="54" />
         <mark key="]" line="328" column="101" />
         <mark key="." line="328" column="101" />
@@ -192,6 +192,8 @@
       <jump line="326" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="374" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="356" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="280" column="90" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="172" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -201,7 +203,7 @@
         <text encoding="base64">IHx8IGxldHRlci5UeXBlID09IExldHRlci5UeXBlRS5FeGNsdXNpdmVzUm90YXRpb24=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXRTcHJpdGVcPg==</text>
+        <text>bank</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBbU2VyaWFsaXphYmxlXQogICAgICAgIHB1YmxpYyBjbGFzcyBSZXNTcHJpdGUKICAgICAgICB7CiAgICAgICAgICAgIHB1YmxpYyBBZG1pbkluZm8uQ29tbW9uTW9uZXlDb2RlcyBDb2RlOwogICAgICAgICAgICBwdWJsaWMgU3ByaXRlIFNwcml0ZTsKICAgICAgICB9CiAgICAgICAgW1NlcmlhbGl6ZUZpZWxkXQogICAgICAgIHByaXZhdGUgTGlzdDxSZXNTcHJpdGU+IF9taW5lUmVzU3ByaXRlczsK</text>
@@ -238,16 +240,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTZXRTcHJpdGVcPg==</last-search>
+      <last-search>bank</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXRTcHJpdGVcPg==</last-pattern>
+      <last-pattern>bank</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcGF0cm9sUG9pbnRQcmVmYWJcPg==</entry>
-        <entry>clog</entry>
         <entry encoding="base64">XDxJc0FjdGl2ZUxldHRlclw+</entry>
         <entry encoding="base64">XDxUaW1lVG9MaXZlXD4=</entry>
         <entry encoding="base64">XDxfY2FjaGVkRXZlbnRTdGFydERhdGVcPg==</entry>
@@ -266,6 +266,8 @@
         <entry>linq</entry>
         <entry encoding="base64">XDxpc0hhdmVJbWFnZVw+</entry>
         <entry encoding="base64">XDxTZXRTcHJpdGVcPg==</entry>
+        <entry>usedim</entry>
+        <entry>bank</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
