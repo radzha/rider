@@ -150,11 +150,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1566550915820">
         <mark key="'" line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1566555757018">
-        <mark key="[" line="146" column="12" />
-        <mark key="]" line="146" column="18" />
-        <mark key="." line="146" column="18" />
-        <mark key="^" line="146" column="18" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1566560857317">
+        <mark key="[" line="142" column="47" />
+        <mark key="]" line="143" column="15" />
+        <mark key="." line="143" column="15" />
+        <mark key="^" line="143" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1566557738154">
         <mark key="[" line="0" column="0" />
@@ -242,11 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" />
-      <jump line="1397" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="1407" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="1531" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="1535" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1539" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1548" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="1550" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
@@ -342,13 +337,18 @@
       <jump line="292" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="336" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="345" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="150" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
+      <jump line="152" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
+      <jump line="145" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
+      <jump line="134" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
+      <jump line="147" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MailPopup.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MailPopup.</text>
+        <text>Param</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -360,28 +360,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3JhZ2VDaGVzdHMgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKS5DaGVzdHMuRmluZFZhbHVlcyhjaGVzdCA9PiBjaGVzdC5FbmFibGVFeGNsdXNpdmVSb3RhdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZUNoZXN0cy5Tb3J0KChmaXJzdCwgc2Vjb25kKSA9PiBmaXJzdC5PcmRlci5Db21wYXJlVG8oc2Vjb25kLk9yZGVyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluZGV4ID0gMDsKICAgICAgICAgICAgZm9yZWFjaCAodmFyIGljb25zIGluIHJld2FyZEljb25zKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoaW5kZXggPj0gc3RvcmFnZUNoZXN0cy5Db3VudCkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAiQ2Fubm90IGZpbmQgZW5vdWdoIGNoZXN0cyB3aXRoIGV4Y2x1c2l2ZSByb3RhdGlvbiEiLkxvZ0VyKCk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzYWxlRXZlbnRzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g0JIg0Y3RgtC+0Lwg0YHRgtC10LnRgtC1INGB0YPQvdC00YPQuiDQstGB0LXQs9C00LAg0L7QtNC40L0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNjb3VudC5FdmVudElkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV3YXJkSQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPyBudWxsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZGlzY291bnRFdmVudCA9PSBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
