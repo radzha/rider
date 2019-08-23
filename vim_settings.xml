@@ -27,12 +27,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chest/ChestInfo.cs" timestamp="1566550067350">
         <mark key="'" line="74" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" timestamp="1566551756873">
-        <mark key="'" line="150" column="72" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="^" line="150" column="26" />
-        <mark key="." line="152" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" timestamp="1566552801130">
+        <mark key="[" line="165" column="55" />
+        <mark key="]" line="165" column="82" />
+        <mark key="^" line="165" column="82" />
+        <mark key="." line="165" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Storage.cs" timestamp="1566404241013">
         <mark key="'" line="246" column="36" />
@@ -64,6 +63,12 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/RatingProgressbar.cs" timestamp="1566392380596">
         <mark key="'" line="104" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/OpenBankOnClick.cs" timestamp="1566455833271">
+        <mark key="[" line="51" column="22" />
+        <mark key="]" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+        <mark key="^" line="51" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/BankScreen.cs" timestamp="1566407900040">
         <mark key="'" line="20" column="46" />
@@ -174,10 +179,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1566551610979">
         <mark key="'" line="719" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chest/ChestDiscount.cs" timestamp="1566551971016">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chest/ChestDiscount.cs" timestamp="1566551987977">
         <mark key="'" line="16" column="50" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="38" />
         <mark key="." line="54" column="0" />
         <mark key="^" line="33" column="46" />
       </file>
@@ -290,44 +295,44 @@
       <jump line="16" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chest/ChestDiscount.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUeXBlID0gQ2hlc3RzLlN0cnVjdERpc2NvdW50LkNvbmRpdGlvblR5cGVFLkV2ZW50Owo=</text>
+      <register name="&quot;" type="4">
+        <text>ExclusiveRotationTimes</text>
       </register>
       <register name="-" type="4">
-        <text>discount</text>
+        <text>ExclusiveRotationTimes</text>
       </register>
       <register name="/" type="4">
         <text>storage</text>
       </register>
-      <register name="0" type="4">
-        <text>Chests.StructDiscount</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRpc2NvdW50RXZlbnQgIT0gbnVsbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUeXBlID0gQ2hlc3RzLlN0cnVjdERpc2NvdW50LkNvbmRpdGlvblR5cGVFLkV2ZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFR5cGUgPSBDaGVzdHMuU3RydWN0RGlzY291bnQuQ29uZGl0aW9uVHlwZUUuR2VuZXJhdGVkQ2hlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc2NvdW50ID0gY2hlc3RzLkRpc2NvdW50c1tkaXNjb3VudEluZGV4XTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0b3JhZ2VEaXNjb3VudCA9IAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLkdldEN1cnJlbnRNYXhEaXNjb3VudCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzY291bnQuCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgLkZpbmQoY2hlc3QgPT4gY2hlc3QuR2V0Q3VycmVudE1heERpc2NvdW50KCkuU3RvcmFnZURpc2NvdW50LkNvbmRpdGlvbnNJc0V2ZW50KCkpPwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgZGlzY291bnQgPSBVc2VySW5mby5DaGVzdHMuQ2hlc3RzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc2NvdW50RXZlbnQgPSBkaXNjb3VudC5TdG9yYWdlRGlzY291bnQuQ29uZGl0aW9uc0FzRXZlbnQoKS5FdmVudElkOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hlc3RzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGNoZXN0SW5mbyBpbiBVc2VySW5mby5DaGVzdHMuQ2hlc3RzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
