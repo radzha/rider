@@ -127,7 +127,7 @@
       <file name="/ChestScreen.cs" timestamp="1566464384935">
         <mark key="'" line="126" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" timestamp="1566810667278" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" timestamp="1566810728845" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/EventsInfo.cs" timestamp="1566554979864">
         <mark key="'" line="9" column="17" />
         <mark key="[" line="57" column="112" />
@@ -141,12 +141,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1566550915820">
         <mark key="'" line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1566809487985">
-        <mark key="'" line="138" column="66" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
-        <mark key="^" line="138" column="39" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1566812299647">
+        <mark key="'" line="80" column="32" />
+        <mark key="[" line="80" column="16" />
+        <mark key="]" line="80" column="21" />
+        <mark key="." line="80" column="21" />
+        <mark key="^" line="80" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1566575702162">
         <mark key="[" line="0" column="0" />
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
       <jump line="59" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
       <jump line="60" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
       <jump line="89" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
@@ -328,13 +327,14 @@
       <jump line="83" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="70" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
       <jump line="302" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
+      <jump line="84" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhbnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfZXhjbHVzaXZlQ2hlc3RSZXdhcmRJY29uc1w+</text>
@@ -343,31 +343,31 @@
         <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBTZXRQaHJhc2UgX3NhbGVDaGVzdFBocmFzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNoZXN0cyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhbnM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2FsZWNoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlZnNLZXkuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWxseQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ld3MuSWQuQWRkUGFyYW0obmV3cy5UaXRsZSkuQ0xvZ0JsdWUoZXZlbnRFbmREYXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIElkLkFkZFBhcmFtKFRpdGxlKS5DTG9nKF9jYWNoZWRFdmVudEVuZERhdGUpOwo=</text>
+        <text encoding="base64">ZS5DTG9nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9wZW5CYW5rQXRGaXJzdENoZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVJTWFuYWdlci5PcGVuU2NyZWVuKFNjcmVlblR5cGUuQmFuaywgbmV3IG9iamVjdCgpLCB0cnVlLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVJTWFuYWdlci5PcGVuU2NyZWVuKFNjcmVlblR5cGUuQmFuaywgbmV3IG9iamVjdCgpLCB0cnVlLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
