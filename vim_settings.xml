@@ -11,15 +11,14 @@
         <mark key="^" line="102" column="24" />
       </file>
       <file name="/ChestDiscount.cs" timestamp="1566475479412" />
-      <file name="/ChestDiscountView.cs" timestamp="1566818756646">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="55" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/PopupItemView.cs" timestamp="1566465127361">
         <mark key="'" line="268" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/FailedPointsProvider.cs" timestamp="1566487685601">
         <mark key="'" line="24" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/MailPopupController.cs" timestamp="1566831808086">
+        <mark key="'" line="45" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/StaticLettersManager.cs" timestamp="1566892798370">
         <mark key="'" line="127" column="33" />
@@ -71,10 +70,6 @@
         <mark key="^" line="1743" column="20" />
         <mark key="." line="1761" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/FakeFailedTerrorPointController.cs" timestamp="1566373372940">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHex.cs" timestamp="1566483434906">
         <mark key="'" line="35" column="30" />
         <mark key="[" line="36" column="47" />
@@ -82,8 +77,8 @@
         <mark key="^" line="36" column="54" />
         <mark key="." line="36" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1566837546149">
-        <mark key="'" line="341" column="36" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" timestamp="1566909795182">
+        <mark key="'" line="402" column="54" />
         <mark key="[" line="402" column="37" />
         <mark key="]" line="402" column="37" />
         <mark key="." line="402" column="37" />
@@ -101,10 +96,6 @@
         <mark key="^" line="77" column="78" />
         <mark key="." line="77" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OpenScreenOnClick.cs" timestamp="1566455667877">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="73" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/UserGlobePointsProvider.cs" timestamp="1566479828695" />
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/BaseMission/EnemyBaseScreen.cs" timestamp="1566473994106">
         <mark key="'" line="29" column="32" />
@@ -119,10 +110,6 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/RatingProgressbar.cs" timestamp="1566392380596">
         <mark key="'" line="104" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/LocalMailStorage.cs" timestamp="1566837993899">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/OpenBankOnClick.cs" timestamp="1566455833271">
         <mark key="[" line="51" column="22" />
@@ -157,10 +144,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1566479849177">
         <mark key="'" line="90" column="80" />
       </file>
-      <file name="/StaticLettersManager.cs" timestamp="1566557760237">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="55" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/ChestsExt.cs" timestamp="1566828854271">
         <mark key="'" line="32" column="62" />
         <mark key="[" line="87" column="60" />
@@ -177,6 +160,9 @@
         <mark key="]" line="48" column="35" />
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/News.cs" timestamp="1566551103450">
+        <mark key="'" line="45" column="23" />
       </file>
       <file name="/ChestScreen.cs" timestamp="1566464384935">
         <mark key="'" line="126" column="34" />
@@ -237,6 +223,9 @@
         <mark key="^" line="14" column="59" />
       </file>
       <file name="/Letter.cs" timestamp="1566826789666" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mine/Drones/DroneController.cs" timestamp="1566909120041">
+        <mark key="'" line="346" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ChestEventUtils.cs" timestamp="1566468340891">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="12" column="63" />
@@ -248,12 +237,15 @@
         <mark key="." line="111" column="54" />
         <mark key="^" line="111" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" timestamp="1566837181686">
-        <mark key="'" line="197" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" timestamp="1566909798135">
+        <mark key="'" line="113" column="16" />
         <mark key="[" line="112" column="68" />
         <mark key="]" line="112" column="74" />
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" timestamp="1566909522536">
+        <mark key="'" line="82" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/HangarChestIndicator.cs" timestamp="1566573689947">
         <mark key="[" line="73" column="0" />
@@ -299,6 +291,9 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Chests.cs" timestamp="1566551610979">
+        <mark key="'" line="719" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chest/ChestDiscount.cs" timestamp="1566815132290">
         <mark key="'" line="45" column="71" />
         <mark key="[" line="45" column="71" />
@@ -308,20 +303,11 @@
       </file>
       <file name="/ChestBankView.cs" timestamp="1566398168701" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Stories/StoryController.cs" timestamp="1566551062837" />
+      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfoComponents/LikeHistory.cs" timestamp="1566469604003">
+        <mark key="'" line="46" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
-      <jump line="85" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
-      <jump line="91" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" />
-      <jump line="442" column="90" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
-      <jump line="45" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
-      <jump line="401" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
-      <jump line="130" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
-      <jump line="128" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
-      <jump line="132" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
-      <jump line="11" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestDiscountView.cs" />
-      <jump line="153" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
       <jump line="44" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="174" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="176" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
@@ -358,7 +344,6 @@
       <jump line="155" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
       <jump line="167" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
       <jump line="195" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
-      <jump line="402" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="344" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="325" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
       <jump line="128" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/StaticLettersManager.cs" />
@@ -410,6 +395,19 @@
       <jump line="360" column="103" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
       <jump line="78" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferListItem.cs" />
       <jump line="188" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" />
+      <jump line="302" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mine/Drones/DroneController.cs" />
+      <jump line="346" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mine/Drones/DroneController.cs" />
+      <jump line="72" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" />
+      <jump line="82" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" />
+      <jump line="128" column="108" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="431" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="432" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="45" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="402" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailScreen.cs" />
+      <jump line="24" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
+      <jump line="85" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
+      <jump line="113" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -419,7 +417,7 @@
         <text>ToAdaptiveString(true);</text>
       </register>
       <register name="/" type="4">
-        <text>toad</text>
+        <text encoding="base64">XDxEYXRlRW5kXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNldHRpbmdzT3ZlcnJpZGVyID0gd2VhcG9uVHJhbnNmb3JtLkdldENvbXBvbmVudEluQ2hpbGRyZW48U2NyZWVuTW9kZWxXZWFwb25TZXR0aW5nc092ZXJyaWRlcj4oKTsK</text>
@@ -456,19 +454,14 @@
       </register>
     </registers>
     <search>
-      <last-search>toad</last-search>
+      <last-search encoding="base64">XDxEYXRlRW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>toad</last-pattern>
+      <last-pattern encoding="base64">XDxEYXRlRW5kXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>timeto</entry>
-        <entry encoding="base64">XDxUaW1lVG9MaXZlXD4=</entry>
-        <entry encoding="base64">XDxOZXdzXD4=</entry>
-        <entry>storag</entry>
-        <entry encoding="base64">XDxEYXRlRW5kXD4=</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDxfd2VhcG9uS2luZFNldHRpbmdzXD4=</entry>
         <entry>screens</entry>
@@ -478,12 +471,17 @@
         <entry encoding="base64">XDxfY2hlc3REaXNjb3VudFRpbWVyXD4=</entry>
         <entry encoding="base64">XDxUb0hvdXJzTWludXRlc1NlY29uZHNUaW1lclN0cmluZ1w+</entry>
         <entry>offer</entry>
-        <entry>timer</entry>
         <entry encoding="base64">XDxfdGltZXJMYWJlbFw+</entry>
         <entry>toadap</entry>
         <entry>tooff</entry>
         <entry>tohou</entry>
         <entry>toad</entry>
+        <entry>stas</entry>
+        <entry>popupa</entry>
+        <entry>tryf</entry>
+        <entry>timer</entry>
+        <entry encoding="base64">XDxfZXhwaXJlVGltZXJcPg==</entry>
+        <entry encoding="base64">XDxEYXRlRW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
