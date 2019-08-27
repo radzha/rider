@@ -24,12 +24,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/MailPopupController.cs" timestamp="1566831808086">
         <mark key="'" line="45" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/StaticLettersManager.cs" timestamp="1566838375061">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/StaticLettersManager.cs" timestamp="1566892798370">
         <mark key="'" line="127" column="33" />
-        <mark key="[" line="132" column="111" />
-        <mark key="]" line="132" column="112" />
-        <mark key="." line="132" column="112" />
-        <mark key="^" line="132" column="112" />
+        <mark key="[" line="130" column="44" />
+        <mark key="]" line="131" column="11" />
+        <mark key="." line="131" column="11" />
+        <mark key="^" line="131" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/LocalNotifications/NotificationProviders/LocalNotificationsProvider.cs" timestamp="1566386523393">
         <mark key="'" line="9" column="17" />
@@ -191,7 +191,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/71F4E3D7-D65E-42B0-A699-D02E59766D3C/05/768fb8dc/DateTime.cs" timestamp="1566834662660">
         <mark key="'" line="1024" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566833903298">
+      <file name="/Dummy.txt" timestamp="1566892479089">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailUtils.cs" timestamp="1566559033747">
@@ -372,7 +372,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">JiY=</text>
+        <text>;
+
+            availableLetters = availableLetters</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">JiY=</text>
@@ -383,34 +385,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlbW92ZWQgPSBsZXR0ZXJzLlJlbW92ZUFsbChsZXR0ZXIgPT4gbGV0dGVyLkRhdGVFbmQgPCBEYXRlVGltZS5Ob3cpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>;
+
+            availableLetters = availableLetters</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnQK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>selectedLetter.Type == Letter.TypeE.ExclusivesRotation
                 ? _storage.News[selectedLetter.NewsId].GetLetterLiveFinish()
                 :</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDogc2VsZWN0ZWRMZXR0ZXIuRGF0ZUVuZDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0b3JhZ2UuR2V0U3RvcmFnZSgpLk5ld3Nbc2VsZWN0ZWRMZXR0ZXIuTmV3c0lkXS5HZXRMZXR0ZXJMaXZlRmluaXNoKCkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID0gc2VsZWN0ZWRMZXR0ZXIuVHlwZSA9PSBMZXR0ZXIuVHlwZUUuRXhjbHVzaXZlc1JvdGF0aW9uCg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwYW4gPSBUaW1lVG9MaXZlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID0gc2VsZWN0ZWRMZXR0ZXIuVHlwZSA9PSBMZXR0ZXIuVHlwZUUuRXhjbHVzaXZlc1JvdGF0aW9uCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwYW4gPSBUaW1lVG9MaXZlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IFRpbWVNYW5hZ2VyLkdldCgpLk5vdzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHNwYW4gPSBUaW1lVG9MaXZlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IFRpbWVNYW5hZ2VyLkdldCgpLk5vdzsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
