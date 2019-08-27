@@ -161,6 +161,7 @@
         <mark key="^" line="48" column="57" />
         <mark key="." line="48" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/ResourcePopupTitle.cs" timestamp="1566912773721" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/News.cs" timestamp="1566551103450">
         <mark key="'" line="45" column="23" />
       </file>
@@ -206,9 +207,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/ReactiveList.cs" timestamp="1566901869342">
         <mark key="'" line="72" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1566903301988">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailUtils.cs" timestamp="1566559033747">
         <mark key="'" line="35" column="49" />
         <mark key="[" line="36" column="70" />
@@ -244,8 +242,8 @@
         <mark key="^" line="112" column="74" />
         <mark key="." line="112" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" timestamp="1566909522536">
-        <mark key="'" line="82" column="13" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" timestamp="1566912733891">
+        <mark key="'" line="118" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/HangarChestIndicator.cs" timestamp="1566573689947">
         <mark key="[" line="73" column="0" />
@@ -306,11 +304,13 @@
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/UserInfoComponents/LikeHistory.cs" timestamp="1566469604003">
         <mark key="'" line="46" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/Tools/Globe/MeshGeneration/GlobeGridGenerator.cs" timestamp="1566916085833">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="180" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
-      <jump line="181" column="92" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="310" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/ChestScreen.cs" />
       <jump line="161" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/extensions/NewsExt.cs" />
@@ -408,6 +408,9 @@
       <jump line="113" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Letter.cs" />
       <jump line="66" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
       <jump line="335" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Storage.cs" />
+      <jump line="28" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" />
+      <jump line="204" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" />
+      <jump line="118" column="59" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/GetResourcePopup.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -417,7 +420,7 @@
         <text encoding="base64">PT0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3RvcmFnZVw+</text>
+        <text encoding="base64">XDxTZXRBbmltYXRvclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNldHRpbmdzT3ZlcnJpZGVyID0gd2VhcG9uVHJhbnNmb3JtLkdldENvbXBvbmVudEluQ2hpbGRyZW48U2NyZWVuTW9kZWxXZWFwb25TZXR0aW5nc092ZXJyaWRlcj4oKTsK</text>
@@ -454,16 +457,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfc3RvcmFnZVw+</last-search>
+      <last-search encoding="base64">XDxTZXRBbmltYXRvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3RvcmFnZVw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxTZXRBbmltYXRvclw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfd2VhcG9uS2luZFNldHRpbmdzXD4=</entry>
-        <entry>screens</entry>
         <entry encoding="base64">XDxfc2NyZWVuc1RvVXBkYXRlR2xvYmVcPg==</entry>
         <entry>swit</entry>
         <entry encoding="base64">XDxEYXRhXD4=</entry>
@@ -482,6 +483,8 @@
         <entry encoding="base64">XDxfZXhwaXJlVGltZXJcPg==</entry>
         <entry encoding="base64">XDxEYXRlRW5kXD4=</entry>
         <entry encoding="base64">XDxfc3RvcmFnZVw+</entry>
+        <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
+        <entry encoding="base64">XDxTZXRBbmltYXRvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
