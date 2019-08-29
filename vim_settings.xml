@@ -151,12 +151,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/ReactiveList.cs" timestamp="1566901869342">
         <mark key="'" line="72" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1567064301466">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1567067986246">
         <mark key="'" line="12" column="17" />
-        <mark key="[" line="106" column="76" />
-        <mark key="]" line="106" column="81" />
-        <mark key="^" line="106" column="81" />
-        <mark key="." line="106" column="81" />
+        <mark key="[" line="160" column="38" />
+        <mark key="]" line="160" column="51" />
+        <mark key="^" line="160" column="51" />
+        <mark key="." line="160" column="51" />
       </file>
       <file name="/Letter.cs" timestamp="1566826789666" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mine/Drones/DroneController.cs" timestamp="1566920780510">
@@ -277,8 +277,8 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="60" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1567066161394">
-        <mark key="'" line="535" column="20" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1567067537051">
+        <mark key="'" line="268" column="16" />
         <mark key="[" line="724" column="110" />
         <mark key="]" line="725" column="11" />
         <mark key="." line="725" column="11" />
@@ -358,7 +358,6 @@
       <file name="/ChestBankView.cs" timestamp="1566398168701" />
     </filemarks>
     <jumps>
-      <jump line="123" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Server.cs" />
       <jump line="81" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="302" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
       <jump line="51" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" />
@@ -430,9 +429,7 @@
       <jump line="726" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="730" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="733" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="268" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="740" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="154" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="260" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="75" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareAnimatorController.cs" />
       <jump line="94" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareAnimatorController.cs" />
@@ -458,6 +455,9 @@
       <jump line="424" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="517" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="535" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="1319" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="154" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="268" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -467,7 +467,7 @@
         <text>isBaseExplored</text>
       </register>
       <register name="/" type="4">
-        <text>coopin</text>
+        <text encoding="base64">XDxfSXNFbmVteUJhc2VFeHBsb3JlZE9yU3BpZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXNQdnAgPSBTbG90U3RhdGUuQ3VycmVudFZhbHVlID09IEZpZ2h0UHJlcGFyZVNsb3RTdGF0ZS5QdnA7Cg==</text>
@@ -507,15 +507,14 @@
       </register>
     </registers>
     <search>
-      <last-search>coopin</last-search>
+      <last-search encoding="base64">XDxfSXNFbmVteUJhc2VFeHBsb3JlZE9yU3BpZWRcPg==</last-search>
       <last-offset />
-      <last-pattern>coopin</last-pattern>
+      <last-pattern encoding="base64">XDxfSXNFbmVteUJhc2VFeHBsb3JlZE9yU3BpZWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXNlRGVmZW5jZVN0YXRlXD4=</entry>
         <entry encoding="base64">XDxCYXNlRGVmZW5jZVN0YXRlXD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVBbmltYXRvclw+</entry>
         <entry>glassed</entry>
@@ -529,12 +528,13 @@
         <entry>basedefen</entry>
         <entry encoding="base64">XDxfYmFzZURlZmVuY2VTdGF0ZVw+</entry>
         <entry>enemybase</entry>
-        <entry encoding="base64">XDxfSXNFbmVteUJhc2VFeHBsb3JlZE9yU3BpZWRcPg==</entry>
         <entry encoding="base64">XDxJc0VuZW15QmFzZUV4cGxvcmVkT3JTcGllZFw+</entry>
         <entry encoding="base64">XDxpc0Jhc2VEZWZlbmNlRmlnaHRcPg==</entry>
         <entry>coop</entry>
         <entry>host</entry>
         <entry>coopin</entry>
+        <entry>exploredo</entry>
+        <entry encoding="base64">XDxfSXNFbmVteUJhc2VFeHBsb3JlZE9yU3BpZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
