@@ -52,13 +52,6 @@
         <mark key="^" line="77" column="78" />
         <mark key="." line="77" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/PvePvpRewardScreen.cs" timestamp="1567083308178">
-        <mark key="'" line="494" column="31" />
-        <mark key="[" line="330" column="97" />
-        <mark key="]" line="330" column="103" />
-        <mark key="." line="330" column="103" />
-        <mark key="^" line="330" column="103" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/Globe/MeshGeneration/UserGlobePointsProvider.cs" timestamp="1566479828695" />
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/BaseMission/EnemyBaseScreen.cs" timestamp="1566473994106">
         <mark key="'" line="29" column="32" />
@@ -246,6 +239,12 @@
         <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chests/BuyChestHelper.cs" timestamp="1566815416693" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" timestamp="1567151890429">
+        <mark key="'" line="133" column="33" />
+        <mark key="[" line="139" column="33" />
+        <mark key="]" line="139" column="33" />
+        <mark key="." line="139" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1567006111075">
         <mark key="'" line="1396" column="36" />
         <mark key="[" line="841" column="0" />
@@ -355,6 +354,13 @@
         <mark key="^" line="57" column="121" />
         <mark key="." line="57" column="112" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" timestamp="1567152035152">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="169" column="87" />
+        <mark key="]" line="169" column="109" />
+        <mark key="." line="169" column="109" />
+        <mark key="^" line="169" column="109" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/CoopVictoryScreen.cs" timestamp="1567085631372">
         <mark key="'" line="26" column="16" />
       </file>
@@ -369,7 +375,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/ScreenModelWeaponItemLoader.cs" timestamp="1566898103562">
         <mark key="'" line="12" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1567091030034">
+      <file name="/Dummy.txt" timestamp="1567093575393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailUtils.cs" timestamp="1566559033747">
@@ -441,8 +447,6 @@
       <file name="/ChestBankView.cs" timestamp="1566398168701" />
     </filemarks>
     <jumps>
-      <jump line="63" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ChestBankView.cs" />
-      <jump line="25" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chest/UserChests.cs" />
       <jump line="49" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/PowerSquadScreen.cs" />
       <jump line="30" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/PowerSquadScreen.cs" />
       <jump line="13" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/ProfileTabIcon.cs" />
@@ -541,19 +545,21 @@
       <jump line="48" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/MercenaryModelLoader.cs" />
       <jump line="67" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/MercenaryModelLoader.cs" />
       <jump line="17" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/MercenaryModelController.cs" />
+      <jump line="24" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
+      <jump line="133" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentPlacesDeltaHelper.cs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInNjcm9sbCB0byBlbmQiLkFkZFBhcmFtKGluaXRpYXRvcikuQ0xvZyhkdXJhdGlvbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>LastResultsShowing</text>
       </register>
       <register name="-" type="4">
-        <text>new WaitForEndOfFrame();</text>
+        <text>LastResultsShowing</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFVkVOVF9ISURFX01FUkNFTkFSWV9NT0RFTFw+</text>
+        <text>cans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlpZWxkIHJldHVybiBuZXcgV2FpdEZvckVuZE9mRnJhbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzUGxheWVyICYmIHRvdXJuYW1lbnRTdGF0ZSAhPSBUb3VybmFtZW50UmF0aW5nVGFibGUuVG91cm5hbWVudFN0YXRlLkxhc3RSZXN1bHRzU2hvd2luZykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInNjcm9sbCB0byBlbmQiLkFkZFBhcmFtKGluaXRpYXRvcikuQ0xvZyhkdXJhdGlvbik7Cg==</text>
@@ -590,16 +596,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFVkVOVF9ISURFX01FUkNFTkFSWV9NT0RFTFw+</last-search>
+      <last-search>cans</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFVkVOVF9ISURFX01FUkNFTkFSWV9NT0RFTFw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>cans</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxPbldlYXBvblVwZGF0ZWRcPg==</entry>
-        <entry>data</entry>
         <entry>Data</entry>
         <entry encoding="base64">XDxTa2lsbHNVcGdyYWRlc0RhdGFcPg==</entry>
         <entry encoding="base64">XDxJbmZvXD4=</entry>
@@ -618,6 +622,8 @@
         <entry>normalized</entry>
         <entry encoding="base64">XDxub3JtYWxpemVkUG9zaXRpb25cPg==</entry>
         <entry encoding="base64">XDxFVkVOVF9ISURFX01FUkNFTkFSWV9NT0RFTFw+</entry>
+        <entry encoding="base64">XDxTaG93UmV3YXJkc1w+</entry>
+        <entry>cans</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
