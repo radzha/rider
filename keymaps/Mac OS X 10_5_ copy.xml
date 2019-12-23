@@ -37,6 +37,7 @@
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
   <action id="IntroduceParameter" />
+  <action id="IntroduceVariable" />
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta alt close_bracket" />
   </action>
@@ -59,6 +60,9 @@
   </action>
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+  </action>
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="meta alt v" />
   </action>
   <action id="ZoomCurrentWindow" />
 </keymap>
