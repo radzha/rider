@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxCYXNlSW5mb1w+</entry>
-        <entry encoding="base64">XDxJc0FsaXZlXD4=</entry>
         <entry encoding="base64">XDxDb21tYW5kc1N0cmVhbXNcPg==</entry>
         <entry encoding="base64">XDxfbGFzdEl0ZW1JbmZvXD4=</entry>
         <entry encoding="base64">XDxPbkNoYW5nZU1vbmV5SWNvblw+</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxFVkVOVF9BTklNQVRJT05fRU5ERURcPg==</entry>
         <entry encoding="base64">XDxPbkNsb3NlTmV3SXRlbVBvcHVwXD4=</entry>
         <entry encoding="base64">XDxKdW1wXD4=</entry>
+        <entry encoding="base64">XDxFbmVteUJhc2VzXD4=</entry>
+        <entry encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -94,6 +94,9 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/FightPart.cs" timestamp="1586857675760">
         <mark key="'" line="246" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1586870214547">
+        <mark key="'" line="40" column="77" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1586793076914">
         <mark key="[" line="266" column="26" />
         <mark key="]" line="266" column="27" />
@@ -122,19 +125,18 @@
         <mark key="]" line="4" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipUsePopup.cs" timestamp="1586789849827">
-        <mark key="'" line="54" column="21" />
-        <mark key="[" line="109" column="55" />
-        <mark key="]" line="109" column="55" />
-        <mark key="." line="109" column="55" />
-        <mark key="^" line="109" column="54" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1586870357255">
+        <mark key="'" line="279" column="26" />
+        <mark key="[" line="277" column="20" />
+        <mark key="]" line="278" column="26" />
+        <mark key="^" line="278" column="26" />
+        <mark key="." line="278" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" timestamp="1586779038963">
-        <mark key="[" line="7" column="31" />
-        <mark key="." line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1586857411601">
-        <mark key="'" line="272" column="20" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.BaseSquadInfo.cs" timestamp="1586869762053">
+        <mark key="[" line="42" column="24" />
+        <mark key="]" line="42" column="26" />
+        <mark key="." line="42" column="25" />
+        <mark key="^" line="42" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1586866332793">
         <mark key="[" line="0" column="0" />
@@ -180,9 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
-      <jump line="2780" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
-      <jump line="87" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
       <jump line="37" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
       <jump line="160" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" />
       <jump line="108" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" />
@@ -280,51 +279,54 @@
       <jump line="79" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" />
       <jump line="232" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
+      <jump line="39" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="40" column="77" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
+      <jump line="273" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCYXNlSW5mb1tzcXVhZC5LZXldLklzQWxpdmUgPSBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
-        <text>|</text>
+        <text>JsonUtils.JsonGetInt(&quot;count&quot;, data, 0);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKdW1wXD4=</text>
+        <text encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChFVkVOVF9BTklNQVRJT05fRU5ERUQsIHRoaXMgYXMgQ3JhZnRhYmxlQ29tbW9uUm93KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCYXNlSW5mb1tzcXVhZC5LZXldLklzQWxpdmUgPSBmYWxzZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmVhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5kZXguQ0xvZ1JlZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXguQ0xvZ1JlZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSnVtcChpbmRleCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImp1bXAiLkNMb2dCbHVlKGluZGV4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSnVtcChpbmRleCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -333,9 +335,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxKdW1wXD4=</last-search>
+      <last-search encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKdW1wXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
