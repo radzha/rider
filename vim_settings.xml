@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21tYW5kc1N0cmVhbXNcPg==</entry>
-        <entry encoding="base64">XDxfbGFzdEl0ZW1JbmZvXD4=</entry>
-        <entry encoding="base64">XDxPbkNoYW5nZU1vbmV5SWNvblw+</entry>
-        <entry encoding="base64">XDxTY3JlZW5Nb25leVw+</entry>
         <entry encoding="base64">XDxVbnN1YnNjcmliZVBsYXllclByb2ZpbGVcPg==</entry>
         <entry encoding="base64">XDxPblNjcmVlbkNsb3NlZFw+</entry>
         <entry encoding="base64">XDxfc2NyZWVuTW9uZXlcPg==</entry>
@@ -27,6 +23,10 @@
         <entry encoding="base64">XDxKdW1wXD4=</entry>
         <entry encoding="base64">XDxFbmVteUJhc2VzXD4=</entry>
         <entry encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</entry>
+        <entry>air</entry>
+        <entry encoding="base64">XDxPbkJhc2VzTG9hZGVkXD4=</entry>
+        <entry>helico</entry>
+        <entry encoding="base64">XDxCYXNlSW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -97,11 +97,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1586870214547">
         <mark key="'" line="40" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1586793076914">
-        <mark key="[" line="266" column="26" />
-        <mark key="]" line="266" column="27" />
-        <mark key="^" line="266" column="13" />
-        <mark key="." line="266" column="27" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" timestamp="1586870573674">
+        <mark key="'" line="125" column="17" />
       </file>
       <file name="/FinishFightCommand.cs" timestamp="1586857159146">
         <mark key="'" line="201" column="33" />
@@ -125,20 +122,20 @@
         <mark key="]" line="4" column="50" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1586870357255">
-        <mark key="'" line="279" column="26" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" timestamp="1586872622101">
+        <mark key="'" line="63" column="16" />
         <mark key="[" line="277" column="20" />
         <mark key="]" line="278" column="26" />
         <mark key="^" line="278" column="26" />
         <mark key="." line="278" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.BaseSquadInfo.cs" timestamp="1586869762053">
-        <mark key="[" line="42" column="24" />
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="25" />
-        <mark key="^" line="42" column="26" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.BaseSquadInfo.cs" timestamp="1586872647864">
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="43" column="26" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586866332793">
+      <file name="/Dummy.txt" timestamp="1586872608685">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" timestamp="1586863129104">
@@ -157,9 +154,11 @@
         <mark key="." line="254" column="39" />
         <mark key="^" line="254" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" timestamp="1586793006601">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="49" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" timestamp="1586871782702">
+        <mark key="'" line="76" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" timestamp="1586872310380">
+        <mark key="'" line="102" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1586860809771">
         <mark key="'" line="38" column="4" />
@@ -174,24 +173,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1586859995195">
         <mark key="'" line="396" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanTabsScreen.cs" timestamp="1586793348999">
-        <mark key="'" line="4" column="32" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="50" />
-        <mark key="." line="6" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
-      <jump line="160" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" />
-      <jump line="108" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/ItemAbilityRowView.cs" />
-      <jump line="387" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
-      <jump line="396" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
-      <jump line="445" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
-      <jump line="90" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
-      <jump line="40" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsRowView.cs" />
-      <jump line="146" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponTasksInfos.cs" />
-      <jump line="20" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/WeaponTasksInfos.cs" />
       <jump line="3498" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
       <jump line="2867" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
       <jump line="2357" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/EasyMovieTexture/Scripts/MediaPlayerCtrl.cs" />
@@ -211,15 +194,6 @@
       <jump line="144" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="201" column="33" filename="/FinishFightCommand.cs" />
       <jump line="25" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="42" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="68" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="107" column="94" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="116" column="90" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="197" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="199" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="200" column="120" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="204" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="40" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
       <jump line="287" column="91" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
       <jump line="272" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
       <jump line="141" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/FightPart.cs" />
@@ -282,6 +256,25 @@
       <jump line="39" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
       <jump line="40" column="77" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
       <jump line="273" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="125" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
+      <jump line="76" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
+      <jump line="42" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="68" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="107" column="94" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="116" column="90" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="197" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="199" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="200" column="120" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="204" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="267" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="268" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="270" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="295" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="246" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="40" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="44" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="63" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
+      <jump line="102" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -293,7 +286,7 @@
         <text>JsonUtils.JsonGetInt(&quot;count&quot;, data, 0);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</text>
+        <text encoding="base64">XDxCYXNlSW5mb1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChFVkVOVF9BTklNQVRJT05fRU5ERUQsIHRoaXMgYXMgQ3JhZnRhYmxlQ29tbW9uUm93KTsK</text>
@@ -335,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</last-search>
+      <last-search encoding="base64">XDxCYXNlSW5mb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxCYXNlSW5mb1w+</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
