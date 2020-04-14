@@ -135,7 +135,7 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586880989160">
+      <file name="/Dummy.txt" timestamp="1586881176988">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" timestamp="1586863129104">
@@ -147,12 +147,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Helicopters/CraftableCommonRow.cs" timestamp="1586865067729">
         <mark key="'" line="210" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1586881172902">
-        <mark key="'" line="266" column="0" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="^" line="247" column="63" />
-        <mark key="." line="245" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" timestamp="1586885669211">
+        <mark key="'" line="256" column="0" />
+        <mark key="[" line="250" column="16" />
+        <mark key="]" line="253" column="39" />
+        <mark key="^" line="253" column="39" />
+        <mark key="." line="253" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" timestamp="1586871782702">
         <mark key="'" line="76" column="21" />
@@ -175,11 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/FightPart.cs" />
-      <jump line="246" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/FightPart.cs" />
-      <jump line="25" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" />
-      <jump line="28" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" />
-      <jump line="30" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" />
       <jump line="48" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" />
       <jump line="200" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
       <jump line="216" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
@@ -256,7 +251,6 @@
       <jump line="236" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="238" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="240" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="250" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="67" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="137" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="139" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
@@ -275,15 +269,21 @@
       <jump line="71" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentEnemyBases.cs" />
       <jump line="59" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentEnemyBases.cs" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentEnemyBases.cs" />
+      <jump line="252" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
+      <jump line="244" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
+      <jump line="258" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
+      <jump line="254" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
+      <jump line="250" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
+      <jump line="256" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoJCJaZXJvIGxpbmVzIHNpdHVhdGlvbntmaWdodC5FbmVteUJhc2VJbmZvfSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzQ29tcGxldGVkCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGluZm8uR2V0</text>
+        <text>fightInfo.PlayerStatistics.LinesStatistics.IsActuallyWinner</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJc0FjdHVhbGx5V2lubmVyXD4=</text>
@@ -292,34 +292,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiYXNlU3RyID0gaW5mby5PcmRlckJ5KGkgPT4gaS5LZXkpCiAgICAgICAgICAgICAgICAgICAgLlNlbGVjdChpID0+IGkuVmFsdWUuQ291bnQgPiAwID8gaS5LZXkgKyAiLSIgKyBpLlZhbHVlLlVuaXRJZCA6ICIiKS5HZXRTZXEoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoJCJaZXJvIGxpbmVzIHNpdHVhdGlvbntmaWdodC5FbmVteUJhc2VJbmZvfSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzQ29tcGxldGVkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdW50ID0gMTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuU2VsZWN0KGkgPT4gaS5WYWx1ZS5Db3VudCA+IDAgPyBpLktleSArICItIiArIGkuVmFsdWUuVW5pdElkIDogIiIpLkdldFNlcSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhc2tzQ29tcGxldGVkID0gTWF0aGYuTWF4KHRhc2tzQ29tcGxldGVkLCAxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpbmZvID0gQGJhc2UuVmFsdWUuQmFzZUluZm87Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmVzQ29tcGxldGVkID0gTWF0aGYuTWF4KGxpbmVzQ29tcGxldGVkLCAxKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlYnVnLkxvZ0Vycm9yKCQiWmVybyBsaW5lcyBzaXR1YXRpb24hIHtmaWdodC5FbmVteUJhc2VJbmZvfSIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5HZXRTZXEoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChsaW5lc0NvdW50ID09IDApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgbGluZXNDb21wbGV0ZWQgPSBNYXRoZi5NYXgobGluZXNDb21wbGV0ZWQsIDEpOwogICAgICAgICAgICAgICAgICAgIHRhc2tzQ29tcGxldGVkID0gTWF0aGYuTWF4KHRhc2tzQ29tcGxldGVkLCAxKTsKICAgICAgICAgICAgICAgICAgICBEZWJ1Zy5Mb2dFcnJvcigkIlplcm8gbGluZXMgc2l0dWF0aW9uISB7ZmlnaHQuRW5lbXlCYXNlSW5mb30iKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RyaW5nIEJhc2VJbmZvVG9TdHJpbmcoKQogICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgfQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoJCJaZXJvIGxpbmVzIHNpdHVhdGlvbntmaWdodC5FbmVteUJhc2VJbmZvfSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
