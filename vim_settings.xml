@@ -101,10 +101,10 @@
         <mark key="]" line="62" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1586949759125">
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="25" />
-        <mark key="." line="72" column="25" />
-        <mark key="^" line="68" column="68" />
+        <mark key="[" line="66" column="25" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="62" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfoComponents/ChipsInfo.cs" timestamp="1586946002579">
         <mark key="[" line="47" column="0" />
@@ -151,11 +151,11 @@
       <file name="/Dummy.txt" timestamp="1586946631655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1586946046588">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1586952833759">
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="33" column="71" />
+        <mark key="." line="33" column="70" />
+        <mark key="^" line="33" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1586945991107">
         <mark key="'" line="614" column="12" />
@@ -271,46 +271,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGlwc0luZm9cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsicG9saWN5IiwgcG9saWN5fSwK</text>
+      <register name="0" type="4">
+        <text>JsonUtils.JsonGetString(&quot;title&quot;, clanData);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbQW1mUHJvcGVydHkoInRpdGxlIildIHB1YmxpYyBzdHJpbmcgVGl0bGUgeyBnZXQ7IH0KICAgICAgICBbQW1mUHJvcGVydHkoImFib3V0IildIHB1YmxpYyBzdHJpbmcgRGVzY3JpcHRpb24geyBnZXQ7IH0KICAgICAgICBbQW1mUHJvcGVydHkoImNvdW50cnkiKV0gcHVibGljIHN0cmluZyBDb3VudHJ5IHsgZ2V0OyB9CiAgICAgICAgW0FtZlByb3BlcnR5KCJwb2xpY3kiKV0gcHVibGljIGludCBQb2xpY3kgeyBnZXQ7IH0KICAgICAgICBbQW1mUHJvcGVydHkoImJhbm5lciIpXSBwdWJsaWMgRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gQmFubmVyIHsgZ2V0OyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhbkRhdGEuVHJ5R2V0VmFsdWUoInVpZCIsIG91dCB2YXIgdWlkKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBvbGljeSA9IHBvbGljeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSWQgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvdW50cnkgPSBjb3VudHJ5Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmFubmVyID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHsic2NoZW1lIiwgc2NoZW1lfSwKICAgICAgICAgICAgICAgIHsiaWNvbiIsIGljb259LAogICAgICAgICAgICAgICAgeyJjb2xvciIsIGNvbG9yfSwKICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBhaXIgaW4gY2xhbkRhdGEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9uZXkgcHJpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByaWNlID0gX3N0b3JhZ2UuQ2xhblNldHRpbmdzLkNyZWF0ZUNvc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByaWNlID0gX3N0b3JhZ2UuQ2xhblNldHRpbmdzLkNyZWF0ZUNvc3Q7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
