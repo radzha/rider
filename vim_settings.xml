@@ -151,11 +151,12 @@
       <file name="/Dummy.txt" timestamp="1586946631655">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1586952833759">
-        <mark key="[" line="33" column="63" />
-        <mark key="]" line="33" column="71" />
-        <mark key="." line="33" column="70" />
-        <mark key="^" line="33" column="71" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1586954499253">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="44" column="75" />
+        <mark key="]" line="44" column="81" />
+        <mark key="." line="44" column="80" />
+        <mark key="^" line="44" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1586945991107">
         <mark key="'" line="614" column="12" />
@@ -166,8 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" />
-      <jump line="79" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
       <jump line="209" column="49" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
       <jump line="230" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
       <jump line="236" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" />
@@ -266,51 +265,53 @@
       <jump line="330" column="50" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="616" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="4" column="47" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansSearchScreen.cs" />
+      <jump line="44" column="31" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
+      <jump line="9" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>newMemberCooldown</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>newMemberCooldown</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDaGlwc0luZm9cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>JsonUtils.JsonGetString(&quot;title&quot;, clanData);</text>
+        <text>JsonUtils.JsonGetInt(&quot;newMemberCooldown&quot;, clanData);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhbkRhdGEuVHJ5R2V0VmFsdWUoInVpZCIsIG91dCB2YXIgdWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSWQgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xhbkRhdGEuVHJ5R2V0VmFsdWUoInVpZCIsIG91dCB2YXIgdWlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSWQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBhaXIgaW4gY2xhbkRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHBhaXIgaW4gY2xhbkRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
