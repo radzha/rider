@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxIZWxpY29wdGVyQXR0YWNrc1w+</entry>
-        <entry>air</entry>
         <entry encoding="base64">XDxPbkJhc2VzTG9hZGVkXD4=</entry>
         <entry>helico</entry>
         <entry encoding="base64">XDxCYXNlSW5mb1w+</entry>
@@ -27,6 +25,8 @@
         <entry>closing</entry>
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>onclick</entry>
+        <entry encoding="base64">XDxfbGFuZ3VhZ2VJdGVtUG9vbFw+</entry>
+        <entry encoding="base64">XDxMYW5ndWFnZUl0ZW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -91,12 +91,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" timestamp="1587030607956">
-        <mark key="'" line="92" column="8" />
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="26" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="26" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" timestamp="1587031556254">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1587028963217">
         <mark key="'" line="127" column="47" />
@@ -111,7 +110,7 @@
         <mark key="^" line="4" column="51" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageItem.cs" timestamp="1587030134743">
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageItem.cs" timestamp="1587031087057">
         <mark key="'" line="5" column="47" />
         <mark key="[" line="10" column="9" />
         <mark key="]" line="11" column="82" />
@@ -119,11 +118,11 @@
         <mark key="^" line="11" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/MultiOfferShowCommand.cs" timestamp="1587027642485" />
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageItem.cs" timestamp="1587030751857">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="88" />
-        <mark key="^" line="46" column="23" />
-        <mark key="." line="46" column="22" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageItem.cs" timestamp="1587031492961">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanCreateCommand.cs" timestamp="1586955092583">
         <mark key="[" line="25" column="21" />
@@ -138,12 +137,6 @@
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/SplashScreen/TipsView.cs" timestamp="1587027831096" />
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Chips/ChipsRowView.cs" timestamp="1587027453736">
         <mark key="'" line="17" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansSearchScreen.cs" timestamp="1586946998824">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanTabsScreen.cs" timestamp="1587026001062">
         <mark key="'" line="6" column="32" />
@@ -170,16 +163,23 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587030755859">
-        <mark key="'" line="22" column="41" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="88" />
-        <mark key="^" line="16" column="47" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587031582006">
+        <mark key="'" line="6" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="81" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/RatingBar.cs" timestamp="1586955541803">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="34" column="51" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" timestamp="1587031546351">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="5" />
+        <mark key="^" line="24" column="35" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/SettingsScreen.cs" timestamp="1587028208731">
         <mark key="'" line="412" column="35" />
@@ -188,17 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="63" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EnemyBaseInfo.cs" />
-      <jump line="102" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
-      <jump line="232" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="236" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="238" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="240" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="67" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="137" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="139" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
-      <jump line="141" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
       <jump line="18" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/TournamentBaseLinesStatistics.cs" />
       <jump line="143" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsScreen.cs" />
       <jump line="245" column="89" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/FinishFightCommand.cs" />
@@ -288,51 +277,62 @@
       <jump line="39" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" />
       <jump line="90" column="8" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" />
       <jump line="10" column="41" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
+      <jump line="68" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" />
+      <jump line="24" column="48" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" />
+      <jump line="21" column="34" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
+      <jump line="26" column="54" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
+      <jump line="78" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
+      <jump line="80" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
+      <jump line="82" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
+      <jump line="9" column="79" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNldHRpbmdzU2NyZWVuLlNXSVRDSF9MQU5HVUFHRV9TRUxFQ1RJT05fU1RBVEUpOwo=</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>arg1</text>
+        <text>LanguageSelection</text>
       </register>
       <register name="/" type="4">
-        <text>onclick</text>
+        <text encoding="base64">XDxMYW5ndWFnZUl0ZW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNldHRpbmdzU2NyZWVuLlNXSVRDSF9MQU5HVUFHRV9TRUxFQ1RJT05fU1RBVEUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">dXNpbmcgVW5pdHlFbmdpbmU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25EaXNhYmxlKCkgCiAgICAgICAgewogICAgICAgICAgICBVdGlscy5EaXNwb3NlQW5kU2V0TnVsbChyZWYgX3N1YnNjcmlwdGlvbnMpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBBc3NldHMuU2NyaXB0cy5Db21tb247CnVzaW5nIFNlcnZlckRhdGE7CnVzaW5nIFVJLlNjcmVlbnMuQ29tbW9uOwp1c2luZyBVbml0eUVuZ2luZTsKdXNpbmcgWWFyeDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgZGlzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N1YnNjcmlwdGlvbnMgPSBuZXcgQ29tcG9zaXRlRGlzcG9zYWJsZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5TdWJzY3JpYmUoU2V0dGluZ3NTY3JlZW4uU1dJVENIX0xBTkdVQUdFX1NFTEVDVElPTl9TVEFURSwgT25Td2l0Y2hTdGF0ZSkKICAgICAgICAgICAgfTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGR7fV0KICAgICAgICBwcml2YXRlIExhbmd1YWdlSXRlbSBfbGFuZ3VhZ2VJdGVtUHJlZmFiOwogICAgICAgIFtTZXJpYWxpemVGaWVsZF0KICAgICAgICBwcm90ZWN0ZWQgTGFuZ3VhZ2VJdGVtIF9jdXJyZW50TGFuZ3VhZ2U7CgogICAgICAgIFtTZXJpYWxpemVGaWVsZF0KICAgICAgICBwcml2YXRlIFJlY3RUcmFuc2Zvcm0gX2l0ZW1zUGFyZW50OwoKICAgICAgICBwcm90ZWN0ZWQgc3RyaW5nIEN1cnJlbnRMYW5ndWFnZUNvZGU7CiAgICAgICAgCiAgICAgICAgcHJpdmF0ZSBNb25vQmVoYXZpb3VyUG9vbDxMYW5ndWFnZUl0ZW0+IF9sYW5ndWFnZUl0ZW1Qb29sOwogICAgICAgIHByb3RlY3RlZCBDb21wb3NpdGVEaXNwb3NhYmxlIF9zdWJzY3JpcHRpb25zOwoKICAgICAgICBwcml2YXRlIHZvaWQgQXdha2UoKQogICAgICAgIHsKICAgICAgICAgICAgX2xhbmd1YWdlSXRlbVBvb2wgPSBuZXcgTW9ub0JlaGF2aW91clBvb2w8TGFuZ3VhZ2VJdGVtPihfbGFuZ3VhZ2VJdGVtUHJlZmFiLCBfaXRlbXNQYXJlbnQpOwogICAgICAgICAgICBJbml0aWFsaXplQ3VycmVudExhbmd1YWdlSXRlbSgpOwogICAgICAgIH0KCiAgICAgICAgcHJvdGVjdGVkIHZpcnR1YWwgdm9pZCBPbkVuYWJsZSgpCiAgICAgICAgewogICAgICAgICAgICBfc3Vic2NyaXB0aW9ucyA9IG5ldyBDb21wb3NpdGVEaXNwb3NhYmxlCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZShTZXR0aW5nc1NjcmVlbi5TV0lUQ0hfTEFOR1VBR0VfU0VMRUNUSU9OX1NUQVRFLCBPblN3aXRjaFN0YXRlKQogICAgICAgICAgICB9OwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSB2b2lkIE9uU3dpdGNoU3RhdGUoKQogICAgICAgIHsKICAgICAgICAgICAgSW5pdGlhbGl6ZUN1cnJlbnRMYW5ndWFnZUl0ZW0oKTsKICAgICAgICAgICAgSW5pdGlhbGl6ZUxhbmd1YWdlSXRlbXMoKTsKICAgICAgICB9CgogICAgICAgIHByaXZhdGUgdm9pZCBJbml0aWFsaXplQ3VycmVudExhbmd1YWdlSXRlbSgpCiAgICAgICAgewogICAgICAgICAgICB2YXIgc3RvcmFnZSA9IFN0b3JhZ2UuR2V0U3RvcmFnZSgpOwogICAgICAgICAgICB2YXIgY3VycmVudExhbmd1YWdlID0gR2V0Q3VycmVudExhbmd1YWdlKCk7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBsYW5ndWFnZXMgaW4gc3RvcmFnZS5MYW5ndWFnZXMuVmFsdWVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAobGFuZ3VhZ2VzLkxhbmd1YWdlID09IGN1cnJlbnRMYW5ndWFnZSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBfY3VycmVudExhbmd1YWdlLkluaXRpYWxpemUobGFuZ3VhZ2VzLkZsYWdDb2RlLCBsYW5ndWFnZXMuTGFuZ3VhZ2UuVG9Mb3dlcigpLCBsYW5ndWFnZXMuVGl0bGUsIHRydWUpOwogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBwcm90ZWN0ZWQgdmlydHVhbCBzdHJpbmcgR2V0Q3VycmVudExhbmd1YWdlKCkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiBVdGlscy5HZXRMYW5ndWFnZUNvZGUoKTsKICAgICAgICB9CgogICAgICAgIHByb3RlY3RlZCB2b2lkIEluaXRpYWxpemVMYW5ndWFnZUl0ZW1zKCkKICAgICAgICB7CiAgICAgICAgICAgIF9sYW5ndWFnZUl0ZW1Qb29sLlJlbGVhc2VBbGwoKTsKCiAgICAgICAgICAgIHZhciBzdG9yYWdlID0gU3RvcmFnZS5HZXRTdG9yYWdlKCk7CiAgICAgICAgICAgIHZhciBjdXJyZW50TGFuZ3VhZ2UgPSBHZXRDdXJyZW50TGFuZ3VhZ2UoKTsKICAgICAgICAgICAgdmFyIHNvcnRpbmdJbmRleCA9IDE7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBsYW5ndWFnZXMgaW4gc3RvcmFnZS5MYW5ndWFnZXMuVmFsdWVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoIWxhbmd1YWdlcy5Jc1JlYWR5KQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB2YXIgaXNTZWxlY3RlZCA9IGxhbmd1YWdlcy5MYW5ndWFnZSA9PSBjdXJyZW50TGFuZ3VhZ2U7CiAgICAgICAgICAgICAgICB2YXIgbGFuZ3VhZ2VJdGVtID0gX2xhbmd1YWdlSXRlbVBvb2wuVGFrZSgpOwoKICAgICAgICAgICAgICAgIGxhbmd1YWdlSXRlbS5Jbml0aWFsaXplKGxhbmd1YWdlcy5GbGFnQ29kZSwgbGFuZ3VhZ2VzLkxhbmd1YWdlLlRvTG93ZXIoKSwgbGFuZ3VhZ2VzLlRpdGxlLCBpc1NlbGVjdGVkKTsKCiAgICAgICAgICAgICAgICB2YXIgcmVjdFRyYW5zZm9ybSA9IGxhbmd1YWdlSXRlbS50cmFuc2Zvcm0gYXMgUmVjdFRyYW5zZm9ybTsKICAgICAgICAgICAgICAgIHJlY3RUcmFuc2Zvcm0uU2V0U2libGluZ0luZGV4KHNvcnRpbmdJbmRleCk7CgogICAgICAgICAgICAgICAgc29ydGluZ0luZGV4Kys7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgCiAgICAgICAgcHJpdmF0ZSB2b2lkIE9uRGlzYWJsZSgpIAogICAgICAgIHsKICAgICAgICAgICAgVXRpbHMuRGlzcG9zZUFuZFNldE51bGwocmVmIF9zdWJzY3JpcHRpb25zKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vLyA8c3VtbWFyeT4KICAgIC8vLyDQktGL0L/QsNC00LDRjtGJ0LjQuSDRgdC/0LjRgdC+0Log0YEg0L/Rg9C90LrRgtCw0LzQuCDQvNC10L3RjgogICAgLy8vIDwvc3VtbWFyeT4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5PbkNsaWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ld1ZhbHVlID49IDApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25EaXNhYmxlKCkgCiAgICAgICAgewogICAgICAgICAgICBVdGlscy5EaXNwb3NlQW5kU2V0TnVsbChyZWYgX3N1YnNjcmlwdGlvbnMpOwogICAgICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0ZXAgPSAxMDsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgZGlzCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -341,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onclick</last-search>
+      <last-search encoding="base64">XDxMYW5ndWFnZUl0ZW1cPg==</last-search>
       <last-offset />
-      <last-pattern>onclick</last-pattern>
+      <last-pattern encoding="base64">XDxMYW5ndWFnZUl0ZW1cPg==</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
