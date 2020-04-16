@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>leng</entry>
         <entry encoding="base64">XDxPblZhbGlkYXRlSW5wdXRcPg==</entry>
         <entry>adsf</entry>
         <entry>vali</entry>
@@ -27,6 +26,7 @@
         <entry>bank</entry>
         <entry encoding="base64">XDxPZmZlcnNcPg==</entry>
         <entry>sku</entry>
+        <entry encoding="base64">XDxSZXNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -153,15 +153,15 @@
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/PlayerProfile/PlayerProfileTab.cs" timestamp="1587033313084">
         <mark key="'" line="55" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" timestamp="1587051132599">
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" timestamp="1587052085933">
         <mark key="'" line="269" column="70" />
         <mark key="[" line="269" column="54" />
         <mark key="]" line="269" column="74" />
         <mark key="^" line="269" column="74" />
         <mark key="." line="269" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" timestamp="1587048786212">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" timestamp="1587053146438">
+        <mark key="'" line="72" column="79" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="70" column="23" />
@@ -177,7 +177,7 @@
         <mark key="." line="47" column="84" />
         <mark key="^" line="47" column="85" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587040113343">
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587053200958">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -205,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
-      <jump line="80" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
       <jump line="82" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
       <jump line="9" column="79" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
       <jump line="98" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
@@ -305,6 +303,8 @@
       <jump line="269" column="70" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
       <jump line="372" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
       <jump line="404" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" />
+      <jump line="64" column="32" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
+      <jump line="72" column="79" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +316,7 @@
         <text>multioffer.Sku</text>
       </register>
       <register name="/" type="4">
-        <text>sku</text>
+        <text encoding="base64">XDxSZXNldFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvZHVjdHMuQWRkKG5ldyBLZXlWYWx1ZVBhaXI8c3RyaW5nLCBzdHJpbmc+KG11bHRpb2ZmZXIuU2t1LCAiY29ucyIpKTsK</text>
@@ -358,12 +358,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sku</last-search>
+      <last-search encoding="base64">XDxSZXNldFw+</last-search>
       <last-offset />
-      <last-pattern>sku</last-pattern>
+      <last-pattern encoding="base64">XDxSZXNldFw+</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
