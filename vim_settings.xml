@@ -135,12 +135,11 @@
         <mark key="^" line="222" column="51" />
         <mark key="." line="222" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1587128753923">
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1587131393960">
         <mark key="'" line="305" column="16" />
-        <mark key="[" line="912" column="52" />
-        <mark key="]" line="912" column="62" />
-        <mark key="." line="912" column="61" />
-        <mark key="^" line="912" column="62" />
+        <mark key="[" line="915" column="0" />
+        <mark key="]" line="915" column="0" />
+        <mark key="." line="915" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ItemEvolutionHandler.cs" timestamp="1587124555712">
         <mark key="'" line="151" column="21" />
@@ -156,15 +155,19 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="153" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" timestamp="1587127495968">
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" timestamp="1587132417585">
         <mark key="'" line="8" column="44" />
-        <mark key="[" line="72" column="53" />
-        <mark key="]" line="72" column="66" />
-        <mark key="^" line="72" column="66" />
-        <mark key="." line="72" column="65" />
+        <mark key="[" line="69" column="23" />
+        <mark key="]" line="69" column="36" />
+        <mark key="^" line="69" column="36" />
+        <mark key="." line="69" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MultiOffers.cs" timestamp="1587110788299">
-        <mark key="'" line="19" column="34" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1587132694209">
+        <mark key="'" line="49" column="81" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="98" />
+        <mark key="^" line="54" column="47" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587127405781">
         <mark key="'" line="19" column="0" />
@@ -296,46 +299,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNsYW5EYXRhLkNvbnRhaW5zS2V5KCJ0aXRsZSIpKSBUaXRsZSA9IEpzb25VdGlscy5Kc29uR2V0U3RyaW5nKCJ0aXRsZSIsIGNsYW5EYXRhKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ClanCreateCommand</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfc3FcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOiBiYXNlKEVWRU5ULCB0aXRsZSwgZGVzY3JpcHRpb24sIGNvdW50cnksIHBvbGljeSwgcG93ZXIsIGRlZmVuY2UsIHNjaGVtZSwgaWNvbiwgY29sb3IpCg==</text>
+      <register name="0" type="4">
+        <text>if (clanData.ContainsKey(&quot;title&quot;)) T</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNsYW5EYXRhLkNvbnRhaW5zS2V5KCJ0aXRsZSIpKSBUaXRsZSA9IEpzb25VdGlscy5Kc29uR2V0U3RyaW5nKCJ0aXRsZSIsIGNsYW5EYXRhKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgc3RyaW5nIENvbW1hbmRFdmVudCB7IGdldDsgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGVhZGVySWQgPSBKc29uVXRpbHMuSnNvbkdldEludCgibGVhZGVySWQiLCBjbGFuRGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgc3RyaW5nIENvbW1hbmRFdmVudCA9PiBFVkVOVDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgb3ZlcnJpZGUgc3RyaW5nIENvbW1hbmRFdmVudCA9PiBFVkVOVDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhbm5lciA9IG5ldyBEaWN0aW9uYXJ5PHN0cmluZywgb2JqZWN0PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB7InNjaGVtZSIsIHNjaGVtZX0sCiAgICAgICAgICAgICAgICB7Imljb24iLCBpY29ufSwKICAgICAgICAgICAgICAgIHsiY29sb3IiLCBjb2xvcn0sCiAgICAgICAgICAgIH07CgogICAgICAgICAgICBDbGFuID0gbmV3IERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHsidGl0bGUiLCB0aXRsZX0sCiAgICAgICAgICAgICAgICB7ImFib3V0IiwgZGVzY3JpcHRpb259LAogICAgICAgICAgICAgICAgeyJjb3VudHJ5IiwgY291bnRyeS5Ub1VwcGVySW52YXJpYW50KCl9LAogICAgICAgICAgICAgICAgeyJwb2xpY3kiLCBwb2xpY3kgKyAxfSwKICAgICAgICAgICAgICAgIHsiYmFubmVyIiwgYmFubmVyfSwKICAgICAgICAgICAgICAgIHsicG93ZXIiLCBwb3dlcn0sCiAgICAgICAgICAgICAgICB7ImJhc2VQb3dlciIsIGRlZmVuY2V9LAogICAgICAgICAgICB9Owo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBbQW1mUHJvcGVydHkoImNsYW4iKV0gcHVibGljIERpY3Rpb25hcnk8c3RyaW5nLCBvYmplY3Q+IENsYW4geyBnZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
