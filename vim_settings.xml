@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bank</entry>
-        <entry encoding="base64">XDxPZmZlcnNcPg==</entry>
         <entry>sku</entry>
         <entry encoding="base64">XDxfcmV3YXJkc1w+</entry>
         <entry encoding="base64">XDxBdmFpbGFibGVNdWx0aU9mZmVyUHJvZHVjdHNcPg==</entry>
@@ -27,6 +25,8 @@
         <entry>&quot;sq</entry>
         <entry>sendcommand</entry>
         <entry encoding="base64">XDxfc3FcPg==</entry>
+        <entry>valid</entry>
+        <entry>min</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -100,12 +100,12 @@
         <mark key="^" line="5" column="24" />
         <mark key="." line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1587127483716">
-        <mark key="'" line="126" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="77" />
-        <mark key="^" line="124" column="77" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1587133875794">
+        <mark key="'" line="121" column="65" />
+        <mark key="[" line="108" column="45" />
+        <mark key="]" line="108" column="81" />
+        <mark key="^" line="108" column="81" />
+        <mark key="." line="108" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/UninstallChipHandler.cs" timestamp="1587125861988">
         <mark key="'" line="74" column="58" />
@@ -128,18 +128,18 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Tools/MRGS/MrgsBankController.cs" timestamp="1587110819604">
-        <mark key="'" line="353" column="20" />
-        <mark key="[" line="222" column="57" />
-        <mark key="]" line="222" column="51" />
-        <mark key="^" line="222" column="51" />
-        <mark key="." line="222" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1587131393960">
         <mark key="'" line="305" column="16" />
         <mark key="[" line="915" column="0" />
         <mark key="]" line="915" column="0" />
         <mark key="." line="915" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" timestamp="1587133835730">
+        <mark key="'" line="57" column="51" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="138" column="26" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ItemEvolutionHandler.cs" timestamp="1587124555712">
         <mark key="'" line="151" column="21" />
@@ -162,12 +162,15 @@
         <mark key="^" line="69" column="36" />
         <mark key="." line="69" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1587132694209">
+      <file name="/Dummy.txt" timestamp="1587133766641">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1587134570697">
         <mark key="'" line="49" column="81" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="98" />
+        <mark key="[" line="54" column="81" />
+        <mark key="]" line="54" column="81" />
         <mark key="^" line="54" column="47" />
-        <mark key="." line="52" column="0" />
+        <mark key="." line="54" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587127405781">
         <mark key="'" line="19" column="0" />
@@ -185,21 +188,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/EvoType.cs" timestamp="1587124606900">
         <mark key="'" line="74" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipOffer.cs" timestamp="1587111604900">
-        <mark key="'" line="62" column="0" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="59" column="34" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="22" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
-      <jump line="31" column="50" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
-      <jump line="25" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
-      <jump line="81" column="55" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
-      <jump line="87" column="56" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" />
-      <jump line="479" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
       <jump line="163" column="60" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
       <jump line="240" column="1" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
@@ -209,7 +199,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanTabsScreen.cs" />
       <jump line="4" column="32" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
       <jump line="88" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
       <jump line="16" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
       <jump line="26" column="31" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
@@ -294,18 +283,25 @@
       <jump line="23" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/CommandBase.cs" />
       <jump line="2" column="59" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanChangeCommand.cs" />
       <jump line="11" column="52" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanCreateCommand.cs" />
+      <jump line="11" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" />
+      <jump line="57" column="51" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" />
+      <jump line="11" column="17" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
+      <jump line="45" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
+      <jump line="113" column="55" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
+      <jump line="120" column="71" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
+      <jump line="121" column="65" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNsYW5EYXRhLkNvbnRhaW5zS2V5KCJ0aXRsZSIpKSBUaXRsZSA9IEpzb25VdGlscy5Kc29uR2V0U3RyaW5nKCJ0aXRsZSIsIGNsYW5EYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text>defence</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>defence</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc3FcPg==</text>
+        <text>min</text>
       </register>
       <register name="0" type="4">
         <text>if (clanData.ContainsKey(&quot;title&quot;)) T</text>
@@ -347,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfc3FcPg==</last-search>
+      <last-search>min</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc3FcPg==</last-pattern>
+      <last-pattern>min</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
