@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxVcGRhdGVJdGVtc1w+</entry>
         <entry encoding="base64">XDxHZXRVc2VySW5mb1w+</entry>
         <entry encoding="base64">XDxIYW5kbGVDaGFuZ2VFdm9sdmVcPg==</entry>
         <entry encoding="base64">XDxDaGFuZ2VNZXRhXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxTdG9yYWdlXD4=</entry>
         <entry encoding="base64">XDxsZWFkZXJfaWRcPg==</entry>
         <entry encoding="base64">XDxzdG9yYWdlXD4=</entry>
+        <entry encoding="base64">XDxDYXBhY2l0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -123,12 +123,12 @@
       <file name="/Dummy.txt" timestamp="1587135182927">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1587380788655">
-        <mark key="'" line="34" column="35" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="57" column="12" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1587381830920">
+        <mark key="'" line="57" column="8" />
+        <mark key="[" line="39" column="9" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="30" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/CommandBase.cs" timestamp="1587128804234">
         <mark key="'" line="23" column="26" />
@@ -204,10 +204,7 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
-      <jump line="47" column="46" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
       <jump line="78" column="74" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
-      <jump line="47" column="81" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="36" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsScreenOpenOnClick.cs" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsScreenOpenOnClick.cs" />
       <jump line="44" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsScreenOpenOnClick.cs" />
@@ -304,51 +301,54 @@
       <jump line="52" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="63" column="43" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="35" column="35" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
+      <jump line="31" column="19" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
+      <jump line="105" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
+      <jump line="47" column="8" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">RGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gZGF0YQ==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yYWdlXD4=</text>
+        <text encoding="base64">XDxDYXBhY2l0eVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNsYW5EYXRhLkNvbnRhaW5zS2V5KCJsZWFkZXJJZCIpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBMZWFkZXJJZCA9IEpzb25VdGlscy5Kc29uR2V0SW50KCJsZWFkZXJJZCIsIGNsYW5EYXRhKTsKICAgICAgICAgICAgfWVsc2UgCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">RGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gZGF0YQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU2VydmVyRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZWxzZSAKICAgICAgICAgICAg</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGE7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRm9ybWF0KCJbVG9wUGxheWVyXSBsb2FkIik7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHVibGljIHZvaWQgVXBkYXRlTWFpbkluZm8oRGljdGlvbmFyeTxzdHJpbmcsIG9iamVjdD4gZGF0YSkKICAgICAgICB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2lzTG9hZGluZyA9IHRydWU7Cg==</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyRGF0YTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2lzTG9hZGVkID0gZmFsc2U7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZWxzZSAKICAgICAgICAgICAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pc0xvYWRpbmcpIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -357,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdG9yYWdlXD4=</last-search>
+      <last-search encoding="base64">XDxDYXBhY2l0eVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yYWdlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxDYXBhY2l0eVw+</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
