@@ -148,12 +148,6 @@
         <mark key="^" line="5" column="53" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ItemSlotPair.cs" timestamp="1587125392901">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanChangeCommand.cs" timestamp="1587129304977">
         <mark key="'" line="2" column="59" />
         <mark key="[" line="2" column="37" />
@@ -198,11 +192,14 @@
         <mark key="^" line="68" column="4" />
         <mark key="." line="68" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansSearchScreen.cs" timestamp="1587372355236">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="26" />
-        <mark key="." line="16" column="25" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" timestamp="1587373573763">
+        <mark key="'" line="296" column="26" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansSearchScreen.cs" timestamp="1587374095396">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/UninstallChipHandler.cs" timestamp="1587125861988">
         <mark key="'" line="74" column="58" />
@@ -212,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
       <jump line="16" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
       <jump line="26" column="31" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
       <jump line="51" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
@@ -312,12 +308,13 @@
       <jump line="102" column="30" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="19" column="29" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="92" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
+      <jump line="296" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/TournamentInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>PadLeft()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX2lzTG9hZGluZyA9IHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>PadLeft()</text>
@@ -329,34 +326,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHN0cmluZyBVUkxfUEFUVEVSTiA9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2lzTG9hZGluZyA9IHRydWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvdW50UGxheWVycyA9IFN0b3JhZ2UuR2V0U3RvcmFnZSgpLkxlYWd1ZXNTZXR0aW5ncy5Db3VudFBsYXllckluVG9wTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2lzTG9hZGVkID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9pc0xvYWRpbmcpIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX2lzTG9hZGluZzsKICAgICAgICBwdWJsaWMgYm9vbCBfaXNMb2FkZWQ7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xhc3RUb3VybmFtZW50U3RhdGUgPSBUb3VybmFtZW50UmF0aW5nVGFibGUuR2V0VG91cm5hbWVudFN0YXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvdW50UGxheWVycyA9IFN0b3JhZ2UuR2V0U3RvcmFnZSgpLkxlYWd1ZXNTZXR0aW5ncy5Db3VudFBsYXllckluVG9wTGlzdDsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBJc0xvYWRpbmcgPT4gX2lzTG9hZGluZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
