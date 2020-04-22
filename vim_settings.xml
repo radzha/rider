@@ -91,18 +91,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/TopClansScreen.cs" timestamp="1587476997230">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1587549583559">
+        <mark key="[" line="267" column="28" />
+        <mark key="]" line="268" column="30" />
+        <mark key="." line="268" column="29" />
+        <mark key="^" line="268" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1587482911280">
-        <mark key="[" line="267" column="4" />
-        <mark key="]" line="267" column="6" />
-        <mark key="." line="267" column="5" />
-        <mark key="^" line="267" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanInfoCommand.cs" timestamp="1587547755768">
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanInfoCommand.cs" timestamp="1587548341483">
         <mark key="[" line="8" column="39" />
         <mark key="]" line="8" column="42" />
         <mark key="^" line="8" column="42" />
@@ -123,6 +118,12 @@
         <mark key="." line="144" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/NotInClanTabsScreen.cs" timestamp="1587483037752" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanSettingsScreen.cs" timestamp="1587549590595">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonTabsScreen.cs" timestamp="1587542408108">
         <mark key="'" line="41" column="31" />
         <mark key="[" line="14" column="8" />
@@ -142,13 +143,6 @@
         <mark key="]" line="44" column="44" />
         <mark key="^" line="137" column="26" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansSearchScreen.cs" timestamp="1587476990137">
-        <mark key="'" line="4" column="46" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="10" column="24" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Chips/ChipUsePopup.cs" timestamp="1587547815333">
         <mark key="[" line="302" column="0" />
@@ -185,6 +179,11 @@
         <mark key="^" line="80" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/OfferWidgetFirstShowCommand.cs" timestamp="1587547703815" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1587549175390">
+        <mark key="'" line="92" column="16" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" timestamp="1587478989510">
         <mark key="'" line="195" column="49" />
         <mark key="[" line="119" column="0" />
@@ -305,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>ClanInfoScreen</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>ClanInfoScreen</text>
       </register>
       <register name="/" type="4">
         <text>useri</text>
