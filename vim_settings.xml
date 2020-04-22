@@ -91,11 +91,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1587549583559">
-        <mark key="[" line="267" column="28" />
-        <mark key="]" line="268" column="30" />
-        <mark key="." line="268" column="29" />
-        <mark key="^" line="268" column="30" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1587549687481">
+        <mark key="[" line="266" column="0" />
+        <mark key="]" line="266" column="0" />
+        <mark key="." line="266" column="0" />
+        <mark key="^" line="267" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanInfoCommand.cs" timestamp="1587548341483">
         <mark key="[" line="8" column="39" />
@@ -154,6 +154,12 @@
         <mark key="." line="4" column="68" />
         <mark key="^" line="4" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" timestamp="1587552469021">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="5" column="51" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanSearchItem.cs" timestamp="1587544817426">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="20" column="55" />
@@ -161,14 +167,14 @@
         <mark key="." line="20" column="59" />
         <mark key="^" line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" timestamp="1587477487235">
-        <mark key="'" line="35" column="27" />
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="8" column="92" />
-        <mark key="." line="8" column="91" />
-        <mark key="^" line="8" column="92" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" timestamp="1587549656848">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="71" column="4" />
+        <mark key="^" line="71" column="4" />
+        <mark key="." line="71" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587545465747">
+      <file name="/Dummy.txt" timestamp="1587549774939">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1587542900571">
@@ -303,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ClanInfoScreen</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ClanInfoScreen</text>
+        <text>MonoBehaviour</text>
       </register>
       <register name="/" type="4">
         <text>useri</text>
@@ -316,34 +322,34 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgU2VuZEluc3RhbGxDb21tYW5kKCkKICAgICAgICB7CiAgICAgICAgICAgIEdhbWVDb21tYW5kQmFzZSBjb21tYW5kID0gbmV3IEluc3RhbGxDaGlwQ29tbWFuZChfaXRlbUNvbnRhaW5lckluZm8uSWQsIF9jaGlwSXRlbS5JZCwgX3Nsb3RUb0luc2VydCwKICAgICAgICAgICAgICAgIF9pdGVtSWRDdXJyZW50bHlJbnNlcnRlZCwgX3Nsb3RDdXJyZW50bHlJbnNlcnRlZCk7CiAgICAgICAgICAgIGNvbW1hbmQuT25TdWNjZXNzID0gZGF0YSA9PiBVcGRhdGVMaXN0QW5kQ2xvc2UodHJ1ZSk7CiAgICAgICAgICAgIGNvbW1hbmQuT25FcnJvciA9IERlYnVnLkxvZ0Vycm9yOwogICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5Pbk5leHQoQXV0aFNlcnZlckJlaGF2aW91ci5FVkVOVF9TRU5EX0NPTU1BTkQsIGNvbW1hbmQpOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHlwZSA9IHR5cGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2ZmZXJJZHMgPSBvZmZlcklkczsK</text>
+        <text encoding="base64">ICAgIENsYW5JbmZvU2NyZWVuID0gNzU2MywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHlwZSA9IHR5cGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbQW1mUHJvcGVydHkoIm9mZmVySWRzIildIHB1YmxpYyBpbnRbXSBPZmZlcklkcyB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2ZmZXJJZHMgPSBvZmZlcklkczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNMZWFkZXJBbmltLkNMb2dCbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbQW1mUHJvcGVydHkoIm9mZmVySWRzIildIHB1YmxpYyBpbnRbXSBPZmZlcklkcyB7IGdldDsgcHJpdmF0ZSBzZXQ7IH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNMZWFkZXIuQWRkUGFyYW0odXNlckluZm8uSWQpLkFkZFBhcmFtKHVzZXJJbmZvLlVzZXJJZC5WYWx1ZSkuQ0xvZyh1c2VySW5mby5DbGFuSW5mby5MZWFkZXJJZCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXNMZWFkZXJBbmltLkNMb2dCbHVlKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xhbkluZm8uRGVmZW5jZXNTdW0uVG9TdHJpbmcoIjAsMCIpLkNMb2dSZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNMZWFkZXIuQWRkUGFyYW0odXNlckluZm8uSWQpLkFkZFBhcmFtKHVzZXJJbmZvLlVzZXJJZC5WYWx1ZSkuQ0xvZyh1c2VySW5mby5DbGFuSW5mby5MZWFkZXJJZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
