@@ -115,9 +115,6 @@
         <mark key="^" line="25" column="18" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightLoadingPvp/CountryCodesHelper.cs" timestamp="1587635354994">
-        <mark key="'" line="200" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanSettingsScreen.cs" timestamp="1587639093390">
         <mark key="'" line="67" column="41" />
         <mark key="[" line="60" column="42" />
@@ -130,6 +127,12 @@
         <mark key="]" line="30" column="78" />
         <mark key="^" line="30" column="78" />
         <mark key="." line="30" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/CompanionsProfile/CompanionsScreenOpenOnClick.cs" timestamp="1587648543298">
+        <mark key="[" line="36" column="33" />
+        <mark key="]" line="36" column="66" />
+        <mark key="." line="36" column="65" />
+        <mark key="^" line="36" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1587643344352">
         <mark key="'" line="45" column="73" />
@@ -168,7 +171,7 @@
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587644901227">
+      <file name="/Dummy.txt" timestamp="1587646761551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" timestamp="1587637923850">
@@ -297,8 +300,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>obj</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="-" type="4">
         <text>obj</text>
@@ -310,34 +313,36 @@
         <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZC5PbkVycm9yID0gRGVidWcuTG9nRXJyb3I7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+      <register name="2" type="4">
+        <text>UserInfo.GetUserInfo().ClanInfo.IsInClan
+                ? ScreenType.InClanTabsScreen
+                : ScreenType.NotInClanTabsScreen</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkNsaWNrZWQhIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG15UG93ZXIgPSBJdGVtUG93ZXJDYWxjdWxhdG9yLkdldFVuaXRQb3dlcigpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG15RGVmZW5jZSA9IHVzZXJJbmZvLkJhc2UuUG93ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkNsaWNrZWQhIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG15UG93ZXIgPSBJdGVtUG93ZXJDYWxjdWxhdG9yLkdldFVuaXRQb3dlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXlEZWZlbmNlLkNMb2cobXlQb3dlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG15RGVmZW5jZSA9IHVzZXJJbmZvLkJhc2UuUG93ZXI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
