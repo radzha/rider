@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>user</entry>
         <entry encoding="base64">XDxVcGRhdGVWaXN1YWxcPg==</entry>
         <entry>close</entry>
         <entry>lang</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxBZGRDb21wYW5pb25TbG90SWZIYXNDb21wYW5pb25cPg==</entry>
         <entry>colori</entry>
         <entry>state</entry>
+        <entry>sadfa</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -173,11 +173,11 @@
         <mark key="^" line="46" column="30" />
         <mark key="." line="46" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" timestamp="1587982414154">
-        <mark key="'" line="124" column="12" />
-        <mark key="[" line="152" column="24" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/CoopSearchCommand.cs" timestamp="1587997716666">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" timestamp="1587985806103">
         <mark key="'" line="40" column="7" />
@@ -186,11 +186,7 @@
         <mark key="^" line="26" column="81" />
         <mark key="." line="26" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansAdapter.cs" timestamp="1587982913965">
-        <mark key="'" line="6" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="30" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1587997663483" />
     </filemarks>
     <jumps>
       <jump line="24" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanMembershipInfo.cs" />
@@ -298,16 +294,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>sadfa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQ29vcFRvZ2dsZS5TdGF0ZS5NZXJjZW5hcnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBbQW1mUHJvcGVydHkoImZpZ2h0SW5kZXgiKV0KICAgICAgICBwdWJsaWMgaW50IEZpZ2h0SW5kZXgge2dldDsgcHJpdmF0ZSBzZXQ7IH0KCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
@@ -346,9 +342,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>state</last-search>
+      <last-search>sadfa</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>sadfa</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
