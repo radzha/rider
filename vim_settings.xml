@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxPbkNsaWNrT25TbG90XD4=</entry>
         <entry encoding="base64">XDxVUkxfUEFUVEVSTlw+</entry>
         <entry encoding="base64">XDxfZ2V0UGxheWVyc1JlcXVlc3RcPg==</entry>
         <entry>post</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxMYW5ndWFnZUNvZGVcPg==</entry>
         <entry>clog</entry>
         <entry encoding="base64">XDxTZXRBZGFwdGVyXD4=</entry>
+        <entry>heig</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -91,6 +91,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1587985420061">
+        <mark key="'" line="465" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" timestamp="1587985074626">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="37" column="9" />
@@ -164,22 +167,18 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightLoadingPvp/FlagUtils.cs" timestamp="1587979506844" />
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" timestamp="1587973344882">
-        <mark key="'" line="55" column="64" />
-        <mark key="[" line="55" column="70" />
-        <mark key="]" line="55" column="70" />
-        <mark key="." line="55" column="70" />
-        <mark key="^" line="55" column="88" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" timestamp="1587982414154">
         <mark key="'" line="124" column="12" />
         <mark key="[" line="152" column="24" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" timestamp="1587983506687">
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/CommonLanguageSelection.cs" timestamp="1587985806103">
         <mark key="'" line="43" column="7" />
-        <mark key="^" line="53" column="29" />
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="81" />
+        <mark key="^" line="29" column="81" />
+        <mark key="." line="29" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/SettingsScreen.cs" timestamp="1587975761257">
         <mark key="'" line="32" column="28" />
@@ -198,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="28" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
-      <jump line="102" column="103" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
-      <jump line="13" column="14" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="18" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="25" column="17" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
@@ -298,18 +294,21 @@
       <jump line="14" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
       <jump line="51" column="89" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
+      <jump line="34" column="32" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
+      <jump line="128" column="64" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
+      <jump line="465" column="49" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNvdW50cnkuTGFuZ3VhZ2UgPT0gQ3VycmVudExhbmd1YWdlQ29kZTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXRBZGFwdGVyXD4=</text>
+        <text>heig</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBmbGFnQ29kZSA9IENvdW50cnlDb2Rlc0hlbHBlci5Db252ZXJ0VG9UaHJlZUxldHRlcihjb3VudHJ5LkFscGhhMik7CiAgICAgICAgICAgIC8vICAgICBsYW5ndWFnZUl0ZW0uSW5pdGlhbGl6ZShmbGFnQ29kZSwgY291bnRyeS5BbHBoYTIuVG9Mb3dlcigpLCBjb3VudHJ5LlRpdGxlLAogICAgICAgICAgICAvLyAgICAgICAgIGlzU2VsZWN0ZWQpOwo=</text>
@@ -351,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTZXRBZGFwdGVyXD4=</last-search>
+      <last-search>heig</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXRBZGFwdGVyXD4=</last-pattern>
+      <last-pattern>heig</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
