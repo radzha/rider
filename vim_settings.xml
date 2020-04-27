@@ -91,9 +91,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" timestamp="1587983527929">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="51" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" timestamp="1587985074626">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="37" column="9" />
         <mark key="^" line="34" column="45" />
         <mark key="." line="28" column="0" />
       </file>
@@ -156,11 +156,12 @@
         <mark key="^" line="51" column="77" />
         <mark key="." line="51" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587983550046">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="51" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" timestamp="1587985132781">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightLoadingPvp/FlagUtils.cs" timestamp="1587979506844" />
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" timestamp="1587973344882">
@@ -197,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="30" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
-      <jump line="13" column="32" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanMembersAdapter.cs" />
       <jump line="55" column="28" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="102" column="103" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="13" column="14" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
@@ -297,51 +296,53 @@
       <jump line="84" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" />
       <jump line="14" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
+      <jump line="51" column="89" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Languages</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Languages</text>
+        <text encoding="base64">IGNvdW50cnkuTGFuZ3VhZ2UgPT0gQ3VycmVudExhbmd1YWdlQ29kZTs=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXRBZGFwdGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpc1NlbGVjdGVkID0gbGFuZ3VhZ2VzLkxhbmd1YWdlID09IEN1cnJlbnRMYW5ndWFnZUNvZGU7CiAgICAgICAgICAgICAgICB2YXIgbGFuZ3VhZ2VJdGVtID0gX2xhbmd1YWdlSXRlbVBvb2wuVGFrZSgpOwoKICAgICAgICAgICAgICAgIGxhbmd1YWdlSXRlbS5Jbml0aWFsaXplKGxhbmd1YWdlcy5GbGFnQ29kZSwgbGFuZ3VhZ2VzLkxhbmd1YWdlLlRvTG93ZXIoKSwgbGFuZ3VhZ2VzLlRpdGxlLCBpc1NlbGVjdGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBmbGFnQ29kZSA9IENvdW50cnlDb2Rlc0hlbHBlci5Db252ZXJ0VG9UaHJlZUxldHRlcihjb3VudHJ5LkFscGhhMik7CiAgICAgICAgICAgIC8vICAgICBsYW5ndWFnZUl0ZW0uSW5pdGlhbGl6ZShmbGFnQ29kZSwgY291bnRyeS5BbHBoYTIuVG9Mb3dlcigpLCBjb3VudHJ5LlRpdGxlLAogICAgICAgICAgICAvLyAgICAgICAgIGlzU2VsZWN0ZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0QWRhcHRlcihuZXcgQ291bnRyaWVzTGlzdEFkYXB0ZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0QWRhcHRlcihuZXcgQ291bnRyaWVzTGlzdEFkYXB0ZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZS5Bd2FrZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xhbmd1YWdlSXRlbVBvb2wuUmVsZWFzZUFsbCgpOwoKICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgdmFyIHNvcnRpbmdJbmRleCA9IDE7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBsYW5ndWFnZXMgaW4gc3RvcmFnZS5MYW5ndWFnZXMuVmFsdWVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoIWxhbmd1YWdlcy5Jc1JlYWR5KQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHZhciBpc1NlbGVjdGVkID0gbGFuZ3VhZ2VzLkxhbmd1YWdlID09IEN1cnJlbnRMYW5ndWFnZUNvZGU7CiAgICAgICAgICAgICAgICB2YXIgbGFuZ3VhZ2VJdGVtID0gX2xhbmd1YWdlSXRlbVBvb2wuVGFrZSgpOwoKICAgICAgICAgICAgICAgIGxhbmd1YWdlSXRlbS5Jbml0aWFsaXplKGxhbmd1YWdlcy5GbGFnQ29kZSwgbGFuZ3VhZ2VzLkxhbmd1YWdlLlRvTG93ZXIoKSwgbGFuZ3VhZ2VzLlRpdGxlLCBpc1NlbGVjdGVkKTsKCiAgICAgICAgICAgICAgICB2YXIgcmVjdFRyYW5zZm9ybSA9IGxhbmd1YWdlSXRlbS50cmFuc2Zvcm0gYXMgUmVjdFRyYW5zZm9ybTsKICAgICAgICAgICAgICAgIGlmIChyZWN0VHJhbnNmb3JtICE9IG51bGwpIHJlY3RUcmFuc2Zvcm0uU2V0U2libGluZ0luZGV4KHNvcnRpbmdJbmRleCk7CgogICAgICAgICAgICAgICAgc29ydGluZ0luZGV4Kys7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0QWRhcHRlcihuZXcgTGFuZ3VhZ2VzTGlzdEFkYXB0ZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBBd2FrZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2V0QWRhcHRlcihuZXcgTGFuZ3VhZ2VzTGlzdEFkYXB0ZXIoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGFuZ3VhZ2VJdGVtLkluaXRpYWxpemUoY291bnRyeS5GbGFnQ29kZSwgY291bnRyeS5MYW5ndWFnZS5Ub0xvd2VyKCksIGNvdW50cnkuVGl0bGUsIGlzU2VsZWN0ZWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgYWJzdHJhY3Qgdm9pZCBJbml0aWFsaXplTGFuZ3VhZ2VJdGVtcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBVcGRhdGVJdGVtKEdhbWVPYmplY3QgZ28sIG9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJvdGVjdGVkIG92ZXJyaWRlIHZvaWQgSW5pdGlhbGl6ZUxhbmd1YWdlSXRlbXMoKQogICAgICAgIHsKICAgICAgICAgICAgX2xhbmd1YWdlSXRlbVBvb2wuUmVsZWFzZUFsbCgpOwoKICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgdmFyIHNvcnRpbmdJbmRleCA9IDE7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBsYW5ndWFnZXMgaW4gc3RvcmFnZS5MYW5ndWFnZXMuVmFsdWVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoIWxhbmd1YWdlcy5Jc1JlYWR5KQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHZhciBpc1NlbGVjdGVkID0gbGFuZ3VhZ2VzLkxhbmd1YWdlID09IEN1cnJlbnRMYW5ndWFnZUNvZGU7CiAgICAgICAgICAgICAgICB2YXIgbGFuZ3VhZ2VJdGVtID0gX2xhbmd1YWdlSXRlbVBvb2wuVGFrZSgpOwoKICAgICAgICAgICAgICAgIGxhbmd1YWdlSXRlbS5Jbml0aWFsaXplKGxhbmd1YWdlcy5GbGFnQ29kZSwgbGFuZ3VhZ2VzLkxhbmd1YWdlLlRvTG93ZXIoKSwgbGFuZ3VhZ2VzLlRpdGxlLCBpc1NlbGVjdGVkKTsKCiAgICAgICAgICAgICAgICB2YXIgcmVjdFRyYW5zZm9ybSA9IGxhbmd1YWdlSXRlbS50cmFuc2Zvcm0gYXMgUmVjdFRyYW5zZm9ybTsKICAgICAgICAgICAgICAgIGlmIChyZWN0VHJhbnNmb3JtICE9IG51bGwpIHJlY3RUcmFuc2Zvcm0uU2V0U2libGluZ0luZGV4KHNvcnRpbmdJbmRleCk7CgogICAgICAgICAgICAgICAgc29ydGluZ0luZGV4Kys7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0QWRhcHRlcihuZXcgQ291bnRyaWVzTGlzdEFkYXB0ZXIoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2V0QWRhcHRlcihuZXcgQ291bnRyaWVzTGlzdEFkYXB0ZXIoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBsYW5ndWFnZUl0ZW0gPSBfbGFuZ3VhZ2VJdGVtUG9vbC5UYWtlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2xhbmd1YWdlSXRlbVBvb2wuUmVsZWFzZUFsbCgpOwoKICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgdmFyIHNvcnRpbmdJbmRleCA9IDE7CiAgICAgICAgICAgIGZvcmVhY2ggKHZhciBsYW5ndWFnZXMgaW4gc3RvcmFnZS5MYW5ndWFnZXMuVmFsdWVzKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoIWxhbmd1YWdlcy5Jc1JlYWR5KQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHZhciBpc1NlbGVjdGVkID0gbGFuZ3VhZ2VzLkxhbmd1YWdlID09IEN1cnJlbnRMYW5ndWFnZUNvZGU7CiAgICAgICAgICAgICAgICB2YXIgbGFuZ3VhZ2VJdGVtID0gX2xhbmd1YWdlSXRlbVBvb2wuVGFrZSgpOwoKICAgICAgICAgICAgICAgIGxhbmd1YWdlSXRlbS5Jbml0aWFsaXplKGxhbmd1YWdlcy5GbGFnQ29kZSwgbGFuZ3VhZ2VzLkxhbmd1YWdlLlRvTG93ZXIoKSwgbGFuZ3VhZ2VzLlRpdGxlLCBpc1NlbGVjdGVkKTsKCiAgICAgICAgICAgICAgICB2YXIgcmVjdFRyYW5zZm9ybSA9IGxhbmd1YWdlSXRlbS50cmFuc2Zvcm0gYXMgUmVjdFRyYW5zZm9ybTsKICAgICAgICAgICAgICAgIGlmIChyZWN0VHJhbnNmb3JtICE9IG51bGwpIHJlY3RUcmFuc2Zvcm0uU2V0U2libGluZ0luZGV4KHNvcnRpbmdJbmRleCk7CgogICAgICAgICAgICAgICAgc29ydGluZ0luZGV4Kys7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
