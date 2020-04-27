@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxVUkxfUEFUVEVSTlw+</entry>
-        <entry encoding="base64">XDxfZ2V0UGxheWVyc1JlcXVlc3RcPg==</entry>
         <entry>post</entry>
         <entry>get</entry>
         <entry>GET</entry>
@@ -27,6 +25,8 @@
         <entry>clog</entry>
         <entry encoding="base64">XDxTZXRBZGFwdGVyXD4=</entry>
         <entry>heig</entry>
+        <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
+        <entry encoding="base64">XDxfaXRlbVNpemVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -91,8 +91,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1587985420061">
-        <mark key="'" line="465" column="49" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1587986111968">
+        <mark key="'" line="31" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" timestamp="1587985074626">
         <mark key="[" line="31" column="0" />
@@ -197,9 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="18" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="25" column="17" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="42" column="19" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="187" column="43" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanMembersAdapter.cs" />
@@ -295,8 +292,11 @@
       <jump line="51" column="89" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanLanguageSelection.cs" />
       <jump line="34" column="32" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="128" column="64" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="465" column="49" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
+      <jump line="465" column="51" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
+      <jump line="439" column="54" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
+      <jump line="31" column="24" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +308,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>heig</text>
+        <text encoding="base64">XDxfaXRlbVNpemVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBmbGFnQ29kZSA9IENvdW50cnlDb2Rlc0hlbHBlci5Db252ZXJ0VG9UaHJlZUxldHRlcihjb3VudHJ5LkFscGhhMik7CiAgICAgICAgICAgIC8vICAgICBsYW5ndWFnZUl0ZW0uSW5pdGlhbGl6ZShmbGFnQ29kZSwgY291bnRyeS5BbHBoYTIuVG9Mb3dlcigpLCBjb3VudHJ5LlRpdGxlLAogICAgICAgICAgICAvLyAgICAgICAgIGlzU2VsZWN0ZWQpOwo=</text>
@@ -350,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>heig</last-search>
+      <last-search encoding="base64">XDxfaXRlbVNpemVcPg==</last-search>
       <last-offset />
-      <last-pattern>heig</last-pattern>
+      <last-pattern encoding="base64">XDxfaXRlbVNpemVcPg==</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
