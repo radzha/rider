@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>GET</entry>
-        <entry encoding="base64">XDxfdXJsXD4=</entry>
-        <entry encoding="base64">XDxVUkxcPg==</entry>
         <entry>api</entry>
         <entry>client</entry>
         <entry>user</entry>
@@ -27,6 +24,9 @@
         <entry encoding="base64">XDxfaXRlbVNpemVcPg==</entry>
         <entry encoding="base64">XDxfYWxsU2xvdHNcPg==</entry>
         <entry encoding="base64">XDxfbWVyY2VuYXJpZXNcPg==</entry>
+        <entry encoding="base64">XDxfY29vcFw+</entry>
+        <entry encoding="base64">XDxfY29tcGFuaW9uXD4=</entry>
+        <entry encoding="base64">XDxBZGRDb21wYW5pb25TbG90SWZIYXNDb21wYW5pb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -111,15 +111,16 @@
         <mark key="^" line="32" column="50" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1587975527459">
-        <mark key="'" line="85" column="27" />
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="61" column="32" />
-        <mark key="." line="61" column="31" />
-        <mark key="^" line="61" column="32" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/MercenarySlot.cs" timestamp="1587993535257">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="66" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1587991632824">
-        <mark key="'" line="230" column="62" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1587994147093">
+        <mark key="'" line="260" column="21" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="204" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" timestamp="1587977891753">
         <mark key="[" line="29" column="0" />
@@ -161,6 +162,12 @@
         <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightLoadingPvp/FlagUtils.cs" timestamp="1587979506844" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/ClanCoopSlot.cs" timestamp="1587993539064">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="4" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" timestamp="1587982414154">
         <mark key="'" line="124" column="12" />
         <mark key="[" line="152" column="24" />
@@ -174,9 +181,6 @@
         <mark key="^" line="26" column="81" />
         <mark key="." line="26" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Settings/SettingsScreen.cs" timestamp="1587975761257">
-        <mark key="'" line="32" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClansAdapter.cs" timestamp="1587982913965">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="6" column="0" />
@@ -184,12 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="24" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="2071" column="30" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
-      <jump line="241" column="13" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
-      <jump line="27" column="42" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
-      <jump line="16" column="15" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
-      <jump line="233" column="62" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="222" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanInfo.cs" />
       <jump line="35" column="23" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanRequestsNewnessManager.cs" />
       <jump line="33" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/Clans/ClanRequestsNewnessManager.cs" />
@@ -282,53 +280,59 @@
       <jump line="57" column="33" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
       <jump line="34" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
       <jump line="31" column="32" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
-      <jump line="41" column="31" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
       <jump line="230" column="62" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="242" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="192" column="42" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="27" column="30" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="41" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="195" column="50" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="42" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="260" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZXJjZW5hcnkuTWlzc2lvbiAhPSBudWxsICYmICFtZXJjZW5hcnkuTWlzc2lvbi5Jc1Bhc3NlZCgpKQogICAgICAgICAgICAgICAgeyAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIG1lcmNlbmFyeUlkKys7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">X2xvY2FsR2FtZSBpcyBUZXJyb3IgdGVycm9yICYmIHRlcnJvci5UeXBlLkNvbXBsZXhpdHkgPiAx</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfbWVyY2VuYXJpZXNcPg==</text>
+        <text encoding="base64">XDxBZGRDb21wYW5pb25TbG90SWZIYXNDb21wYW5pb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciBmbGFnQ29kZSA9IENvdW50cnlDb2Rlc0hlbHBlci5Db252ZXJ0VG9UaHJlZUxldHRlcihjb3VudHJ5LkFscGhhMik7CiAgICAgICAgICAgIC8vICAgICBsYW5ndWFnZUl0ZW0uSW5pdGlhbGl6ZShmbGFnQ29kZSwgY291bnRyeS5BbHBoYTIuVG9Mb3dlcigpLCBjb3VudHJ5LlRpdGxlLAogICAgICAgICAgICAvLyAgICAgICAgIGlzU2VsZWN0ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaGFzQ29vcCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIF9jdXJyZW50U2xvdHMuQWRkKF9jb29wKTsKICAgICAgICAgICAgICAgICAgICAgICAgX2N1cnJlbnRTbG90cy5BZGQoX2NsYW5Db29wKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZXJjZW5hcnkuTWlzc2lvbiAhPSBudWxsICYmICFtZXJjZW5hcnkuTWlzc2lvbi5Jc1Bhc3NlZCgpKQogICAgICAgICAgICAgICAgeyAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIG1lcmNlbmFyeUlkKys7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHNvcnRpbmdJbmRleCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX2N1cnJlbnRTbG90cy5BZGQoX2NsYW5Db29wKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGlmIChyZWN0VHJhbnNmb3JtICE9IG51bGwpIHJlY3RUcmFuc2Zvcm0uU2V0U2libGluZ0luZGV4KHNvcnRpbmdJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHZhciByZWN0VHJhbnNmb3JtID0gbGFuZ3VhZ2VJdGVtLnRyYW5zZm9ybSBhcyBSZWN0VHJhbnNmb3JtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgX2N1cnJlbnRTbG90cy5BZGQoX2Nvb3ApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtZXJjZW5hcnkuTWlzc2lvbiAhPSBudWxsICYmICFtZXJjZW5hcnkuTWlzc2lvbi5Jc1Bhc3NlZCgpKQogICAgICAgICAgICAgICAgeyAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIG1lcmNlbmFyeUlkKys7CiAgICAgICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICBpc1NlbGVjdGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIGxhbmd1YWdlSXRlbS5Jbml0aWFsaXplKGZsYWdDb2RlLCBjb3VudHJ5LkFscGhhMi5Ub0xvd2VyKCksIGNvdW50cnkuVGl0bGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgIHNvcnRpbmdJbmRleCsrOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -337,12 +341,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfbWVyY2VuYXJpZXNcPg==</last-search>
+      <last-search encoding="base64">XDxBZGRDb21wYW5pb25TbG90SWZIYXNDb21wYW5pb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfbWVyY2VuYXJpZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBZGRDb21wYW5pb25TbG90SWZIYXNDb21wYW5pb25cPg==</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
