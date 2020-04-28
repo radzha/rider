@@ -7,26 +7,26 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>_coo</entry>
-        <entry encoding="base64">XDxfY29vcEhpbnRcPg==</entry>
-        <entry>повтор</entry>
-        <entry>searc</entry>
-        <entry>storage</entry>
-        <entry>stora</entry>
-        <entry>upda</entry>
-        <entry encoding="base64">IHVwZGF0ZSg=</entry>
-        <entry>void upd</entry>
-        <entry encoding="base64">XDxkZWx0YVRpbWVcPg==</entry>
-        <entry encoding="base64">XDxEZWx0YVRpbWVcPg==</entry>
-        <entry encoding="base64">XDxVcGRhdGVDbGFuQ29vcEluZm9cPg==</entry>
-        <entry encoding="base64">XDxfY2xhbkNvb3BUaW1lclw+</entry>
-        <entry>try</entry>
-        <entry>ToogleState</entry>
-        <entry encoding="base64">XDxDb29wVG9nZ2xlU3RhdGVcPg==</entry>
         <entry encoding="base64">XDxfbWFpbkFuaW1hdG9yXD4=</entry>
         <entry encoding="base64">XDxDT09QX1NUQVRFX0FOSU1BVE9SX0lOVFw+</entry>
         <entry>coopt</entry>
         <entry>coopto</entry>
+        <entry>IsCoo</entry>
+        <entry>isco</entry>
+        <entry>complex</entry>
+        <entry>game</entry>
+        <entry>terr</entry>
+        <entry encoding="base64">XDxfY29vcFw+</entry>
+        <entry>compl</entry>
+        <entry encoding="base64">XDxPbkNoYW5nZVNsb3RTdGF0ZVw+</entry>
+        <entry>hasco</entry>
+        <entry encoding="base64">XDxfbG9jYWxHYW1lXD4=</entry>
+        <entry>event</entry>
+        <entry>controll</entry>
+        <entry encoding="base64">XDxfY29vcENvbnRyb2xsZXJcPg==</entry>
+        <entry>comple</entry>
+        <entry>updatecl</entry>
+        <entry encoding="base64">XDxDb29wVHlwZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -91,10 +91,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1587992638895">
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="." line="236" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/SetPhrase.cs" timestamp="1588072033757">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="39" />
+        <mark key="^" line="27" column="39" />
+        <mark key="." line="27" column="38" />
       </file>
       <file name="/CompanionSlotsController.cs" timestamp="1588001569878">
         <mark key="[" line="236" column="0" />
@@ -105,23 +106,19 @@
         <mark key="[" line="196" column="33" />
         <mark key="." line="196" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1588068364026">
-        <mark key="'" line="276" column="28" />
-        <mark key="[" line="168" column="49" />
-        <mark key="]" line="168" column="56" />
-        <mark key="^" line="168" column="56" />
-        <mark key="." line="168" column="55" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1588072081225">
+        <mark key="'" line="566" column="45" />
+        <mark key="[" line="565" column="53" />
+        <mark key="]" line="566" column="49" />
+        <mark key="^" line="566" column="49" />
+        <mark key="." line="566" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/MercenarySlot.cs" timestamp="1587993535257">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="66" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1588001572992">
-        <mark key="'" line="42" column="36" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="247" column="17" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="208" column="62" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1588072553708">
+        <mark key="'" line="196" column="0" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="197" column="98" />
+        <mark key="." line="197" column="36" />
+        <mark key="^" line="197" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" timestamp="1587996877198">
         <mark key="[" line="64" column="38" />
@@ -141,18 +138,21 @@
         <mark key="." line="23" column="35" />
         <mark key="^" line="23" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1588069460426">
-        <mark key="'" line="498" column="0" />
-        <mark key="[" line="495" column="0" />
-        <mark key="]" line="495" column="0" />
-        <mark key="." line="495" column="0" />
-        <mark key="^" line="487" column="40" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1588072672278">
+        <mark key="'" line="40" column="108" />
+        <mark key="[" line="505" column="56" />
+        <mark key="]" line="506" column="93" />
+        <mark key="." line="506" column="92" />
+        <mark key="^" line="506" column="93" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/CoopCancelInviteComand.cs" timestamp="1588067613698" />
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanCoopGetAlliesCount.cs" timestamp="1588067645547">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" timestamp="1588069916859">
+        <mark key="'" line="142" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/Tools/NetworkTest/EsrvClient.cs" timestamp="1587997727118">
         <mark key="[" line="86" column="66" />
@@ -170,18 +170,18 @@
       <file name="/Dummy.txt" timestamp="1588068381428">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" timestamp="1588068342103">
-        <mark key="'" line="109" column="40" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" timestamp="1588069585161">
+        <mark key="'" line="30" column="36" />
         <mark key="[" line="109" column="64" />
         <mark key="]" line="109" column="64" />
         <mark key="." line="109" column="64" />
         <mark key="^" line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/ClanCoopSlot.cs" timestamp="1588000789296">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="68" />
-        <mark key="^" line="20" column="16" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/ClanCoopSlot.cs" timestamp="1588073131414">
+        <mark key="'" line="19" column="75" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/CoopColorizedButton.cs" timestamp="1588000119833">
         <mark key="'" line="45" column="0" />
@@ -189,59 +189,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/CoopInfo.cs" timestamp="1588072958522">
+        <mark key="'" line="139" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="442" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="1294" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="1453" column="23" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="1455" column="31" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="39" column="29" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="108" column="34" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="110" column="33" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="143" column="29" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="171" column="28" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="281" column="22" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="567" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="584" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="690" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="166" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="282" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="444" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="439" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="423" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="345" column="44" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="212" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="488" column="53" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="34" column="40" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="35" column="37" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="36" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="49" column="26" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="196" column="8" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
-      <jump line="254" column="27" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
-      <jump line="610" column="55" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
-      <jump line="662" column="18" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
-      <jump line="634" column="28" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerData/generated/FightSettings.cs" />
-      <jump line="85" column="52" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="144" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="86" column="52" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="391" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="438" column="37" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="68" column="13" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="98" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="91" column="8" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="145" column="51" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="163" column="51" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="271" column="41" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="276" column="41" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="282" column="41" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="356" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="436" column="31" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="76" column="103" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="382" column="22" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="87" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="374" column="35" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="478" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="480" column="34" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="481" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
@@ -251,10 +203,8 @@
       <jump line="141" column="65" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="191" column="65" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="208" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="30" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
       <jump line="109" column="40" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
       <jump line="201" column="131" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="1386" column="50" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="1377" column="54" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="481" column="28" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
@@ -273,12 +223,10 @@
       <jump line="202" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareAnimatorController.cs" />
       <jump line="232" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareAnimatorController.cs" />
       <jump line="26" column="29" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareAnimatorController.cs" />
-      <jump line="64" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="156" column="88" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="378" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="99" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="502" column="8" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="496" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="506" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="501" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="162" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
@@ -287,55 +235,110 @@
       <jump line="510" column="25" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="63" column="30" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="74" column="50" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="487" column="65" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="493" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="484" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="498" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="30" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
+      <jump line="486" column="8" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="496" column="40" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="155" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="308" column="41" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="458" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="95" column="61" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="205" column="42" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="204" column="47" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
+      <jump line="237" column="66" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
+      <jump line="251" column="34" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
+      <jump line="253" column="54" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
+      <jump line="256" column="59" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
+      <jump line="141" column="37" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
+      <jump line="142" column="37" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" />
+      <jump line="179" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="307" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="161" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="165" column="24" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="167" column="54" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="179" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="183" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="263" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="264" column="56" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="311" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="60" column="27" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="1361" column="51" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="157" column="27" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="438" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="521" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="474" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="307" column="67" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="103" column="31" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="187" column="43" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="277" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="284" column="115" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="158" column="25" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="81" column="23" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="743" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="559" column="132" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="493" column="27" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="566" column="45" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="487" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="516" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="465" column="51" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="8" column="24" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="196" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
+      <jump line="505" column="8" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="40" column="108" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="20" column="75" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/ClanCoopSlot.cs" />
+      <jump line="37" column="20" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/CoopInfo.cs" />
+      <jump line="54" column="74" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/CoopInfo.cs" />
+      <jump line="135" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/CoopInfo.cs" />
+      <jump line="139" column="16" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/CoopInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uRXJyb3IgPSBfID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>ToogleState</text>
+        <text encoding="base64">ID0gbmV3IENvbXBvc2l0ZURpc3Bvc2FibGUoKTs=</text>
       </register>
       <register name="/" type="4">
-        <text>coopto</text>
+        <text encoding="base64">XDxDb29wVHlwZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGlzQ2xhbkNvb3AgPSB0b2dnbGVTdGF0ZS5WYWx1ZSA9PSBDb29wVG9nZ2xlLlN0YXRlLkNsYW5Db29wOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgY29uc3Qgc3RyaW5nIEVWRU5UX1NUQVJUX0xPQ0FMX0NPT1AgPSAiQ29vcENvbnRyb2xsZXIuc3RhcnRMb2NhbENvb3AiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE9uRXJyb3IgPSBfID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfY2xhbkNvb3BIaW50LlVwZGF0ZVBocmFzZShuZXcgUmFuZG9tKCkuTmV4dCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVEhST1cgTkVXIE5PVElNUExFTUVOVEVERVhDRVBUSU9OKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25Ub2dnbGVTdGF0ZVVwZGF0ZWQoQ29vcFRvZ2dsZS5TdGF0ZSBvYmopCiAgICAgICAgewogICAgICAgICAgICB0aHJvdyBuZXcgTm90SW1wbGVtZW50ZWRFeGNlcHRpb24oKTsKICAgICAgICB9Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVW5pdHlCZWhhdmlvcjxDb29wVG9nZ2xlLlN0YXRlPiB0b2dnbGVTdGF0ZTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImhhcyIuQ0xvZyhIYXNDb29wKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlQ2xhbkNvb3BJbmZvKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgX3VzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGV4dC50ZXgK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgYm9vbCBIYXNDb29wIHsgZ2V0OyBzZXQ7IH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -344,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>coopto</last-search>
+      <last-search encoding="base64">XDxDb29wVHlwZVw+</last-search>
       <last-offset />
-      <last-pattern>coopto</last-pattern>
+      <last-pattern encoding="base64">XDxDb29wVHlwZVw+</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
