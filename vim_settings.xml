@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY29vcENvbnRyb2xsZXJcPg==</entry>
-        <entry>comple</entry>
         <entry>updatecl</entry>
         <entry encoding="base64">XDxDb29wVHlwZVw+</entry>
         <entry encoding="base64">XDxJc0Nvb3BcPg==</entry>
@@ -27,6 +25,8 @@
         <entry>asdf</entry>
         <entry encoding="base64">XDxpdGVtXD4=</entry>
         <entry>anim</entry>
+        <entry>cha</entry>
+        <entry>adsf</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -110,6 +110,13 @@
         <mark key="." line="197" column="36" />
         <mark key="^" line="197" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ChatGetMessagesCommand.cs" timestamp="1588151804900">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/CloseButton.cs" timestamp="1588074680862" />
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerData/generated/CoopSettings.cs" timestamp="1588078227618">
         <mark key="'" line="42" column="25" />
@@ -117,6 +124,10 @@
         <mark key="]" line="334" column="0" />
         <mark key="^" line="334" column="0" />
         <mark key="." line="334" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/BuyMoneyCommand.cs" timestamp="1588151723794">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1588078146687">
         <mark key="'" line="498" column="0" />
@@ -137,11 +148,6 @@
         <mark key="^" line="75" column="21" />
         <mark key="." line="75" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/Commands/ClanCoopGetAlliesCount.cs" timestamp="1588067645547">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopPvpNotifier.cs" timestamp="1588084091842">
         <mark key="'" line="262" column="0" />
         <mark key="[" line="10" column="0" />
@@ -156,22 +162,8 @@
         <mark key="." line="228" column="81" />
         <mark key="^" line="228" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareAnimatorController.cs" timestamp="1588068593423">
-        <mark key="'" line="26" column="29" />
-        <mark key="[" line="108" column="53" />
-        <mark key="]" line="108" column="86" />
-        <mark key="^" line="108" column="86" />
-        <mark key="." line="108" column="85" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588148101545">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" timestamp="1588069585161">
-        <mark key="'" line="30" column="36" />
-        <mark key="[" line="109" column="64" />
-        <mark key="]" line="109" column="64" />
-        <mark key="." line="109" column="64" />
-        <mark key="^" line="76" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/ClanCoopSlot.cs" timestamp="1588082333399">
         <mark key="'" line="19" column="75" />
@@ -179,6 +171,7 @@
         <mark key="]" line="25" column="84" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightLoadingPvp/FlagUtils.cs" timestamp="1588150052431" />
       <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/CoopInfo.cs" timestamp="1588081954578">
         <mark key="'" line="93" column="24" />
         <mark key="[" line="127" column="57" />
@@ -187,8 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="30" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="74" column="50" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="484" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="498" column="0" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="30" column="36" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
@@ -287,51 +278,53 @@
       <jump line="68" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipUsePopup.cs" />
       <jump line="119" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipUsePopup.cs" />
       <jump line="228" column="76" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipUsePopup.cs" />
+      <jump line="10" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ChatGetMessagesCommand.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ChatGetMessagesCommand.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVzID0gdmFsdWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>anim</text>
+        <text>adsf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhhc1BzaVBvd2VyID0gdXNlckluZm8uSXRlbXMuRmluZChpdGVtXyA9PiBpdGVtXy5JZCA9PSBzdG9yYWdlLlBzaVNldHRpbmdzLlBzaUl0ZW0uSWQpICE9IG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">Q2hhdEdldE1lc3NhZ2VzQ29tbWFuZCA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNBZGRpdGlvbmFsSGludCA9IEFuaW1hdG9yLlN0cmluZ1RvSGFzaCgiaXNBZGRpdGlvbmFsSGludCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVmFsdWVzID0gdmFsdWVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNBZGRpdGlvbmFsSGludCA9IEFuaW1hdG9yLlN0cmluZ1RvSGFzaCgiaXNBZGRpdGlvbmFsSGludCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgRGljdGlvbmFyeTxzdHJpbmcsIGludD4gVmFsdWVzIHsgZ2V0OyBwcml2YXRlIHNldDsgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNob3dIaW50Owo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgICAKICAgIH0KfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNBZGRpdGlvbmFsSGludCA9IEFuaW1hdG9yLlN0cmluZ1RvSGFzaCgiaXNBZGRpdGlvbmFsSGludCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBzaG93SGludDsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNBZGRpdGlvbmFsSGludCA9IEFuaW1hdG9yLlN0cmluZ1RvSGFzaCgiaXNBZGRpdGlvbmFsSGludCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBzaG93SGludDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNob3dIaW50Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsKICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKCiAgICAgICAgICAgIHZhciBzaG93SGludCA9IGZhbHNlOwogICAgICAgICAgICB2YXIgY2hpcFJlcXVpcmVkUHNpID0gaXRlbS5UeXBlQXNDaGlwKCkuUHNpUG93ZXJSZXF1aXJlZDsKICAgICAgICAgICAgaWYgKGNoaXBSZXF1aXJlZFBzaSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIGhhc1BzaVBvd2VyID0gdXNlckluZm8uSXRlbXMuRmluZChpdGVtXyA9PiBpdGVtXy5JZCA9PSBzdG9yYWdlLlBzaVNldHRpbmdzLlBzaUl0ZW0uSWQpICE9IG51bGw7CiAgICAgICAgICAgICAgICBzaG93SGludCA9ICFoYXNQc2lQb3dlcjsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBzaG93SGludDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIEl0ZW0gX2l0ZW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbCBzaG93SGludDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -340,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>anim</last-search>
+      <last-search>adsf</last-search>
       <last-offset />
-      <last-pattern>anim</last-pattern>
+      <last-pattern>adsf</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
