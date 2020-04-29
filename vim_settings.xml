@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>updatecl</entry>
         <entry encoding="base64">XDxDb29wVHlwZVw+</entry>
         <entry encoding="base64">XDxJc0Nvb3BcPg==</entry>
         <entry encoding="base64">XDxJc0NsYW5Db29wXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>anim</entry>
         <entry>cha</entry>
         <entry>adsf</entry>
+        <entry>chat</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -156,21 +156,18 @@
         <mark key="." line="228" column="81" />
         <mark key="^" line="228" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588148101545">
+      <file name="/Dummy.txt" timestamp="1588159332587">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/ClanCoopSlot.cs" timestamp="1588082333399">
-        <mark key="'" line="19" column="75" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="84" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleClansDebugger.cs" timestamp="1588158953110">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleClansDebugger.cs" timestamp="1588160745728">
         <mark key="'" line="188" column="42" />
         <mark key="[" line="210" column="42" />
         <mark key="]" line="210" column="42" />
         <mark key="." line="210" column="41" />
         <mark key="^" line="210" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" timestamp="1588159244853">
+        <mark key="'" line="105" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1588159036298">
         <mark key="[" line="39" column="97" />
@@ -180,16 +177,8 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightLoadingPvp/FlagUtils.cs" timestamp="1588150052431" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" timestamp="1588153301979" />
-      <file name="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/ServerSide/CoopInfo.cs" timestamp="1588081954578">
-        <mark key="'" line="93" column="24" />
-        <mark key="[" line="127" column="57" />
-        <mark key="]" line="127" column="57" />
-        <mark key="." line="127" column="57" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="12" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="308" column="41" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="458" column="21" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="95" column="61" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="205" column="42" filename="$USER_HOME$/Documents/svn/perks/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
@@ -288,6 +277,8 @@
       <jump line="62" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleClansDebugger.cs" />
       <jump line="187" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleClansDebugger.cs" />
       <jump line="17" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ChatSendMessageCommand.cs" />
+      <jump line="42" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
+      <jump line="105" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,7 +290,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>adsf</text>
+        <text>chat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQ2hhbm5lbCA9IGNoYW5uZWwuVG9TdHJpbmcoKS5Ub0xvd2VySW52YXJpYW50KCk7Cg==</text>
@@ -341,9 +332,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>adsf</last-search>
+      <last-search>chat</last-search>
       <last-offset />
-      <last-pattern>adsf</last-pattern>
+      <last-pattern>chat</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
