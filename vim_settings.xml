@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>height</entry>
-        <entry>virtua</entry>
-        <entry encoding="base64">XDx2aXJ0dWFsTGlzdFw+</entry>
         <entry>_</entry>
         <entry encoding="base64">XDxfaXRlbVNpemVcPg==</entry>
         <entry>layout</entry>
@@ -27,6 +24,9 @@
         <entry>asdf</entry>
         <entry encoding="base64">XDxzY3JvbGxcPg==</entry>
         <entry encoding="base64">XDxfc2Nyb2xsXD4=</entry>
+        <entry>rect</entry>
+        <entry encoding="base64">XDxfaW1hZ2VPdXRsaW5lXD4=</entry>
+        <entry encoding="base64">XDxfY2FudmFzR3JvdXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -111,6 +111,10 @@
         <mark key="[" line="113" column="0" />
         <mark key="]" line="117" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ScrollToSocialOffers.cs" timestamp="1588766343959">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="35" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ChatSendMessageHandler.cs" timestamp="1588757122029">
         <mark key="'" line="15" column="62" />
         <mark key="[" line="23" column="23" />
@@ -131,23 +135,31 @@
         <mark key="^" line="28" column="66" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1588762338950">
-        <mark key="'" line="73" column="37" />
-        <mark key="[" line="58" column="45" />
-        <mark key="]" line="58" column="58" />
-        <mark key="." line="58" column="57" />
-        <mark key="^" line="58" column="58" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1588767490059">
+        <mark key="'" line="123" column="129" />
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="58" column="42" />
+        <mark key="." line="58" column="41" />
+        <mark key="^" line="58" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1588764197522">
-        <mark key="'" line="42" column="30" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="157" column="24" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" timestamp="1588767290913">
+        <mark key="'" line="155" column="88" />
+        <mark key="[" line="155" column="106" />
+        <mark key="]" line="155" column="114" />
+        <mark key="." line="155" column="113" />
+        <mark key="^" line="155" column="114" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588750052905">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/ItemAlphaHelper.cs" timestamp="1588767282676">
+        <mark key="[" line="16" column="54" />
+        <mark key="]" line="16" column="66" />
+        <mark key="^" line="16" column="66" />
+        <mark key="." line="16" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/AbilityUpgradeHandler.cs" timestamp="1588756686696">
         <mark key="'" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" timestamp="1588764500205">
+        <mark key="'" line="76" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessagesComparer.cs" timestamp="1588754545753">
         <mark key="[" line="9" column="30" />
@@ -155,17 +167,8 @@
         <mark key="^" line="9" column="31" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleClansDebugger.cs" timestamp="1588258411381">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="191" column="45" />
-        <mark key="." line="200" column="0" />
-        <mark key="^" line="196" column="88" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" timestamp="1588258354173">
-        <mark key="'" line="18" column="29" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="188" column="9" />
+      <file name="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" timestamp="1588764490699">
+        <mark key="'" line="104" column="96" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1588757442903">
         <mark key="'" line="45" column="47" />
@@ -178,12 +181,6 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="50" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1588751104662">
-        <mark key="[" line="335" column="58" />
-        <mark key="]" line="335" column="137" />
-        <mark key="^" line="335" column="137" />
-        <mark key="." line="335" column="136" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" timestamp="1588758303847">
         <mark key="'" line="67" column="13" />
         <mark key="[" line="54" column="0" />
@@ -191,12 +188,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="48" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1588764310857">
-        <mark key="'" line="111" column="0" />
-        <mark key="[" line="141" column="22" />
-        <mark key="]" line="141" column="28" />
-        <mark key="." line="141" column="27" />
-        <mark key="^" line="141" column="28" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1588768011856">
+        <mark key="'" line="115" column="63" />
+        <mark key="[" line="146" column="9" />
+        <mark key="]" line="153" column="19" />
+        <mark key="." line="153" column="19" />
+        <mark key="^" line="155" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" timestamp="1588751316119">
         <mark key="[" line="29" column="25" />
@@ -206,45 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentResultsPlayerInfo.cs" />
-      <jump line="7" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
-      <jump line="100" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Tournament/TournamentRatingTableRow.cs" />
-      <jump line="30" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/AvatarIcon.cs" />
-      <jump line="41" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/CoopVictory/AvatarIcon.cs" />
-      <jump line="12" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
-      <jump line="89" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipsListScreen.cs" />
-      <jump line="30" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
-      <jump line="82" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
-      <jump line="102" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandScreen.cs" />
-      <jump line="24" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandScreen.cs" />
-      <jump line="72" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandScreen.cs" />
-      <jump line="74" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandScreen.cs" />
-      <jump line="76" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandScreen.cs" />
-      <jump line="25" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandScreen.cs" />
-      <jump line="635" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="61" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="141" column="101" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="13" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="348" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="53" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="54" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="59" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="96" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="97" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="98" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="68" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="115" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="128" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="134" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="152" column="109" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="153" column="107" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="439" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="31" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="30" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="120" column="77" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="121" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="127" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Mono/ListItemsMovement.cs" />
-      <jump line="12" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="11" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanSettingsScreen.cs" />
       <jump line="13" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" />
       <jump line="21" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" />
@@ -277,7 +235,6 @@
       <jump line="99" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" />
       <jump line="78" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="30" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="112" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/AbilityUpgradeHandler.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/AbilityUpgradeHandler.cs" />
       <jump line="2" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/AbilityUpgradeHandler.cs" />
@@ -306,51 +263,91 @@
       <jump line="42" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
       <jump line="27" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="111" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="142" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="28" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="17" column="23" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="30" column="42" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="38" column="58" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="42" column="58" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="46" column="58" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="81" column="104" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="86" column="115" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="89" column="121" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="96" column="41" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="98" column="27" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="101" column="16" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="104" column="96" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/ScrollRect.cs" />
+      <jump line="15" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
+      <jump line="44" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
+      <jump line="45" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
+      <jump line="47" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
+      <jump line="48" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
+      <jump line="67" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
+      <jump line="76" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
+      <jump line="40" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
+      <jump line="110" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
+      <jump line="182" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
+      <jump line="112" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="12" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="105" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="61" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="114" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="48" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="65" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
+      <jump line="115" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="44" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
+      <jump line="92" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
+      <jump line="155" column="88" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareConsumableItem.cs" />
+      <jump line="42" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="117" column="104" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="60" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="123" column="129" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ChangeMessage</text>
+        <text>1f</text>
       </register>
       <register name="-" type="4">
-        <text>ChangeMessage</text>
+        <text>1f</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfc2Nyb2xsXD4=</text>
+        <text encoding="base64">XDxfY2FudmFzR3JvdXBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbVXNlZEltcGxpY2l0bHldCiAgICAgICAgcHVibGljIHZvaWQgT25DaGFuZ2VNZXNzYWdlKCkKICAgICAgICB7CiAgICAgICAgfQogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBmbG9hdCBfYWxwaGFDb2VmZlVwOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIENhbnZhc0dyb3VwIF9jYW52YXNHcm91cDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIF9zY3JvbGwgPSBfY29udGFpbmVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFVzZXJJbmZvIF91c2VySW5mbzsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFJlY3RUcmFuc2Zvcm0gX3Njcm9sbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IERhdGVUaW1lKGxvbmcuUGFyc2UocmVjb3JkKSkuQ0xvZyhsb25nLlBhcnNlKHJlY29yZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VzID09IG51bGwpIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIF9zY3JvbGwgPSBfY29udGFpbmVyLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIENoYXRNZXNzYWdlIEdldEZpcnN0VW5yZWFkTWVzc2FnZShDaGFubmVsSW5mbyBjaGFubmVsSW5mbykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -359,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfc2Nyb2xsXD4=</last-search>
+      <last-search encoding="base64">XDxfY2FudmFzR3JvdXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfc2Nyb2xsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY2FudmFzR3JvdXBcPg==</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
