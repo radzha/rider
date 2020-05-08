@@ -7,12 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxtX0FsbG93SW5wdXRcPg==</entry>
-        <entry encoding="base64">XDxEZWFjdGl2YXRlSW5wdXRGaWVsZFw+</entry>
-        <entry encoding="base64">XDxfc2VhcmNoSW5wdXRGaWVsZFw+</entry>
-        <entry encoding="base64">XDxSZXNldFZpc3VhbFw+</entry>
-        <entry>save</entry>
-        <entry>set</entry>
         <entry>Set</entry>
         <entry>setla</entry>
         <entry>Last</entry>
@@ -20,13 +14,19 @@
         <entry encoding="base64">XDxPblNjcm9vbFRvRW5kXD4=</entry>
         <entry>Center</entry>
         <entry>Jump</entry>
-        <entry encoding="base64">XDxfaGFzVW5yZWFkXD4=</entry>
         <entry encoding="base64">XDxfZmlyc3RVbnJlYWRcPg==</entry>
-        <entry>clog</entry>
         <entry>hex</entry>
         <entry>color</entry>
         <entry>asdf</entry>
         <entry encoding="base64">XDxTZW5kZXJcPg==</entry>
+        <entry>jump</entry>
+        <entry>addm</entry>
+        <entry>ismy</entry>
+        <entry encoding="base64">XDxfaGFzVW5yZWFkXD4=</entry>
+        <entry encoding="base64">XDxfc2Nyb2xsQmFyXD4=</entry>
+        <entry encoding="base64">XDxFVkVOVF9UT1BfU0NSRUVOX0NIQU5HRURcPg==</entry>
+        <entry encoding="base64">XDxfc2Nyb2xsQmFyRW5hYmxlZFw+</entry>
+        <entry>clog</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -94,18 +94,11 @@
       <file name="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" timestamp="1588863881886">
         <mark key="'" line="285" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1588855251347">
-        <mark key="[" line="227" column="24" />
-        <mark key="]" line="227" column="24" />
-        <mark key="." line="227" column="24" />
-        <mark key="^" line="227" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1588873175414">
-        <mark key="'" line="92" column="42" />
-        <mark key="[" line="93" column="28" />
-        <mark key="]" line="93" column="28" />
-        <mark key="." line="93" column="28" />
-        <mark key="^" line="93" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1588873700871">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanOpenButton.cs" timestamp="1588857648211" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanBanner.cs" timestamp="1588872584912">
@@ -127,11 +120,19 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" timestamp="1588871234289">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1588924305080">
         <mark key="'" line="77" column="24" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+        <mark key="[" line="500" column="35" />
+        <mark key="]" line="500" column="35" />
+        <mark key="." line="500" column="35" />
+        <mark key="^" line="500" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" timestamp="1588926065714">
+        <mark key="'" line="77" column="24" />
+        <mark key="[" line="83" column="70" />
+        <mark key="]" line="83" column="118" />
+        <mark key="." line="83" column="117" />
+        <mark key="^" line="83" column="118" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/ScrollToSocialOffers.cs" timestamp="1588867570054">
         <mark key="[" line="23" column="0" />
@@ -143,24 +144,25 @@
         <mark key="]" line="2202" column="27" />
         <mark key="." line="2500" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/ReactiveList.cs" timestamp="1588852197204">
-        <mark key="'" line="48" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588871187414">
+      <file name="/Dummy.txt" timestamp="1588873690436">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" timestamp="1588859592206" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/BaseScene/BaseLocation.cs" timestamp="1588924688433">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" timestamp="1588926385652">
+        <mark key="'" line="29" column="27" />
+        <mark key="[" line="59" column="57" />
+        <mark key="]" line="59" column="58" />
+        <mark key="." line="59" column="57" />
+        <mark key="^" line="59" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/OtherClanInfoScreen.cs" timestamp="1588873565012">
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="0" />
         <mark key="." line="90" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanSettingsScreen.cs" timestamp="1588857220581">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="80" />
-        <mark key="^" line="11" column="80" />
-        <mark key="." line="11" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" timestamp="1588871361638">
         <mark key="'" line="251" column="20" />
@@ -169,48 +171,22 @@
         <mark key="^" line="253" column="71" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1588852380933">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1588922985614">
         <mark key="'" line="45" column="47" />
-        <mark key="[" line="50" column="56" />
-        <mark key="]" line="50" column="57" />
-        <mark key="." line="50" column="56" />
+        <mark key="[" line="50" column="30" />
+        <mark key="]" line="50" column="31" />
+        <mark key="." line="50" column="31" />
         <mark key="^" line="50" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1588872635424">
-        <mark key="'" line="164" column="23" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="^" line="139" column="20" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1588925932280">
+        <mark key="'" line="144" column="44" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="82" />
+        <mark key="^" line="246" column="46" />
+        <mark key="." line="246" column="45" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
-      <jump line="151" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="182" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="135" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="241" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="318" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="356" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="257" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="311" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="253" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="306" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
-      <jump line="14" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/ReactiveList.cs" />
-      <jump line="48" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/ReactiveList.cs" />
-      <jump line="77" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" />
-      <jump line="127" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="112" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="224" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="50" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="15" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="192" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="62" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="78" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="152" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="154" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="177" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="199" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
       <jump line="37" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
       <jump line="80" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
       <jump line="30" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
@@ -248,7 +224,6 @@
       <jump line="111" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="189" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="202" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="146" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="185" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="186" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="237" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -261,13 +236,11 @@
       <jump line="210" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="212" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="222" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="148" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="149" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="156" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="169" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="75" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="142" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="143" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="166" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="2195" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
       <jump line="2201" column="65" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
@@ -285,51 +258,80 @@
       <jump line="89" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
       <jump line="90" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
       <jump line="92" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="95" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="275" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="123" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="117" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="182" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="279" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="253" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="241" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="145" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="148" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="38" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="243" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="58" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
+      <jump line="77" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
+      <jump line="30" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
+      <jump line="197" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="150" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="146" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="57" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="267" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="254" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="196" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="236" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="264" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="129" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="143" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="144" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGpvaW5TdGF0ZS5Db29sZG93bi5Ub3RhbFNlY29uZHMgPiAwKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgbWVzc2FnZSA9IF9zdG9yYWdlLkdldFBocmFzZSgiQ2xhblRpbWVyX05vdGlmaWNhdGlvbiIpLkYoam9pblN0YXRlLkNvb2xkb3duLlRvQWRhcHRpdmVTdHJpbmcoKSk7CiAgICAgICAgICAgICAgICBOb3RpZmljYXRpb24uU2hvdyhtZXNzYWdlKTsKICAgICAgICAgICAgICAgIHJldHVybjsgCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>screenType.IsOneOf(ScreenType.Base, ScreenType.TutorialHighlightElementWrapper))</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>screenType.IsOneOf(ScreenType.Base, ScreenType.TutorialHighlightElementWrapper))</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZW5kZXJcPg==</text>
+        <text>clog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9tZXNzYWdlLnRleHQgPSBtZXNzYWdlLlRleHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzY3JlZW5UeXBlLklzT25lT2YoU2NyZWVuVHlwZS5CYXNlLCBTY3JlZW5UeXBlLlR1dG9yaWFsSGlnaGxpZ2h0RWxlbWVudFdyYXBwZXIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGpvaW5TdGF0ZS5Db29sZG93bi5Ub3RhbFNlY29uZHMgPiAwKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB2YXIgbWVzc2FnZSA9IF9zdG9yYWdlLkdldFBocmFzZSgiQ2xhblRpbWVyX05vdGlmaWNhdGlvbiIpLkYoam9pblN0YXRlLkNvb2xkb3duLlRvQWRhcHRpdmVTdHJpbmcoKSk7CiAgICAgICAgICAgICAgICBOb3RpZmljYXRpb24uU2hvdyhtZXNzYWdlKTsKICAgICAgICAgICAgICAgIHJldHVybjsgCiAgICAgICAgICAgIH0KICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dXNpbmcgWWFyeC5TdWJqZWN0czsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1lbWJlci5SYW5rLkNvbG9yCg==</text>
+        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5CYXNlTWlzc2lvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21lc3NhZ2UudGV4dCA9IG1lc3NhZ2UuVGV4dDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g0KHQvtC+0LHRidC10L3QuNGPINC+0YIg0YHQtdCx0Y8g0LTQvtCx0LDQstC70Y/QtdC8INC90LUg0LfQtNC10YHRjCAo0L/RgNC10LTQuNC60YjQtdC90L7QvCkuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21lc3NhZ2UudGV4dCA9IG1lc3NhZ2UuVGV4dDsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGltZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbG9yID0gbWVzc2FnZS5TZW5kZXIuSGV4VG9Db2xvcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImZvdW5kIi5DTG9nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIm0iLkNMb2dSZWQoX21lc3NhZ2VzU3Vic2NyaXB0aW9uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobWVzc2FnZXMuRmluZChtZXNzYWdlID0+IG1lc3NhZ2UuSXNNeU1lc3NhZ2UoX3VzZXJJbmZvKSkgIT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIFVwZGF0ZVJlYWRNZXNzYWdlVGltZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVwZCIuQ0xvZ1llbChoYXZlTWVzc2FnZXNCZWxvd1NjcmVlbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImFkZCIuQ0xvZyhtZXNzYWdlcy5MZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImZpbmlzaCIuQ0xvZ0JsdWUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpc0ZpcnN0VW5yZWFkKSBfZmlyc3RVbnJlYWRJdGVtID0gaXRlbTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXJ0Ii5DTG9nKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -338,9 +340,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTZW5kZXJcPg==</last-search>
+      <last-search>clog</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZW5kZXJcPg==</last-pattern>
+      <last-pattern>clog</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
