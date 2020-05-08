@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Set</entry>
-        <entry>setla</entry>
-        <entry>Last</entry>
-        <entry encoding="base64">XDxuZXdQb3NpdGlvblw+</entry>
         <entry encoding="base64">XDxPblNjcm9vbFRvRW5kXD4=</entry>
         <entry>Center</entry>
         <entry>Jump</entry>
@@ -27,6 +23,10 @@
         <entry encoding="base64">XDxFVkVOVF9UT1BfU0NSRUVOX0NIQU5HRURcPg==</entry>
         <entry encoding="base64">XDxfc2Nyb2xsQmFyRW5hYmxlZFw+</entry>
         <entry>clog</entry>
+        <entry>isme</entry>
+        <entry>anima</entry>
+        <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
+        <entry>same</entry>
       </history-search>
       <history-cmd>
         <entry>action ReformatCode</entry>
@@ -94,11 +94,12 @@
       <file name="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" timestamp="1588863881886">
         <mark key="'" line="285" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1588873700871">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1588927556921">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="92" column="83" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanOpenButton.cs" timestamp="1588857648211" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanBanner.cs" timestamp="1588872584912">
@@ -187,11 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="80" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="30" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="56" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
-      <jump line="53" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
       <jump line="68" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
       <jump line="518" column="25" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" />
       <jump line="531" column="24" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" />
@@ -287,51 +283,56 @@
       <jump line="129" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="143" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="144" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="96" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="49" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="61" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
+      <jump line="50" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>screenType.IsOneOf(ScreenType.Base, ScreenType.TutorialHighlightElementWrapper))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgU2hvd01lc3NhZ2UoQ2hhdE1lc3NhZ2UgbWVzc2FnZSkKICAgICAgICB7CiAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>screenType.IsOneOf(ScreenType.Base, ScreenType.TutorialHighlightElementWrapper))</text>
+        <text>Text</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text>same</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzY3JlZW5UeXBlLklzT25lT2YoU2NyZWVuVHlwZS5CYXNlLCBTY3JlZW5UeXBlLlR1dG9yaWFsSGlnaGxpZ2h0RWxlbWVudFdyYXBwZXIpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uYW1lLnRleHQgPSBtZXNzYWdlLlNlbmRlci5Vc2VybmFtZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgWWFyeC5TdWJqZWN0czsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgU2hvd01lc3NhZ2UoQ2hhdE1lc3NhZ2UgbWVzc2FnZSkKICAgICAgICB7CiAgICAgICAgfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5CYXNlTWlzc2lvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2hvd01lc3NhZ2UobWVzc2FnZSwgbWVzc2FnZS5Jc1N5c3RlbSB8fCBtZXNzYWdlLklzTXlNZXNzYWdlKF91c2VySW5mbykpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g0KHQvtC+0LHRidC10L3QuNGPINC+0YIg0YHQtdCx0Y8g0LTQvtCx0LDQstC70Y/QtdC8INC90LUg0LfQtNC10YHRjCAo0L/RgNC10LTQuNC60YjQtdC90L7QvCkuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgImZvdW5kIi5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9tZXNzYWdlLnRleHQgPSAkIjxjb2xvcj0je21lbWJlci5SYW5rLkNvbG9yfT57bWVzc2FnZS5UZXh0fTwvY29sb3I+IjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIm0iLkNMb2dSZWQoX21lc3NhZ2VzU3Vic2NyaXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uYW1lLnRleHQgPSBtZXNzYWdlLlNlbmRlci5Vc2VybmFtZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInVwZCIuQ0xvZ1llbChoYXZlTWVzc2FnZXNCZWxvd1NjcmVlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uYW1lLnRleHQgPSBtZXNzYWdlLlNlbmRlci5Vc2VybmFtZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImZpbmlzaCIuQ0xvZ0JsdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9uYW1lLnRleHQgPSBtZXNzYWdlLlNlbmRlci5Vc2VybmFtZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXJ0Ii5DTG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21lc3NhZ2UudGV4dCA9IG1lc3NhZ2UuVGV4dDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -340,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clog</last-search>
+      <last-search>same</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern>same</last-pattern>
       <last-replace>MCurrentState</last-replace>
       <last-substitute>m_CurrentState</last-substitute>
       <last-dir>1</last-dir>
