@@ -114,12 +114,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PromoPopup/PromoPopupScreen.cs" timestamp="1589028191066">
         <mark key="'" line="89" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1589027180701">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1589034713737">
         <mark key="'" line="35" column="4" />
-        <mark key="[" line="2546" column="0" />
-        <mark key="]" line="2546" column="1" />
-        <mark key="^" line="2542" column="16" />
-        <mark key="." line="2546" column="0" />
+        <mark key="[" line="2524" column="75" />
+        <mark key="]" line="2525" column="46" />
+        <mark key="^" line="2525" column="46" />
+        <mark key="." line="2525" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1588955147342">
         <mark key="'" line="92" column="16" />
@@ -128,7 +128,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="96" column="60" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589029359865">
+      <file name="/Dummy.txt" timestamp="1589034196624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" timestamp="1588947763365">
@@ -172,16 +172,15 @@
         <mark key="." line="49" column="44" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589032867064">
-        <mark key="'" line="327" column="32" />
-        <mark key="[" line="309" column="9" />
-        <mark key="]" line="310" column="54" />
-        <mark key="." line="310" column="53" />
-        <mark key="^" line="310" column="54" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589034211242">
+        <mark key="'" line="309" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="91" column="49" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
       <jump line="41" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="290" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="204" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -281,15 +280,16 @@
       <jump line="328" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="330" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="327" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="310" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text>height</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text>clog</text>
@@ -298,34 +298,34 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKElucHV0LkdldEtleURvd24oS2V5Q29kZS5BKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICBNb3ZlQ2hhdEZyYW1lKDIwMCk7IAogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIChJbnB1dC5HZXRLZXlEb3duKEtleUNvZGUuQSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIE1vdmVDaGF0RnJhbWUoMjAwKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKElucHV0LkdldEtleURvd24oS2V5Q29kZS5CKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgTW92ZUNoYXRGcmFtZSgwKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlaWdodCA9IE1hdGhmLlJvdW5kVG9JbnQoVG91Y2hTY3JlZW5LZXlib2FyZC5hcmVhLmhlaWdodCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGhlaWdodCA9IE1hdGhmLlJvdW5kVG9JbnQoVG91Y2hTY3JlZW5LZXlib2FyZC5hcmVhLmhlaWdodCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgTW92ZUNoYXRGcmFtZShpbnQgcDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzaW5nICh2YXIgdW5pdHlDbGFzcyA9IG5ldyBBbmRyb2lkSmF2YUNsYXNzKCJjb20udW5pdHkzZC5wbGF5ZXIuVW5pdHlQbGF5ZXIiKSkKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB2YXIgdW5pdHlQbGF5ZXIgPSB1bml0eUNsYXNzLkdldFN0YXRpYzxBbmRyb2lkSmF2YU9iamVjdD4oImN1cnJlbnRBY3Rpdml0eSIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5HZXQ8QW5kcm9pZEphdmFPYmplY3Q+KCJtVW5pdHlQbGF5ZXIiKTsKICAgICAgICAgICAgICAgICAgICB2YXIgdmlldyA9IHVuaXR5UGxheWVyLkNhbGw8QW5kcm9pZEphdmFPYmplY3Q+KCJnZXRWaWV3Iik7CiAgICAgICAgICAgICAgICAgICAgdmFyIGRpYWxvZyA9IHVuaXR5UGxheWVyLkdldDxBbmRyb2lkSmF2YU9iamVjdD4oImIiKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKHZpZXcgPT0gbnVsbCB8fCBkaWFsb2cgPT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDA7CgogICAgICAgICAgICAgICAgICAgIHZhciBkZWNvckhlaWdodCA9IDA7CgogICAgICAgICAgICAgICAgICAgIGlmIChpbmNsdWRlSW5wdXQpCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgZGVjb3JWaWV3ID0gZGlhbG9nLkNhbGw8QW5kcm9pZEphdmFPYmplY3Q+KCJnZXRXaW5kb3ciKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLkNhbGw8QW5kcm9pZEphdmFPYmplY3Q+KCJnZXREZWNvclZpZXciKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChkZWNvclZpZXcgIT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlY29ySGVpZ2h0ID0gZGVjb3JWaWV3LkNhbGw8aW50PigiZ2V0SGVpZ2h0Iik7CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICB1c2luZyAodmFyIHJlY3QgPSBuZXcgQW5kcm9pZEphdmFPYmplY3QoImFuZHJvaWQuZ3JhcGhpY3MuUmVjdCIpKQogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmlldy5DYWxsKCJnZXRXaW5kb3dWaXNpYmxlRGlzcGxheUZyYW1lIiwgcmVjdCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBEaXNwbGF5Lm1haW4uc3lzdGVtSGVpZ2h0IC0gcmVjdC5DYWxsPGludD4oImhlaWdodCIpICsgZGVjb3JIZWlnaHQ7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVhY3RpdmF0ZUlucHV0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJvbiBzZWxlY3QiLkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgU3RhcnQoKQogICAgICAgIHsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVhY3RpdmF0ZUlucHV0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX21lc3NhZ2VJbnB1dEZpZWxkLkRlYWN0aXZhdGVJbnB1dEZpZWxkKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIChJbnB1dC5HZXRLZXlEb3duKEtleUNvZGUuQSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIE1vdmVDaGF0RnJhbWUoMjAwKTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKElucHV0LkdldEtleURvd24oS2V5Q29kZS5CKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgTW92ZUNoYXRGcmFtZSgwKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBPblNlbGVjdChCYXNlRXZlbnREYXRhIGV2ZW50RGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/public Storage Storage;//g</text>
