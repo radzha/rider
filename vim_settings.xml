@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxPbk1lc3NhZ2VzVXBkYXRlXD4=</entry>
         <entry encoding="base64">XDxGaWxsSXRlbXNcPg==</entry>
         <entry encoding="base64">XDxfc2Nyb2xsXD4=</entry>
         <entry encoding="base64">XDxvblZhbHVlQ2hhbmdlZFw+</entry>
@@ -27,6 +26,7 @@
         <entry>a</entry>
         <entry>hide</entry>
         <entry encoding="base64">XDxtX0tleWJvYXJkXD4=</entry>
+        <entry>prev</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -39,7 +39,6 @@
         <entry>%s/Received/Taken/g</entry>
         <entry>%s/received/taken/g</entry>
         <entry encoding="base64">JzwsJz4lcy9tX0N1cnJlbnRTdGF0ZS9NQ3VycmVudFN0YXRlL2c=</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYyBTdG9yYWdlIFN0b3JhZ2U7L1wvXC8vZw==</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYyBTdG9yYWdlIFN0b3JhZ2U7Ly9n</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYyBTdG9yYWdlIFN0b3JhZ2U7LzsvZw==</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL3B1YmxpYyBTdG9yYWdlIFN0b3JhZ2UvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy8vZw==</entry>
         <entry>%s/public Storage Storage;//g</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,6 +143,12 @@
         <mark key="^" line="64" column="8" />
         <mark key="." line="64" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" timestamp="1589096598618">
+        <mark key="[" line="82" column="12" />
+        <mark key="]" line="82" column="12" />
+        <mark key="." line="82" column="12" />
+        <mark key="^" line="77" column="16" />
+      </file>
       <file name="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Selectable.cs" timestamp="1589017722655">
         <mark key="'" line="1280" column="28" />
       </file>
@@ -156,10 +162,10 @@
         <mark key="." line="49" column="44" />
         <mark key="^" line="49" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1589034713737">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" timestamp="1589092437642">
         <mark key="'" line="35" column="4" />
-        <mark key="[" line="2524" column="75" />
-        <mark key="]" line="2525" column="46" />
+        <mark key="[" line="2509" column="0" />
+        <mark key="]" line="2532" column="9" />
         <mark key="^" line="2525" column="46" />
         <mark key="." line="2525" column="45" />
       </file>
@@ -170,27 +176,19 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="96" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589045079904">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="316" column="108" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589092293850">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="307" column="108" />
+        <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/testt/test/Assets/OpenInput.cs" timestamp="1589091247232">
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="11" column="28" />
-        <mark key="." line="11" column="27" />
-        <mark key="^" line="11" column="28" />
+      <file name="$USER_HOME$/Documents/svn/testt/test/Assets/OpenInput.cs" timestamp="1589092960785">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
-      <jump line="200" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
-      <jump line="199" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
-      <jump line="119" column="79" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="268" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="63" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="270" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="168" column="11" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
       <jump line="177" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
       <jump line="185" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
@@ -284,66 +282,73 @@
       <jump line="1301" column="31" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" />
       <jump line="1303" column="24" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" />
       <jump line="1311" column="25" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/InputField.cs" />
+      <jump line="58" column="0" filename="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" />
+      <jump line="65" column="21" filename="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" />
+      <jump line="67" column="12" filename="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" />
+      <jump line="53" column="16" filename="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" />
+      <jump line="59" column="24" filename="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" />
+      <jump line="61" column="15" filename="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" />
+      <jump line="68" column="12" filename="$USER_HOME$/Documents/svn/testt/test/Assets/MyInput.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>WithInput</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtX0tleWJvYXJkXD4=</text>
+        <text>prev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKElucHV0LkdldEtleURvd24oS2V5Q29kZS5BKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICBNb3ZlQ2hhdEZyYW1lKDIwMCk7IAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHByZXY7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gX2lucHV0RmllbGQudGV4dCA9ICQiKHtfbGlzdC5Db3VudH0pIHtzdHJpbmcuSm9pbigiLCAiLCBfbGlzdCl9IjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX21lc3NhZ2VJbnB1dEZpZWxkLnRvdWNoU2NyZWVuS2V5Ym9hcmQuYWN0aXZlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGtleWJvYXJkSGVpZ2h0LkNMb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldiA9IDA7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG4gPSBuZXcgVmVjdG9yMihfcmVjdC5vZmZzZXRNaW4ueCwgX3JlY3Qub2Zmc2V0TWluLnkgKyAxKTsKICAgICAgICAgICAgX3JlY3Qub2Zmc2V0TWluID0gbjsKICAgICAgICAgICAgX2lucHV0RmllbGQudGV4dCA9IF9yZWN0Lm9mZnNldE1pbi5Ub1N0cmluZygpOwogICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pc0tleWJvYXJkT3BlbiA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3JlY3Qub2Zmc2V0TWF4ID0gbmV3IFZlY3RvcjIoX3JlY3Qub2Zmc2V0TWF4LngsIF9yZWN0Lm9mZnNldE1heC55ICsgMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBrZXlib2FyZEhlaWdodFdpdGhJbnB1dCA9IFV0aWxzLkdldEtleWJvYXJkSGVpZ2h0KHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldiAtPSAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBrZXlib2FyZEhlaWdodFdpdGhJbnB1dCA9IFV0aWxzLkdldEtleWJvYXJkSGVpZ2h0KHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gX2lucHV0RmllbGQudGV4dCA9ICQiKHtfbGlzdC5Db3VudH0pIHtzdHJpbmcuSm9pbigiLCAiLCBfbGlzdCl9IjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXZlbnRTeXN0ZW0uY3VycmVudC5TZXRTZWxlY3RlZEdhbWVPYmplY3QoZ2FtZU9iamVjdCwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlY3QgPSBfYnV0dG9uLkdldENvbXBvbmVudDxSZWN0VHJhbnNmb3JtPigpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/public Storage Storage;//g</text>
+        <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtX0tleWJvYXJkXD4=</last-search>
+      <last-search>prev</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtX0tleWJvYXJkXD4=</last-pattern>
+      <last-pattern>prev</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
