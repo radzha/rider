@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY2hhdEZyYW1lXD4=</entry>
-        <entry>coog</entry>
         <entry>clog</entry>
         <entry>a</entry>
         <entry>hide</entry>
@@ -25,8 +23,10 @@
         <entry encoding="base64">XDxPblZhbGlkYXRlVGl0bGVJbnB1dFw+</entry>
         <entry encoding="base64">XDxvblZhbGlkYXRlSW5wdXRcPg==</entry>
         <entry>asdf</entry>
-        <entry encoding="base64">XDxVcGRhdGVDbGFuQ29vcEluZm9cPg==</entry>
         <entry encoding="base64">XDxjYW5Eb3duc2NhbGVcPg==</entry>
+        <entry encoding="base64">XDxVcGRhdGVDbGFuQ29vcEluZm9cPg==</entry>
+        <entry encoding="base64">XDxDb29wVG9nZ2xlXD4=</entry>
+        <entry encoding="base64">XDxPblRvZ2dsZVN0YXRlVXBkYXRlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -119,10 +119,11 @@
         <mark key="^" line="2506" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/ClanCoopGetAlliesCount.cs" timestamp="1589274964342" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" timestamp="1589285059727" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/QualitySettingsController.cs" timestamp="1589283120553">
         <mark key="'" line="260" column="73" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589281952983">
+      <file name="/Dummy.txt" timestamp="1589283362235">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" timestamp="1589275873118">
@@ -131,16 +132,17 @@
         <mark key="]" line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/AutoFocusInputField.cs" timestamp="1589267260700" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1589282981851">
-        <mark key="'" line="487" column="20" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" timestamp="1589285189637">
+        <mark key="'" line="93" column="38" />
+        <mark key="[" line="512" column="46" />
+        <mark key="]" line="512" column="54" />
+        <mark key="^" line="512" column="54" />
+        <mark key="." line="512" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/SetUsernamePopup.cs" timestamp="1589275954045">
         <mark key="'" line="117" column="16" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/ColorLogUtils.cs" timestamp="1589102157194">
-        <mark key="'" line="137" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/PhraseExt.cs" timestamp="1589278069702">
         <mark key="'" line="7" column="25" />
@@ -164,14 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1280" column="28" filename="/Applications/Unity/Hub/Editor/2019.2.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Selectable.cs" />
-      <jump line="314" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
-      <jump line="584" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
-      <jump line="559" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
-      <jump line="171" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
-      <jump line="561" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
-      <jump line="45" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
       <jump line="110" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
       <jump line="112" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
       <jump line="120" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/ClanSettings.cs" />
@@ -264,51 +258,59 @@
       <jump line="34" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.cs" />
       <jump line="487" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
       <jump line="260" column="73" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/QualitySettingsController.cs" />
+      <jump line="488" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="385" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="489" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="509" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="511" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="63" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="505" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
+      <jump line="93" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>Coop</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Coop</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5Eb3duc2NhbGVcPg==</text>
+        <text encoding="base64">XDxPblRvZ2dsZVN0YXRlVXBkYXRlZFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>QualitySettingsController.GetResolution(true)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVwZGF0ZUNsYW5Db29wSW5mbygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcGFkZGluZyA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3JhZ2UuQ2xhblNldHRpbmdzLlBocmFzZXMuUFJPTU9URQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoU3RhdGUuVmFsdWUgPT0gKVVwZGF0ZUNsYW5Db29wSW5mbygpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlQ2xhbkNvb3BJbmZvKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcGFkZGluZyA9IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0b3JhZ2UuQ2xhblNldHRpbmdzLlBocmFzZXMuUFJPTU9URQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -317,12 +319,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYW5Eb3duc2NhbGVcPg==</last-search>
+      <last-search encoding="base64">XDxPblRvZ2dsZVN0YXRlVXBkYXRlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5Eb3duc2NhbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxPblRvZ2dsZVN0YXRlVXBkYXRlZFw+</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
