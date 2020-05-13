@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY2hhbm5lbFw+</entry>
         <entry>newm</entry>
         <entry encoding="base64">XDxfdXNlckluZm9cPg==</entry>
         <entry>rank</entry>
@@ -27,6 +26,7 @@
         <entry>clog</entry>
         <entry>getlast</entry>
         <entry>addm</entry>
+        <entry encoding="base64">XDxfcG9vbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,8 +100,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" timestamp="1589366641260">
         <mark key="'" line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" timestamp="1589378751713">
-        <mark key="'" line="116" column="19" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" timestamp="1589379662677">
+        <mark key="'" line="29" column="21" />
         <mark key="[" line="112" column="40" />
         <mark key="]" line="112" column="50" />
         <mark key="^" line="112" column="50" />
@@ -191,17 +191,15 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589379049177">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589379857051">
         <mark key="'" line="202" column="29" />
-        <mark key="[" line="204" column="49" />
-        <mark key="]" line="205" column="57" />
-        <mark key="^" line="205" column="57" />
-        <mark key="." line="205" column="56" />
+        <mark key="[" line="74" column="103" />
+        <mark key="]" line="74" column="63" />
+        <mark key="^" line="74" column="63" />
+        <mark key="." line="74" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="119" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="147" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="151" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="239" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
@@ -300,6 +298,8 @@
       <jump line="346" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="172" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="202" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="19" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" />
+      <jump line="29" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +311,7 @@
         <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
-        <text>addm</text>
+        <text encoding="base64">XDxfcG9vbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhaWwuSW5zZXJ0KDAsIG5ld3NNZXNzYWdlKTsK</text>
@@ -353,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>addm</last-search>
+      <last-search encoding="base64">XDxfcG9vbFw+</last-search>
       <last-offset />
-      <last-pattern>addm</last-pattern>
+      <last-pattern encoding="base64">XDxfcG9vbFw+</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
