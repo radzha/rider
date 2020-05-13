@@ -25,8 +25,8 @@
         <entry encoding="base64">XDxBZGRcPg==</entry>
         <entry encoding="base64">XDxVcGRhdGVNZXNzYWdlQW5pbVw+</entry>
         <entry>clog</entry>
-        <entry>addm</entry>
         <entry>getlast</entry>
+        <entry>addm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,12 +100,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" timestamp="1589366641260">
         <mark key="'" line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" timestamp="1589377210918">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" timestamp="1589378751713">
         <mark key="'" line="116" column="19" />
-        <mark key="[" line="114" column="38" />
-        <mark key="]" line="114" column="39" />
-        <mark key="^" line="116" column="41" />
-        <mark key="." line="114" column="39" />
+        <mark key="[" line="112" column="40" />
+        <mark key="]" line="112" column="50" />
+        <mark key="^" line="112" column="50" />
+        <mark key="." line="112" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanMembers.cs" timestamp="1589367862980">
         <mark key="'" line="32" column="29" />
@@ -113,17 +113,18 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1589379003292">
+        <mark key="'" line="135" column="50" />
+        <mark key="[" line="67" column="62" />
+        <mark key="]" line="67" column="61" />
+        <mark key="^" line="67" column="61" />
+        <mark key="." line="67" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonScreen.cs" timestamp="1589366612039">
         <mark key="'" line="180" column="32" />
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Settings/LanguageSelection.cs" timestamp="1589365791023">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="58" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" timestamp="1589377887148">
         <mark key="'" line="86" column="22" />
@@ -190,17 +191,15 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589377226456">
-        <mark key="'" line="208" column="36" />
-        <mark key="[" line="202" column="12" />
-        <mark key="]" line="202" column="46" />
-        <mark key="^" line="202" column="46" />
-        <mark key="." line="202" column="45" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589379049177">
+        <mark key="'" line="202" column="29" />
+        <mark key="[" line="204" column="49" />
+        <mark key="]" line="205" column="57" />
+        <mark key="^" line="205" column="57" />
+        <mark key="." line="205" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="62" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="114" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="119" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="147" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -288,7 +287,6 @@
       <jump line="169" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" />
       <jump line="204" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="343" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="172" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="109" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" />
       <jump line="117" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ContainerManager.cs" />
@@ -299,18 +297,21 @@
       <jump line="73" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" />
       <jump line="34" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" />
       <jump line="86" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" />
+      <jump line="346" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="172" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="202" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="-" type="4">
-        <text>(0);</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
-        <text>getlast</text>
+        <text>addm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhaWwuSW5zZXJ0KDAsIG5ld3NNZXNzYWdlKTsK</text>
@@ -352,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getlast</last-search>
+      <last-search>addm</last-search>
       <last-offset />
-      <last-pattern>getlast</last-pattern>
+      <last-pattern>addm</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
