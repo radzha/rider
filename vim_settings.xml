@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>showon</entry>
-        <entry encoding="base64">XDxfc2hvd09uU2NyZWVuc1w+</entry>
-        <entry encoding="base64">XDxfc2NyZWVuc1dhdGNoZXJcPg==</entry>
         <entry encoding="base64">XDxfaXNLZXlib2FyZE9wZW5cPg==</entry>
         <entry>reset</entry>
         <entry encoding="base64">XDxEZXN0cm95XD4=</entry>
@@ -27,6 +24,9 @@
         <entry>time</entry>
         <entry>hide</entry>
         <entry>prem</entry>
+        <entry encoding="base64">XDxDbGFuSW5mb1w+</entry>
+        <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uXD4=</entry>
+        <entry encoding="base64">XDxJbml0UHJlbWl1bUljb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -136,6 +136,13 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1589537745771">
+        <mark key="'" line="335" column="48" />
+        <mark key="[" line="621" column="34" />
+        <mark key="]" line="621" column="45" />
+        <mark key="^" line="621" column="45" />
+        <mark key="." line="621" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1589522737769">
         <mark key="'" line="948" column="37" />
         <mark key="[" line="944" column="24" />
@@ -158,6 +165,13 @@
       <file name="/Dummy.txt" timestamp="1589535846858">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" timestamp="1589539102074">
+        <mark key="'" line="93" column="21" />
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="95" column="43" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" timestamp="1589527659761">
         <mark key="'" line="98" column="84" />
         <mark key="[" line="113" column="53" />
@@ -172,15 +186,6 @@
         <mark key="^" line="140" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/SceneChangingAnimation.cs" timestamp="1589526881215" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileMainPageView.cs" timestamp="1589480696568">
-        <mark key="'" line="44" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" timestamp="1589480728384">
-        <mark key="'" line="68" column="13" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1589536881364">
         <mark key="'" line="380" column="14" />
         <mark key="[" line="400" column="48" />
@@ -190,12 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="628" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="644" column="7" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="13" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="114" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="205" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
-      <jump line="645" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleManager.cs" />
       <jump line="65" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/CoopRewardScreen.cs" />
       <jump line="1984" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
       <jump line="2030" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/Player.cs" />
@@ -290,51 +289,57 @@
       <jump line="223" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="316" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="380" column="14" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="335" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="57" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="80" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="81" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="55" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="93" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CLog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImluaXQiLkNMb2cobWVtYmVyRGF0YT8uQWRkUGFyYW0obWVtYmVyRGF0YT8uSWQpLkFkZFBhcmFtKG1lbWJlckRhdGE/Lkhhc1ByZW1pdW0pKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>CLog</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>prem</text>
+        <text encoding="base64">XDxJbml0UHJlbWl1bUljb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIiIuQ0xvZygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImluaXQiLkNMb2cobWVtYmVyRGF0YT8uQWRkUGFyYW0obWVtYmVyRGF0YT8uSWQpLkFkZFBhcmFtKG1lbWJlckRhdGE/Lkhhc1ByZW1pdW0pKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImNsZWFyIi5BZGRQYXJhbSh0aGlzKS5DTG9nKEdldEhhc2hDb2RlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25EaXNhYmxlKCkKICAgICAgICB7CiAgICAgICAgICAgIFV0aWxzLkRpc3Bvc2VBbmRTZXROdWxsKHJlZiBfc3Vic2NyaXB0aW9uKTsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUoT25HZXQoY2xhbnNJbmZvcykpOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBJRW51bWVyYXRvciBPbkdldChDbGFuc0luZm9zIGNsYW5zSW5mb3MpCiAgICAgICAgewogICAgICAgICAgICB5aWVsZCByZXR1cm4gbmV3IFdhaXRGb3JTZWNvbmRzKDNmKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImNsZWFyIi5BZGRQYXJhbSh0aGlzKS5DTG9nKEdldEhhc2hDb2RlKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIuQ0xvZygpOwo=</text>
+        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIuQ0xvZ1llbCgpOwo=</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIiIuQ0xvZ1llbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhcnRDb3JvdXRpbmUoT25HZXQoY2xhbnNJbmZvcykpOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBJRW51bWVyYXRvciBPbkdldChDbGFuc0luZm9zIGNsYW5zSW5mb3MpCiAgICAgICAgewogICAgICAgICAgICB5aWVsZCByZXR1cm4gbmV3IFdhaXRGb3JTZWNvbmRzKDNmKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -343,12 +348,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>prem</last-search>
+      <last-search encoding="base64">XDxJbml0UHJlbWl1bUljb25cPg==</last-search>
       <last-offset />
-      <last-pattern>prem</last-pattern>
+      <last-pattern encoding="base64">XDxJbml0UHJlbWl1bUljb25cPg==</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
