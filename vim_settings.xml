@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>hide</entry>
-        <entry>prem</entry>
         <entry encoding="base64">XDxDbGFuSW5mb1w+</entry>
         <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uXD4=</entry>
         <entry encoding="base64">XDxJbml0UHJlbWl1bUljb25cPg==</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxPbkNsYW5JbmZvVXBkYXRlZFw+</entry>
         <entry>_res</entry>
         <entry encoding="base64">XDxfcmVzdWx0Q2FsbGJhY2tzXD4=</entry>
+        <entry encoding="base64">XDxVcGRhdGVGcm9tUHJlZnNJZk5lZWRlZFw+</entry>
+        <entry>asdf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -119,15 +119,19 @@
         <mark key="^" line="442" column="136" />
         <mark key="." line="442" column="135" />
       </file>
-      <file name="/VirtualList.cs" timestamp="1589551321837">
-        <mark key="'" line="364" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" timestamp="1589551594567">
         <mark key="'" line="47" column="35" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="^" line="51" column="48" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersWidgetsShowLogger.cs" timestamp="1589799068282">
+        <mark key="'" line="23" column="27" />
+        <mark key="[" line="63" column="41" />
+        <mark key="]" line="63" column="52" />
+        <mark key="." line="63" column="51" />
+        <mark key="^" line="63" column="52" />
       </file>
       <file name="/Dummy.txt" timestamp="1589792090475">
         <mark key="[" line="0" column="0" />
@@ -189,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="120" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="355" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="365" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="39" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
@@ -289,21 +291,23 @@
       <jump line="60" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" />
       <jump line="135" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
       <jump line="84" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MultiOfferInfo.cs" />
+      <jump line="45" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersWidgetsShowLogger.cs" />
+      <jump line="23" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersWidgetsShowLogger.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmVzdWx0Q2FsbGJhY2tzXD4=</text>
+        <text>asdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbQW1mUHJvcGVydHkoInR5cGUiKV0KICAgICAgICBwdWJsaWMgc3RyaW5nIFR5cGUgeyBnZXQ7IHByaXZhdGUgc2V0OyB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
@@ -342,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfcmVzdWx0Q2FsbGJhY2tzXD4=</last-search>
+      <last-search>asdf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmVzdWx0Q2FsbGJhY2tzXD4=</last-pattern>
+      <last-pattern>asdf</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
