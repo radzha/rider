@@ -97,13 +97,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChannelInfo.cs" timestamp="1589556251051">
-        <mark key="'" line="135" column="50" />
-        <mark key="[" line="135" column="42" />
-        <mark key="]" line="135" column="53" />
-        <mark key="^" line="135" column="53" />
-        <mark key="." line="135" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" timestamp="1589796066485">
         <mark key="'" line="60" column="58" />
       </file>
@@ -113,10 +106,21 @@
         <mark key="]" line="84" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/OfferWidgetFirstShowCommandHandler.cs" timestamp="1589792369893" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/LastConsumablesSetCommand.cs" timestamp="1589806162845">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="29" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" timestamp="1589804236901">
         <mark key="[" line="439" column="0" />
         <mark key="]" line="439" column="92" />
         <mark key="." line="439" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/PremiumBoughtSourceCommand.cs" timestamp="1589806271052">
+        <mark key="'" line="18" column="21" />
+        <mark key="[" line="22" column="9" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Client/BotDamageStatistics.cs" timestamp="1589802168120" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersWidgetsShowLogger.cs" timestamp="1589802299098">
@@ -134,7 +138,7 @@
         <mark key="." line="23" column="11" />
         <mark key="^" line="23" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/OfferWidgetFirstShowCommand.cs" timestamp="1589794781698" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/OfferWidgetFirstShowCommand.cs" timestamp="1589805991741" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/amf/Amf.cs" timestamp="1589803876673">
         <mark key="'" line="135" column="0" />
         <mark key="[" line="135" column="0" />
@@ -155,20 +159,19 @@
         <mark key="." line="61" column="87" />
         <mark key="^" line="61" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/OfferFirstClickCommand.cs" timestamp="1589803882104">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/OfferFirstClickCommand.cs" timestamp="1589806037944">
         <mark key="'" line="20" column="15" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="26" column="99" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" timestamp="1589797027897" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1589556985956">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="133" column="107" />
-        <mark key="]" line="133" column="117" />
-        <mark key="." line="133" column="116" />
-        <mark key="^" line="133" column="117" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" timestamp="1589806255936">
+        <mark key="'" line="136" column="53" />
+        <mark key="[" line="136" column="44" />
+        <mark key="]" line="136" column="55" />
+        <mark key="^" line="136" column="55" />
+        <mark key="." line="136" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersClickLogger.cs" timestamp="1589805250472">
         <mark key="'" line="45" column="46" />
@@ -189,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
-      <jump line="30" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="194" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="191" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
       <jump line="207" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" />
@@ -270,7 +271,6 @@
       <jump line="152" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" />
       <jump line="60" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" />
-      <jump line="135" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
       <jump line="84" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MultiOfferInfo.cs" />
       <jump line="45" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersWidgetsShowLogger.cs" />
       <jump line="23" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersWidgetsShowLogger.cs" />
@@ -289,51 +289,54 @@
       <jump line="21" column="15" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/OfferFirstClickCommand.cs" />
       <jump line="121" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersClickLogger.cs" />
       <jump line="44" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/OffersClickLogger.cs" />
+      <jump line="16" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/PremiumBoughtSourceCommand.cs" />
+      <jump line="135" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
+      <jump line="136" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Bank/PremiumScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>[id] == null)</text>
+        <text>items.ToArray()</text>
       </register>
       <register name="-" type="4">
-        <text>[id] == null)</text>
+        <text>items.ToArray()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXJrQ2xpY2tlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2ZmZXJzQ2xpY2tMb2dnZXIuSGFuZGxlUHJlbWl1bUNsaWNrKE9mZmVyc0NsaWNrTG9nZ2VyLlNvdXJjZVR5cGUuUHJvZHVjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgRXhlYyhIYXNoU2V0PGludD4gaXRlbXMpCiAgICAgICAgewogICAgICAgICAgICB2YXIgY29tbWFuZCA9IG5ldyBMYXN0Q29uc3VtYWJsZXNTZXRDb21tYW5kKGl0ZW1zLlRvQXJyYXkoKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgT25TdWNjZXNzID0gZGF0YSA9PiB7IH0sIAogICAgICAgICAgICAgICAgT25FcnJvciA9IERlYnVnLkxvZ0Vycm9yCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIAogICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5Pbk5leHQ8R2FtZUNvbW1hbmRCYXNlPihBdXRoU2VydmVyQmVoYXZpb3VyLkVWRU5UX1NFTkRfQ09NTUFORCwgY29tbWFuZCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZC5DTG9nQmx1ZSh0eXBlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdHlwZSA9IChTb3VyY2VUeXBlKSAoaW50KSBwYWlyLlZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8gc3RyaW5nLkVtcHR5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlVHlwZTogT2ZmZXJzQ2xpY2tMb2dnZXIuU291cmNlVHlwZS5CYXNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHlwZSA9IHR5cGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPZmZlcnNDbGlja0xvZ2dlci5IYW5kbGVDbGljayhpZCwgT2ZmZXJzQ2xpY2tMb2dnZXIuT2ZmZXJUeXBlLlByZW1pdW0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgT2ZmZXJJZCA9IG9mZmVySWQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc2NvdW50ID0gUHJlbWl1bUluZm8uR2V0U3RvcmFnZURpc2NvdW50KCk7CiAgICAgICAgICAgIHZhciBpZCA9IGRpc2NvdW50Py5CYW5rSXRlbS5JZCA/PyBHbG9iYWxDb25zdGFudHMuVU5LTk9XTl9JRDsKICAgICAgICAgICAgT2ZmZXJzQ2xpY2tMb2dnZXIuSGFuZGxlQ2xpY2soaWQsIE9mZmVyc0NsaWNrTG9nZ2VyLk9mZmVyVHlwZS5QcmVtaXVtLCBzb3VyY2VUeXBlOiBPZmZlcnNDbGlja0xvZ2dlci5Tb3VyY2VUeXBlLlByb2R1Y3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZC5DTG9nQmx1ZSh0eXBlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPZmZlcnNDbGlja0xvZ2dlci5IYW5kbGVQcmVtaXVtQ2xpY2soT2ZmZXJzQ2xpY2tMb2dnZXIuU291cmNlVHlwZS5CYXNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdHlwZSA9IChTb3VyY2VUeXBlKSAoaW50KSBwYWlyLlZhbHVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPZmZlcnNDbGlja0xvZ2dlci5IYW5kbGVDbGljayhpZCwgT2ZmZXJzQ2xpY2tMb2dnZXIuT2ZmZXJUeXBlLlByZW1pdW0sCiAgICAgICAgICAgICAgICAgICAgICAgIHNvdXJjZVR5cGU6IE9mZmVyc0NsaWNrTG9nZ2VyLlNvdXJjZVR5cGUuQmFzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc291cmNlVHlwZTogT2ZmZXJzQ2xpY2tMb2dnZXIuU291cmNlVHlwZS5CYXNlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgZGlzY291bnQgPSBQcmVtaXVtSW5mby5HZXRTdG9yYWdlRGlzY291bnQoKTsKICAgICAgICAgICAgICAgICAgICB2YXIgaWQgPSBkaXNjb3VudD8uQmFua0l0ZW0uSWQgPz8gR2xvYmFsQ29uc3RhbnRzLlVOS05PV05fSUQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPZmZlcnNDbGlja0xvZ2dlci5IYW5kbGVDbGljayhpZCwgT2ZmZXJzQ2xpY2tMb2dnZXIuT2ZmZXJUeXBlLlByZW1pdW0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAgICAgdmFyIGRpc2NvdW50ID0gUHJlbWl1bUluZm8uR2V0U3RvcmFnZURpc2NvdW50KCk7CiAgICAgICAgICAgIHZhciBpZCA9IGRpc2NvdW50Py5CYW5rSXRlbS5JZCA/PyBHbG9iYWxDb25zdGFudHMuVU5LTk9XTl9JRDsKICAgICAgICAgICAgT2ZmZXJzQ2xpY2tMb2dnZXIuSGFuZGxlQ2xpY2soaWQsIE9mZmVyc0NsaWNrTG9nZ2VyLk9mZmVyVHlwZS5QcmVtaXVtLCBzb3VyY2VUeXBlOiBPZmZlcnNDbGlja0xvZ2dlci5Tb3VyY2VUeXBlLlByb2R1Y3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpc2NvdW50ID0gUHJlbWl1bUluZm8uR2V0U3RvcmFnZURpc2NvdW50KCk7CiAgICAgICAgICAgIHZhciBpZCA9IGRpc2NvdW50Py5CYW5rSXRlbS5JZCA/PyBHbG9iYWxDb25zdGFudHMuVU5LTk9XTl9JRDsKICAgICAgICAgICAgT2ZmZXJzQ2xpY2tMb2dnZXIuSGFuZGxlQ2xpY2soaWQsIE9mZmVyc0NsaWNrTG9nZ2VyLk9mZmVyVHlwZS5QcmVtaXVtLCBzb3VyY2VUeXBlOiBPZmZlcnNDbGlja0xvZ2dlci5Tb3VyY2VUeXBlLlByb2R1Y3Rpb24pOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
