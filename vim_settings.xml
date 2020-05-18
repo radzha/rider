@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ondi</entry>
-        <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uc1w+</entry>
         <entry>kick</entry>
         <entry>subs</entry>
         <entry encoding="base64">XDxNeVNlbGZcPg==</entry>
@@ -27,6 +25,8 @@
         <entry>clog</entry>
         <entry>handl</entry>
         <entry encoding="base64">XDxfcHJpY2VcPg==</entry>
+        <entry encoding="base64">XDxSZXR1cm5PblNlYXNvbnNPckJhY2tUb1ByZXZTY3JlZW5cPg==</entry>
+        <entry encoding="base64">XDxFVkVOVF9TRVRfQ0xPU0VfQ0FMTEJBQ0tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -104,11 +104,8 @@
         <mark key="." line="217" column="64" />
         <mark key="^" line="217" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/SpecialOffers/SpecialOfferWidget.cs" timestamp="1589807620688">
-        <mark key="[" line="439" column="110" />
-        <mark key="]" line="439" column="114" />
-        <mark key="." line="439" column="113" />
-        <mark key="^" line="439" column="114" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" timestamp="1589815752714">
+        <mark key="'" line="226" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ChatSendMessageHandler.cs" timestamp="1589810305726" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1589810441853">
@@ -122,7 +119,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589811209591">
+      <file name="/Dummy.txt" timestamp="1589815027227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" timestamp="1589814685077">
@@ -196,10 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
-      <jump line="24" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
-      <jump line="177" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" />
-      <jump line="106" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" />
       <jump line="108" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" />
       <jump line="55" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" />
@@ -296,6 +289,10 @@
       <jump line="68" column="99" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
       <jump line="24" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ClanCreateHandler.cs" />
       <jump line="26" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/ClanCreateHandler.cs" />
+      <jump line="80" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
+      <jump line="72" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
+      <jump line="96" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
+      <jump line="226" column="60" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +304,7 @@
         <text>member</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcHJpY2VcPg==</text>
+        <text encoding="base64">XDxFVkVOVF9TRVRfQ0xPU0VfQ0FMTEJBQ0tcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCF1c2VySW5mby5IYXNFbm91Z2hNb25leShjb3N0KSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoIkhBTkRMRVI6IE5vdCBFbm91Z2ggTW9uZXkiKTsKICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKFNob3VsZFVwZGF0ZShVc2VySW5mby5NT05FWV9LRVksIHVwZGF0ZUtleXMpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB1c2VySW5mby5TcGVuZE1vbmV5KGNvc3QpOwogICAgICAgICAgICB9Cgo=</text>
@@ -349,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfcHJpY2VcPg==</last-search>
+      <last-search encoding="base64">XDxFVkVOVF9TRVRfQ0xPU0VfQ0FMTEJBQ0tcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcHJpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxFVkVOVF9TRVRfQ0xPU0VfQ0FMTEJBQ0tcPg==</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
