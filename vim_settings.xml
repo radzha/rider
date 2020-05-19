@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>tops</entry>
         <entry encoding="base64">XDxPblJlY29ubmVjdE9uQXBwbGljYXRpb25Gb2N1c0NoYW5nZWRcPg==</entry>
         <entry>onen</entry>
         <entry>onenable</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxVcGRhdGVBbmltYXRvclw+</entry>
         <entry encoding="base64">XDxJbW1vcnRhbENvbXBhbmlvbk1vZGVFbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxSZWNvbm5lY3RPbkFwcGxpY2F0aW9uRm9jdXNFbmFibGVkXD4=</entry>
+        <entry encoding="base64">XDxfc2NyZWVuc1RvU2hvd0FkcmVuYWxpblNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -107,12 +107,8 @@
       <file name="/Dummy.txt" timestamp="1589897107967">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1589810294507">
-        <mark key="'" line="216" column="64" />
-        <mark key="[" line="217" column="65" />
-        <mark key="]" line="217" column="65" />
-        <mark key="." line="217" column="64" />
-        <mark key="^" line="217" column="65" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" timestamp="1589898995998">
+        <mark key="'" line="102" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChanNotifier.cs" timestamp="1589814685077">
         <mark key="'" line="169" column="37" />
@@ -209,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="162" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="448" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="58" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="455" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -309,6 +303,8 @@
       <jump line="484" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="2016" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="78" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
+      <jump line="102" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +316,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZWNvbm5lY3RPbkFwcGxpY2F0aW9uRm9jdXNFbmFibGVkXD4=</text>
+        <text encoding="base64">XDxfc2NyZWVuc1RvU2hvd0FkcmVuYWxpblNldFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUmVjb25uZWN0T25BcHBsaWNhdGlvbkZvY3VzRW5hYmxlZC5Pbk5leHQoIVJlY29ubmVjdE9uQXBwbGljYXRpb25Gb2N1c0VuYWJsZWQuQ3VycmVudFZhbHVlKTsK</text>
@@ -362,9 +358,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSZWNvbm5lY3RPbkFwcGxpY2F0aW9uRm9jdXNFbmFibGVkXD4=</last-search>
+      <last-search encoding="base64">XDxfc2NyZWVuc1RvU2hvd0FkcmVuYWxpblNldFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZWNvbm5lY3RPbkFwcGxpY2F0aW9uRm9jdXNFbmFibGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfc2NyZWVuc1RvU2hvd0FkcmVuYWxpblNldFw+</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
