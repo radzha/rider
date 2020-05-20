@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>OnFocu</entry>
         <entry>Logs</entry>
         <entry>Log</entry>
         <entry encoding="base64">XDxFVk8yX0NPTkZJR19ERVZcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxtX0tleWJvYXJkXD4=</entry>
         <entry>m_Keyboard.status</entry>
         <entry encoding="base64">XDxPbkRlc2VsZWN0XD4=</entry>
+        <entry encoding="base64">XDxPcGVuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -129,12 +129,12 @@
       <file name="/Dummy.txt" timestamp="1589982337562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" timestamp="1589990763180">
-        <mark key="'" line="1306" column="20" />
-        <mark key="[" line="1307" column="40" />
-        <mark key="]" line="1307" column="43" />
+      <file name="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" timestamp="1589990816165">
+        <mark key="'" line="1307" column="36" />
+        <mark key="[" line="1307" column="0" />
+        <mark key="]" line="1307" column="0" />
         <mark key="^" line="1307" column="43" />
-        <mark key="." line="1307" column="42" />
+        <mark key="." line="1307" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/LikeableRewardsScreen.cs" timestamp="1589968550912">
         <mark key="[" line="89" column="0" />
@@ -276,7 +276,6 @@
       <jump line="1382" column="16" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
       <jump line="2989" column="29" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
       <jump line="2993" column="20" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
-      <jump line="1307" column="16" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
       <jump line="3185" column="21" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
       <jump line="1298" column="20" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
@@ -298,51 +297,52 @@
       <jump line="1383" column="16" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
       <jump line="1305" column="20" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
       <jump line="1306" column="20" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
+      <jump line="1307" column="36" filename="$USER_HOME$/Documents/svn/testt/test/Assets/ChatInputField.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvdWNoU2NyZWVuS2V5Ym9hcmQuT3BlbigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>A</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxPbkRlc2VsZWN0XD4=</text>
+        <text encoding="base64">XDxPcGVuXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAobV9LZXlib2FyZC5zdGF0dXMgPT0gVG91Y2hTY3JlZW5LZXlib2FyZC5TdGF0dXMuQ2FuY2VsZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb3VjaFNjcmVlbktleWJvYXJkLk9wZW4obV9UZXh0LCBrZXlib2FyZFR5cGUsIGlucHV0VHlwZSA9PSBJbnB1dFR5cGUuQXV0b0NvcnJlY3QsIG11bHRpTGluZSwgZmFsc2UsIGZhbHNlLCAiIiwgY2hhcmFjdGVyTGltaXQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fS2V5Ym9hcmQuc3RhdHVzID0gVG91Y2hTY3JlZW5LZXlib2FyZC5TdGF0dXMuVmlzaWJsZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRvdWNoU2NyZWVuS2V5Ym9hcmQuT3BlbigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBY3RpdmF0ZUlucHV0RmllbGRJbnRlcm5hbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1fS2V5Ym9hcmQuc3RhdHVzID0gVG91Y2hTY3JlZW5LZXlib2FyZC5TdGF0dXMuVmlzaWJsZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBBY3RpdmF0ZUlucHV0RmllbGRJbnRlcm5hbCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgVmVjdG9yMiA9IFN5c3RlbS5OdW1lcmljcy5WZWN0b3IyOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">dXNpbmcgVmVjdG9yMiA9IFN5c3RlbS5OdW1lcmljcy5WZWN0b3IyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">dXNpbmcgVmVjdG9yMiA9IFN5c3RlbS5OdW1lcmljcy5WZWN0b3IyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIFVuaXR5RW5naW5lLlVJCg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="9" type="2">
-        <text>}</text>
+        <text encoding="base64">bmFtZXNwYWNlIFVuaXR5RW5naW5lLlVJCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxPbkRlc2VsZWN0XD4=</last-search>
+      <last-search encoding="base64">XDxPcGVuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxPbkRlc2VsZWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxPcGVuXD4=</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
