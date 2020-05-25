@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxLZXlib2FyZFN0YXRlXD4=</entry>
         <entry encoding="base64">XDxPbktleWJvYXJkSGVpZ2h0Q2hhbmdlZFw+</entry>
         <entry>cred</entry>
         <entry encoding="base64">XDxST1NFX09GRkVSX0lEXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>invite</entry>
         <entry>adsf</entry>
         <entry encoding="base64">XDxNZW1iZXJzQ291bnRcPg==</entry>
+        <entry>ctime</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -126,8 +126,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInviteData.cs" timestamp="1590408188646">
         <mark key="'" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" timestamp="1590407042114">
-        <mark key="'" line="105" column="16" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" timestamp="1590411511597">
+        <mark key="'" line="82" column="46" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="." line="182" column="0" />
@@ -150,11 +150,12 @@
         <mark key="]" line="163" column="108" />
         <mark key="." line="27" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" timestamp="1590410659573">
-        <mark key="[" line="85" column="9" />
-        <mark key="]" line="86" column="21" />
-        <mark key="." line="86" column="20" />
-        <mark key="^" line="86" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" timestamp="1590412037349">
+        <mark key="'" line="93" column="46" />
+        <mark key="[" line="93" column="41" />
+        <mark key="]" line="93" column="48" />
+        <mark key="." line="93" column="47" />
+        <mark key="^" line="93" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCommonPlayerItem.cs" timestamp="1590400267661">
         <mark key="'" line="12" column="18" />
@@ -211,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="361" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="343" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="344" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="73" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="82" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -311,6 +310,8 @@
       <jump line="56" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" />
       <jump line="82" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" />
       <jump line="31" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" />
+      <jump line="82" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" />
+      <jump line="93" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +323,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNZW1iZXJzQ291bnRcPg==</text>
+        <text>ctime</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIGlkIGluIF91c2VySW5mby5DbGFuTWVtYmVyc2hpcEluZm8uQ2xhbkludml0ZXMuS2V5cykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY2xhbnNJZHMuQWRkKGlkKTsKICAgICAgICAgICAgfQo=</text>
@@ -364,9 +365,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxNZW1iZXJzQ291bnRcPg==</last-search>
+      <last-search>ctime</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNZW1iZXJzQ291bnRcPg==</last-pattern>
+      <last-pattern>ctime</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
