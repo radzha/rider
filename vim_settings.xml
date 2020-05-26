@@ -13,7 +13,6 @@
         <entry encoding="base64">IHVwZGF0ZSg=</entry>
         <entry encoding="base64">XDxTZXRJdGVtXD4=</entry>
         <entry>new</entry>
-        <entry encoding="base64">XDxJc05ld0FuaW1cPg==</entry>
         <entry encoding="base64">XDxTaG93bkNvbnRlbnRcPg==</entry>
         <entry encoding="base64">XDxTV0lUQ0hfTEFOR1VBR0VfU0VMRUNUSU9OX1NUQVRFXD4=</entry>
         <entry>langu</entry>
@@ -27,6 +26,7 @@
         <entry>asdf</entry>
         <entry>clog</entry>
         <entry>onlist</entry>
+        <entry encoding="base64">XDxJc05ld0FuaW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -138,15 +138,12 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1590415931687">
         <mark key="'" line="195" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1590415875434">
-        <mark key="'" line="315" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipItemView.cs" timestamp="1590483069942">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="90" column="20" />
-        <mark key="]" line="91" column="84" />
-        <mark key="." line="91" column="83" />
-        <mark key="^" line="91" column="84" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipItemView.cs" timestamp="1590493505278">
+        <mark key="'" line="97" column="0" />
+        <mark key="[" line="114" column="32" />
+        <mark key="]" line="114" column="29" />
+        <mark key="." line="114" column="29" />
+        <mark key="^" line="114" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoScreen.cs" timestamp="1590488240367">
         <mark key="'" line="10" column="34" />
@@ -166,10 +163,13 @@
         <mark key="." line="154" column="31" />
         <mark key="^" line="154" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590489503827">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipIcon.cs" timestamp="1590491612996">
+        <mark key="'" line="23" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590490980539">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" timestamp="1590416724281">
         <mark key="'" line="95" column="0" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanRequestItem.cs" />
       <jump line="37" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
       <jump line="15" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileData.cs" />
@@ -298,18 +297,19 @@
       <jump line="614" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="373" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" />
       <jump line="139" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/JsonUtils.cs" />
+      <jump line="23" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chips/ChipIcon.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmIHNsb3QgPCBJbmRleA==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">ICYmIHNsb3QgPCBJbmRleA==</text>
       </register>
       <register name="/" type="4">
-        <text>onlist</text>
+        <text encoding="base64">XDxJc05ld0FuaW1cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFVwZGF0ZUFuaW1hdGlvbigpOwo=</text>
@@ -351,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onlist</last-search>
+      <last-search encoding="base64">XDxJc05ld0FuaW1cPg==</last-search>
       <last-offset />
-      <last-pattern>onlist</last-pattern>
+      <last-pattern encoding="base64">XDxJc05ld0FuaW1cPg==</last-pattern>
       <last-replace />
       <last-substitute>public Storage Storage;</last-substitute>
       <last-dir>1</last-dir>
