@@ -100,7 +100,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590574675031">
+      <file name="/Dummy.txt" timestamp="1590575211492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -132,12 +132,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1590483884758">
         <mark key="'" line="373" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Settings/LanguageItem.cs" timestamp="1590480157821">
-        <mark key="'" line="35" column="12" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/Utils.Collections.cs" timestamp="1590504090725">
         <mark key="[" line="943" column="0" />
         <mark key="]" line="943" column="0" />
@@ -151,12 +145,15 @@
         <mark key="^" line="73" column="73" />
         <mark key="." line="83" column="75" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1590507056696">
-        <mark key="'" line="138" column="119" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="139" column="54" />
+      <file name="/" timestamp="1590574934328">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" timestamp="1590575980128">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="127" column="52" />
+        <mark key="]" line="128" column="32" />
+        <mark key="." line="128" column="31" />
+        <mark key="^" line="128" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChatNotifier.cs" timestamp="1590489768353">
         <mark key="[" line="178" column="0" />
@@ -201,8 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" />
-      <jump line="86" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" />
       <jump line="56" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" />
       <jump line="82" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" />
       <jump line="31" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" />
@@ -301,51 +296,53 @@
       <jump line="446" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="462" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="71" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="98" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanCreateScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>!=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgInVwZCBidXR0Ii5DTG9nKF9zdGF0ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>!=</text>
+        <text>_titleInput.text</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfa2V5Ym9hcmRIZWlnaHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9jbGFuSW5mby5EZWZlbmNlc1N1bSArPSBtZW1iZXIuRGVmZW5jZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuRGlzcG9zZUFuZFNldE51bGwocmVmIF9vbkNsYW5DcmVhdGVTdWJzY3JpcHRpb24pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbVXNlZEltcGxpY2l0bHldCiAgICAgICAgcHVibGljIHZvaWQgT25NZXNzYWdlSW5wdXRFbmRFZGl0KHN0cmluZyByZXN1bHQsIEVuZEVkaXRSZWFzb24gcmVhc29uKQogICAgICAgIHsKICAgICAgICAgICAgVXRpbHMuV2FpdEZyYW1lcygzKS5UaGVuKCgpID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLy8gX2NoYXRGcmFtZS5vZmZzZXRNaW4gPSBfY2hhdEZyYW1lLm9mZnNldE1pbi5DaGFuZ2VZKDApOwogICAgICAgICAgICAgICAgICAgIC8vIF9hbmltYXRvci5TZXRCb29sKElzS2V5Ym9hcmRPcGVuZWRBbmltLCBmYWxzZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICk7CiAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInVwZCBidXR0Ii5DTG9nKF9zdGF0ZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKGtleWJvYXJkSGVpZ2h0ID09IDApIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N0YXRlID0gQ2FuQ3JlYXRlU3RhdGUuUmVzdHJpY3RlZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVhc29uLkNMb2coKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIElEaXNwb3NhYmxlIF9vbkNsYW5DcmVhdGVTdWJzY3JpcHRpb247Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlZmVuY2VEaWZmLkNMb2dCbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgT25DbGFuQ3JlYXRlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRlZiIuQ0xvZ1JlZChkZWZhdWx0KGNoYXIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERldmljZS5Jc0VkaXRvcigpICYmICFBZHZhbmNlZElucHV0RmllbGRQbHVnaW4uU2V0dGluZ3MuU2ltdWxhdGVNb2JpbGVCZWhhdmlvdXJJbkVkaXRvcgo=</text>
+        <text encoding="base64">ICAgICAgICBbVXNlZEltcGxpY2l0bHldCiAgICAgICAgcHVibGljIHZvaWQgT25NZXNzYWdlSW5wdXRFbmRFZGl0KHN0cmluZyByZXN1bHQsIEVuZEVkaXRSZWFzb24gcmVhc29uKQogICAgICAgIHsKICAgICAgICAgICAgVXRpbHMuV2FpdEZyYW1lcygzKS5UaGVuKCgpID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLy8gX2NoYXRGcmFtZS5vZmZzZXRNaW4gPSBfY2hhdEZyYW1lLm9mZnNldE1pbi5DaGFuZ2VZKDApOwogICAgICAgICAgICAgICAgICAgIC8vIF9hbmltYXRvci5TZXRCb29sKElzS2V5Ym9hcmRPcGVuZWRBbmltLCBmYWxzZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICk7CiAgICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
