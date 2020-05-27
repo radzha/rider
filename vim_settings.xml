@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onen</entry>
         <entry>back</entry>
         <entry encoding="base64">XDxJU19DVVJSRU5UX0FOSU1BVE9SX0JPT0xcPg==</entry>
         <entry>adap</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxJc0VkaXRvcldpdGhvdXRLZXlib2FyZFw+</entry>
         <entry>asdf</entry>
         <entry>clog</entry>
+        <entry encoding="base64">XDxfa2V5Ym9hcmRIZWlnaHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -191,19 +191,15 @@
         <mark key="." line="2854" column="9" />
         <mark key="^" line="2855" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1590566733988">
-        <mark key="'" line="439" column="21" />
-        <mark key="[" line="466" column="0" />
-        <mark key="]" line="466" column="0" />
-        <mark key="." line="466" column="0" />
-        <mark key="^" line="462" column="17" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1590574064743">
+        <mark key="'" line="71" column="20" />
+        <mark key="[" line="462" column="36" />
+        <mark key="]" line="462" column="37" />
+        <mark key="." line="462" column="36" />
+        <mark key="^" line="462" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" />
-      <jump line="105" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" />
-      <jump line="12" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanMembershipInfo.cs" />
-      <jump line="17" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInviteData.cs" />
       <jump line="37" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" />
       <jump line="86" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInvitesScreens.cs" />
       <jump line="56" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" />
@@ -296,22 +292,26 @@
       <jump line="476" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="90" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="296" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="435" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="479" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="445" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="443" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="426" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="435" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="446" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="462" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="71" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbVXNlZEltcGxpY2l0bHldCiAgICAgICAgcHVibGljIHZvaWQgT25NZXNzYWdlSW5wdXRFbmRFZGl0KHN0cmluZyByZXN1bHQsIEVuZEVkaXRSZWFzb24gcmVhc29uKQogICAgICAgIHsKICAgICAgICAgICAgVXRpbHMuV2FpdEZyYW1lcygzKS5UaGVuKCgpID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgLy8gX2NoYXRGcmFtZS5vZmZzZXRNaW4gPSBfY2hhdEZyYW1lLm9mZnNldE1pbi5DaGFuZ2VZKDApOwogICAgICAgICAgICAgICAgICAgIC8vIF9hbmltYXRvci5TZXRCb29sKElzS2V5Ym9hcmRPcGVuZWRBbmltLCBmYWxzZSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICk7CiAgICAgICAgfQoK</text>
+      <register name="&quot;" type="4">
+        <text>!=</text>
       </register>
       <register name="-" type="4">
-        <text>member.Defence;</text>
+        <text>!=</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text encoding="base64">XDxfa2V5Ym9hcmRIZWlnaHRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9jbGFuSW5mby5EZWZlbmNlc1N1bSArPSBtZW1iZXIuRGVmZW5jZTsK</text>
@@ -353,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clog</last-search>
+      <last-search encoding="base64">XDxfa2V5Ym9hcmRIZWlnaHRcPg==</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern encoding="base64">XDxfa2V5Ym9hcmRIZWlnaHRcPg==</last-pattern>
       <last-replace />
       <last-substitute>adsf</last-substitute>
       <last-dir>1</last-dir>
