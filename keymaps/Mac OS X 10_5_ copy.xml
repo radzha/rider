@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
   <action id="ChangesView.GroupBy.Directory" />
+  <action id="ChooseDebugConfiguration" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
@@ -16,7 +17,6 @@
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="Debug">
-    <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="DebugClass" />
@@ -42,6 +42,10 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt close_bracket" />
   </action>
   <action id="ParameterInfo" />
+  <action id="RiderUnitTestDebugContextAction">
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="d" />
+    <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta d" />
+  </action>
   <action id="RunDashboard.Debug" />
   <action id="TriggerPauseInUnityEditor">
     <keyboard-shortcut first-keystroke="meta alt p" />
