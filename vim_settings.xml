@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>voice</entry>
         <entry encoding="base64">XDxtX0NoYXJhY3RlckxpbWl0XD4=</entry>
         <entry encoding="base64">XDxjaGFyYWN0ZXJMaW1pdFw+</entry>
         <entry encoding="base64">XDxDaGFyYWN0ZXJMaW1pdFw+</entry>
@@ -27,6 +26,7 @@
         <entry>chatnw</entry>
         <entry>chatne</entry>
         <entry>clog</entry>
+        <entry encoding="base64">XDxTZW5kUGluZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -107,12 +107,6 @@
         <mark key="'" line="233" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/ChipsInfo.cs" timestamp="1590681776717" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Scripts/InputField/TextManipulator.cs" timestamp="1590671669661">
-        <mark key="'" line="181" column="74" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="16" />
-        <mark key="." line="183" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChatNotifier.cs" timestamp="1590748052069">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="160" column="0" />
@@ -174,6 +168,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/TerrorTimerView.cs" timestamp="1590753662378" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/PlayerProfile/SetUsernamePopup.cs" timestamp="1590672526013">
         <mark key="'" line="63" column="36" />
         <mark key="[" line="83" column="75" />
@@ -187,11 +182,12 @@
         <mark key="." line="129" column="80" />
         <mark key="^" line="129" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" timestamp="1590753174039">
-        <mark key="[" line="901" column="0" />
-        <mark key="]" line="901" column="33" />
-        <mark key="^" line="892" column="12" />
-        <mark key="." line="901" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" timestamp="1590754069597">
+        <mark key="'" line="889" column="20" />
+        <mark key="[" line="861" column="0" />
+        <mark key="]" line="861" column="0" />
+        <mark key="^" line="860" column="81" />
+        <mark key="." line="861" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1590751624614">
         <mark key="'" line="205" column="0" />
@@ -201,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="378" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="476" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="482" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="202" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -301,48 +296,49 @@
       <jump line="137" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="193" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="205" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="889" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlc2V0UGluZ1RpbWVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoSXNQaW5nRW5hYmxlZCAmJiAhX2VzcnZDb25uZWN0aW9uLklzV2FpdGluZ1Jlc3BvbnNlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>clog</text>
+        <text encoding="base64">XDxTZW5kUGluZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVXRpbHMuRGlzcG9zZUFuZFNldE51bGwocmVmIF9tZXNzYWdlc1N1YnNjcmlwdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlc2V0UGluZ1RpbWVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoSXNQaW5nRW5hYmxlZCAmJiAhX2VzcnZDb25uZWN0aW9uLklzV2FpdGluZ1Jlc3BvbnNlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24uaXNGb2N1c2VkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFJlc2V0UGluZ1RpbWVyKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZC5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24uaXNGb2N1c2VkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN1YnNjciIuQ0xvZ0JsdWUoX21lc3NhZ2VzU3Vic2NyaXB0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZC5DTG9nQmx1ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJudWxsaW5nIHN1YnNjciIuQ0xvZ0JsdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN1YnNjciIuQ0xvZ0JsdWUoX21lc3NhZ2VzU3Vic2NyaXB0aW9uKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNDb2xsYXBzaW5nLkNMb2dCbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJudWxsaW5nIHN1YnNjciIuQ0xvZ0JsdWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9tZXNzYWdlc1N1YnNjcmlwdGlvbiA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXNDb2xsYXBzaW5nLkNMb2dCbHVlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZC5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9tZXNzYWdlc1N1YnNjcmlwdGlvbiA9IG51bGw7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZC5DTG9nQmx1ZSgpOwo=</text>
@@ -354,12 +350,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>clog</last-search>
+      <last-search encoding="base64">XDxTZW5kUGluZ1w+</last-search>
       <last-offset />
-      <last-pattern>clog</last-pattern>
+      <last-pattern encoding="base64">XDxTZW5kUGluZ1w+</last-pattern>
       <last-replace />
       <last-substitute>adsf</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
