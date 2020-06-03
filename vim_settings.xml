@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0ZpcnN0XD4=</entry>
-        <entry>ondis</entry>
         <entry>subs</entry>
         <entry encoding="base64">XDxTZXRJc0ZpcnN0XD4=</entry>
         <entry>anima</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxPblRvcFNjcmVlbkNoYW5nZWRcPg==</entry>
         <entry>clog</entry>
         <entry encoding="base64">XDxTZXRBZGFwdGVyXD4=</entry>
+        <entry>listi</entry>
+        <entry encoding="base64">XDxhbHBoYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -103,13 +103,21 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Scripts/NativeKeyboard/SimulatorKeyboard.cs" timestamp="1591108130856">
         <mark key="'" line="501" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanInfoCommonScreen.cs" timestamp="1591198481417">
+        <mark key="[" line="92" column="33" />
+        <mark key="]" line="92" column="33" />
+        <mark key="^" line="92" column="34" />
+        <mark key="." line="92" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" timestamp="1591174923389">
         <mark key="'" line="51" column="95" />
         <mark key="[" line="210" column="0" />
         <mark key="]" line="220" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" timestamp="1591196932068">
-        <mark key="'" line="166" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" timestamp="1591198391979">
+        <mark key="'" line="163" column="40" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="204" column="90" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Futuris/BaseHintView.cs" timestamp="1591174166998">
         <mark key="'" line="166" column="12" />
@@ -133,10 +141,10 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" timestamp="1591194494624">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" timestamp="1591197797035">
         <mark key="'" line="90" column="12" />
-        <mark key="[" line="174" column="9" />
-        <mark key="]" line="175" column="46" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="35" />
         <mark key="^" line="175" column="46" />
         <mark key="." line="175" column="45" />
       </file>
@@ -182,9 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="889" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/AuthServer.cs" />
-      <jump line="400" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="154" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="471" column="8" filename="/ChatScreen.cs" />
       <jump line="157" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="40" column="88" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessagesNewnessManager.cs" />
@@ -282,51 +287,54 @@
       <jump line="154" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
       <jump line="166" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
+      <jump line="146" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
+      <jump line="155" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
+      <jump line="163" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTZXRBZGFwdGVyXD4=</text>
+        <text encoding="base64">XDxhbHBoYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25Ub3BTY3JlZW5DaGFuZ2VkKFNjcmVlblR5cGUgc2NyZWVuVHlwZSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChzY3JlZW5UeXBlID09IFNjcmVlblR5cGUuUGxheWVyUHJvZmlsZSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgU3Vic2NyaWJlUGxheWVyUHJvZmlsZSgpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgVW5zdWJzY3JpYmVQbGF5ZXJQcm9maWxlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGludmlzaWJsZU9mZnNldCA9IG5ldyBWZWN0b3IzKDEwMDAwLCAwLCAwKTsKICAgICAgICAgICAgU2Nyb2xsUmVjdC5wb3NpdGlvbiArPSBpbnZpc2libGVPZmZzZXQ7CiAgICAgICAgICAgIFNldFBvc2l0aW9uKDApOwoKICAgICAgICAgICAgVXBkYXRlVGFiQ29udGVudCh0YWJJbmZvKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBhY3Rpb24gPSBTY2hlZHVsZWRBY3Rpb25GYWN0b3J5LkNyZWF0ZU5leHRGcmFtZUFjdGlvbigoKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTY3JvbGxSZWN0LnBvc2l0aW9uIC09IGludmlzaWJsZU9mZnNldDsKICAgICAgICAgICAgICAgIEp1bXBUb0l0ZW1DZW50ZXIoX3NlbGZJbmRleCArIDEpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNjaGVkdWxlckJlaGF2aW91ci5FVkVOVF9TQ0hFRFVMRV9BQ1RJT04sIGFjdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGFjdGlvbiA9IFNjaGVkdWxlZEFjdGlvbkZhY3RvcnkuQ3JlYXRlTmV4dEZyYW1lQWN0aW9uKCgpID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFNjcm9sbFJlY3QucG9zaXRpb24gLT0gaW52aXNpYmxlT2Zmc2V0OwogICAgICAgICAgICAgICAgSnVtcFRvSXRlbUNlbnRlcihfc2VsZkluZGV4ICsgMSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBDb21tYW5kc1N0cmVhbXMuTWFpbi5Pbk5leHQoU2NoZWR1bGVyQmVoYXZpb3VyLkVWRU5UX1NDSEVEVUxFX0FDVElPTiwgYWN0aW9uKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCAxMDsgaSsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBJdGVtcy5BZGRSYW5nZShJdGVtcy5DbG9uZSgpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkVuZCBpbnRwdXQiLkxvZyhyZWFzb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXBkYXRlVGFiQ29udGVudCh0YWJJbmZvKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlzIGFjdGl2ZSIuQ0xvZyhfaXNUdXRvcmlhbEFjdGl2ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJzZXQgdHV0IGZhbHNlIi5DTG9nQmx1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yICh2YXIgaSA9IDA7IGkgPCAxMDsgaSsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBJdGVtcy5BZGRSYW5nZShJdGVtcy5DbG9uZSgpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNjcmVlblR5cGUgPT0gU2NyZWVuVHlwZS5QbGF5ZXJQcm9maWxlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTdWJzY3JpYmVQbGF5ZXJQcm9maWxlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBVbnN1YnNjcmliZVBsYXllclByb2ZpbGUoKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIkVuZCBpbnRwdXQiLkxvZyhyZWFzb24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLlN1YnNjcmliZTxBY3Rpb248VGVycm9yQXNzYXVsdFNjcmVlbj4+KEVWRU5UX1NUQVJUX1RVVE9SSUFMLCBPblN0YXJ0VHV0b3JpYWwpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImlzIGFjdGl2ZSIuQ0xvZyhfaXNUdXRvcmlhbEFjdGl2ZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gU2NyZWVuVHlwZS5UdXRvcmlhbEhpZ2hsaWdodEVsZW1lbnRXcmFwcGVyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJzZXQgdHV0IGZhbHNlIi5DTG9nQmx1ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgU3RvcnlJdGVtVHlwZUUuUHVzaEluY29taW5nRGlhbG9nOiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHNjcmVlblR5cGUgPT0gU2NyZWVuVHlwZS5QbGF5ZXJQcm9maWxlKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTdWJzY3JpYmVQbGF5ZXJQcm9maWxlKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZWxzZQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBVbnN1YnNjcmliZVBsYXllclByb2ZpbGUoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -335,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTZXRBZGFwdGVyXD4=</last-search>
+      <last-search encoding="base64">XDxhbHBoYVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTZXRBZGFwdGVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbHBoYVw+</last-pattern>
       <last-replace />
       <last-substitute>adsf</last-substitute>
       <last-dir>1</last-dir>
