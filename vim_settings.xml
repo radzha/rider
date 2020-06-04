@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxIYW5kbGVTaG93XD4=</entry>
-        <entry encoding="base64">XDxTd2l0Y2hMb2FkZXJcPg==</entry>
         <entry>T</entry>
         <entry>adsf</entry>
         <entry encoding="base64">XDxEZWxheWVkRGVzZWxlY3RcPg==</entry>
@@ -27,6 +25,8 @@
         <entry>lateu</entry>
         <entry encoding="base64">XDxPblVwZGF0ZUluQ2xhblN0YXRlXD4=</entry>
         <entry encoding="base64">XDxVcGRhdGVNZXNzYWdlc1w+</entry>
+        <entry encoding="base64">XDxFVkVOVF9MT1NUX0NPTk5FQ1RJT05cPg==</entry>
+        <entry>loader</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -146,11 +146,17 @@
         <mark key="." line="32" column="33" />
         <mark key="^" line="32" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Story/TutorialHighlightButtonWrapper.cs" timestamp="1591173768744">
-        <mark key="'" line="156" column="12" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" timestamp="1591275369189">
+        <mark key="'" line="86" column="84" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Scripts/NativeKeyboard/SimulatorKeyboard.cs" timestamp="1591108130856">
-        <mark key="'" line="501" column="26" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1591275378646">
+        <mark key="'" line="631" column="16" />
+        <mark key="[" line="606" column="48" />
+        <mark key="]" line="606" column="75" />
+        <mark key="^" line="927" column="81" />
+        <mark key="." line="927" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1591199941328">
         <mark key="'" line="31" column="23" />
@@ -186,21 +192,15 @@
         <mark key="." line="97" column="19" />
         <mark key="^" line="97" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1591262589103">
-        <mark key="'" line="168" column="12" />
-        <mark key="[" line="492" column="0" />
-        <mark key="]" line="492" column="0" />
-        <mark key="." line="492" column="0" />
-        <mark key="^" line="495" column="117" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1591275431493">
+        <mark key="'" line="175" column="39" />
+        <mark key="[" line="97" column="52" />
+        <mark key="]" line="97" column="51" />
+        <mark key="." line="97" column="50" />
+        <mark key="^" line="97" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="155" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
-      <jump line="55" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
-      <jump line="101" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
-      <jump line="753" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="75" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
-      <jump line="148" column="95" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
       <jump line="125" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
       <jump line="114" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
       <jump line="136" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
@@ -295,21 +295,27 @@
       <jump line="88" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChatNotifier.cs" />
       <jump line="171" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="168" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="138" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="35" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
+      <jump line="86" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConnectionScreensController.cs" />
+      <jump line="97" column="101" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="126" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="174" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9hZGVyU2NyZWVuQ29udHJvbGxlci5IaWRlTG9hZGVyKHRoaXMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>lementedException();</text>
+        <text>OnConnectionLost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVcGRhdGVNZXNzYWdlc1w+</text>
+        <text>loader</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGludmlzaWJsZU9mZnNldCA9IG5ldyBWZWN0b3IzKDEwMDAwLCAwLCAwKTsKICAgICAgICAgICAgU2Nyb2xsUmVjdC5wb3NpdGlvbiArPSBpbnZpc2libGVPZmZzZXQ7CiAgICAgICAgICAgIFNldFBvc2l0aW9uKDApOwoKICAgICAgICAgICAgVXBkYXRlVGFiQ29udGVudCh0YWJJbmZvKTsKICAgICAgICAgICAgCiAgICAgICAgICAgIHZhciBhY3Rpb24gPSBTY2hlZHVsZWRBY3Rpb25GYWN0b3J5LkNyZWF0ZU5leHRGcmFtZUFjdGlvbigoKSA9PgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTY3JvbGxSZWN0LnBvc2l0aW9uIC09IGludmlzaWJsZU9mZnNldDsKICAgICAgICAgICAgICAgIEp1bXBUb0l0ZW1DZW50ZXIoX3NlbGZJbmRleCArIDEpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgQ29tbWFuZHNTdHJlYW1zLk1haW4uT25OZXh0KFNjaGVkdWxlckJlaGF2aW91ci5FVkVOVF9TQ0hFRFVMRV9BQ1RJT04sIGFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9hZGVyU2NyZWVuQ29udHJvbGxlci5IaWRlTG9hZGVyKHRoaXMpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
@@ -348,12 +354,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVcGRhdGVNZXNzYWdlc1w+</last-search>
+      <last-search>loader</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVcGRhdGVNZXNzYWdlc1w+</last-pattern>
+      <last-pattern>loader</last-pattern>
       <last-replace />
       <last-substitute>adsf</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
