@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>T</entry>
-        <entry>adsf</entry>
         <entry encoding="base64">XDxEZWxheWVkRGVzZWxlY3RcPg==</entry>
         <entry>Log</entry>
         <entry encoding="base64">XDxPblN0YXJ0VHV0b3JpYWxcPg==</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxVcGRhdGVNZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxFVkVOVF9MT1NUX0NPTk5FQ1RJT05cPg==</entry>
         <entry>loader</entry>
+        <entry encoding="base64">XDxMYXN0U2VydmVyVGltZVw+</entry>
+        <entry encoding="base64">XDxVcGRhdGVSZWFkTWVzc2FnZVRpbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -158,12 +158,16 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1591275378646">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" timestamp="1591357856501">
+        <mark key="'" line="738" column="47" />
         <mark key="^" line="935" column="81" />
         <mark key="." line="935" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1591199941328">
         <mark key="'" line="31" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" timestamp="1591357819858">
+        <mark key="'" line="66" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/CustomsResourcesBar.cs" timestamp="1591174923389">
         <mark key="'" line="51" column="95" />
@@ -186,28 +190,15 @@
         <mark key="^" line="1" column="39" />
         <mark key="." line="29" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Stories/StoryUtils.cs" timestamp="1591174469411">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="96" column="24" />
-        <mark key="]" line="97" column="20" />
-        <mark key="." line="97" column="19" />
-        <mark key="^" line="97" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1591275431493">
-        <mark key="'" line="175" column="39" />
-        <mark key="[" line="97" column="52" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1591358568431">
+        <mark key="'" line="402" column="21" />
+        <mark key="[" line="208" column="9" />
         <mark key="]" line="97" column="51" />
         <mark key="." line="97" column="50" />
         <mark key="^" line="97" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
-      <jump line="136" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
-      <jump line="168" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/TopPanel/TopPanelAnimatorStateController.cs" />
-      <jump line="73" column="50" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
-      <jump line="153" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
-      <jump line="162" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
       <jump line="74" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
       <jump line="158" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
       <jump line="160" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" />
@@ -302,6 +293,12 @@
       <jump line="126" column="70" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="174" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="63" column="62" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChatNotifier.cs" />
+      <jump line="24" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" />
+      <jump line="29" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" />
+      <jump line="41" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" />
+      <jump line="66" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" />
+      <jump line="738" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/EsrvConnection.cs" />
+      <jump line="401" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +310,7 @@
         <text>return</text>
       </register>
       <register name="/" type="4">
-        <text>loader</text>
+        <text encoding="base64">XDxVcGRhdGVSZWFkTWVzc2FnZVRpbWVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9hZGVyU2NyZWVuQ29udHJvbGxlci5IaWRlTG9hZGVyKHRoaXMpOwo=</text>
@@ -355,12 +352,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>loader</last-search>
+      <last-search encoding="base64">XDxVcGRhdGVSZWFkTWVzc2FnZVRpbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>loader</last-pattern>
+      <last-pattern encoding="base64">XDxVcGRhdGVSZWFkTWVzc2FnZVRpbWVcPg==</last-pattern>
       <last-replace />
       <last-substitute>adsf</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
