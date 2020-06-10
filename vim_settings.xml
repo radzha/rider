@@ -100,16 +100,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/FightPart.cs" timestamp="1591772790451">
-        <mark key="'" line="326" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MercenarySlotInfo.cs" timestamp="1591778069570">
         <mark key="[" line="44" column="109" />
         <mark key="]" line="44" column="137" />
         <mark key="^" line="44" column="137" />
         <mark key="." line="44" column="136" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkTextButton.cs" timestamp="1591774387008" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkTextItemsPopupShower.cs" timestamp="1591774646808" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1591777320201">
         <mark key="'" line="217" column="62" />
@@ -127,17 +123,17 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" timestamp="1591777108763">
         <mark key="'" line="91" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultBotsPreloader.cs" timestamp="1591720544713">
-        <mark key="'" line="51" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="31" column="107" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntInfoScreen.cs" timestamp="1591778164215">
         <mark key="'" line="17" column="12" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="103" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" timestamp="1591786377134">
+        <mark key="'" line="210" column="47" />
+        <mark key="[" line="208" column="50" />
+        <mark key="]" line="208" column="51" />
+        <mark key="^" line="208" column="51" />
+        <mark key="." line="208" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TerrorPart.cs" timestamp="1591777085726">
         <mark key="'" line="12" column="20" />
@@ -179,6 +175,14 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkText.cs" timestamp="1591774832925">
         <mark key="'" line="74" column="34" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591785474022">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" timestamp="1591786415269">
+        <mark key="'" line="126" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkTextLeagueSeasonsShower.cs" timestamp="1591774530257" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkTextHuntPopupShower.cs" timestamp="1591774493417">
         <mark key="'" line="20" column="4" />
@@ -193,17 +197,15 @@
         <mark key="." line="4" column="40" />
         <mark key="^" line="4" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ScreenType.cs" timestamp="1591774086816">
-        <mark key="'" line="4" column="12" />
-        <mark key="[" line="279" column="19" />
-        <mark key="]" line="279" column="20" />
-        <mark key="." line="279" column="20" />
-        <mark key="^" line="279" column="13" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.cs" timestamp="1591786431466">
+        <mark key="'" line="43" column="17" />
+        <mark key="[" line="47" column="12" />
+        <mark key="]" line="47" column="22" />
+        <mark key="." line="47" column="21" />
+        <mark key="^" line="47" column="22" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ModelLoader.cs" />
-      <jump line="169" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ModelLoader.cs" />
       <jump line="157" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
       <jump line="46" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
       <jump line="85" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
@@ -302,51 +304,53 @@
       <jump line="839" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="1458" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="526" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
+      <jump line="207" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" />
+      <jump line="126" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CompanionRequired</text>
+        <text>CheckPsiCapsule</text>
       </register>
       <register name="-" type="4">
-        <text>CompanionRequired</text>
+        <text>CheckPsiCapsule</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb21wYW5pb25Mb2NhbENhY2hlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF91c2VySW5mby5Db21wYW5pb25Mb2NhbENhY2hlLlVwZGF0ZShtaXNzaW9uUXVlc3QuQ29tcGFuaW9uUmVxdWlyZWQuSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hlY2tQc2lDYXBzdWxlKHN0b3JhZ2UsIHVzZXJJbmZvKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlNldEJvb2woSXNOZXdEaWFsb2dBbmltLCBmYWxzZSk7CiAgICAgICAgICAgIF9hbmltYXRvci5TZXRCb29sKElzTmV3UmV3YXJkQW5pbSwgZmFsc2UpOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFbnF1ZXVlKG5ldyBRdWV1ZUl0ZW0oZmlnaHQsIGZhbHNlKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBmaWdodCBpbiBzY291dC5WYWx1ZS5GaWdodHMpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHNjb3V0IGluIHN0b3JhZ2UuU2NvdXRzKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
