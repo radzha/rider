@@ -7,16 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>backg</entry>
-        <entry>model</entry>
-        <entry encoding="base64">XDxfcHJlZmFiUGF0aFw+</entry>
-        <entry encoding="base64">XDxHbG9iZVNlY3Rvck1vZGVsc1ByZWxvYWRlclw+</entry>
-        <entry encoding="base64">XDxfYm90c1ByZWxvYWRlclw+</entry>
-        <entry encoding="base64">XDxfc2NyZWVuVHlwZXNTZXRcPg==</entry>
-        <entry encoding="base64">XDxQcmVsb2FkQ29tcGFuaW9uTW9kZWxcPg==</entry>
-        <entry>asdf</entry>
-        <entry encoding="base64">XDxfbGlua0luZGV4ZXNcPg==</entry>
-        <entry>dist</entry>
         <entry encoding="base64">XDxfY29tcGFuaW9uTmFtZVw+</entry>
         <entry encoding="base64">XDxJc0Jhc2VSYWlkXD4=</entry>
         <entry>mer</entry>
@@ -27,6 +17,16 @@
         <entry encoding="base64">XDxIYXNOb3RDb21wYW5pb25cPg==</entry>
         <entry encoding="base64">XDxJc0hhc0FybW9yQW5pbVw+</entry>
         <entry encoding="base64">XDxDb21wYW5pb25Mb2NhbENhY2hlXD4=</entry>
+        <entry>tourn</entry>
+        <entry>tourna</entry>
+        <entry>gett</entry>
+        <entry>asdf</entry>
+        <entry encoding="base64">XDxJc0F2YWlsYWJsZVRvUGxheVw+</entry>
+        <entry>sadf</entry>
+        <entry>hunt</entry>
+        <entry>adsf</entry>
+        <entry encoding="base64">XDxHQU1FX0VWRU5UU19LRVlcPg==</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,13 +100,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/TrackItemCommand.cs" timestamp="1591787723286" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/MercenarySlotInfo.cs" timestamp="1591778069570">
         <mark key="[" line="44" column="109" />
         <mark key="]" line="44" column="137" />
         <mark key="^" line="44" column="137" />
         <mark key="." line="44" column="136" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkTextItemsPopupShower.cs" timestamp="1591774646808" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1591788782034">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="28" />
+        <mark key="." line="43" column="27" />
+        <mark key="^" line="43" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CompanionSlotsController.cs" timestamp="1591777320201">
         <mark key="'" line="217" column="62" />
         <mark key="[" line="218" column="62" />
@@ -114,11 +121,19 @@
         <mark key="." line="218" column="65" />
         <mark key="^" line="218" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/HuntPrepareScreen.cs" timestamp="1591774460842">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="^" line="129" column="33" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1591786778727">
+        <mark key="'" line="1465" column="58" />
+        <mark key="[" line="791" column="53" />
+        <mark key="]" line="791" column="57" />
+        <mark key="^" line="791" column="57" />
+        <mark key="n" line="0" column="0" />
+        <mark key="." line="791" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/HuntTakeRewardCommand.cs" timestamp="1591787797907">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="16" column="26" />
+        <mark key="^" line="16" column="26" />
+        <mark key="." line="16" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" timestamp="1591777108763">
         <mark key="'" line="91" column="30" />
@@ -128,15 +143,23 @@
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" timestamp="1591786377134">
-        <mark key="'" line="210" column="47" />
-        <mark key="[" line="208" column="50" />
-        <mark key="]" line="208" column="51" />
-        <mark key="^" line="208" column="51" />
-        <mark key="." line="208" column="50" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" timestamp="1591787469246">
+        <mark key="'" line="32" column="56" />
+        <mark key="[" line="206" column="65" />
+        <mark key="]" line="207" column="12" />
+        <mark key="^" line="207" column="12" />
+        <mark key="." line="207" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TerrorPart.cs" timestamp="1591777085726">
-        <mark key="'" line="12" column="20" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1591788309735">
+        <mark key="'" line="592" column="20" />
+        <mark key="[" line="593" column="16" />
+        <mark key="]" line="593" column="20" />
+        <mark key="." line="593" column="19" />
+        <mark key="^" line="593" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserPointsContainer.cs" timestamp="1591788295629">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FighPrepareGameModeAnimatorController.cs" timestamp="1591777340898">
         <mark key="[" line="117" column="62" />
@@ -158,44 +181,28 @@
         <mark key="." line="103" column="11" />
         <mark key="^" line="103" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseMission/NeedCompanionInfo.cs" timestamp="1591776164647">
-        <mark key="'" line="25" column="28" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="47" />
-        <mark key="." line="66" column="37" />
-        <mark key="^" line="66" column="38" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/AssetBundles/Editor/AssetBundlesAssigner.cs" timestamp="1591787515889">
+        <mark key="[" line="136" column="68" />
+        <mark key="]" line="136" column="78" />
+        <mark key="." line="136" column="77" />
+        <mark key="^" line="136" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareAnimatorController.cs" timestamp="1591776876021">
-        <mark key="'" line="253" column="25" />
-        <mark key="[" line="80" column="36" />
-        <mark key="]" line="81" column="28" />
-        <mark key="^" line="81" column="28" />
-        <mark key="." line="81" column="27" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1591788371106">
+        <mark key="'" line="12" column="29" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkText.cs" timestamp="1591774832925">
-        <mark key="'" line="74" column="34" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" timestamp="1591788080962">
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="144" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591785474022">
+      <file name="/Dummy.txt" timestamp="1591787602947">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" timestamp="1591786415269">
-        <mark key="'" line="126" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkTextLeagueSeasonsShower.cs" timestamp="1591774530257" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/LinkTextHuntPopupShower.cs" timestamp="1591774493417">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="17" column="59" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRulesPopup.cs" timestamp="1591775034500">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="41" />
-        <mark key="." line="4" column="40" />
-        <mark key="^" line="4" column="41" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" timestamp="1591787248350">
+        <mark key="'" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.cs" timestamp="1591786431466">
         <mark key="'" line="43" column="17" />
@@ -206,37 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
-      <jump line="46" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
-      <jump line="85" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
-      <jump line="91" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
-      <jump line="104" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionScreen.cs" />
-      <jump line="159" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
-      <jump line="41" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionView.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" />
-      <jump line="193" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" />
-      <jump line="240" column="69" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" />
-      <jump line="244" column="104" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" />
-      <jump line="254" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" />
-      <jump line="82" column="105" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultScreen.cs" />
-      <jump line="40" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionBotModelLoader.cs" />
-      <jump line="44" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionBotModelLoader.cs" />
-      <jump line="203" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionBotModelLoader.cs" />
-      <jump line="25" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionBotModelLoader.cs" />
-      <jump line="36" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionBotModelLoader.cs" />
-      <jump line="38" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Transition/TransitionBotModelLoader.cs" />
-      <jump line="895" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="745" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="854" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="869" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="41" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" />
-      <jump line="51" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" />
-      <jump line="231" column="57" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeInitialPointProvider.cs" />
-      <jump line="154" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ModelLoader.cs" />
-      <jump line="44" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ModelLoader.cs" />
-      <jump line="59" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ModelLoader.cs" />
-      <jump line="84" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultBotsPreloader.cs" />
-      <jump line="94" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultBotsPreloader.cs" />
       <jump line="53" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Assault/TerrorAssaultBotsPreloader.cs" />
       <jump line="881" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
       <jump line="326" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/FightPart.cs" />
@@ -306,51 +282,82 @@
       <jump line="526" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
       <jump line="207" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" />
       <jump line="126" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="273" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="328" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="965" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="171" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="239" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="259" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="698" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="699" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="793" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="797" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="835" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="837" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1016" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1018" column="80" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1044" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="1465" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="17" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="31" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" />
+      <jump line="205" column="80" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" />
+      <jump line="32" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" />
+      <jump line="340" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="631" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="11" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="592" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="12" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" />
+      <jump line="22" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="24" column="74" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="39" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CheckPsiCapsule</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>CheckPsiCapsule</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb21wYW5pb25Mb2NhbENhY2hlXD4=</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hlY2tQc2lDYXBzdWxlKHN0b3JhZ2UsIHVzZXJJbmZvKTsK</text>
+        <text encoding="base64">ICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERlc3Ryb3lUaW1lID0gVXRpbHMuQ3JlYXRlRnJvbVVuaXhUaW1lKGRlc3Ryb3lUaW1lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFbnF1ZXVlKG5ldyBRdWV1ZUl0ZW0oZmlnaHQsIGZhbHNlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkZXN0cm95VGltZSA9IEpzb25VdGlscy5Kc29uR2V0SW50KCJkZXN0cm95VGltZSIsIGRhdGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKHZhciBmaWdodCBpbiBzY291dC5WYWx1ZS5GaWdodHMpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGRhdGEuQ29udGFpbnNLZXkoImRlc3Ryb3lUaW1lIikpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHNjb3V0IGluIHN0b3JhZ2UuU2NvdXRzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -359,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDb21wYW5pb25Mb2NhbENhY2hlXD4=</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb21wYW5pb25Mb2NhbENhY2hlXD4=</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
