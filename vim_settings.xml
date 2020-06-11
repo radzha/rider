@@ -100,12 +100,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" timestamp="1591875813290">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1591886091098">
+        <mark key="[" line="690" column="57" />
+        <mark key="]" line="690" column="58" />
+        <mark key="." line="690" column="58" />
+        <mark key="^" line="690" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" timestamp="1591886770274">
         <mark key="'" line="83" column="89" />
-        <mark key="[" line="104" column="26" />
-        <mark key="]" line="104" column="71" />
-        <mark key="." line="104" column="70" />
-        <mark key="^" line="104" column="71" />
+        <mark key="[" line="85" column="50" />
+        <mark key="]" line="86" column="12" />
+        <mark key="." line="86" column="11" />
+        <mark key="^" line="86" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" timestamp="1591793839477">
         <mark key="[" line="42" column="96" />
@@ -120,22 +126,17 @@
         <mark key="." line="133" column="94" />
         <mark key="^" line="119" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1591885010250">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1591886780961">
         <mark key="'" line="23" column="29" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="39" column="21" />
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="28" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" timestamp="1591877787286">
         <mark key="'" line="93" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsTab.cs" timestamp="1591863491122" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Events.cs" timestamp="1591788371106">
-        <mark key="'" line="12" column="29" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="74" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeHuntPoint.cs" timestamp="1591861559314">
         <mark key="'" line="11" column="18" />
         <mark key="[" line="11" column="21" />
@@ -143,7 +144,7 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591884997818">
+      <file name="/Dummy.txt" timestamp="1591886419580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -179,17 +180,6 @@
         <mark key="]" line="280" column="36" />
         <mark key="." line="280" column="36" />
         <mark key="^" line="280" column="29" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1591788309735">
-        <mark key="'" line="592" column="20" />
-        <mark key="[" line="593" column="16" />
-        <mark key="]" line="593" column="20" />
-        <mark key="." line="593" column="19" />
-        <mark key="^" line="593" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserPointsContainer.cs" timestamp="1591788295629">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="54" />
       </file>
     </filemarks>
     <jumps>
@@ -297,47 +287,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU2VydmVyRGF0YTsK</text>
+      <register name="&quot;" type="4">
+        <text>JsonUtils.JsonGetIntAlways(&quot;attemptsUsed&quot;, huntDict, 0);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0ga2lsbGVkQ291bnRMb2NhbCA=</text>
+        <text>JsonUtils.JsonGetIntAlways(&quot;attemptsUsed&quot;, huntDict, 0);</text>
       </register>
       <register name="/" type="4">
         <text>sdf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN1bVBpZWNlc09uUm91bmQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfZW5lcmd5SW5kaWNhdG9yLkluaXQoaXNNaW5lRmlnaHQgPyBzdGFydEZpZ2h0Q29zdC5NaW5lIDogc3RhcnRGaWdodENvc3QuTWlzc2lvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU2VydmVyRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVXAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+        <text encoding="base64">dXNpbmcgU2VydmVyRGF0YTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5lZWRUb0tpbGwgPSBmdWxsUm91bmRzTmVlZFRvQ29tcGxldGUgKiBzdW1QaWVjZXNPblJvdW5kOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdW5kc0NvbXBsZXRlZCA9IChraWxsZWRDb3VudCAtIG1heEJhc2VUaHJlc2hvbGQpIC8gbWF4VGhyZXNob2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5lZWRUb0tpbGwgPSBmdWxsUm91bmRzTmVlZFRvQ29tcGxldGUgKiBzdW1QaWVjZXNPblJvdW5kOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdW5kc0NvbXBsZXRlZCA9IChraWxsZWRDb3VudCAtIG1heEJhc2VUaHJlc2hvbGQpIC8gbWF4VGhyZXNob2xkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHRocmVzaG9sZFRvUGllY2UgaW4gdGhyZXNob2xkVG9QaWVjZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5lZWRUb0NvbGxlY3QgLT0gdGhyZXNob2xkVG9QaWVjZS5QaWVjZXM7CiAgICAgICAgICAgICAgICBpZiAodGhyZXNob2xkVG9QaWVjZS5UaHJlc2hvbGQgPiBraWxsZWRDb3VudExvY2FsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHRocmVzaG9sZFRvUGllY2UgaW4gdGhyZXNob2xkVG9QaWVjZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5lZWRUb0NvbGxlY3QgLT0gdGhyZXNob2xkVG9QaWVjZS5QaWVjZXM7CiAgICAgICAgICAgICAgICBpZiAodGhyZXNob2xkVG9QaWVjZS5UaHJlc2hvbGQgPiBraWxsZWRDb3VudExvY2FsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwaWVjZXMgPiAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
