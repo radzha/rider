@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>gett</entry>
-        <entry encoding="base64">XDxJc0F2YWlsYWJsZVRvUGxheVw+</entry>
         <entry>sadf</entry>
         <entry>adsf</entry>
         <entry encoding="base64">XDxHQU1FX0VWRU5UU19LRVlcPg==</entry>
@@ -27,6 +25,8 @@
         <entry>reward</entry>
         <entry>adf</entry>
         <entry encoding="base64">XDxraWxsZWRDb3VudExvY2FsXD4=</entry>
+        <entry encoding="base64">XDxCZXN0UmV3YXJkXD4=</entry>
+        <entry encoding="base64">XDxyb3VuZHNDb21wbGV0ZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -113,12 +113,12 @@
         <mark key="^" line="42" column="122" />
         <mark key="." line="42" column="121" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1591879062419">
-        <mark key="'" line="42" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="127" column="21" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1591880309844">
+        <mark key="'" line="44" column="20" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="44" column="99" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1591877587178">
         <mark key="'" line="24" column="29" />
@@ -203,12 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="663" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="667" column="66" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="668" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="669" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="12" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/TerrorPart.cs" />
       <jump line="30" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
       <jump line="89" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
       <jump line="91" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/CoopToggle.cs" />
@@ -303,51 +297,57 @@
       <jump line="84" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
       <jump line="124" column="84" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
       <jump line="43" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="62" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="86" column="83" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="101" column="82" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="111" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="44" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdW5kc0NvbXBsZXRlZCA9IChraWxsZWRDb3VudCAtIG1heEJhc2VUaHJlc2hvbGQpIC8gbWF4VGhyZXNob2xkOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>baseRewards</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxraWxsZWRDb3VudExvY2FsXD4=</text>
+        <text encoding="base64">XDxyb3VuZHNDb21wbGV0ZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHJld2FyZCBpbiBiYXNlUmV3YXJkcykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdmFyIHJld2FyZEl0ZW0gPSByZXdhcmQuUmV3YXJkLkRhdGFBc0l0ZW0oKTsKICAgICAgICAgICAgICAgIHZhciBwaWVjZXMgPSByZXdhcmRJdGVtICE9IG51bGwgJiYgcmV3YXJkSXRlbS5JZC5JZCA9PSBzZXR0aW5ncy5CZXN0UmV3YXJkLklkID8gcmV3YXJkSXRlbS5Db3VudCA6IDA7CiAgICAgICAgICAgICAgICBuZWVkVG9Db2xsZWN0IC09IHBpZWNlczsKICAgICAgICAgICAgICAgIGlmIChuZWVkVG9Db2xsZWN0IDw9IDApCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJld2FyZC5UaHJlc2hvbGQgPD0ga2lsbGVkQ291bnQgPyAwIDogcmV3YXJkLlRocmVzaG9sZCAtIGtpbGxlZENvdW50OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByb3VuZHNDb21wbGV0ZWQgPSBNYXRoZi5NYXgoMCwga2lsbGVkQ291bnQgLSBtYXhCYXNlVGhyZXNob2xkKSAvIG1heFRocmVzaG9sZDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdW5kc0NvbXBsZXRlZCA9IChraWxsZWRDb3VudCAtIG1heEJhc2VUaHJlc2hvbGQpIC8gbWF4VGhyZXNob2xkOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHRocmVzaG9sZFRvUGllY2UgaW4gdGhyZXNob2xkVG9QaWVjZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5lZWRUb0NvbGxlY3QgLT0gdGhyZXNob2xkVG9QaWVjZS5QaWVjZXM7CiAgICAgICAgICAgICAgICBpZiAodGhyZXNob2xkVG9QaWVjZS5UaHJlc2hvbGQgPiBraWxsZWRDb3VudExvY2FsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHRocmVzaG9sZFRvUGllY2UgaW4gdGhyZXNob2xkVG9QaWVjZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5lZWRUb0NvbGxlY3QgLT0gdGhyZXNob2xkVG9QaWVjZS5QaWVjZXM7CiAgICAgICAgICAgICAgICBpZiAodGhyZXNob2xkVG9QaWVjZS5UaHJlc2hvbGQgPiBraWxsZWRDb3VudExvY2FsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwaWVjZXMgPiAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRocmVzaG9sZFRvUGllY2VzID0gbmV3IExpc3Q8KGludCBUaHJlc2hvbGQsIGludCBQaWVjZXMpPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwaWVjZXMgPiAwKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJlc2hvbGRUb1BpZWNlcy5BZGQoKHJld2FyZC5UaHJlc2hvbGQsIHBpZWNlcykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRocmVzaG9sZFRvUGllY2VzID0gbmV3IExpc3Q8KGludCBUaHJlc2hvbGQsIGludCBQaWVjZXMpPigpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJlc2hvbGRUb1BpZWNlcy5BZGQoKHJld2FyZC5UaHJlc2hvbGQsIHBpZWNlcykpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRocmVzaG9sZFRvUGllY2VzID0gbmV3IExpc3Q8KGludCBUaHJlc2hvbGQsIGludCBQaWVjZXMpPigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJlc2hvbGRUb1BpZWNlcy5BZGQoKHJld2FyZC5UaHJlc2hvbGQsIHBpZWNlcykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -356,12 +356,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxraWxsZWRDb3VudExvY2FsXD4=</last-search>
+      <last-search encoding="base64">XDxyb3VuZHNDb21wbGV0ZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxraWxsZWRDb3VudExvY2FsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyb3VuZHNDb21wbGV0ZWRcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
