@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvZmZlckluZm9cPg==</entry>
-        <entry>atte</entry>
         <entry>asdf</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
         <entry>timer</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxfcmV3YXJkU3RhdGVzXD4=</entry>
         <entry>craw</entry>
         <entry encoding="base64">XDxfZmlnaHRzXD4=</entry>
+        <entry encoding="base64">XDxJbml0UmFuZG9tVmVybWludGlkZVdhdmVzXD4=</entry>
+        <entry>adsf</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -121,12 +121,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" timestamp="1592207819915">
-        <mark key="'" line="133" column="42" />
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="51" />
-        <mark key="." line="28" column="50" />
-        <mark key="^" line="28" column="51" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" timestamp="1592208831639">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="45" column="41" />
+        <mark key="." line="45" column="40" />
+        <mark key="^" line="45" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/BankPayments.cs" timestamp="1591793839477">
         <mark key="[" line="42" column="96" />
@@ -159,8 +159,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/AssetBundles/Editor/AssetBundlesAssigner.cs" timestamp="1592207586335">
-        <mark key="'" line="176" column="78" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" timestamp="1592208888059">
+        <mark key="[" line="208" column="39" />
+        <mark key="]" line="208" column="44" />
+        <mark key="^" line="208" column="44" />
+        <mark key="." line="208" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/AssetBundles/Editor/AssetBundlesAssigner.cs" timestamp="1592208876092">
+        <mark key="'" line="154" column="37" />
+        <mark key="[" line="154" column="39" />
+        <mark key="]" line="154" column="44" />
+        <mark key="^" line="154" column="44" />
+        <mark key="." line="154" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1591886780961">
         <mark key="'" line="23" column="29" />
@@ -191,15 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
-      <jump line="25" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
-      <jump line="99" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
-      <jump line="528" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="839" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="1458" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="526" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" />
-      <jump line="207" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/DownloadQueue.Utils.cs" />
-      <jump line="126" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
       <jump line="273" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="328" column="56" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
       <jump line="965" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
@@ -291,51 +292,60 @@
       <jump line="33" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
       <jump line="20" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
       <jump line="133" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="111" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="39" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="72" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="45" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="36" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="47" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/CrawlerHunt.cs" />
+      <jump line="154" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ResourceManager/AssetBundles/Editor/AssetBundlesAssigner.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ3Jhd2xlckh1bnQoKQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgX3NldHRpbmdzID0gX3N0b3JhZ2UuVmVybWludGlkZVNldHRpbmdzOwogICAgICAgICAgICBfZmlnaHQgPSBHZW5lcmF0ZVVuaXFGaWdodCgpOwogICAgICAgICAgICBfZmlnaHRzID0gbmV3IExpc3Q8RmlnaHQ+e19maWdodH07CiAgICAgICAgICAgIEN1cnJlbnQgPSB0aGlzOwogICAgICAgIH0KCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>JsonUtils.JsonGetIntAlways(&quot;attemptsUsed&quot;, huntDict, 0);</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfZmlnaHRzXD4=</text>
+        <text>adsf</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ3Jhd2xlckh1bnQoKQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgX3NldHRpbmdzID0gX3N0b3JhZ2UuVmVybWludGlkZVNldHRpbmdzOwogICAgICAgICAgICBfZmlnaHQgPSBHZW5lcmF0ZVVuaXFGaWdodCgpOwogICAgICAgICAgICBfZmlnaHRzID0gbmV3IExpc3Q8RmlnaHQ+e19maWdodH07CiAgICAgICAgICAgIEN1cnJlbnQgPSB0aGlzOwogICAgICAgIH0KCg==</text>
+      <register name="0" type="4">
+        <text>bool randomWaves = true</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ3Jhd2xlckh1bnQoKQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgX3NldHRpbmdzID0gX3N0b3JhZ2UuVmVybWludGlkZVNldHRpbmdzOwogICAgICAgICAgICBfZmlnaHQgPSBHZW5lcmF0ZVVuaXFGaWdodCgpOwogICAgICAgICAgICBfZmlnaHRzID0gbmV3IExpc3Q8RmlnaHQ+e19maWdodH07CiAgICAgICAgICAgIEN1cnJlbnQgPSB0aGlzOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNpbmcgU2VydmVyRGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG5lZWRUb0tpbGwgPSBmdWxsUm91bmRzTmVlZFRvQ29tcGxldGUgKiBzdW1QaWVjZXNPblJvdW5kOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJvdW5kc0NvbXBsZXRlZCA9IChraWxsZWRDb3VudCAtIG1heEJhc2VUaHJlc2hvbGQpIC8gbWF4VGhyZXNob2xkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghX29yZGVyZWRXYXZlcy5UcnlHZXRWYWx1ZShyb3cuVHlwZSwgb3V0IHZhciBodW50V2F2ZXMpKSBjb250aW51ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtLkNvbGxlY3Rpb25zLkdlbmVyaWM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciByb3cgPSBfc2V0dGluZ3MuV2F2ZVNlcXVlbmNlW2luZGV4XTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yZWFjaCAodmFyIHRocmVzaG9sZFRvUGllY2UgaW4gdGhyZXNob2xkVG9QaWVjZXMpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIG5lZWRUb0NvbGxlY3QgLT0gdGhyZXNob2xkVG9QaWVjZS5QaWVjZXM7CiAgICAgICAgICAgICAgICBpZiAodGhyZXNob2xkVG9QaWVjZS5UaHJlc2hvbGQgPiBraWxsZWRDb3VudExvY2FsKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -344,12 +354,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfZmlnaHRzXD4=</last-search>
+      <last-search>adsf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfZmlnaHRzXD4=</last-pattern>
+      <last-pattern>adsf</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
