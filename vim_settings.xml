@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcmV3YXJkc1Byb3ZpZGVyXD4=</entry>
-        <entry encoding="base64">XDxBdmFpbGFibGVDb25zdW1hYmxlUHJvZHVjdHNcPg==</entry>
         <entry>craw</entry>
         <entry encoding="base64">XDxfc2tpbGxMaXN0XD4=</entry>
         <entry encoding="base64">IHVwZGF0ZSg=</entry>
@@ -27,6 +25,8 @@
         <entry>isbase</entry>
         <entry>sad</entry>
         <entry encoding="base64">XDxJc0Jhc2VcPg==</entry>
+        <entry>sadf</entry>
+        <entry>userin</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,12 +100,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" timestamp="1592236225128">
-        <mark key="'" line="80" column="16" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="123" column="28" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" timestamp="1592297662649">
+        <mark key="'" line="146" column="40" />
+        <mark key="[" line="52" column="9" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" timestamp="1592293698952">
         <mark key="'" line="252" column="118" />
@@ -113,19 +113,20 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592295608789">
-        <mark key="'" line="155" column="0" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="188" column="9" />
-        <mark key="^" line="153" column="43" />
-        <mark key="." line="181" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592296894537">
+        <mark key="'" line="161" column="93" />
+        <mark key="[" line="78" column="53" />
+        <mark key="]" line="78" column="61" />
+        <mark key="^" line="78" column="61" />
+        <mark key="." line="78" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592295371940">
-        <mark key="'" line="29" column="20" />
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="23" column="40" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="23" column="40" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Citadel/ContrabandBaseItem.cs" timestamp="1592297376487" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592297259609">
+        <mark key="'" line="140" column="55" />
+        <mark key="[" line="141" column="29" />
+        <mark key="]" line="141" column="37" />
+        <mark key="." line="141" column="36" />
+        <mark key="^" line="141" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1592232729313">
         <mark key="[" line="893" column="0" />
@@ -138,13 +139,6 @@
         <mark key="^" line="53" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Commands/HuntTakeRewardCommand.cs" timestamp="1592235612270" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonRewardBonus.cs" timestamp="1592231183388">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="61" />
-        <mark key="]" line="18" column="61" />
-        <mark key="^" line="18" column="68" />
-        <mark key="." line="18" column="61" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1592232786854">
         <mark key="'" line="56" column="17" />
         <mark key="[" line="439" column="13" />
@@ -159,27 +153,26 @@
         <mark key="." line="9" column="55" />
         <mark key="^" line="9" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/HuntTakeRewardHandler.cs" timestamp="1592295620491">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="45" />
-        <mark key="." line="18" column="44" />
-        <mark key="^" line="18" column="45" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/HuntTakeRewardHandler.cs" timestamp="1592295904475">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardView.cs" timestamp="1592235834402">
-        <mark key="'" line="18" column="71" />
-        <mark key="[" line="18" column="17" />
-        <mark key="]" line="18" column="23" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="22" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardView.cs" timestamp="1592297679353">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/GetSeasonRewardHandler.cs" timestamp="1592235632945" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProvider.cs" timestamp="1592292629276">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProvider.cs" timestamp="1592296710103">
         <mark key="'" line="15" column="15" />
-        <mark key="[" line="46" column="24" />
-        <mark key="]" line="46" column="25" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="25" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="39" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" timestamp="1592233067274">
         <mark key="[" line="73" column="38" />
@@ -205,10 +198,12 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" timestamp="1592237863762">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" timestamp="1592297483984">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="113" column="9" />
+        <mark key="]" line="114" column="54" />
+        <mark key="." line="114" column="53" />
+        <mark key="^" line="114" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsRewardsProvider.cs" timestamp="1592238017966">
         <mark key="'" line="139" column="0" />
@@ -218,17 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsRewardsProvider.cs" />
-      <jump line="32" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsRewardsProvider.cs" />
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsRewardsProvider.cs" />
-      <jump line="30" column="42" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProvider.cs" />
-      <jump line="44" column="8" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProvider.cs" />
-      <jump line="90" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsRewardsProvider.cs" />
-      <jump line="25" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProvider.cs" />
-      <jump line="140" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
-      <jump line="22" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
-      <jump line="118" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
       <jump line="13" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
       <jump line="15" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
       <jump line="60" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
@@ -318,51 +302,62 @@
       <jump line="99" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="29" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="155" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="14" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="98" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="185" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="161" column="93" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="86" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="140" column="55" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="37" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" />
+      <jump line="107" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" />
+      <jump line="51" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" />
+      <jump line="12" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
+      <jump line="142" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyBib29sIEFyZUFsbFJld2FyZHNPblJvdW5kVGFrZW4oVXNlckluZm8gdXNlckluZm8pCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmV3YXJkc1Rha2VuQ291bnQgPSB1c2VySW5mby5IdW50SW5mby5SZXdhcmRzVGFrZW4uQ291bnQ7CiAgICAgICAgICAgIHZhciBuZWVkVG9UYWtlQ291bnQgPSBIdW50SGVscGVyLkdldEN1cnJlbnRSZXdhcmRzKCkuUmV3YXJkcy5Db3VudDsKICAgICAgICAgICAgcmV3YXJkc1Rha2VuQ291bnQuQWRkUGFyYW0oIm5lZWQiLCBuZWVkVG9UYWtlQ291bnQpLkNMb2dCbHVlKCk7CiAgICAgICAgICAgIHJldHVybiByZXdhcmRzVGFrZW5Db3VudCA+PSBuZWVkVG9UYWtlQ291bnQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>GetBonus()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJc0Jhc2VcPg==</text>
+        <text>userin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIFZlcm1pbnRpZGVSZXdhcmRzLlZlcm1pbnRpZGVSZXdhcmRSb3cgR2V0U3RvcmFnZVJld2FyZChib29sIGlzQmFzZSwgaW50IGluZGV4KQogICAgICAgIHsKICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgdmFyIHNldHRpbmdzID0gc3RvcmFnZS5WZXJtaW50aWRlU2V0dGluZ3M7CiAgICAgICAgICAgIHZhciByZXdhcmRzID0gaXNCYXNlID8gc3RvcmFnZS5WZXJtaW50aWRlUmV3YXJkcy5GaW5kVmFsdWUocmV3YXJkXyA9PiByZXdhcmRfLkJhc2UpIDogc2V0dGluZ3MuUmV3YXJkczsKICAgICAgICAgICAgcmV0dXJuIHJld2FyZHMuUmV3YXJkcy5GaW5kKHJvdyA9PiByb3cuSW5kZXggPT0gaW5kZXgpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiYXNlUmV3YXJkcyA9IF9zdG9yYWdlLlZlcm1pbnRpZGVSZXdhcmRzLkZpbmRWYWx1ZShyZXdhcmRfID0+IHJld2FyZF8uQmFzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcHVibGljIHN0YXRpYyBib29sIEFyZUFsbFJld2FyZHNPblJvdW5kVGFrZW4oVXNlckluZm8gdXNlckluZm8pCiAgICAgICAgewogICAgICAgICAgICB2YXIgcmV3YXJkc1Rha2VuQ291bnQgPSB1c2VySW5mby5IdW50SW5mby5SZXdhcmRzVGFrZW4uQ291bnQ7CiAgICAgICAgICAgIHZhciBuZWVkVG9UYWtlQ291bnQgPSBIdW50SGVscGVyLkdldEN1cnJlbnRSZXdhcmRzKCkuUmV3YXJkcy5Db3VudDsKICAgICAgICAgICAgcmV3YXJkc1Rha2VuQ291bnQuQWRkUGFyYW0oIm5lZWQiLCBuZWVkVG9UYWtlQ291bnQpLkNMb2dCbHVlKCk7CiAgICAgICAgICAgIHJldHVybiByZXdhcmRzVGFrZW5Db3VudCA+PSBuZWVkVG9UYWtlQ291bnQ7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIFNlYXNvbkl0ZW1WaWV3LlJld2FyZFR5cGUgX3Jld2FyZFR5cGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicHJldiIuQWRkUGFyYW0ocHJldlJhdGluZykuQWRkUGFyYW0oIm1heCIsIG1heCkuQ0xvZyhzdGFydFJhdGluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgYm9vbCBfaXNUYWtpbmdSYW5kb21DaGlwOwogICAgICAgIHByb3RlY3RlZCBVc2VySW5mbyBfdXNlckluZm87Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgdmFyIHNldHRpbmdzID0gc3RvcmFnZS5WZXJtaW50aWRlU2V0dGluZ3M7CiAgICAgICAgICAgIHZhciByZXdhcmRzID0gaXNCYXNlID8gc3RvcmFnZS5WZXJtaW50aWRlUmV3YXJkcy5GaW5kVmFsdWUocmV3YXJkXyA9PiByZXdhcmRfLkJhc2UpIDogc2V0dGluZ3MuUmV3YXJkczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJld2FyZHMuUmV3YXJkcy5GaW5kKHJvdyA9PiByb3cuSW5kZXggPT0gaW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGJvb2wgX2lzQmFzZSA9PiBfcmF0aW5nVGFibGVJZCA9PSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgQXdha2UoKQogICAgICAgIHsKICAgICAgICAgICAgX3N0b3JhZ2UgPSBfc3RvcmFnZSA/PyAoX3N0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKSk7CiAgICAgICAgICAgIF91c2VySW5mbyA9IF91c2VySW5mbyA/PyAoX3VzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAicHJldiIuQWRkUGFyYW0ocHJldlJhdGluZykuQWRkUGFyYW0oIm1heCIsIG1heCkuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3N1YnNjcmlwdGlvbnMgPSBuZXcgQ29tcG9zaXRlRGlzcG9zYWJsZQogICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGJhc2VSZXdhcmRzID0gc3RvcmFnZS5WZXJtaW50aWRlUmV3YXJkcy5GaW5kVmFsdWUocmV3YXJkXyA9PiByZXdhcmRfLkJhc2UpOwo=</text>
+        <text encoding="base64">dXNpbmcgQXNzZXRzLlNjcmlwdHMuQ29tbW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -371,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxJc0Jhc2VcPg==</last-search>
+      <last-search>userin</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJc0Jhc2VcPg==</last-pattern>
+      <last-pattern>userin</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
