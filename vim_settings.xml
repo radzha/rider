@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>orderb</entry>
-        <entry>onen</entry>
-        <entry>onena</entry>
-        <entry>metr</entry>
-        <entry encoding="base64">XDxTb3J0ZWRMZWFndWVQbGF5ZXJzXD4=</entry>
         <entry>sort</entry>
         <entry>asdf</entry>
         <entry encoding="base64">XDxQbGF5ZXJzQ29tcGFyaXNvblw+</entry>
@@ -27,6 +22,11 @@
         <entry>prote</entry>
         <entry>clog</entry>
         <entry encoding="base64">XDxJc0xvYWRpbmdcPg==</entry>
+        <entry encoding="base64">XDxfUmVxdWlyZWRDb21wYW5pb25cPg==</entry>
+        <entry>attem</entry>
+        <entry encoding="base64">XDxBdHRlbXB0c1BlckRheVw+</entry>
+        <entry encoding="base64">XDxfc2tpbGxMaXN0XD4=</entry>
+        <entry>subsc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,11 +100,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntBestPlayersScreen.cs" timestamp="1592313999613">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntBestPlayersScreen.cs" timestamp="1592320871124">
         <mark key="'" line="14" column="23" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="37" column="9" />
-        <mark key="." line="31" column="55" />
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
         <mark key="^" line="31" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersByRatingLoader.cs" timestamp="1592315921083">
@@ -113,17 +113,69 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Leauges/LeaguePlayersShower.cs" timestamp="1592309979500" />
+      <file name="/Dummy.txt" timestamp="1592321284966">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1592312149733">
+        <mark key="'" line="347" column="26" />
+        <mark key="[" line="51" column="52" />
+        <mark key="]" line="51" column="53" />
+        <mark key="^" line="51" column="53" />
+        <mark key="." line="51" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592321677852">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="33" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Editor/Generator/Components/Index/BaseIndexInstance.cs" timestamp="1592320653580">
+        <mark key="[" line="27" column="108" />
+        <mark key="]" line="30" column="23" />
+        <mark key="^" line="30" column="23" />
+        <mark key="." line="30" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" timestamp="1592320847689">
+        <mark key="'" line="102" column="0" />
+        <mark key="[" line="102" column="59" />
+        <mark key="]" line="102" column="86" />
+        <mark key="." line="102" column="85" />
+        <mark key="^" line="102" column="86" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" timestamp="1592313703286">
+        <mark key="'" line="148" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" timestamp="1592317117759">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="8" />
+        <mark key="^" line="13" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1592321434673">
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="115" column="21" />
+        <mark key="^" line="115" column="29" />
+        <mark key="." line="115" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/TopPlayersByHuntKillsLoader.cs" timestamp="1592321653933">
+        <mark key="'" line="29" column="85" />
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="56" />
+        <mark key="^" line="29" column="56" />
+        <mark key="." line="29" column="55" />
+      </file>
       <file name="/LeaguePlayersParser.cs" timestamp="1592314257400">
         <mark key="'" line="20" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Leauges/LeaguePlayerItem.cs" timestamp="1592309319453" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1592318468850">
-        <mark key="'" line="28" column="20" />
-        <mark key="[" line="114" column="21" />
-        <mark key="]" line="114" column="21" />
-        <mark key="^" line="114" column="29" />
-        <mark key="." line="114" column="21" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" timestamp="1592320514996">
+        <mark key="'" line="192" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" timestamp="1592321254505">
+        <mark key="'" line="94" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1592310012041">
         <mark key="'" line="2093" column="12" />
@@ -139,42 +191,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="26" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/VirtualList.cs" timestamp="1592312149733">
-        <mark key="'" line="347" column="26" />
-        <mark key="[" line="51" column="52" />
-        <mark key="]" line="51" column="53" />
-        <mark key="^" line="51" column="53" />
-        <mark key="." line="51" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueUserRow.cs" timestamp="1592313703286">
-        <mark key="'" line="148" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" timestamp="1592317117759">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="8" />
-        <mark key="^" line="13" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592319136529">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" timestamp="1592312768508">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="102" column="59" />
-        <mark key="]" line="102" column="86" />
-        <mark key="." line="102" column="85" />
-        <mark key="^" line="102" column="86" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/TopPlayersByHuntKillsLoader.cs" timestamp="1592315916155">
-        <mark key="'" line="6" column="17" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="9" column="102" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" timestamp="1592317417770">
         <mark key="'" line="86" column="15" />
         <mark key="[" line="187" column="8" />
@@ -184,21 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
-      <jump line="12" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" />
-      <jump line="42" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
-      <jump line="207" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="216" column="93" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="226" column="63" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="5" column="5" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersByRatingLoader.cs" />
-      <jump line="24" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/TopPlayersByHuntKillsLoader.cs" />
-      <jump line="14" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" />
-      <jump line="62" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
-      <jump line="8" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
-      <jump line="59" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
-      <jump line="63" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
-      <jump line="184" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
-      <jump line="64" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
       <jump line="77" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
       <jump line="147" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
       <jump line="148" column="58" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestLeagueTab.cs" />
@@ -284,51 +285,66 @@
       <jump line="131" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="134" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="28" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
+      <jump line="56" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" />
+      <jump line="126" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" />
+      <jump line="193" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" />
+      <jump line="62" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" />
+      <jump line="192" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" />
+      <jump line="102" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" />
+      <jump line="18" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="466" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="113" column="13" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="130" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="161" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="472" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="94" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserSkillWatcher.cs" />
+      <jump line="29" column="85" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/TopPlayersByHuntKillsLoader.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Format</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="-" type="4">
-        <text>Format</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJc0xvYWRpbmdcPg==</text>
+        <text>subsc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJvdGVjdGVkIG92ZXJyaWRlIGludCBQbGF5ZXJzQ29tcGFyaXNvbihUb3BQbGF5ZXIgeCwgVG9wUGxheWVyIHkpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4geC5SYXRpbmcgIT0geS5SYXRpbmcgPyB4LlJhdGluZy5Db21wYXJlVG8oeS5SYXRpbmcpIDogeC5VaWQuQ29tcGFyZVRvKHkuVWlkKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGludCBHZXRLaWxsZWRDb3VudCgpCiAgICAgICAgewogICAgICAgICAgICB2YXIgc3RvcmFnZSA9IFN0b3JhZ2UuR2V0U3RvcmFnZSgpOwogICAgICAgICAgICB2YXIgdXNlckluZm8gPSBVc2VySW5mby5HZXRVc2VySW5mbygpOwogICAgICAgICAgICB2YXIgc2tpbGwgPSBzdG9yYWdlLlZlcm1pbnRpZGVTZXR0aW5ncy5Qcm9ncmVzc1NraWxsSWQ7CiAgICAgICAgICAgIHZhciBwcm9ncmVzcyA9IHVzZXJJbmZvLkdldFNraWxsKHNraWxsLkNvZGUpPy5WYWx1ZTsKICAgICAgICAgICAgcmV0dXJuIHByb2dyZXNzOwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlJlc3BvbnNlIi5DTG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0b3JhZ2UgPSBTdG9yYWdlLkdldFN0b3JhZ2UoKTsKICAgICAgICAgICAgdmFyIHVzZXJJbmZvID0gVXNlckluZm8uR2V0VXNlckluZm8oKTsKICAgICAgICAgICAgdmFyIHNraWxsID0gc3RvcmFnZS5WZXJtaW50aWRlU2V0dGluZ3MuUHJvZ3Jlc3NTa2lsbElkOwogICAgICAgICAgICB2YXIgcHJvZ3Jlc3MgPSB1c2VySW5mby5HZXRTa2lsbChza2lsbC5Db2RlKT8uVmFsdWU7CiAgICAgICAgICAgIHJldHVybiBwcm9ncmVzczsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByb2dyZXNzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlJlc3BvbnNlIi5DTG9nKHJlc3BvbnNlKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgcmVhZG9ubHkgVXNlckluZm8gX3VzZXJJbmZvOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNTaG93aW5nTWVBbmltID0gQW5pbWF0b3IuU3RyaW5nVG9IYXNoKCJpc1Nob3dpbmdNZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgcmVhZG9ubHkgVXNlckluZm8gX3VzZXJJbmZvOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwp1c2luZyBTeXN0ZW0uQ29sbGVjdGlvbnM7CnVzaW5nIFN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljOwp1c2luZyBTeXN0ZW0uTGlucTsKdXNpbmcgQ29tbW9uLlNjaGVkdWxlcjsKdXNpbmcgSmV0QnJhaW5zLkFubm90YXRpb25zOwp1c2luZyBTZXJ2ZXJEYXRhOwp1c2luZyBTZXJ2ZXJTaWRlOwp1c2luZyBTZXJ2ZXJTaWRlLlRvcFBsYXllcnM7CnVzaW5nIFVJLlNjcmVlbnMuQmFzZU1pc3Npb247CnVzaW5nIFVJLlNjcmVlbnMuRmlnaHRMb2FkaW5nUHZwOwp1c2luZyBVSUV4dGVuc2lvbi5Db250cm9sbGVyczsKdXNpbmcgVUlFeHRlbnNpb24uTW9ubzsKdXNpbmcgVW5pdHlFbmdpbmU7CnVzaW5nIFVuaXR5RW5naW5lLlVJOwp1c2luZyBZYXJ4LkV4dGVudGlvbnM7CgpuYW1lc3BhY2UgVUkuU2NyZWVucy5MZWFndWVTY3JlZW4KewogICAgcHVibGljIGFic3RyYWN0IGNsYXNzIEJlc3RQbGF5ZXJzQ29tbW9uU2NyZWVuIDogVmlydHVhbExpc3QKICAgIHsKICAgICAgICBbU2VyaWFsaXphYmxlXQogICAgICAgIHB1YmxpYyBjbGFzcyBTZWxmSW5mbwogICAgICAgIHsKICAgICAgICAgICAgcHVibGljIExpc3Q8SW1hZ2U+IERpZ2l0SW1hZ2VzOwogICAgICAgICAgICBwdWJsaWMgSW1hZ2UgQXZhdGFyOwogICAgICAgICAgICBwdWJsaWMgVGV4dCBSYXRpbmc7CiAgICAgICAgICAgIHB1YmxpYyBUZXh0IE5hbWU7CiAgICAgICAgICAgIHB1YmxpYyBJbWFnZSBGbGFnOwogICAgICAgICAgICBwdWJsaWMgUmVjdFRyYW5zZm9ybSBUcmFuc2Zvcm07CiAgICAgICAgICAgIHB1YmxpYyBHYW1lT2JqZWN0IFByZW1pdW07CiAgICAgICAgICAgIHB1YmxpYyBDbGFuSW5mb0xhYmVsIENsYW5JbmZvTGFiZWw7CiAgICAgICAgfQoKICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBTZWxmSW5mbyBfc2VsZkluZm87CgogICAgICAgIFtTZXJpYWxpemVGaWVsZF0KICAgICAgICBwcml2YXRlIExlYWd1ZUljb25zIF9sZWFndWVEaWdpdFNldHRpbmdzOwoKICAgICAgICBwcm90ZWN0ZWQgaW50IF9zZWxmSW5kZXg7CiAgICAgICAgcHJvdGVjdGVkIGludCBfcHJldlNlbGZJbmRleDsKICAgICAgICBwcm90ZWN0ZWQgU3RvcmFnZSBfc3RvcmFnZTsKICAgICAgICBwcm90ZWN0ZWQgVXNlckluZm8gX3VzZXJJbmZvOwoKICAgICAgICBwcm90ZWN0ZWQgYWJzdHJhY3QgVG9wUGxheWVyc0xvYWRlciBHZXRMb2FkZXIoKTsKICAgICAgICBwcm90ZWN0ZWQgYWJzdHJhY3QgaW50IEdldFNlbGZNZXRyaWMoKTsKCiAgICAgICAgcHJpdmF0ZSBBbmltYXRvciBfYW5pbWF0b3I7CgogICAgICAgIHByb3RlY3RlZCBvdmVycmlkZSB2b2lkIEF3YWtlKCkKICAgICAgICB7CiAgICAgICAgICAgIF9hbmltYXRvciA9IF9hbmltYXRvciA/IF9hbmltYXRvciA6IChfYW5pbWF0b3IgPSBHZXRDb21wb25lbnQ8QW5pbWF0b3I+KCkpOwogICAgICAgICAgICBfdXNlckluZm8gPSBfdXNlckluZm8gPz8gKF91c2VySW5mbyA9IFVzZXJJbmZvLkdldFVzZXJJbmZvKCkpOwogICAgICAgICAgICBfc3RvcmFnZSA9IF9zdG9yYWdlID8/IChfc3RvcmFnZSA9IFN0b3JhZ2UuR2V0U3RvcmFnZSgpKTsKCiAgICAgICAgICAgIGJhc2UuQXdha2UoKTsKICAgICAgICB9CgogICAgICAgIHByb3RlY3RlZCB2aXJ0dWFsIHZvaWQgT25FbmFibGUoKQogICAgICAgIHsKICAgICAgICAgICAgX3VzZXJJbmZvID0gX3VzZXJJbmZvID8/IChfdXNlckluZm8gPSBVc2VySW5mby5HZXRVc2VySW5mbygpKTsKICAgICAgICAgICAgX3VzZXJJbmZvLlByZW1pdW1JbmZvLklzQWN0aXZlLlN1YnNjcmliZSh2YWx1ZSA9PiBfc2VsZkluZm8uUHJlbWl1bS5TZXRBY3RpdmUodmFsdWUpKS5XaGlsZUVuYWJsZWQodGhpcyk7CiAgICAgICAgICAgIEdldExvYWRlcigpLkxpdmVSZWxvYWRTdGFydCgpOwogICAgICAgIH0KCiAgICAgICAgcHJvdGVjdGVkIG92ZXJyaWRlIHZvaWQgVXBkYXRlSXRlbShHYW1lT2JqZWN0IGdvLCBvYmplY3QgZGF0YSkKICAgICAgICB7CiAgICAgICAgICAgIGdvLkdldENvbXBvbmVudDxMZWFndWVVc2VyUm93PigpLkluaXQoZGF0YSBhcyBUb3BQbGF5ZXIpOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSB2b2lkIFVwZGF0ZVNlbGZJbmZvKCkKICAgICAgICB7CiAgICAgICAgICAgIF9zZWxmSW5mby5BdmF0YXIuc3ByaXRlID0gX3N0b3JhZ2UuQXZhdGFyc1tfdXNlckluZm8uQXZhdGFySWQuQ3VycmVudFZhbHVlXS5Mb2FkU3ByaXRlKCk7CiAgICAgICAgICAgIF9zZWxmSW5mby5OYW1lLnRleHQgPSBfdXNlckluZm8uTmFtZS5DdXJyZW50VmFsdWU7CiAgICAgICAgICAgIF9zZWxmSW5mby5GbGFnLnNwcml0ZSA9IEZsYWdVdGlscy5HZXRGbGFnU3ByaXRlKF91c2VySW5mby5Db3VudHJ5LkN1cnJlbnRWYWx1ZSk7CiAgICAgICAgICAgIF9zZWxmSW5mby5SYXRpbmcudGV4dCA9IEdldFNlbGZNZXRyaWMoKS5Ub1N0cmluZygpOwogICAgICAgICAgICBfc2VsZkluZm8uQ2xhbkluZm9MYWJlbC5Jbml0aWFsaXplKF91c2VySW5mby5DbGFuSW5mby5Jc0luQ2xhbi5DdXJyZW50VmFsdWUgPyBfdXNlckluZm8uQ2xhbkluZm8gOiBudWxsKTsKICAgICAgICAgICAgX2xlYWd1ZURpZ2l0U2V0dGluZ3MuU2V0UGxhY2VEaWdpdHMoX3NlbGZJbmRleCArIDEsIF9zZWxmSW5mby5EaWdpdEltYWdlcyk7CgogICAgICAgICAgICB2YXIgY291bnRJblRvcCA9IFN0b3JhZ2UuR2V0U3RvcmFnZSgpLkxlYWd1ZXNTZXR0aW5ncy5Db3VudFBsYXllckluVG9wTGlzdDsKICAgICAgICAgICAgX2FuaW1hdG9yLlNldEJvb2woImlzU2hvd2luZ01lIiwgX3NlbGZJbmRleCA+PSAwICYmIF9zZWxmSW5kZXggPD0gY291bnRJblRvcCk7CiAgICAgICAgfQoKICAgICAgICBwcm90ZWN0ZWQgdm9pZCBTaG93V2l0aExvYWRlcigpCiAgICAgICAgewogICAgICAgICAgICBfYW5pbWF0b3IuU2V0Qm9vbCgiaXNTaG93aW5nTWUiLCBmYWxzZSk7CgogICAgICAgICAgICBHZXRMb2FkZXIoKS5SZWxvYWRJZk5lZWQoKTsKICAgICAgICAgICAgaWYgKEdldExvYWRlcigpLklzTG9hZGVkKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBTaG93Q29udGVudCgpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CgogICAgICAgICAgICBMb2FkZXJTY3JlZW5Db250cm9sbGVyLlNob3dMb2FkZXIodGhpcyk7CgogICAgICAgICAgICBTdGFydENvcm91dGluZShXYWl0Rm9yTG9hZGVkKCkpOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBJRW51bWVyYXRvciBXYWl0Rm9yTG9hZGVkKCkKICAgICAgICB7CiAgICAgICAgICAgIHdoaWxlIChHZXRMb2FkZXIoKS5Jc0xvYWRpbmcpIHlpZWxkIHJldHVybiBudWxsOwoKICAgICAgICAgICAgTG9hZGVyU2NyZWVuQ29udHJvbGxlci5IaWRlTG9hZGVyKHRoaXMpOwogICAgICAgICAgICBTaG93Q29udGVudCgpOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSB2b2lkIFNob3dDb250ZW50KCkKICAgICAgICB7CiAgICAgICAgICAgIC8vIGRpcnR5IGhhY2sgdG8gcHJldmVudCBibGlua2luZyBvZiBpdGVtcyBhbmQgZml4IHRyb3VibGVzIHdpdGggY2hhbmdpbmcgdGFicwogICAgICAgICAgICAvLyAoaXRlbXMgd2FzIGluIHdyb25nIHBvc2l0aW9uLCBvciB3YXMgaW52aXNpYmxlIGFuZCBldGMpCiAgICAgICAgICAgIHZhciBpbnZpc2libGVPZmZzZXQgPSBuZXcgVmVjdG9yMygxMDAwMCwgMCwgMCk7CiAgICAgICAgICAgIFNjcm9sbFJlY3QucG9zaXRpb24gKz0gaW52aXNpYmxlT2Zmc2V0OwogICAgICAgICAgICBTZXRQb3NpdGlvbigwKTsKICAgICAgICAgICAgVXBkYXRlQ29udGVudCgpOwoKICAgICAgICAgICAgdmFyIGFjdGlvbiA9IFNjaGVkdWxlZEFjdGlvbkZhY3RvcnkuQ3JlYXRlTmV4dEZyYW1lQWN0aW9uKCgpID0+CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFNjcm9sbFJlY3QucG9zaXRpb24gLT0gaW52aXNpYmxlT2Zmc2V0OwoKICAgICAgICAgICAgICAgIEp1bXBUb0l0ZW1DZW50ZXIoMCk7CgogICAgICAgICAgICAgICAgR2V0Q29tcG9uZW50PExpc3RJdGVtc01vdmVtZW50PigpLlBlcmZvcm1Nb3ZlbWVudChDdWxsVmlzaWJsZUl0ZW1zKCksICgpID0+CiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgZm9yZWFjaCAodmFyIGNoaWxkVHJhbnNmb3JtIGluIFZpc2libGVJdGVtc1RyYW5zZm9ybSkKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBjYW52YXNHcm91cCA9IGNoaWxkVHJhbnNmb3JtLkdldENvbXBvbmVudDxDYW52YXNHcm91cD4oKTsKCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChjYW52YXNHcm91cCAhPSBudWxsKQogICAgICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYW52YXNHcm91cC5hbHBoYSA9IDFmOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICBTY3JvbGxSZWN0LkdldENvbXBvbmVudDxTY3JvbGxSZWN0U25hcD4oKS5SZXNldE9uRW5hYmxlID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgU2V0UG9zaXRpb24oMCk7CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIENvbW1hbmRzU3RyZWFtcy5NYWluLk9uTmV4dChTY2hlZHVsZXJCZWhhdmlvdXIuRVZFTlRfU0NIRURVTEVfQUNUSU9OLCBhY3Rpb24pOwogICAgICAgIH0KCiAgICAgICAgcHJpdmF0ZSBJRW51bWVyYWJsZSBDdWxsVmlzaWJsZUl0ZW1zKCkKICAgICAgICB7CiAgICAgICAgICAgIHZhciB2aWV3cG9ydFJlY3QgPSBHZXRXb3JsZFJlY3QoU2Nyb2xsUmVjdC5HZXRDb21wb25lbnQ8U2Nyb2xsUmVjdD4oKS52aWV3cG9ydCk7CgogICAgICAgICAgICByZXR1cm4gVmlzaWJsZUl0ZW1zVHJhbnNmb3JtCiAgICAgICAgICAgICAgICAuV2hlcmUoaXRlbSA9PgogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgIHZhciBpdGVtUmVjdCA9IEdldFdvcmxkUmVjdChpdGVtLkdldENvbXBvbmVudDxSZWN0VHJhbnNmb3JtPigpKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmlld3BvcnRSZWN0Lk92ZXJsYXBzKGl0ZW1SZWN0KTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAuT3JkZXJCeURlc2NlbmRpbmcoaXRlbSA9PiBpdGVtLmxvY2FsUG9zaXRpb24ueSk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIFJlY3QgR2V0V29ybGRSZWN0KFJlY3RUcmFuc2Zvcm0gcmVjdFRyYW5zZm9ybSkKICAgICAgICB7CiAgICAgICAgICAgIFZlY3RvcjNbXSB3b3JsZENvcm5lcnMgPSBuZXcgVmVjdG9yM1s0XTsKICAgICAgICAgICAgcmVjdFRyYW5zZm9ybS5HZXRXb3JsZENvcm5lcnMod29ybGRDb3JuZXJzKTsKICAgICAgICAgICAgcmV0dXJuIFJlY3QuTWluTWF4UmVjdCh3b3JsZENvcm5lcnNbMF0ueCwgd29ybGRDb3JuZXJzWzBdLnksIHdvcmxkQ29ybmVyc1syXS54LCB3b3JsZENvcm5lcnNbMl0ueSk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHZvaWQgVXBkYXRlQ29udGVudCgpCiAgICAgICAgewogICAgICAgICAgICBVcGRhdGVBZGFwdGVyRGF0YVdpdGhMZWFndWVMaXN0KCk7CiAgICAgICAgICAgIFVwZGF0ZVNlbGZJbmZvKCk7CiAgICAgICAgfQoKICAgICAgICBwcml2YXRlIHZvaWQgVXBkYXRlQWRhcHRlckRhdGFXaXRoTGVhZ3VlTGlzdCgpCiAgICAgICAgewogICAgICAgICAgICBfc2VsZkluZGV4ID0gR2V0TG9hZGVyKCkuU2VsZlBsYWNlOwogICAgICAgICAgICBTZXRBZGFwdGVyKG5ldyBMZWFndWVSb3dEYXRhQWRhcHRlcihHZXRMb2FkZXIoKS5Tb3J0ZWRQbGF5ZXJzLlRvTGlzdCgpKSk7CiAgICAgICAgfQoKICAgICAgICBbVXNlZEltcGxpY2l0bHldCiAgICAgICAgcHVibGljIHZvaWQgT25TZWxmUm93Q2xpY2soKQogICAgICAgIHsKICAgICAgICAgICAgSnVtcFRvSXRlbUNlbnRlcihfc2VsZkluZGV4KTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNTaG93aW5nTWVBbmltID0gQW5pbWF0b3IuU3RyaW5nVG9IYXNoKCJpc1Nob3dpbmdNZSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -337,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxJc0xvYWRpbmdcPg==</last-search>
+      <last-search>subsc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJc0xvYWRpbmdcPg==</last-pattern>
+      <last-pattern>subsc</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
