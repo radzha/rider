@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBdHRlbXB0c1BlckRheVw+</entry>
         <entry encoding="base64">XDxfc2tpbGxMaXN0XD4=</entry>
         <entry>subsc</entry>
         <entry>clog</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxSZXdhcmRQcmVjaXNlXD4=</entry>
         <entry>main</entry>
         <entry encoding="base64">XDxfa2lsbEZvck1haW5SZXdhcmRcPg==</entry>
+        <entry>getbase</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -122,10 +122,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592407529225">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="33" />
-        <mark key="." line="20" column="32" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592465624215">
+        <mark key="'" line="28" column="30" />
+        <mark key="[" line="87" column="11" />
+        <mark key="]" line="87" column="12" />
+        <mark key="." line="87" column="12" />
         <mark key="^" line="20" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanKickWarnPopup.cs" timestamp="1592386743190">
@@ -137,9 +138,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/TimeManager.cs" timestamp="1592405244675">
         <mark key="'" line="13" column="17" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592400237984">
         <mark key="'" line="150" column="31" />
@@ -164,10 +165,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Responces/BonusLogInfo.cs" timestamp="1592397350162">
         <mark key="'" line="110" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592405330238">
+      <file name="/Dummy.txt" timestamp="1592409176720">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1592401633431">
         <mark key="[" line="436" column="0" />
@@ -212,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="29" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="153" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="6" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/TopPlayersByHuntKillsLoader.cs" />
       <jump line="14" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="154" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
@@ -312,6 +311,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
       <jump line="38" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
       <jump line="92" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="28" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +324,7 @@
         <text>!shouldShowHasArmor);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfa2lsbEZvck1haW5SZXdhcmRcPg==</text>
+        <text>getbase</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">a2lsbHNGb3JNYWluUmV3YXJkIA==</text>
@@ -365,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfa2lsbEZvck1haW5SZXdhcmRcPg==</last-search>
+      <last-search>getbase</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfa2lsbEZvck1haW5SZXdhcmRcPg==</last-pattern>
+      <last-pattern>getbase</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
