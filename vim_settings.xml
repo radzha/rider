@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>manager</entry>
-        <entry encoding="base64">XDxfZmlyc3RVbnJlYWRcPg==</entry>
         <entry>jumptol</entry>
         <entry encoding="base64">XDxfbGFzdFBvc2l0aW9uXD4=</entry>
         <entry>adsf</entry>
@@ -27,6 +25,8 @@
         <entry>impor</entry>
         <entry encoding="base64">XDxJc0ltcG9ydGFudFN5c3RlbU1lc3NhZ2VcPg==</entry>
         <entry>ishun</entry>
+        <entry encoding="base64">XDxHTE9XX1BBUlRJQ0xFX0JPT0xcPg==</entry>
+        <entry encoding="base64">XDxQcmV2UmVjdXJyaW5nVGhyZXNob2xkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,13 +100,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" timestamp="1592408521956">
-        <mark key="'" line="93" column="12" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="120" column="71" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592493562117">
         <mark key="'" line="189" column="63" />
         <mark key="[" line="87" column="11" />
@@ -114,12 +107,12 @@
         <mark key="." line="87" column="12" />
         <mark key="^" line="20" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592556119863">
-        <mark key="'" line="174" column="64" />
-        <mark key="[" line="162" column="33" />
-        <mark key="]" line="163" column="12" />
-        <mark key="." line="163" column="11" />
-        <mark key="^" line="163" column="12" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592563214770">
+        <mark key="'" line="17" column="25" />
+        <mark key="[" line="180" column="41" />
+        <mark key="]" line="180" column="63" />
+        <mark key="." line="180" column="62" />
+        <mark key="^" line="180" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChatNotifier.cs" timestamp="1592478751260">
         <mark key="[" line="215" column="46" />
@@ -160,8 +153,11 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1592558324695">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanSettingsScreen.cs" timestamp="1592466385585">
-        <mark key="'" line="10" column="52" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardsProgressScreen.cs" timestamp="1592563035387">
+        <mark key="[" line="95" column="45" />
+        <mark key="]" line="95" column="60" />
+        <mark key="." line="95" column="59" />
+        <mark key="^" line="95" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/ColorLogUtils.cs" timestamp="1592479354507">
         <mark key="[" line="132" column="27" />
@@ -174,6 +170,9 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1592556872760">
         <mark key="'" line="51" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonRewardStateController.cs" timestamp="1592559589207">
+        <mark key="'" line="13" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1592559413800">
         <mark key="[" line="177" column="27" />
@@ -197,9 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="43" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="165" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="260" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="266" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="359" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="59" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -297,21 +293,24 @@
       <jump line="174" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="51" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
+      <jump line="13" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonRewardStateController.cs" />
+      <jump line="19" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="17" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ServerData.</text>
+        <text>RoundsCompleted</text>
       </register>
       <register name="-" type="4">
-        <text>ServerData.</text>
+        <text>RoundsCompleted</text>
       </register>
       <register name="/" type="4">
-        <text>ishun</text>
+        <text encoding="base64">XDxQcmV2UmVjdXJyaW5nVGhyZXNob2xkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgSXRlbS5QaWVjZUl0ZW0uUGllY2VCdXR0b25UYXJnZXRzRS5TZWFzc29uc1JhdGluZzoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gU3RvcmFnZS5HZXRTdG9yYWdlKCkuR2V0UGhyYXNlKCJHZXRfSW5fU2Vhc29uIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRQYXJhbSgiUm91bmRzIGNvbXBsZXRlZCIsIFJvdW5kc0NvbXBsZXRlZCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgSXRlbS5QaWVjZUl0ZW0uUGllY2VCdXR0b25UYXJnZXRzRS5IdW50Ogo=</text>
@@ -350,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ishun</last-search>
+      <last-search encoding="base64">XDxQcmV2UmVjdXJyaW5nVGhyZXNob2xkXD4=</last-search>
       <last-offset />
-      <last-pattern>ishun</last-pattern>
+      <last-pattern encoding="base64">XDxQcmV2UmVjdXJyaW5nVGhyZXNob2xkXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
