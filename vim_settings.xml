@@ -100,12 +100,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592493562117">
-        <mark key="'" line="189" column="63" />
-        <mark key="[" line="87" column="11" />
-        <mark key="]" line="87" column="12" />
-        <mark key="." line="87" column="12" />
-        <mark key="^" line="20" column="33" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" timestamp="1592566682155">
+        <mark key="'" line="93" column="12" />
+        <mark key="[" line="89" column="69" />
+        <mark key="]" line="89" column="69" />
+        <mark key="." line="89" column="69" />
+        <mark key="^" line="120" column="71" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" timestamp="1592566667101">
+        <mark key="'" line="168" column="12" />
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="48" />
+        <mark key="." line="59" column="47" />
+        <mark key="^" line="59" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592563214770">
         <mark key="'" line="17" column="25" />
@@ -130,9 +137,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" timestamp="1592553833121">
         <mark key="'" line="205" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Clan/ClanInfo.cs" timestamp="1592471650988">
-        <mark key="'" line="29" column="37" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessagesNewnessManager.cs" timestamp="1592474836677" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" timestamp="1592478733087">
         <mark key="'" line="88" column="48" />
@@ -145,10 +149,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/OtherClanInfoScreen.cs" timestamp="1592466511691">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="217" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1592558324695">
         <mark key="'" line="0" column="0" />
@@ -170,6 +170,12 @@
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1592556872760">
         <mark key="'" line="51" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/NextRewardInfo.cs" timestamp="1592566608107">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonRewardStateController.cs" timestamp="1592559589207">
         <mark key="'" line="13" column="29" />
@@ -196,8 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
-      <jump line="359" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="59" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="209" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="58" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -296,15 +300,17 @@
       <jump line="13" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonRewardStateController.cs" />
       <jump line="19" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="17" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="165" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/NextRewardInfo.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>RoundsCompleted</text>
+        <text>NeedToKill.</text>
       </register>
       <register name="-" type="4">
-        <text>RoundsCompleted</text>
+        <text>NeedToKill.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQcmV2UmVjdXJyaW5nVGhyZXNob2xkXD4=</text>
@@ -313,34 +319,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRQYXJhbSgiUm91bmRzIGNvbXBsZXRlZCIsIFJvdW5kc0NvbXBsZXRlZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgSXRlbS5QaWVjZUl0ZW0uUGllY2VCdXR0b25UYXJnZXRzRS5IdW50Ogo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX25lZWRUb0tpbGwgPSBuZWVkVG9LaWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Jld2FyZCA9IHJld2FyZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IFZlcm1pbnRpZGVSZXdhcmRzLlZlcm1pbnRpZGVSZXdhcmRSb3cgX3Jld2FyZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXNCYXNlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHJlYWRvbmx5IGludCBfbmVlZFRvS2lsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5BZGRQYXJhbSgiUmV3YXJkcyB0YWtlbiIsIHN0cmluZy5Kb2luKCIsICIsIFJld2FyZHNUYWtlbikpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmVlZFRvS2lsbCA9IG5lZWRUb0tpbGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmV3YXJkID0gcmV3YXJkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g0JXRgdC70LggCg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgaW50IE5lZWRUb0tpbGw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgVmVybWludGlkZVJld2FyZHMuVmVybWludGlkZVJld2FyZFJvdyBSZXdhcmQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJvdW5kc0NvbXBsZXRlZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
