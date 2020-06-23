@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3VuZFN0YXJ0XD4=</entry>
         <entry encoding="base64">XDxSZXdhcmRzVGFrZW5cPg==</entry>
         <entry encoding="base64">XDxDbGFuUG9saWN5XD4=</entry>
         <entry encoding="base64">XDxQbGF5ZXJzQ29tcGFyZXJcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxJc0Jhc2VcPg==</entry>
         <entry encoding="base64">XDxfY3VycmVudFJhdGluZ1w+</entry>
         <entry encoding="base64">XDxfcmF0aW5nUG9pbnRlclw+</entry>
+        <entry>usedim</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -117,12 +117,6 @@
         <mark key="." line="91" column="94" />
         <mark key="^" line="91" column="95" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersByRatingLoader.cs" timestamp="1592819544470">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="28" column="8" />
-        <mark key="." line="26" column="19" />
-        <mark key="^" line="28" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" timestamp="1592841869346">
         <mark key="'" line="87" column="12" />
       </file>
@@ -159,16 +153,22 @@
         <mark key="^" line="20" column="41" />
         <mark key="." line="145" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/IRatingSeasonReward.cs" timestamp="1592842693537">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="35" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ClanChatNotifier.cs" timestamp="1592899575757">
+        <mark key="[" line="253" column="16" />
+        <mark key="]" line="253" column="17" />
+        <mark key="^" line="253" column="17" />
+        <mark key="." line="253" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592839828008">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/IRatingSeasonReward.cs" timestamp="1592842748174">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592842716180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueIcon.cs" timestamp="1592821397432" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" timestamp="1592832527503">
@@ -198,6 +198,13 @@
         <mark key="." line="62" column="122" />
         <mark key="^" line="62" column="123" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1592899560324">
+        <mark key="'" line="506" column="0" />
+        <mark key="[" line="523" column="54" />
+        <mark key="]" line="523" column="72" />
+        <mark key="." line="523" column="71" />
+        <mark key="^" line="523" column="72" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" timestamp="1592819612062">
         <mark key="[" line="49" column="31" />
         <mark key="]" line="49" column="46" />
@@ -206,12 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
-      <jump line="174" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
-      <jump line="51" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" />
-      <jump line="13" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonRewardStateController.cs" />
-      <jump line="19" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="17" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/NextRewardInfo.cs" />
       <jump line="84" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntHelper.cs" />
@@ -306,51 +307,57 @@
       <jump line="252" column="130" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" />
       <jump line="46" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" />
       <jump line="87" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" />
+      <jump line="25" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="581" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="549" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="543" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="537" column="9" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="506" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluUmF0aW5nLkNMb2dSZWQobWF4UmF0aW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmF0aXZlS2V5Ym9hcmRNYW5hZ2VyLktleWJvYXJkLlN0YXRlLkNMb2coKTsK</text>
       </register>
       <register name="-" type="4">
         <text>var</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmF0aW5nUG9pbnRlclw+</text>
+        <text>usedim</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUHJldlJlY3VycmluZ1RocmVzaG9sZCA9IEpzb25VdGlscy5Kc29uR2V0SW50QWx3YXlzKCJwcmV2UmVjdXJyaW5nVGhyZXNob2xkIiwgaHVudERpY3QsIDApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluUmF0aW5nLkNMb2dSZWQobWF4UmF0aW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTmF0aXZlS2V5Ym9hcmRNYW5hZ2VyLktleWJvYXJkLlN0YXRlLkNMb2coKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWluUmF0aW5nID0gbWluUmF0aW5nID8/IFByZXZSZXdhcmQ/Lk1heFJhdGluZyA/PyAwOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uTWluUmF0aW5nID0gc3RhcnRUaHJlc2hvbGQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSXNCYXNlID0gUm91bmQgPT0gMDsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWluUmF0aW5nLkNMb2dSZWQobWF4UmF0aW5nKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWluUmF0aW5nID0gbWluUmF0aW5nID8/IFByZXZSZXdhcmQ/Lk1heFJhdGluZyA/PyAwOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0ZW0uTWluUmF0aW5nID0gc3RhcnRUaHJlc2hvbGQ7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -359,12 +366,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfcmF0aW5nUG9pbnRlclw+</last-search>
+      <last-search>usedim</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmF0aW5nUG9pbnRlclw+</last-pattern>
+      <last-pattern>usedim</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
