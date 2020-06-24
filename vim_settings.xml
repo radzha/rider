@@ -103,6 +103,11 @@
       <file name="/ClanFeaturesScreen.cs" timestamp="1592994420685">
         <mark key="'" line="26" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Advertisement/VideoAdController.cs" timestamp="1593010062162">
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592922327952">
         <mark key="'" line="16" column="24" />
         <mark key="[" line="145" column="32" />
@@ -131,11 +136,6 @@
         <mark key="]" line="38" column="20" />
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" timestamp="1592905431053">
-        <mark key="'" line="101" column="12" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1592917300017">
         <mark key="'" line="33" column="37" />
@@ -174,10 +174,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/BattleHUD/ScreenManager.cs" timestamp="1593001751468">
         <mark key="'" line="379" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592992557235">
+      <file name="/Dummy.txt" timestamp="1593009086704">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/LeaguesSettings.cs" timestamp="1592917509116" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" timestamp="1593009035342">
@@ -317,8 +317,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>enable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoSXJvblNvdXJjZS5BZ2VudC5pc1Jld2FyZGVkVmlkZW9BdmFpbGFibGUoKSkK</text>
       </register>
       <register name="-" type="4">
         <text>enable</text>
@@ -330,34 +330,34 @@
         <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlJlYmluZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImlzbG9hZGVkIi5BZGRQYXJhbSghZW5hYmxlKS5BZGRQYXJhbShfYW5pbWF0b3IuR2V0Qm9vbChJc0xvYWRlZEFuaW0pKS5BZGRQYXJhbShfYW5pbWF0b3IuZ2FtZU9iamVjdC5hY3RpdmVTZWxmKS5BZGRQYXJhbShfYW5pbWF0b3IuZ2FtZU9iamVjdC5hY3RpdmVJbkhpZXJhcmNoeSkuQ0xvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZSBpZiAoSXJvblNvdXJjZS5BZ2VudC5pc1Jld2FyZGVkVmlkZW9BdmFpbGFibGUoKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlJlYmluZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgImlzbG9hZGVkIi5BZGRQYXJhbSghZW5hYmxlKS5BZGRQYXJhbShfYW5pbWF0b3IuR2V0Qm9vbChJc0xvYWRlZEFuaW0pKS5BZGRQYXJhbShfYW5pbWF0b3IuZ2FtZU9iamVjdC5hY3RpdmVTZWxmKS5BZGRQYXJhbShfYW5pbWF0b3IuZ2FtZU9iamVjdC5hY3RpdmVJbkhpZXJhcmNoeSkuQ0xvZygpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlJlYmluZCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2FuaW1hdG9yLlJlYmluZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVXRpbHMuV2FpdE9uZUZyYW1lKCkuVGhlbigoKSA9PiBTd2l0Y2hMb2FkZXIoZmFsc2UpKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVXRpbHMuV2FpdE9uZUZyYW1lKCkuVGhlbigoKSA9PiBTd2l0Y2hMb2FkZXIoZmFsc2UpKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3dpdGNoTG9hZGVyKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNsYW5zSW5mb3MgPSBuZXcgQ2xhbnNJbmZvcyhvdXRwdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3dpdGNoTG9hZGVyKGZhbHNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0LkxvZygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNsYW5zSW5mb3MgPSBuZXcgQ2xhbnNJbmZvcyhvdXRwdXQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
