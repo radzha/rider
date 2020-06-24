@@ -113,10 +113,12 @@
         <mark key="]" line="146" column="87" />
       </file>
       <file name="/ClanFeaturesScreen.cs" timestamp="1592912710201" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1592989320199">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1592990247413">
+        <mark key="'" line="218" column="47" />
+        <mark key="[" line="221" column="44" />
+        <mark key="]" line="221" column="52" />
+        <mark key="^" line="221" column="52" />
+        <mark key="." line="221" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" timestamp="1592922327952">
         <mark key="'" line="16" column="24" />
@@ -210,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="69" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Metaprojects/UserMetaprojectInfo.cs" />
       <jump line="94" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Metaprojects/UserMetaprojectInfo.cs" />
@@ -310,51 +311,52 @@
       <jump line="95" column="18" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
       <jump line="147" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
       <jump line="16" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/HuntInfo.cs" />
+      <jump line="216" column="47" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_enemyBaseInfo.ClanInfo</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>_enemyBaseInfo.ClanInfo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMYXN0UmVzZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBbU2VyaWFsaXplRmllbGRdCiAgICAgICAgcHJpdmF0ZSBUZXh0IF9jbGFuVGl0bGU7CiAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNFeHBsb3JlZEFuaW0gPSBBbmltYXRvci5TdHJpbmdUb0hhc2goImlzSGF2ZVNweSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNFeHBsb3JlZEFuaW0gPSBBbmltYXRvci5TdHJpbmdUb0hhc2goImlzSGF2ZVNweSIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNFeHBsb3JlZEFuaW0gPSBBbmltYXRvci5TdHJpbmdUb0hhc2goImlzSGF2ZVNweSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNpbmcgVUkuU2NyZWVucy5IZWxpY29wdGVyczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyByZWFkb25seSBpbnQgSXNMb2FkaW5nQW5pbSA9IEFuaW1hdG9yLlN0cmluZ1RvSGFzaCgiaXNMb2FkaW5nIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IE5vdEltcGxlbWVudGVkRXhjZXB0aW9uKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3dpdGNoTG9hZGVyKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3dpdGNoTG9hZGVyKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3dpdGNoTG9hZGVyKGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgU3dpdGNoTG9hZGVyKGJvb2wgZW5hYmxlKQogICAgICAgIHsKICAgICAgICAgICAgX2FuaW1hdG9yLlNldEJvb2woSXNMb2FkaW5nQW5pbSwgZW5hYmxlKTsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
