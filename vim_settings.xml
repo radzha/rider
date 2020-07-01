@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxJc0xvYWRpbmdBbmltXD4=</entry>
         <entry encoding="base64">XDxTd2l0Y2hMb2FkZXJcPg==</entry>
         <entry encoding="base64">XDxJc0xvYWRlZEFuaW1cPg==</entry>
         <entry>clan</entry>
@@ -27,6 +26,7 @@
         <entry>Log</entry>
         <entry>req</entry>
         <entry encoding="base64">XDxWRUxPQ0lUWV9FUFNcPg==</entry>
+        <entry encoding="base64">XDxfbG9hZGVkVGltZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,29 +100,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1593077648745">
-        <mark key="]" line="1832" column="24" />
-        <mark key="^" line="1832" column="24" />
-        <mark key="." line="1832" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" timestamp="1593511284808">
-        <mark key="[" line="237" column="109" />
-        <mark key="]" line="238" column="31" />
-        <mark key="^" line="238" column="31" />
-        <mark key="." line="238" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1593516239672">
-        <mark key="'" line="56" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/NextFightAnimation/NextFightAnimationController.cs" timestamp="1593515326817">
-        <mark key="[" line="111" column="13" />
-        <mark key="]" line="112" column="28" />
-        <mark key="^" line="112" column="28" />
-        <mark key="." line="112" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1593078286395">
-        <mark key="'" line="1212" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593515955050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="105" column="0" />
@@ -134,7 +111,11 @@
         <mark key="." line="387" column="58" />
         <mark key="^" line="387" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/ConsoleE/Editor/ConsoleE_TabSettings" timestamp="1593516006095" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/Unit.cs" timestamp="1593077648745">
+        <mark key="]" line="1832" column="24" />
+        <mark key="^" line="1832" column="24" />
+        <mark key="." line="1832" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" timestamp="1593092550022">
         <mark key="'" line="162" column="48" />
       </file>
@@ -145,6 +126,15 @@
         <mark key="." line="184" column="67" />
         <mark key="^" line="184" column="68" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" timestamp="1593511284808">
+        <mark key="[" line="237" column="109" />
+        <mark key="]" line="238" column="31" />
+        <mark key="^" line="238" column="31" />
+        <mark key="." line="238" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" timestamp="1593516239672">
+        <mark key="'" line="56" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" timestamp="1593092794258">
         <mark key="'" line="18" column="28" />
       </file>
@@ -153,6 +143,18 @@
         <mark key="]" line="253" column="97" />
         <mark key="." line="253" column="96" />
         <mark key="^" line="253" column="97" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/NextFightAnimation/NextFightAnimationController.cs" timestamp="1593515326817">
+        <mark key="[" line="111" column="13" />
+        <mark key="]" line="112" column="28" />
+        <mark key="^" line="112" column="28" />
+        <mark key="." line="112" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1593518505792">
+        <mark key="'" line="62" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" timestamp="1593078286395">
+        <mark key="'" line="1212" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" timestamp="1593079199636">
         <mark key="[" line="3" column="0" />
@@ -179,16 +181,14 @@
         <mark key="." line="502" column="0" />
         <mark key="^" line="524" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightLoadingPvp/CountryCodesHelper.cs" timestamp="1593074224485">
-        <mark key="'" line="58" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" timestamp="1593078268248">
         <mark key="'" line="192" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" timestamp="1593517918685">
+        <mark key="'" line="91" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="33" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="106" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="87" column="23" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="57" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="89" column="91" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -287,6 +287,8 @@
       <jump line="18" column="28" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" />
       <jump line="151" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/BaseEventScreensController.cs" />
       <jump line="56" column="17" filename="$USER_HOME$/Documents/svn/test/unity/Assets/Scripts/UI/ConsoleManager.cs" />
+      <jump line="91" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" />
+      <jump line="62" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,7 +300,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWRUxPQ0lUWV9FUFNcPg==</text>
+        <text encoding="base64">XDxfbG9hZGVkVGltZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIjIiLkNMb2coKTsK</text>
@@ -340,13 +342,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxWRUxPQ0lUWV9FUFNcPg==</last-search>
+      <last-search encoding="base64">XDxfbG9hZGVkVGltZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWRUxPQ0lUWV9FUFNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxfbG9hZGVkVGltZVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
