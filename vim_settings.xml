@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2FkVG9wQ2xhbnNcPg==</entry>
-        <entry encoding="base64">XDxSZWJpbmRcPg==</entry>
         <entry>click</entry>
         <entry>usedi</entry>
         <entry>adap</entry>
@@ -27,6 +25,8 @@
         <entry>28</entry>
         <entry encoding="base64">XDxfcmlnaHRPZmZzZXRcPg==</entry>
         <entry encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</entry>
+        <entry>anim</entry>
+        <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -110,6 +110,13 @@
         <mark key="]" line="694" column="57" />
         <mark key="." line="694" column="57" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" timestamp="1593686413301">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="97" column="31" />
+        <mark key="]" line="98" column="35" />
+        <mark key="^" line="98" column="35" />
+        <mark key="." line="98" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" timestamp="1593593516386">
         <mark key="'" line="58" column="20" />
       </file>
@@ -134,8 +141,8 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeScreen.cs" timestamp="1593589812406">
         <mark key="'" line="204" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1593590018850">
-        <mark key="'" line="1152" column="38" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1593679364400">
+        <mark key="'" line="1020" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" timestamp="1593597457510">
         <mark key="'" line="101" column="27" />
@@ -162,9 +169,6 @@
         <mark key="." line="184" column="67" />
         <mark key="^" line="184" column="68" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UIExtension/Controllers/ScrollRectSnap.cs" timestamp="1593092794258">
-        <mark key="'" line="18" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1593596674692">
         <mark key="'" line="62" column="31" />
       </file>
@@ -181,11 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="65" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="68" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="175" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="111" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
       <jump line="77" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
       <jump line="32" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesItem.cs" />
@@ -281,6 +280,11 @@
       <jump line="101" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" />
       <jump line="229" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
       <jump line="30" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
+      <jump line="1020" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="21" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
+      <jump line="35" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
+      <jump line="62" column="75" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
+      <jump line="85" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -292,7 +296,7 @@
         <text>Hunt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</text>
+        <text encoding="base64">XDxfYW5pbWF0b3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBVcGRhdGVJdGVtKEdhbWVPYmplY3QgZ28sIG9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgZ28uR2V0Q29tcG9uZW50PExlYWd1ZVVzZXJSb3c+KCkuSW5pdChkYXRhIGFzIFRvcFBsYXllcik7CiAgICAgICAgfQoK</text>
@@ -334,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</last-search>
+      <last-search encoding="base64">XDxfYW5pbWF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYW5pbWF0b3JcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
