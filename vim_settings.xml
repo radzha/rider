@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>sadf</entry>
         <entry encoding="base64">XDxMb2FkVG9wQ2xhbnNcPg==</entry>
         <entry encoding="base64">XDxSZWJpbmRcPg==</entry>
         <entry>click</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxfYWN0dWFsQnV0dG9uQ0dcPg==</entry>
         <entry>28</entry>
         <entry encoding="base64">XDxfcmlnaHRPZmZzZXRcPg==</entry>
+        <entry encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -105,13 +105,16 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1593597790865">
-        <mark key="[" line="1486" column="0" />
-        <mark key="]" line="1486" column="20" />
-        <mark key="." line="1486" column="20" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/FightPrepareScreen.cs" timestamp="1593679061318">
+        <mark key="[" line="694" column="57" />
+        <mark key="]" line="694" column="57" />
+        <mark key="." line="694" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" timestamp="1593593516386">
         <mark key="'" line="58" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1593678390061">
+        <mark key="'" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/BotInfo.cs" timestamp="1593511284808">
         <mark key="[" line="237" column="109" />
@@ -141,7 +144,7 @@
         <mark key="^" line="107" column="47" />
         <mark key="." line="107" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593597911776">
+      <file name="/Dummy.txt" timestamp="1593678792334">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -151,9 +154,6 @@
         <mark key="]" line="387" column="59" />
         <mark key="." line="387" column="58" />
         <mark key="^" line="387" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansList.cs" timestamp="1593092550022">
-        <mark key="'" line="162" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/BaseEventScreensController.cs" timestamp="1593514726231">
         <mark key="'" line="151" column="17" />
@@ -174,13 +174,6 @@
         <mark key="." line="292" column="14" />
         <mark key="^" line="283" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1593091626736">
-        <mark key="'" line="538" column="36" />
-        <mark key="[" line="502" column="0" />
-        <mark key="]" line="502" column="0" />
-        <mark key="." line="502" column="0" />
-        <mark key="^" line="524" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" timestamp="1593596392566">
         <mark key="'" line="91" column="34" />
         <mark key="[" line="69" column="0" />
@@ -188,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesItem.cs" />
-      <jump line="183" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
       <jump line="45" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
       <jump line="65" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
       <jump line="68" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
@@ -288,18 +279,20 @@
       <jump line="58" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsScroll.cs" />
       <jump line="91" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" />
       <jump line="101" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" />
+      <jump line="229" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
+      <jump line="30" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3VzZXJJbmZvLkNvbXBhbmlvbkxvY2FsQ2FjaGUuUmVzZXQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Hunt</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Hunt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcmlnaHRPZmZzZXRcPg==</text>
+        <text encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgb3ZlcnJpZGUgdm9pZCBVcGRhdGVJdGVtKEdhbWVPYmplY3QgZ28sIG9iamVjdCBkYXRhKQogICAgICAgIHsKICAgICAgICAgICAgZ28uR2V0Q29tcG9uZW50PExlYWd1ZVVzZXJSb3c+KCkuSW5pdChkYXRhIGFzIFRvcFBsYXllcik7CiAgICAgICAgfQoK</text>
@@ -341,9 +334,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfcmlnaHRPZmZzZXRcPg==</last-search>
+      <last-search encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcmlnaHRPZmZzZXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
