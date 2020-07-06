@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>usedi</entry>
-        <entry>adap</entry>
         <entry>updatevi</entry>
         <entry>ck</entry>
         <entry encoding="base64">XDxDcmF3bGVySHVudEtpbGxzQ291bnRcPg==</entry>
@@ -27,6 +25,8 @@
         <entry>anim</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry>place</entry>
+        <entry encoding="base64">XDxfc3Vic2NyaXB0aW9uXD4=</entry>
+        <entry>Disp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -129,13 +129,13 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" timestamp="1593678390061">
         <mark key="'" line="30" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeScreen.cs" timestamp="1593589812406">
-        <mark key="'" line="204" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1593679364400">
         <mark key="'" line="1020" column="71" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/VermintideSettings.cs" timestamp="1593700437221" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" timestamp="1594024360380">
+        <mark key="'" line="76" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/CompanionModelLoader.cs" timestamp="1593704716122">
         <mark key="'" line="100" column="27" />
         <mark key="[" line="105" column="18" />
@@ -147,6 +147,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" timestamp="1594024201899">
+        <mark key="'" line="64" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/LeaguesSettings.cs" timestamp="1593701044233" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1593704270036">
@@ -182,17 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="32" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesItem.cs" />
-      <jump line="107" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="178" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="170" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanFeaturesScreen.cs" />
-      <jump line="84" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" />
-      <jump line="42" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" />
-      <jump line="47" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/BestPlayersCommonScreen.cs" />
-      <jump line="14" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="29" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="94" column="45" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="33" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="27" column="29" filename="/LeaguePlayersParser.cs" />
       <jump line="16" column="23" filename="/LeaguePlayersParser.cs" />
@@ -282,6 +274,17 @@
       <jump line="62" column="75" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
       <jump line="85" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
       <jump line="90" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
+      <jump line="62" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="35" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="113" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="64" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
+      <jump line="40" column="27" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" />
+      <jump line="49" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" />
+      <jump line="52" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" />
+      <jump line="60" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" />
+      <jump line="63" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" />
+      <jump line="71" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" />
+      <jump line="76" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Yarx/Subjects/UnityBehavior.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -293,7 +296,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>place</text>
+        <text>Disp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExhc3RQbGFjZSA9IEpzb25VdGlscy5Kc29uR2V0U3RyaW5nKCJsYXN0UGxhY2UiLCBkYXRhLCAiMCIpLlRvSW50KCksCg==</text>
@@ -335,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>place</last-search>
+      <last-search>Disp</last-search>
       <last-offset />
-      <last-pattern>place</last-pattern>
+      <last-pattern>Disp</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
