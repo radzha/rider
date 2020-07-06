@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYWN0dWFsQnV0dG9uQ0dcPg==</entry>
-        <entry>28</entry>
-        <entry encoding="base64">XDxfcmlnaHRPZmZzZXRcPg==</entry>
-        <entry encoding="base64">XDxJc0hhdmVDbGFuQW5pbVw+</entry>
         <entry>anim</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry>place</entry>
@@ -27,6 +23,10 @@
         <entry>adsf</entry>
         <entry>self</entry>
         <entry encoding="base64">XDxfcGxheWVyc0J5SWRcPg==</entry>
+        <entry>click</entry>
+        <entry>rating</entry>
+        <entry encoding="base64">XDxUb3BQbGF5ZXJzQnlSYXRpbmdMb2FkZXJcPg==</entry>
+        <entry>rati</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,8 +100,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" timestamp="1594029760316">
-        <mark key="'" line="85" column="16" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" timestamp="1594037010743">
+        <mark key="'" line="21" column="17" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
@@ -124,19 +124,28 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/LeagueScreen/LeagueIcon.cs" timestamp="1594035846452">
         <mark key="'" line="66" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" timestamp="1594032667551" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1594035942870">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/ShowAnotherHuntPlayerProfileButton.cs" timestamp="1594037219393">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="57" />
+        <mark key="^" line="9" column="57" />
+        <mark key="." line="9" column="56" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" timestamp="1594037200151">
+        <mark key="'" line="94" column="41" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="86" column="27" />
+        <mark key="." line="68" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1594036315339">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="146" column="89" />
         <mark key="]" line="146" column="65" />
         <mark key="." line="146" column="92" />
         <mark key="^" line="146" column="65" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClansInfosReceiver.cs" timestamp="1593705020849">
-        <mark key="[" line="51" column="35" />
-        <mark key="]" line="51" column="44" />
-        <mark key="^" line="51" column="44" />
-        <mark key="." line="51" column="43" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardView.cs" timestamp="1594037009301">
+        <mark key="'" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/AnimationUtils/MecanimAnimatorInitializer.cs" timestamp="1594032709998">
         <mark key="'" line="82" column="4" />
@@ -172,20 +181,9 @@
         <mark key="^" line="80" column="12" />
         <mark key="." line="80" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/TopPlayersByHuntKillsLoader.cs" timestamp="1593704862333">
-        <mark key="[" line="10" column="103" />
-        <mark key="]" line="10" column="112" />
-        <mark key="^" line="10" column="112" />
-        <mark key="." line="10" column="111" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" timestamp="1594025664554" />
     </filemarks>
     <jumps>
-      <jump line="142" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
-      <jump line="148" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
-      <jump line="192" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Messages/GameOverData.cs" />
-      <jump line="1212" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Network/Game/Game.cs" />
-      <jump line="218" column="40" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" />
       <jump line="199" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/GamePlay/GameOver/GameOverController.cs" />
       <jump line="25" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="499" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
@@ -222,7 +220,6 @@
       <jump line="229" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
       <jump line="30" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/HelicopterAttack/HelicopterAttackPrepareScreen.cs" />
       <jump line="1020" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
-      <jump line="21" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
       <jump line="35" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
       <jump line="62" column="75" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
       <jump line="85" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
@@ -281,51 +278,57 @@
       <jump line="20" column="52" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="40" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="48" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
+      <jump line="7" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardView.cs" />
+      <jump line="21" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
+      <jump line="30" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
+      <jump line="86" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
+      <jump line="68" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
+      <jump line="94" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>RatingLoader;</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>RatingLoader;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGxheWVyc0J5SWRcPg==</text>
+        <text>rati</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXllci5QbGFjZSA9IGk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm90ZWN0ZWQgdmlydHVhbCBUb3BQbGF5ZXJzTG9hZGVyIEdldExvYWRlcigpCiAgICAgICAgewogICAgICAgICAgICByZXR1cm4gX3VzZXJJbmZvLlRvcFBsYXllcnNCeVJhdGluZ0xvYWRlcjsKICAgICAgICB9Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVyLlBsYWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxheWVyLlBsYWNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpc01lID0gcGxheWVyLlVpZCA9PSBfdXNlckluZm8uVXNlcklkLlZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpc01lID0gcGxheWVyLlVpZCA9PSBfdXNlckluZm8uVXNlcklkLlZhbHVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaXNNZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaXNNZSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -334,9 +337,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfcGxheWVyc0J5SWRcPg==</last-search>
+      <last-search>rati</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGxheWVyc0J5SWRcPg==</last-pattern>
+      <last-pattern>rati</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
