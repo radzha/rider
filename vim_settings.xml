@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxBbmltYXRvclw+</entry>
-        <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry>asbo</entry>
         <entry encoding="base64">XDxUeXBlXD4=</entry>
         <entry>asbon</entry>
@@ -27,6 +25,8 @@
         <entry>timer</entry>
         <entry encoding="base64">XDxfdGltZXJcPg==</entry>
         <entry>onke</entry>
+        <entry>collap</entry>
+        <entry encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bonuses.cs" timestamp="1594107648871">
         <mark key="'" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/AndroidUtils.cs" timestamp="1594205079046">
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/AndroidUtils.cs" timestamp="1594210807434">
         <mark key="[" line="178" column="27" />
         <mark key="]" line="178" column="44" />
         <mark key="." line="178" column="43" />
@@ -181,17 +181,15 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1594208877752">
-        <mark key="'" line="103" column="67" />
-        <mark key="[" line="514" column="59" />
-        <mark key="]" line="515" column="27" />
-        <mark key="^" line="515" column="27" />
-        <mark key="." line="515" column="26" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1594211126272">
+        <mark key="'" line="461" column="21" />
+        <mark key="[" line="142" column="12" />
+        <mark key="]" line="142" column="45" />
+        <mark key="^" line="142" column="45" />
+        <mark key="." line="142" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="79" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
       <jump line="82" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/AnimationUtils/MecanimAnimatorInitializer.cs" />
       <jump line="118" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="130" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
@@ -290,51 +288,53 @@
       <jump line="500" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="576" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="103" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="291" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="459" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zdGF0ZSAhPSBNZXJjUmVxc1N0YXRlLkhhc05vdEF0dGVtcHRzKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24uCg==</text>
       </register>
       <register name="-" type="4">
         <text>OpenSettings</text>
       </register>
       <register name="/" type="4">
-        <text>onke</text>
+        <text encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgT3BlblNldHRpbmdzKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmICghRGV2aWNlLklzQW5kcm9pZCgpIHx8IERldmljZS5Jc0VkaXRvcigpKSByZXR1cm47CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgYWN0aXZpdHkgPSBHZXRDdXJyZW50QWN0aXZpdHkoKTsKICAgICAgICAgICAgbmV3IEFuZHJvaWRKYXZhQ2xhc3MoQU5EUk9JRF9BUFBMSUNBVElPTl9DTEFTU19OQU1FKS5DYWxsU3RhdGljKCJvcGVuU2V0dGluZ3MiLCBhY3Rpdml0eSk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zdGF0ZSAhPSBNZXJjUmVxc1N0YXRlLkhhc05vdEF0dGVtcHRzKSByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXBwbGljYXRpb24uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zdGF0ZSAhPSBNZXJjUmVxc1N0YXRlLkhhc05vdEF0dGVtcHRzKSByZXR1cm47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKERldmljZS5Jc0FuZHJvaWQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGlkZU5hdmkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKERldmljZS5Jc0FuZHJvaWQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBtb25leSA9IGJvbnVzLkRhdGEuRGF0YUFzTW9uZXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGlkZU5hdmkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaXRlbSA9IGJvbnVzLkRhdGEuRGF0YUFzSXRlbSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBtb25leSA9IGJvbnVzLkRhdGEuRGF0YUFzTW9uZXkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -343,12 +343,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onke</last-search>
+      <last-search encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</last-search>
       <last-offset />
-      <last-pattern>onke</last-pattern>
+      <last-pattern encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
