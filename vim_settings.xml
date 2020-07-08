@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>self</entry>
         <entry encoding="base64">XDxfcGxheWVyc0J5SWRcPg==</entry>
         <entry>click</entry>
         <entry>rating</entry>
@@ -27,6 +26,7 @@
         <entry>psi</entry>
         <entry encoding="base64">XDxPcGVuVXBncmFkZUFiaWxpdHlQb3B1cFw+</entry>
         <entry>nav</entry>
+        <entry encoding="base64">XDxDb21wYW5pb25JZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -131,6 +131,9 @@
         <mark key="^" line="98" column="58" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1594132509385">
+        <mark key="'" line="269" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/RatingSeasonsRewardsFactory.cs" timestamp="1594108200149" />
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/ItemPart.cs" timestamp="1594111956853">
         <mark key="'" line="551" column="20" />
@@ -151,18 +154,6 @@
         <mark key="]" line="474" column="74" />
         <mark key="^" line="474" column="83" />
         <mark key="." line="474" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/PageVisitor.cs" timestamp="1594039394891">
-        <mark key="[" line="31" column="64" />
-        <mark key="]" line="31" column="73" />
-        <mark key="." line="31" column="72" />
-        <mark key="^" line="31" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/AnotherPlayerProfileView.cs" timestamp="1594039361881">
-        <mark key="[" line="66" column="65" />
-        <mark key="]" line="66" column="87" />
-        <mark key="^" line="66" column="87" />
-        <mark key="." line="66" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Resources/AdvancedInputField/changelog.txt" timestamp="1594128489155">
         <mark key="'" line="5" column="31" />
@@ -193,14 +184,15 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="109" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1594194349691">
+        <mark key="'" line="462" column="21" />
+        <mark key="[" line="466" column="9" />
+        <mark key="]" line="492" column="34" />
+        <mark key="." line="492" column="33" />
+        <mark key="^" line="492" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" />
-      <jump line="129" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" />
-      <jump line="63" column="64" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
-      <jump line="99" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanMember.cs" />
-      <jump line="55" column="17" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerSide/UserInfoComponents/Chats/ChatMessage.cs" />
-      <jump line="76" column="12" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/UI/Screens/Chats/ChatMessageItem.cs" />
       <jump line="149" column="20" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerData/StorageExt.cs" />
       <jump line="153" column="19" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerData/StorageExt.cs" />
       <jump line="24" column="43" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerData/StorageExt.cs" />
@@ -295,6 +287,12 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanSettingsScreen.cs" />
       <jump line="12" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Resources/AdvancedInputField/changelog.txt" />
       <jump line="5" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Resources/AdvancedInputField/changelog.txt" />
+      <jump line="1124" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="1911" column="54" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="269" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" />
+      <jump line="25" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="477" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="462" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +304,7 @@
         <text>obj</text>
       </register>
       <register name="/" type="4">
-        <text>nav</text>
+        <text encoding="base64">XDxDb21wYW5pb25JZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVUlNYW5hZ2VyLkJhY2tUb1ByZXZpb3VzU2NyZWVuKCk7Cg==</text>
@@ -348,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>nav</last-search>
+      <last-search encoding="base64">XDxDb21wYW5pb25JZFw+</last-search>
       <last-offset />
-      <last-pattern>nav</last-pattern>
+      <last-pattern encoding="base64">XDxDb21wYW5pb25JZFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
