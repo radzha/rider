@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>asbo</entry>
         <entry encoding="base64">XDxUeXBlXD4=</entry>
         <entry>asbon</entry>
         <entry encoding="base64">XDxCb251c0l0ZW1cPg==</entry>
@@ -27,6 +26,7 @@
         <entry>onke</entry>
         <entry>collap</entry>
         <entry encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</entry>
+        <entry encoding="base64">XDxFVkVOVF9SRU1PVkVfRlJPTV9GTE9XXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -100,9 +100,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/TopPlayersLoader.cs" timestamp="1594047778989" />
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bonuses.cs" timestamp="1594107648871">
-        <mark key="'" line="51" column="18" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" timestamp="1594218429602">
+        <mark key="'" line="1753" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/AndroidUtils.cs" timestamp="1594217348721">
         <mark key="[" line="183" column="13" />
@@ -110,19 +109,15 @@
         <mark key="." line="184" column="43" />
         <mark key="^" line="184" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1594048227286">
-        <mark key="'" line="48" column="12" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="143" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/Handlers/GetSeasonRewardHandler.cs" timestamp="1594112632299">
         <mark key="'" line="96" column="24" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="98" column="58" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Mail/MailPopup.cs" timestamp="1594218844023">
+        <mark key="[" line="194" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/UserInfo.cs" timestamp="1594132509385">
         <mark key="'" line="269" column="34" />
@@ -140,6 +135,9 @@
         <mark key="^" line="0" column="41" />
         <mark key="." line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" timestamp="1594218024236">
+        <mark key="'" line="139" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/FightPrepare/Coop/Shop/StoreItem.cs" timestamp="1594112173309">
         <mark key="'" line="478" column="27" />
         <mark key="[" line="474" column="0" />
@@ -153,6 +151,16 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/BottomConroller.cs" timestamp="1594218484117">
+        <mark key="'" line="466" column="26" />
+        <mark key="[" line="485" column="17" />
+        <mark key="]" line="485" column="18" />
+        <mark key="^" line="485" column="18" />
+        <mark key="." line="485" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/BaseDefence/BaseDefenceHistoryPopupController.cs" timestamp="1594219238791">
+        <mark key="[" line="22" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" timestamp="1594205517510">
         <mark key="[" line="116" column="13" />
         <mark key="]" line="118" column="67" />
@@ -162,13 +170,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Resources/AdvancedInputField/changelog.txt" timestamp="1594128489155">
         <mark key="'" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594212067139">
+      <file name="/Dummy.txt" timestamp="1594217374366">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="122" column="0" />
-        <mark key="." line="122" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1594107587158">
-        <mark key="'" line="255" column="78" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Clans/ClanSettingsScreen.cs" timestamp="1594120376778">
         <mark key="'" line="33" column="0" />
@@ -190,11 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="48" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="7" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntRewardView.cs" />
-      <jump line="21" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/RatingSeasons/SeasonRewardView.cs" />
-      <jump line="30" column="31" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
       <jump line="86" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
       <jump line="68" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
       <jump line="94" column="41" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/ShowAnotherPlayerProfileButton.cs" />
@@ -290,18 +290,23 @@
       <jump line="546" column="29" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="141" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="547" column="25" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="864" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
+      <jump line="64" column="24" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
+      <jump line="139" column="81" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/UIManager.cs" />
+      <jump line="1753" column="35" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Globe/GlobeUIController.cs" />
+      <jump line="466" column="26" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/BottomConroller.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZFV0aWxzLkhpZGVOYXZpZ2F0aW9uQmFyKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>OpenSettings</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</text>
+        <text encoding="base64">XDxFVkVOVF9SRU1PVkVfRlJPTV9GTE9XXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgT3BlblNldHRpbmdzKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmICghRGV2aWNlLklzQW5kcm9pZCgpIHx8IERldmljZS5Jc0VkaXRvcigpKSByZXR1cm47CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgYWN0aXZpdHkgPSBHZXRDdXJyZW50QWN0aXZpdHkoKTsKICAgICAgICAgICAgbmV3IEFuZHJvaWRKYXZhQ2xhc3MoQU5EUk9JRF9BUFBMSUNBVElPTl9DTEFTU19OQU1FKS5DYWxsU3RhdGljKCJvcGVuU2V0dGluZ3MiLCBhY3Rpdml0eSk7CiAgICAgICAgfQoK</text>
@@ -343,12 +348,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</last-search>
+      <last-search encoding="base64">XDxFVkVOVF9SRU1PVkVfRlJPTV9GTE9XXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb2xsYXBzZUlucHV0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFVkVOVF9SRU1PVkVfRlJPTV9GTE9XXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
