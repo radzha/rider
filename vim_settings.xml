@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfbGVhZ3VlSWNvblw+</entry>
         <entry encoding="base64">XDxBbmltYXRvclw+</entry>
         <entry encoding="base64">XDxfYW5pbWF0b3JcPg==</entry>
         <entry>asbo</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxJc0hhdmVOZXdFbmVyZ3lBbmltXD4=</entry>
         <entry>timer</entry>
         <entry encoding="base64">XDxfdGltZXJcPg==</entry>
+        <entry>onke</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -162,10 +162,10 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Resources/AdvancedInputField/changelog.txt" timestamp="1594128489155">
         <mark key="'" line="5" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594205526646">
+      <file name="/Dummy.txt" timestamp="1594206766887">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Item.cs" timestamp="1594107587158">
         <mark key="'" line="255" column="78" />
@@ -181,18 +181,15 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1594205095582">
-        <mark key="'" line="422" column="30" />
-        <mark key="[" line="500" column="0" />
-        <mark key="]" line="500" column="0" />
-        <mark key="^" line="499" column="29" />
-        <mark key="." line="500" column="0" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1594208877752">
+        <mark key="'" line="103" column="67" />
+        <mark key="[" line="514" column="59" />
+        <mark key="]" line="515" column="27" />
+        <mark key="^" line="515" column="27" />
+        <mark key="." line="515" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="149" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="141" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="204" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="79" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TournamentInfoReceiver.cs" />
       <jump line="82" column="4" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/Common/AnimationUtils/MecanimAnimatorInitializer.cs" />
@@ -290,6 +287,9 @@
       <jump line="116" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
       <jump line="14" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
       <jump line="41" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Hunt/HuntPrepareScreen.cs" />
+      <jump line="500" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="576" column="71" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="103" column="67" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +301,7 @@
         <text>OpenSettings</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdGltZXJcPg==</text>
+        <text>onke</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgT3BlblNldHRpbmdzKCkKICAgICAgICB7CiAgICAgICAgICAgIGlmICghRGV2aWNlLklzQW5kcm9pZCgpIHx8IERldmljZS5Jc0VkaXRvcigpKSByZXR1cm47CiAgICAgICAgICAgIAogICAgICAgICAgICB2YXIgYWN0aXZpdHkgPSBHZXRDdXJyZW50QWN0aXZpdHkoKTsKICAgICAgICAgICAgbmV3IEFuZHJvaWRKYXZhQ2xhc3MoQU5EUk9JRF9BUFBMSUNBVElPTl9DTEFTU19OQU1FKS5DYWxsU3RhdGljKCJvcGVuU2V0dGluZ3MiLCBhY3Rpdml0eSk7CiAgICAgICAgfQoK</text>
@@ -343,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfdGltZXJcPg==</last-search>
+      <last-search>onke</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdGltZXJcPg==</last-pattern>
+      <last-pattern>onke</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
