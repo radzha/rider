@@ -7,10 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxfcGxheWVyc0J5SWRcPg==</entry>
-        <entry>click</entry>
-        <entry>rating</entry>
-        <entry>rati</entry>
         <entry encoding="base64">XDxUb3BQbGF5ZXJzQnlSYXRpbmdMb2FkZXJcPg==</entry>
         <entry>league</entry>
         <entry encoding="base64">XDxfbGVhZ3VlSWNvblw+</entry>
@@ -27,6 +23,10 @@
         <entry encoding="base64">XDxPcGVuVXBncmFkZUFiaWxpdHlQb3B1cFw+</entry>
         <entry>nav</entry>
         <entry encoding="base64">XDxDb21wYW5pb25JZFw+</entry>
+        <entry encoding="base64">XDxJc0tleWJvYXJkT3BlbmVkQW5pbVw+</entry>
+        <entry>master</entry>
+        <entry encoding="base64">XDxfbWFzdGVyeUljb25cPg==</entry>
+        <entry encoding="base64">XDxJc0hhdmVOZXdFbmVyZ3lBbmltXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Points/Scores/g</entry>
@@ -111,12 +111,6 @@
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerData/generated/Bonuses.cs" timestamp="1594107648871">
         <mark key="'" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/AnotherPlayerProfile/MainPagePresenter.cs" timestamp="1594039407266">
-        <mark key="[" line="33" column="80" />
-        <mark key="]" line="33" column="88" />
-        <mark key="^" line="33" column="88" />
-        <mark key="." line="33" column="87" />
-      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" timestamp="1594048227286">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="151" column="0" />
@@ -155,6 +149,12 @@
         <mark key="^" line="474" column="83" />
         <mark key="." line="474" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" timestamp="1594199089165">
+        <mark key="[" line="107" column="96" />
+        <mark key="]" line="108" column="16" />
+        <mark key="^" line="108" column="16" />
+        <mark key="." line="108" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Plugins/Advanced Input Field/Resources/AdvancedInputField/changelog.txt" timestamp="1594128489155">
         <mark key="'" line="5" column="31" />
       </file>
@@ -184,30 +184,15 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1594194349691">
-        <mark key="'" line="462" column="21" />
-        <mark key="[" line="466" column="9" />
-        <mark key="]" line="492" column="34" />
-        <mark key="." line="492" column="33" />
-        <mark key="^" line="492" column="34" />
+      <file name="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" timestamp="1594196027986">
+        <mark key="'" line="422" column="30" />
+        <mark key="[" line="497" column="13" />
+        <mark key="]" line="501" column="16" />
+        <mark key="." line="501" column="15" />
+        <mark key="^" line="501" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="20" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerData/StorageExt.cs" />
-      <jump line="153" column="19" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerData/StorageExt.cs" />
-      <jump line="24" column="43" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerData/StorageExt.cs" />
-      <jump line="143" column="16" filename="$USER_HOME$/Documents/svn/dev — копия/unity/Assets/Scripts/ServerData/StorageExt.cs" />
-      <jump line="30" column="34" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="144" column="20" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="209" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="29" column="19" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="124" column="61" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="135" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="131" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="147" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="25" column="32" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="37" column="48" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
-      <jump line="42" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="139" column="37" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="146" column="16" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
       <jump line="136" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/ServerSide/TopPlayers/TopPlayersLoader.cs" />
@@ -293,51 +278,66 @@
       <jump line="25" column="17" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="477" column="38" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
       <jump line="462" column="21" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="512" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="518" column="53" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="29" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="422" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/Chats/ChatScreen.cs" />
+      <jump line="181" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="30" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="86" column="39" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="96" column="44" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="100" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="87" column="12" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="33" column="22" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="85" column="30" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="54" column="36" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
+      <jump line="116" column="46" filename="$USER_HOME$/Documents/svn/dev/unity/Assets/Scripts/UI/Screens/MissionRewards/NewLevelScreen.cs" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBtb25leSA9IGJvbnVzLkRhdGEuRGF0YUFzTW9uZXkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>bonus.Data.GetCount()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb21wYW5pb25JZFw+</text>
+        <text encoding="base64">XDxJc0hhdmVOZXdFbmVyZ3lBbmltXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVUlNYW5hZ2VyLkJhY2tUb1ByZXZpb3VzU2NyZWVuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChib251cy5EYXRhLkRhdGEgaXMgTW9uZXkgbW9uZXkgJiYgbW9uZXkuRGF0YS5Nb25leVR5cGUuQ29kZSA9PSBBZG1pbkluZm8uTU9ORVlfQ09ERV9NQVNURVJZKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHZhciBtb25leSA9IGJvbnVzLkRhdGEuRGF0YUFzTW9uZXkoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgaXRlbSA9IGJvbnVzLkRhdGEuRGF0YUFzSXRlbSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1hc3RlcnlNb25leSA9IG1hc3RlcnlCb251cz8uTW9uZXkgPz8gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1hc3RlcnlCb251cyA9IEdldE1hc3RlcnlCb251cyhsZXZlbCwgdXNlckluZm8pOwogICAgICAgICAgICB2YXIgbWFzdGVyeU1vbmV5ID0gbWFzdGVyeUJvbnVzPy5Nb25leSA/PyAwOwogICAgICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHZvaWQgT25DaGFuZ2VNZW1iZXJSYW5rKGludCBuZXdSYW5rKQogICAgICAgIHsKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVidWcuTG9nRXJyb3IoZXJyb3IpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNpbmcgQ29tbW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNpbmcgU3lzdGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5hY3Rpb24gUmVmb3JtYXRDb2Rl</text>
@@ -346,9 +346,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDb21wYW5pb25JZFw+</last-search>
+      <last-search encoding="base64">XDxJc0hhdmVOZXdFbmVyZ3lBbmltXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb21wYW5pb25JZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxJc0hhdmVOZXdFbmVyZ3lBbmltXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">XDxPbkxvYWRlZFw+</last-substitute>
       <last-dir>1</last-dir>
