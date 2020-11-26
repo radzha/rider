@@ -13,6 +13,9 @@
   <action id="Compare.SameVersion">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="CopyPaths" />
   <action id="DatabaseView.CopyDdlAction" />
   <action id="DatabaseView.PropertiesAction" />
@@ -20,6 +23,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
   <action id="DebugClass" />
+  <action id="DomCollectionControl.Edit">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="DomElementsTreeView.GotoDomElementDeclarationAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta minus" />
   </action>
@@ -31,6 +43,9 @@
     <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="ExpressionTypeInfo" />
+  <action id="ExternalSystem.OpenConfig">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="f2" />
@@ -38,20 +53,53 @@
   </action>
   <action id="IntroduceParameter" />
   <action id="IntroduceVariable" />
+  <action id="Jdbc.OpenEditor">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="JumpToNextChange">
     <keyboard-shortcut first-keystroke="ctrl meta alt close_bracket" />
   </action>
+  <action id="NavBar-navigate">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="ParameterInfo" />
+  <action id="ProjectViewEditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RemoteHostView.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="RiderEditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="RiderUnitTestDebugContextAction">
     <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="d" />
     <keyboard-shortcut first-keystroke="meta semicolon" second-keystroke="meta d" />
   </action>
   <action id="RunDashboard.Debug" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="ServiceView.JumpToServices">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="Sql.EditParameter">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
   <action id="TriggerPauseInUnityEditor">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
   <action id="TriggerPlayInUnity">
     <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="Vcs.RevertSelectedChanges">
     <keyboard-shortcut first-keystroke="shift ctrl meta a" />
@@ -61,12 +109,17 @@
   </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="ctrl meta alt down" />
+    <keyboard-shortcut first-keystroke="meta down" />
   </action>
   <action id="VcsShowPrevChangeMarker">
     <keyboard-shortcut first-keystroke="ctrl meta alt up" />
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="meta alt v" />
+  </action>
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
   </action>
   <action id="ZoomCurrentWindow" />
 </keymap>
