@@ -66,6 +66,9 @@
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="QuickEvaluateExpression">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="RemoteHostView.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
@@ -91,6 +94,9 @@
   </action>
   <action id="Sql.EditParameter">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="ToggleBreakpointEnabled">
+    <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
   <action id="TriggerPauseInUnityEditor">
     <keyboard-shortcut first-keystroke="meta alt p" />
@@ -120,6 +126,9 @@
   </action>
   <action id="XDebugger.JumpToSource">
     <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
   </action>
   <action id="ZoomCurrentWindow" />
 </keymap>
