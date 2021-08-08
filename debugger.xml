@@ -7,6 +7,7 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
+          <option name="breakOnUnhandledExceptions" value="false" />
           <option name="dontShowWritePermissionDialog" value="true" />
         </configuration>
       </debugger>
