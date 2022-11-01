@@ -37,6 +37,10 @@
     <pattern pattern="\bNotImplementedException\b" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern pattern="149" />
+    <filter name="149">
+      <pattern index="3" />
+    </filter>
   </component>
   <component name="YamlEditorOptions">
     <option name="useSmartPaste" value="false" />
