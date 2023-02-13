@@ -65,7 +65,13 @@
   <action id="NavBar-navigate">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="ParameterInfo" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
   <action id="ProjectViewEditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
